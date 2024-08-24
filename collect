@@ -1,10 +1,18 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/b38acdaf-fd76-4d73-9711-6faa35f426d8@94.242.60.130:14422?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=&amp;pbk=rLmJCpKZZKtmbiLKf-zW6hE_fNlsesH2P8RhSrpSl3c&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=&amp;sni=gsmarena.com&amp;sid=8f51fc9a#<i",
-        "vless:\/\/adf9b5d6-cfd4-4936-a0a1-429b4f4abb0c@94.242.60.130:34302?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=&amp;pbk=mhQvjXLWARVvVf0YyWbaJXLH8dWcl0v5lrp4abcLhys&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=&amp;sni=divarcdn.com&amp;sid=d4fcce2a#<i",
-        "vless:\/\/4150e452-f9f6-4c21-a98c-72b2a9c4e294@213.176.6.29:26294?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/3e816ac4-57fd-479a-b7b6-3d2342b296b5@94.242.60.130:8088?path=%2F&amp;security=none&amp;encryption=none&amp;host=divarcdn.com&amp;type=ws#<i"
+        "vless:\/\/Parsashonam-47@185.146.173.39:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
+        "vless:\/\/Parsashonam-47@[2a01:4f8:1c1b:26eb::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
+        "vless:\/\/Parsashonam-47@185.146.173.39:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2053?path=%2FfU2YMWiSrI36X2Nv%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=mAhDiSerVer-AsL.PAgES.Dev&amp;fp=randomized&amp;type=ws&amp;sni=MahDIserveR-aSl.PageS.dev#<i",
+        "vless:\/\/bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=de4ecf6b.isvphp-4g8.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=de4ecf6b.isvphp-4g8.pages.dev#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.230.57:443?path=%2FTelegram-%40NETMelliAnti%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=523AfB17.IRS23.pagES.DEv&amp;fp=randomized&amp;type=ws&amp;sni=523afb17.IRS23.pAgES.Dev#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?path=%2FCRVnBOQpTyyyDCeA%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=joiNv2ngFaST.PAgES.DeV&amp;type=ws&amp;sni=JOINv2nGFast.PagEs.dEv#<i",
+        "vless:\/\/Mahanvpn-Team-2@185.146.173.16:2052?path=%2F%3Fed%3D2052&amp;security=none&amp;encryption=none&amp;host=dEbngCbC.kouRdspEed.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/Mahanvpn-Team-2@185.146.173.16:2052?path=%2F%3Fed%3D2052&amp;security=none&amp;encryption=none&amp;host=dEbngCbC.kouRdspEed.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/%50a%72sa%73%68%6fna%6d-46@185.146.173.39:8880?path=%2F&amp;serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
+        "vless:\/\/Mahanvpn-Team-2@185.146.173.16:2052?path=%2F%3Fed%3D2052&amp;security=none&amp;encryption=none&amp;host=dEbngCbC.kouRdspEed.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/Mahanvpn-Team-2@185.146.173.16:2052?path=%2F%3Fed%3D2052&amp;security=none&amp;encryption=none&amp;host=dEbngCbC.kouRdspEed.ir.&amp;type=httpupgrade#<i"
     ],
     "trojan": [],
     "ss": [],
