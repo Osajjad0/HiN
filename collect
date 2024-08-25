@@ -1,29 +1,26 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/f2a407d0-b11f-4021-a82d-bf11db1d1579@diynkhah.doctorcloud2.shop:443?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/1fb465ac-60fb-4b77-b4a6-cc590ee6124e@freedom3.pacica4041.workers.dev:443?encryption=none&amp;security=tls&amp;sni=freedom3.pacica4041.workers.dev&amp;fp=chrome&amp;type=ws&amp;host=freedom3.pacica4041.workers.dev&amp;path=%2F#<i",
-        "vless:\/\/99678074-122c-46db-97fc-80b604c20158@104.18.8.215:8080?encryption=none&amp;security=none&amp;type=ws&amp;host=shuige2.ywfmu-qx.workers.dev&amp;path=%2F%3Fed%3D2048#<i",
-        "vless:\/\/99678074-122c-46db-97fc-80b604c20158@104.18.8.215:8080?encryption=none&amp;security=none&amp;type=ws&amp;host=shuige2.ywfmu-qx.workers.dev&amp;path=%2F%3Fed%3D2048#<i",
-        "vless:\/\/1fb465ac-60fb-4b77-b4a6-cc590ee6124e@freedom3.pacica4041.workers.dev:443?encryption=none&amp;security=tls&amp;sni=freedom3.pacica4041.workers.dev&amp;fp=chrome&amp;type=ws&amp;host=freedom3.pacica4041.workers.dev&amp;path=%2F#<i"
+        "vless:\/\/2ca6c381-e477-4c14-ab3a-aa1019e07b4e@104.21.73.3:443?path=%2FkGXoALJh00MlP08D%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=VpNkENzO2.vpNKenZo7.WoRkERS.DEv&amp;fp=randomized&amp;type=ws&amp;sni=vPnKENzO2.vpnKENZO7.WorkerS.dEV#<i",
+        "vless:\/\/6822284b-66f0-448d-bab9-d294fa649ed5@104.21.9.159:443?encryption=none&amp;security=tls&amp;sni=ppaL03.ToD-sCHUpPe-iV.woRkeRs.DEV&amp;alpn=h2%2Chttp%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=PpAL03.TOd-SChUppe-iv.woRKerS.DeV&amp;path=%2FJKzcqHbRjVt4oP-c%3Fed#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:443?path=%2FRSj7f1nzMTh76aCG%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=V2NgfaST-3tm.pAgeS.dEV&amp;type=ws&amp;sni=v2NGFASt-3Tm.pagES.Dev#<i",
+        "vless:\/\/b2c1e116-64de-4dcb-a2e9-19c34c714df1@151.101.194.87:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=farm-vpn.ir&amp;type=ws&amp;sni=www.livenation.com.au#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@104.23.132.178:443?path=%2F&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=I-H302-Ww4-gMT-32ue-Ii2-Mo3-FeE-3-3-DEW-NO-EW22-iUe3-NN1-j.pAgeS.Dev&amp;fp=chrome&amp;type=ws&amp;sni=i-H302-Ww4-GmT-32UE-ii2-mo3-FEE-3-3-dew-no-ew22-IUE3-NN1-j.PagES.DeV#<i",
+        "vless:\/\/6822284b-66f0-448d-bab9-d294fa649ed5@104.21.9.159:443?encryption=none&amp;security=tls&amp;sni=ppaL03.ToD-sCHUpPe-iV.woRkeRs.DEV&amp;alpn=h2%2Chttp%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=PpAL03.TOd-SChUppe-iv.woRKerS.DeV&amp;path=%2FJKzcqHbRjVt4oP-c%3Fed#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@104.23.132.178:443?path=%2F&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=I-H302-Ww4-gMT-32ue-Ii2-Mo3-FeE-3-3-DEW-NO-EW22-iUe3-NN1-j.pAgeS.Dev&amp;fp=chrome&amp;type=ws&amp;sni=i-H302-Ww4-GmT-32UE-ii2-mo3-FEE-3-3-dew-no-ew22-IUE3-NN1-j.PagES.DeV#<i",
+        "vless:\/\/697c4a95-1231-4309-a511-8eede6d0d9c9@94.182.222.17:535?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?path=%2F5fz4m1ggihzpkyya%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=VFIvE-teLeGram.PAGEs.Dev&amp;type=ws&amp;sni=VFIvE-teLeGram.PAGEs.Dev#<i",
+        "vless:\/\/85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?path=%2F5fz4m1ggihzpkyya%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=VFIvE-teLeGram.PAGEs.Dev&amp;type=ws&amp;sni=VFIvE-teLeGram.PAGEs.Dev#<i",
+        "vless:\/\/f1ebe21f-19ed-4d1b-b446-962ed55ee4fd@188.114.97.3:443?encryption=none&amp;security=tls&amp;sni=MARGbaR3fasEd.PAGes.DEv&amp;alpn=h2%2Chttp%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=MarGbAr3FasEd.PAgEs.Dev&amp;path=%2F@vpnAndroid2%3Fed%3D2560#<i",
+        "vless:\/\/f1ebe21f-19ed-4d1b-b446-962ed55ee4fd@188.114.97.3:443?encryption=none&amp;security=tls&amp;sni=MARGbaR3fasEd.PAGes.DEv&amp;alpn=h2%2Chttp%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=MarGbAr3FasEd.PAgEs.Dev&amp;path=%2F@vpnAndroid2%3Fed%3D2560#<i"
     ],
-    "trojan": [
-        "trojan:\/\/AxDa8(Etbefx@34.212.103.135:14452\/?type=tcp&amp;security=tls&amp;sni=appsvs.shop&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "trojan:\/\/WVIZYLqFi4X7@34.217.214.85:14494\/?type=tcp&amp;security=tls&amp;sni=appsvs.shop&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "trojan:\/\/QglsCh7GA3Lo@35.94.119.190:14471\/?type=tcp&amp;security=tls&amp;sni=appsvs.shop&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "trojan:\/\/17nj0eGYf)HS@35.90.4.73:14458\/?type=tcp&amp;security=tls&amp;sni=appsvs.shop&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "trojan:\/\/MN70AJ)oDwGq@3.96.188.38:14491\/?type=tcp&amp;security=tls&amp;sni=appsvs.shop&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "trojan:\/\/QmMl2zcR)SZm@35.183.148.223:14477\/?type=tcp&amp;security=tls&amp;sni=appsvs.shop&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "trojan:\/\/7WFPEUlNxpax@18.156.175.226:14458\/?type=tcp&amp;security=tls&amp;sni=appsvs.shop&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "trojan:\/\/mgDkgxEBHreV@18.185.87.61:14486\/?type=tcp&amp;security=tls&amp;sni=appsvs.shop&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "trojan:\/\/a0aSgtNTs0by@35.180.123.103:14468\/?type=tcp&amp;security=tls&amp;sni=appsvs.shop&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "trojan:\/\/P1xyTtqOzCj8@3.79.234.60:14485\/?type=tcp&amp;security=tls&amp;sni=appsvs.shop&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "trojan:\/\/LjwdxfhJkEp2@3.77.235.163:14459\/?type=tcp&amp;security=tls&amp;sni=appsvs.shop&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "trojan:\/\/HrG(WZVdtBBP@15.237.192.37:14489\/?type=tcp&amp;security=tls&amp;sni=appsvs.shop&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "trojan:\/\/HT5N5rlgXDig@13.40.24.230:14463\/?type=tcp&amp;security=tls&amp;sni=appsvs.shop&amp;alpn=h2%2Chttp%2F1.1#<i"
-    ],
+    "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUVRtMUVlNEpNOGhkNFdZQmRHTzhy@165.22.238.239:44386\/?outline=1#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtcG9seTEzMDU6aGdMQ2dmTFJnQjZk@205.134.180.145:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtcG9seTEzMDU6aGdMQ2dmTFJnQjZk@205.134.180.145:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
