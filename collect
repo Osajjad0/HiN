@@ -1,19 +1,19 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/TELEGRAM-NUFiLTER@Speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Trowntk.net&amp;fp=chrome&amp;type=ws&amp;sni=speedtest.net#<i",
-        "vless:\/\/%53%56%4E%54%45%41%4D16@speedtest.net:443?path=%2F%53%56%4E%54%45%41%4D%2CPROVIP%2C%53%56%4E%54%45%41%4D%3Fed%3D1024&amp;serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Speed.Site&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#<i",
-        "vless:\/\/409e8c11-ec75-4299-be33-4cff23cc3b63@www.speedtest.net:8880?path=\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.A.lightning-6.LiVE.&amp;type=ws#<i",
-        "vless:\/\/409e8c11-ec75-4299-be33-4cff23cc3b63@www.speedtest.net:8880?path=\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.B.lightning-6.LiVE.&amp;type=ws#<i",
-        "vless:\/\/13ce135b-70b6-4e0b-b89c-f15cf15d066d@185.226.117.234:995?encryption=none&amp;security=none&amp;type=ws&amp;path=%2F#<i",
-        "vless:\/\/%50a%72sa%73%68%6fna%6d-48@185.146.173.39:8880?path=%2F&amp;serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
-        "vless:\/\/13ce135b-70b6-4e0b-b89c-f15cf15d066d@185.226.117.234:995?encryption=none&amp;security=none&amp;type=ws&amp;path=%2F#<i",
-        "vless:\/\/13ce135b-70b6-4e0b-b89c-f15cf15d066d@185.226.117.234:995?encryption=none&amp;security=none&amp;type=ws&amp;path=%2F#<i",
-        "vless:\/\/ea24cc9d-67f0-413e-ba0e-e28f0ab66dad@www.uplod.ir.download.ir.209-sms.ir:2096?path=%2Fresource%2F9876%2Fabcd%2Fef12g3h4i5j6k7l8m9n0opqrs%2F2024%2Fxyz%3Fauth%3Dabcd1234efgh5678ijkl9101mnopqrstu%26session%3Dabc1234def5678ghijkl910mno_pqrst%26checksum%3D1a2b3c4d5e6f7g8h9i0jklmnopqrstuvwx&amp;security=reality&amp;encryption=none&amp;pbk=TS5-zLzFKNxp7JFXjT_uxmcBKWyW2cesU1YsdgRlQTs&amp;fp=randomized&amp;type=http&amp;sni=www.python.org&amp;sid=c7ad7539483029e7#<i",
-        "vless:\/\/13ce135b-70b6-4e0b-b89c-f15cf15d066d@185.226.117.234:995?encryption=none&amp;security=none&amp;type=ws&amp;path=%2F#<i"
+        "vless:\/\/%50%61%72sa%73hon%61m-49@185.146.173.39:8880?path=%2F&amp;security=none&amp;encryption=none=@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO--@TEHRANARGO&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
+        "vless:\/\/Parsashonam-49@185.146.173.39:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
+        "vless:\/\/Parsashonam-49@[2a01:4f8:1c1b:26eb::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
+        "vless:\/\/Parsashonam-49@185.146.173.39:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i"
     ],
     "trojan": [],
-    "ss": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.148:8080#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.47:5500#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@51.112.99.252:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.148:8080#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsUjJWZ2M0cldHOFVJNEZNcFpGNnlL@vienna.telegavpn.com:61992#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
