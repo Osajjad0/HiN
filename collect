@@ -1,18 +1,16 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJhZGQiOiAiQWdsYXFvaWEucm94aWZhLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiaDIiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogImNmMmM2YjhmLTlhOWUtNDc4NS1hODQyLWI2NGVmZDAyNjY1NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcmFmYT9lZD0xMDI0IiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGUwYUB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRlMGEiLCAic2N5IjogImF1dG8iLCAic25pIjogIkxlaWNob3Vkb3Uucm94aWZhLmlyIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/telegram-id-ArV2ray@185.146.173.158:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=8.v.v.V-_-_-V2ray-_-_-V.v.v.v.www.speedtest.net.Zula.ir.cloudflare.com.mehpow.IR.&amp;type=ws#<i",
-        "vless:\/\/Parsashonam-42@185.146.173.39:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
-        "vless:\/\/5c096904-d1ce-486c-9e1f-757e27b4244a@5.75.214.174:443?type=grpc&amp;encryption=none&amp;sni=www.iranserver.com&amp;fp=chrome&amp;security=reality&amp;pbk=NUXzekpnYOisWQrl5Hidhxmzto5eF-pzZCqhRRrsuVg&amp;sid=ce356e2c#<i",
-        "vless:\/\/telegram-id-ArV2ray@185.146.173.158:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=8.v.v.V-_-_-V2ray-_-_-V.v.v.v.www.speedtest.net.Zula.ir.cloudflare.com.mehpow.IR.&amp;type=ws#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.162.74:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i"
+        "vless:\/\/DIGIV2rAY@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&amp;type=ws#<i",
+        "vless:\/\/telegram-id-ArV2ray@www.speedtest.net:2095?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;host=6.V2.k.www.speedtest.net.dnschecker.tecH.&amp;type=ws#<i"
     ],
     "trojan": [
-        "trojan:\/\/telegram-id-directvpn@18.134.79.218:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+        "trojan:\/\/telegram-id-directvpn@18.134.79.218:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-privatevpns@3.77.142.1:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
     ],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRUNndk82MWJsVmc3aHk4bVBrMEZY@212.113.106.76:61992#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
