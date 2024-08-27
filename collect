@@ -1,15 +1,29 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJhZGQiOiAiNTAuMTE0LjI0My42MSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjI0NmUzNGQtYmJkMS00MDE2LThmNzQtZWE0NjFjMzdlNDExIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0MzgzNCIsICJwcyI6ICJcdWQ4M2RcdWRlMGFAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBhIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=<\/code><\/div>",
+        "vmess:\/\/eyJhZGQiOiAiMTAzLjMwLjc2LjE3MiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMGZmMmVlZGMtYmIyMS00NjIwLTkwOTItOTgyM2NmMjk4ZDc2IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIzMzcyMiIsICJwcyI6ICJcdWQ4M2RcdWRlMGFAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBhIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==<\/code><\/div>",
+        "vmess:\/\/eyJhZGQiOiAiWnVsYS5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJrbXozLnNhc3NhbmlkZW1waXJlLmNvbSIsICJpZCI6ICJmOWNjZWRlOS1jYTljLTQ3MTktYjEwNS1lNDk0NzQyNDk5ZTMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRlMGFAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBhIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJrbXozLnNhc3NhbmlkZW1waXJlLmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/SVNTEAM19@speedtest.net:443?path=%2FSVNTEAM%2CPROVIP%2CSVNTEAM%3Fed%3D1024&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Speed.Site&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#<i",
-        "vless:\/\/d79a7dca-85d7-40d4-8555-54d16e0b5b38@speedtest-fr5.gcore.com:443?path=%2F%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%3Fed%3D1024&amp;security=tls&amp;encryption=none&amp;host=iranserver.aparat.com.bankmellat.vbank.ir.word.ir.cdnarvan.ir.speedtest.net.speedtest.ir.vip.hamrahservicevip.shop&amp;type=ws&amp;sni=speedtest-fr5.gcore.com#<i"
+        "vless:\/\/d3a12e79-ef42-4268-b367-42eeb3494e60@visa.com:443?encryption=none&amp;security=tls&amp;sni=Hagh.PaGes.DEv&amp;type=ws&amp;host=Hagh.PaGes.DEv&amp;path=%2FPath%2FTelegram@freevirgoolnet%2F%3Fed%3D2048#<i",
+        "vless:\/\/d3a12e79-ef42-4268-b367-42eeb3494e60@visa.com:443?encryption=none&amp;security=tls&amp;sni=Hagh.PaGes.DEv&amp;type=ws&amp;host=Hagh.PaGes.DEv&amp;path=%2FPath%2FTelegram@freevirgoolnet%2F%3Fed%3D2048#<i",
+        "vless:\/\/ec880e3c-2817-4b89-9887-ccc1fb7e3a52@172.67.135.169:443?path=%2Fsteel&amp;security=tls&amp;encryption=none&amp;host=steel.footballlovernews.com&amp;fp=chrome&amp;type=ws&amp;sni=steel.footballlovernews.com#<i",
+        "vless:\/\/ec880e3c-2817-4b89-9887-ccc1fb7e3a52@172.67.135.169:443?path=%2Fsteel&amp;security=tls&amp;encryption=none&amp;host=steel.footballlovernews.com&amp;fp=chrome&amp;type=ws&amp;sni=steel.footballlovernews.com#<i",
+        "vless:\/\/ec880e3c-2817-4b89-9887-ccc1fb7e3a52@172.67.135.169:443?path=%2Fsteel&amp;security=tls&amp;encryption=none&amp;host=steel.footballlovernews.com&amp;fp=chrome&amp;type=ws&amp;sni=steel.footballlovernews.com#<i",
+        "vless:\/\/8b7efacf-8e83-4e51-ab55-1263baccd4b2@185.146.173.237:443?encryption=none&amp;security=tls&amp;sni=7f905f51.garywelch.pages.dev&amp;alpn=h3&amp;fp=randomized&amp;type=ws&amp;host=7f905f51.garywelch.pages.dev&amp;path=%2FTELEGRAM%3AVPNwedbaz--------VPNwedbaz----------#<i",
+        "vless:\/\/8b7efacf-8e83-4e51-ab55-1263baccd4b2@185.146.173.237:443?encryption=none&amp;security=tls&amp;sni=7f905f51.garywelch.pages.dev&amp;alpn=h3&amp;fp=randomized&amp;type=ws&amp;host=7f905f51.garywelch.pages.dev&amp;path=%2FTELEGRAM%3AVPNwedbazVPNwedbaz#<i",
+        "vless:\/\/ec880e3c-2817-4b89-9887-ccc1fb7e3a52@172.67.135.169:443?path=%2Fsteel&amp;security=tls&amp;encryption=none&amp;host=steel.footballlovernews.com&amp;fp=chrome&amp;type=ws&amp;sni=steel.footballlovernews.com#<i",
+        "vless:\/\/696926f0-ffd8-5bc0-bebf-4db4e4260d64@104.21.17.156:2096?encryption=none&amp;security=tls&amp;sni=esetsecuritylicense.ybvmit.woRKErS.deV&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=firefox&amp;type=ws&amp;host=esetsecuritylicense.ybvmit.woRKErS.deV&amp;path=%2Fvless-ws%2F%3Fed%3D2048#<i",
+        "vless:\/\/299abc90-e154-4e21-b234-f0ebee3cb959@45.156.23.109:1805?path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=fQcXyHyqp3VE_asScZKeEzVqD25YBdpsGEAfgnYVlTo&amp;fp=chrome&amp;type=http&amp;sni=www.stackoverflow.com#<i",
+        "vless:\/\/spec-x-technology@beththebird.online:2052?path=%2Fcdn-specxtech-google.com.specxtech.com%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=cdn-specxtech-google.com.specxtech.com&amp;type=httpupgrade#<i",
+        "vless:\/\/spec-x-technology@beththebird.online:2052?path=%2Fcdn-specxtech-google.com.specxtech.com%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=cdn-specxtech-google.com.specxtech.com&amp;type=httpupgrade#<i",
+        "vless:\/\/696926f0-ffd8-5bc0-bebf-4db4e4260d64@104.21.17.156:2096?encryption=none&amp;security=tls&amp;sni=esetsecuritylicense.ybvmit.woRKErS.deV&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=firefox&amp;type=ws&amp;host=esetsecuritylicense.ybvmit.woRKErS.deV&amp;path=%2Fvless-ws%2F%3Fed%3D2048#<i",
+        "vless:\/\/3d2253b5-7365-4e1a-bd39-18dd2cf4b9c4@digikala.com.snnapfood.ir.varzesh3.com.darsonline1.ir:8080?path=%2Fwww.speedtest.net.mifastip%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.mifastip6.qlslow.ir&amp;type=ws#<i",
+        "vless:\/\/31d47160-7db6-445c-8ac1-6730873715c4@www.speedtest.net:2095?path=%2Fed%3F2052&amp;security=none&amp;encryption=none&amp;host=anWPanel.ff2rAy.cFd.&amp;type=httpupgrade#<i",
+        "vless:\/\/31d47160-7db6-445c-8ac1-6730873715c4@www.speedtest.net:2095?path=%2Fed%3F2052&amp;security=none&amp;encryption=none&amp;host=anWPanel.ff2rAy.cFd.&amp;type=httpupgrade#<i"
     ],
-    "trojan": [
-        "trojan:\/\/7b06d22a8a7c764f@45.11.104.94:3306?encryption=none&amp;security=tls&amp;sni=n2.gladns.com&amp;type=ws&amp;host=&amp;path=%2Fgateway%2Fconnect#<i"
-    ],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i"
-    ],
+    "trojan": [],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
