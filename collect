@@ -1,30 +1,20 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiMTcyLjY3LjEzMS4xNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJobXMxOS5iZXN0LXRpemkudG9wIiwgImlkIjogIjYyYWE1ZjgwLTAzMjgtNDAwNC1hMzc1LTdmNWE1OWRmNDAyMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGUwZUB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRlMGUiLCAic2N5IjogImF1dG8iLCAic25pIjogImhtczE5LmJlc3QtdGl6aS50b3AiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/51def145-0893-4a15-8033-6e9cb150ca92@www.speedtest.net:80?path=%2Fwww.Speedtest.net%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=99.a.v.y.www.speedtest.net.ftp.debian.iu.photoshott.ir&amp;type=ws#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?path=%2FCRVnBOQpTyyyDCeA%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=joiNv2ngFaST.PAgES.DeV&amp;type=ws&amp;sni=JOINv2nGFast.PagEs.dEv#<i",
+        "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.137.11:2086?path=%2F&amp;security=none&amp;encryption=none&amp;host=TdWwPlBs61.kOmAtSo.oRg&amp;type=httpupgrade#<i",
+        "vless:\/\/4352f2a7-d620-474e-9249-e866774a2c81@92.38.145.145:443?path=%2Fhgffg&amp;security=tls&amp;encryption=none&amp;host=ebnada.com&amp;type=ws&amp;sni=gcore.com#<i",
+        "vless:\/\/4352f2a7-d620-474e-9249-e866774a2c81@92.38.145.145:443?path=%2Fhgffg&amp;security=tls&amp;encryption=none&amp;host=ebnada.com&amp;type=ws&amp;sni=gcore.com#<i",
+        "vless:\/\/585a4670-f905-4043-a9a7-757c14f55621@h4.tcod008.info:28732?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/c6d299d4-db0b-4444-8b56-b23bbdcbcd67@104.25.164.167:443?path=%2FRaCVjPY5k7jy2rTZ%3Fed&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=BPB-a-montH-aFTER-July.pAGeS.dEV&amp;fp=randomized&amp;type=ws&amp;sni=BpB-a-monTh-AfTEr-jUly.paGeS.Dev#<i",
+        "vless:\/\/4352f2a7-d620-474e-9249-e866774a2c81@92.38.145.145:443?path=%2Fhgffg&amp;security=tls&amp;encryption=none&amp;host=ebnada.com&amp;type=ws&amp;sni=gcore.com#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053?path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=cXrolvpn.pagEs.DEv&amp;fp=randomized&amp;type=ws&amp;sni=cXrOLvPn.PAgEs.dev#<i",
+        "vless:\/\/c6d299d4-db0b-4444-8b56-b23bbdcbcd67@104.25.164.167:443?path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=BPB-a-montH-aFTER-July.pAGeS.dEV&amp;fp=randomized&amp;type=ws&amp;sni=BpB-a-monTh-AfTEr-jUly.paGeS.Dev#<i",
         "vless:\/\/DIGIV2rAy@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&amp;type=ws#<i",
         "vless:\/\/DIGIV2rAy@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&amp;type=ws#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2FTelegram-V2ray_Alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&amp;type=ws&amp;sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv#<i",
-        "vless:\/\/c6d299d4-db0b-4444-8b56-b23bbdcbcd67@104.25.164.167:443?path=%2FRaCVjPY5k7jy2rTZ%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=BPB-a-montH-aFTER-July.pAGeS.dEV&amp;fp=randomized&amp;type=ws&amp;sni=BpB-a-monTh-AfTEr-jUly.paGeS.Dev#<i",
-        "vless:\/\/d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.204.38:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=mmdv2.pages.dev&amp;type=ws&amp;sni=mmdv2.pages.dev#<i",
-        "vless:\/\/bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=de4ecf6b.isvphp-4g8.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=de4ecf6b.isvphp-4g8.pages.dev#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053?path=%2FLkDCuLyAgB4jo1yb%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=cXrolvpn.pagEs.DEv&amp;fp=randomized&amp;type=ws&amp;sni=cXrOLvPn.PAgEs.dev#<i",
-        "vless:\/\/04b2875d-16d7-40d6-af59-47bcad169843@zula.ir:80?path=%2Fmelo%2Fis%2Fneeded&amp;security=none&amp;encryption=none&amp;host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&amp;type=ws#<i",
-        "vless:\/\/9498a976-9dc2-441b-bab3-610a694b175d@185.146.173.58:80?path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&amp;type=ws#<i",
-        "vless:\/\/a34b1f61-56ee-4876-8484-722013f9b475@188.114.98.224:8880?path=%2FSHHPROXY%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&amp;type=httpupgrade#<i",
-        "vless:\/\/9498a976-9dc2-441b-bab3-610a694b175d@185.146.173.58:80?path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&amp;type=ws#<i",
-        "vless:\/\/%50a%72sa%73%68%6fna%6d-51@185.146.173.39:8880?path=%2F&amp;serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i"
+        "vless:\/\/DIGIV2rAy@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&amp;type=ws#<i"
     ],
-    "trojan": [
-        "trojan:\/\/669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&amp;security=tls&amp;host=bangladeshipatri.com&amp;type=ws&amp;sni=bangladeshipatri.com#<i"
-    ],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#<i"
-    ],
+    "trojan": [],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
