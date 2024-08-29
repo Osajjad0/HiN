@@ -1,30 +1,28 @@
 {
     "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiMTA0LjE3LjE0OC4yMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICI5OTgwNjM4ODE5Mjk4MDE0MjMwMDMwOTQ3NTc2NzU3OC5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsICJpZCI6ICI2MTQ5Yjg2NS0wZDNjLTQ0NzItYmY5Yy0zYzYxYmZhZmE2MWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL1YyTElORS1URUxFR1JBTS1DSEFOTkVMLVZNRVNTLVdTIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNlXHVkZDcwQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZVx1ZGQ3MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=<\/code><\/div>",
-        "vmess:\/\/eyJhZGQiOiAiMTA0LjE3LjE0OC4yMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICI5OTgwNjM4ODE5Mjk4MDE0MjMwMDMwOTQ3NTc2NzU3OC5jaHJzamZrbHNkamZrbGpvaWVyZmRqa2xmamxrZWZlb2pzZGxrZmplb2lmanNkbGtmandlb2lmamxzZGNocnMuY3lvdSIsICJpZCI6ICI2MTQ5Yjg2NS0wZDNjLTQ0NzItYmY5Yy0zYzYxYmZhZmE2MWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL1YyTElORS1URUxFR1JBTS1DSEFOTkVMLVZNRVNTLVdTIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNlXHVkZDcwQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZVx1ZGQ3MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=<\/code><\/div>"
+        "vmess:\/\/eyJhZGQiOiAic3BlZWR0ZXN0Lm5ldCIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImZwIjogImZpcmVmb3giLCAiaG9zdCI6ICJEYmRqaGl3NzJlYnN1MjcyaHM1MTlqLmNvbSIsICJpZCI6ICJmNzE0ZTkzYy1iODkyLTQ1NDEtODU2YS05MjQ2MDc0M2Y1YzQiLCAibmV0IjogIndzIiwgInBhdGgiOiAid3MvP2VkPTIwNDgiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNlXHVkZDcwQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZVx1ZGQ3MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAic3BlZWR0ZXN0Lm5ldCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9<\/code><\/div>"
     ],
     "vless": [
-        "vless:\/\/13bec8ea-44d8-4a7d-9de2-ecde71f01241@www.speedtest.net:8880\/?type=ws&amp;encryption=none&amp;host=www.speedtest.net.B.lightning-6.LiVE.&amp;path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880#<i",
-        "vless:\/\/bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443\/?type=ws&amp;encryption=none&amp;host=de4ecf6b.isvphp-4g8.pages.dev&amp;path=%2F%3Fed%3D2048&amp;security=tls&amp;sni=de4ecf6b.isvphp-4g8.pages.dev&amp;fp=randomized#<i",
-        "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.174.202:2086\/?type=tcp&amp;encryption=none#<i",
-        "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.199.19:2086\/?type=tcp&amp;encryption=none#<i",
-        "vless:\/\/13bec8ea-44d8-4a7d-9de2-ecde71f01241@www.speedtest.net:8880\/?type=ws&amp;encryption=none&amp;host=www.speedtest.net.B.lightning-6.LiVE.&amp;path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880#<i",
-        "vless:\/\/bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443\/?type=ws&amp;encryption=none&amp;host=de4ecf6b.isvphp-4g8.pages.dev&amp;path=%2F%3Fed%3D2048&amp;security=tls&amp;sni=de4ecf6b.isvphp-4g8.pages.dev&amp;fp=randomized#<i",
-        "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.174.202:2086\/?type=tcp&amp;encryption=none#<i",
-        "vless:\/\/Tel--ZEDMODEON@speedtest.net:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=snapp.express&amp;type=ws&amp;sni=speedtest.net#<i",
-        "vless:\/\/biain--ZEDMODEON@www.speedtest.net:8080?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.main2.zedmodeon.LAT&amp;type=httpupgrade#<i",
-        "vless:\/\/bia--ZEDMODEON@speedtest.net:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=snapptrip.com&amp;type=ws&amp;sni=speedtest.net#<i",
-        "vless:\/\/biain--ZEDMODEON@speedtest.net:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=snapp.taxi&amp;type=ws&amp;sni=speedtest.net#<i",
-        "vless:\/\/Tel--ZEDMODEON@188.114.98.45:8080?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.main.zedmodeon.LAT&amp;type=httpupgrade#<i",
-        "vless:\/\/Bia--ZEDMODEON@[2a0d:5940:48:11::]:25365?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=&amp;pbk=IfRGbxsU5A8Xec8y3hDccNrYG3_RJBChFl7wtb4cFXQ&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-BIA-ZEDMODEON&amp;sni=eset.com&amp;sid=7b65e82d#<i",
-        "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.199.19:2086\/?type=tcp&amp;encryption=none#<i"
+        "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.199.19:2086?path=%2F&amp;security=none&amp;encryption=none&amp;host=TdWwPlBs61.kOmAtSo.oRg&amp;type=httpupgrade#<i",
+        "vless:\/\/d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.204.38:443\/?type=ws&amp;encryption=none&amp;host=mmdv2.pages.dev&amp;path=%2F&amp;security=tls&amp;sni=mmdv2.pages.dev#<i",
+        "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.18.1.125:2086?path=%2F&amp;security=none&amp;encryption=none&amp;host=TdWwPlBs61.kOmAtSo.oRg&amp;type=httpupgrade#<i",
+        "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.174.202:2086?path=%2F&amp;security=none&amp;encryption=none&amp;host=TdWwPlBs61.kOmAtSo.oRg&amp;type=httpupgrade#<i",
+        "vless:\/\/d6e5198b-8168-4891-fa4b-632bb6793e36@www.speedtest.net:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=2.v.v2.www.speedtest.net.roghanali.jonedel.coM.&amp;type=httpupgrade#<i",
+        "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.137.11:2086?path=%2F&amp;security=none&amp;encryption=none&amp;host=TdWwPlBs61.kOmAtSo.oRg&amp;type=httpupgrade#<i",
+        "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.174.202:2086?path=%2F&amp;security=none&amp;encryption=none&amp;host=TdWwPlBs61.kOmAtSo.oRg&amp;type=httpupgrade#<i",
+        "vless:\/\/dbee8546-0b7e-4b72-b409-48e63fb860ee@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc10.lebasnoo.ir.&amp;type=ws#<i",
+        "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.174.202:2086?path=%2F&amp;security=none&amp;encryption=none&amp;host=TdWwPlBs61.kOmAtSo.oRg&amp;type=httpupgrade#<i",
+        "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.18.1.125:2086?path=%2F&amp;security=none&amp;encryption=none&amp;host=TdWwPlBs61.kOmAtSo.oRg&amp;type=httpupgrade#<i",
+        "vless:\/\/04b2875d-16d7-40d6-af59-47bcad169843@zula.ir:80?path=%2Fmelo%2Fis%2Fneeded&amp;security=none&amp;encryption=none&amp;host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&amp;type=ws#<i",
+        "vless:\/\/dbee8546-0b7e-4b72-b409-48e63fb860ee@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc10.lebasnoo.ir.&amp;type=ws#<i",
+        "vless:\/\/a79f6d15-1a90-4b57-90bf-3164b1d6f239@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc11.lebasnoo.ir.&amp;type=ws#<i",
+        "vless:\/\/%50a%72sa%73%68%6fna%6d-51@185.146.173.39:8880?path=%2F&amp;serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i"
     ],
-    "trojan": [
-        "trojan:\/\/669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443\/?type=ws&amp;host=bangladeshipatri.com&amp;path=%2F6b777a91&amp;security=tls&amp;sni=bangladeshipatri.com#<i",
-        "trojan:\/\/669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443\/?type=ws&amp;host=bangladeshipatri.com&amp;path=%2F6b777a91&amp;security=tls&amp;sni=bangladeshipatri.com#<i"
-    ],
+    "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@51.112.99.139:443#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.24.38:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
