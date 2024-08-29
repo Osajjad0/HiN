@@ -1,20 +1,6 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAic3BlZWR0ZXN0Lm5ldCIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImZwIjogImZpcmVmb3giLCAiaG9zdCI6ICJEYmRqaGl3NzJlYnN1MjcyaHM1MTlqLmNvbSIsICJpZCI6ICJjN2RjNGUzZC0zYWI3LTQ2NTctOTNjMS02MTFlNzg3MzMyYjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAid3MvP2VkPTIwNDgiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNlXHVkZDcwQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZVx1ZGQ3MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAic3BlZWR0ZXN0Lm5ldCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9<\/code><\/div>"
-    ],
-    "vless": [
-        "vless:\/\/c6d299d4-db0b-4444-8b56-b23bbdcbcd67@104.25.164.167:443?path=%2FRaCVjPY5k7jy2rTZ%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=BPB-a-montH-aFTER-July.pAGeS.dEV&amp;fp=randomized&amp;type=ws&amp;sni=BpB-a-monTh-AfTEr-jUly.paGeS.Dev#<i",
-        "vless:\/\/TELEGRAM-NUFiLTER@Www.speedtest.net:8880?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=Alazoovip.ddigicyber.clicK.&amp;type=httpupgrade#<i",
-        "vless:\/\/telegram-id-ArV2ray@www.speedtest.net:2095?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;host=1.V.V2.www.speedtest.net.iy.debian.org.mehpow.iR.&amp;type=ws#<i",
-        "vless:\/\/f467b6a4-70e0-4f3d-b6ad-093c3b600576@104.17.148.22:8880\/?type=ws&amp;encryption=none&amp;host=join.2.kiava.cloud.speedtest.net.xnmgba2h8quf.cdn.ws87.cloudfront.net.kiava.fun&amp;path=%2F%3Fed%3D2560#<i",
-        "vless:\/\/cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.86:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=http\/1.1&amp;host=nooshin-2d9.pages.dev&amp;fp=chrome&amp;type=ws&amp;sni=nooshin-2d9.pages.dev#<i",
-        "vless:\/\/f467b6a4-70e0-4f3d-b6ad-093c3b600576@104.17.148.22:8880\/?type=ws&amp;encryption=none&amp;host=join.2.kiava.cloud.speedtest.net.xnmgba2h8quf.cdn.ws87.cloudfront.net.kiava.fun&amp;path=%2F%3Fed%3D2560#<i",
-        "vless:\/\/4e6bed59-1b49-4198-856d-97916b15e24c@104.17.147.22:80?path=%2F%40Vpn_Mikey%D8%8C%40Vpn_Mikey&amp;security=none&amp;encryption=none&amp;host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&amp;type=httpupgrade#<i",
-        "vless:\/\/%50a%72sa%73%68%6fna%6d-52@speedtest.net:443?path=\/@%50a%72sa%73%68%6fna%6d\/ws?ed=2560&amp;serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Parsashonam0.com&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#<i",
-        "vless:\/\/af4ff7e6-207f-4d7a-a6a7-5dfab400b62d@speedtest.net:443?path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%3Fed%3D1024&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2&amp;host=join-dailyconfigs.com&amp;fp=random&amp;type=ws&amp;sni=speedtest.net#<i",
-        "vless:\/\/e1913fbb-cc33-4e13-bb2b-db35b60e6a53@104.16.148.244:2053?path=%2F%3Fed%3D0&amp;security=tls&amp;encryption=none&amp;host=CoDe911COmeTOIraNnsOdSNEFHhdkAlcOsHd.pAGEs.dev&amp;type=ws&amp;sni=COde911comEtoIrAnNsOdSnefHHDKaLcOSHD.PAGES.dEV#<i",
-        "vless:\/\/e1913fbb-cc33-4e13-bb2b-db35b60e6a53@162.159.152.2:2053?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=cODe911cometOiraNNsOdsnefhhdkALCoshD.PAGes.dEv&amp;type=ws&amp;sni=Code911ComEtoiRAnnSODsnefHHdKAlCoShD.PaGEs.dEv#<i"
-    ],
+    "vmess": [],
+    "vless": [],
     "trojan": [],
     "ss": [],
     "tuic": [],
