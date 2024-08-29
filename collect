@@ -1,19 +1,19 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJhZGQiOiAiQ2FzdHNpZHkucm94aWZhLmlyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiaDIiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogIjJlY2YzNjVlLTY4MTctNGNkYS1iZWQ2LThiZTQwMTI0ZTg0NSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcmFmYT9lZD0xMDI0IiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGUwZUB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRlMGUiLCAic2N5IjogImF1dG8iLCAic25pIjogIldyaWdodC5yb3hpZmEuaXIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==<\/code><\/div>",
+        "vmess:\/\/eyJhZGQiOiAiQnJ5Y3p0ZS5yb3hpZmEuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICJoMiIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMmVjZjM2NWUtNjgxNy00Y2RhLWJlZDYtOGJlNDAxMjRlODQ1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9yYWZhP2VkPTEwMjQiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZTBlQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGUwZSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiUG9sbGFyZC5yb3hpZmEuaXIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443\/?type=ws&amp;encryption=none&amp;host=de1-moryvpnbot.pages.dev&amp;path=%2F%3Fed%3D2048&amp;security=tls&amp;sni=de1-moryvpnbot.pages.dev#<i",
-        "vless:\/\/f467b6a4-70e0-4f3d-b6ad-093c3b600576@104.17.148.22:8880\/?type=ws&amp;encryption=none&amp;host=join.2.kiava.cloud.speedtest.net.xnmgba2h8quf.cdn.ws87.cloudfront.net.kiava.fun&amp;path=%2F%3Fed%3D2560#<i",
-        "vless:\/\/585a4670-f905-4043-a9a7-757c14f55621@185.155.72.114:28732\/?encryption=none&amp;host=fast.com&amp;type=tcp&amp;headerType=http#<i",
-        "vless:\/\/585a4670-f905-4043-a9a7-757c14f55621@185.155.72.114:28732\/?encryption=none&amp;host=fast.com&amp;type=tcp&amp;headerType=http#<i",
         "vless:\/\/%50a%72sa%73%68%6fna%6d-51@185.146.173.39:8880?path=%2F&amp;serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
-        "vless:\/\/ef32a7fe-827b-48f8-b4e5-e8d3e3acebd2@162.159.62.69:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev#<i",
-        "vless:\/\/ef32a7fe-827b-48f8-b4e5-e8d3e3acebd2@104.16.4.103:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev#<i",
-        "vless:\/\/ef32a7fe-827b-48f8-b4e5-e8d3e3acebd2@104.17.88.212:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev#<i",
-        "vless:\/\/ef32a7fe-827b-48f8-b4e5-e8d3e3acebd2@162.159.1.94:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev#<i",
-        "vless:\/\/DIGIV2rAy@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&amp;type=ws#<i"
+        "vless:\/\/d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.152.87:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=mmdv2.pages.dev&amp;type=ws&amp;sni=mmdv2.pages.dev#<i",
+        "vless:\/\/DIGIV2rAy@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&amp;type=ws#<i",
+        "vless:\/\/DIGIV2rAy@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&amp;type=ws#<i"
     ],
     "trojan": [],
-    "ss": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1QW1CUkZVQlFtOXg5NUQ2OGtLY0k0@138.68.182.23:2248\/?outline=1#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUdXJib29TZXJ2ZXI9@85.9.123.158:80#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
