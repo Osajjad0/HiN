@@ -1,28 +1,16 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiMTA0LjIxLjc0LjIzOSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJhZnJobXMwNy54Zml4ZWRmbG9hdC5jZmQiLCAiaWQiOiAiYTE2NTVmNTEtMWUyMC00YTkyLThhMTEtYjdjYTMwYTdhMzUzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNlXHVkZDcwQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZVx1ZGQ3MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiYWZyaG1zMDcueGZpeGVkZmxvYXQuY2ZkIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/8070bd22-07c2-431c-8417-d8a14f01a95a@176.124.222.98:8080?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=sptest.hostiran.net.prod.hosts.ooklaserver.net&amp;fp=chrome&amp;pbk=F-qIFBuJ92qBIfdyya3b7UhNdn57EIULIEOWxp_XQFI&amp;type=tcp&amp;headerType=none#<i",
-        "vless:\/\/a94e6abd-2dd5-4a0d-a9df-2a3ba1062e89@zula.ir:8080?path=%2Fjoin---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&amp;type=ws#<i",
-        "vless:\/\/a94e6abd-2dd5-4a0d-a9df-2a3ba1062e89@104.16.100.84:8080?path=%2Fjoin---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&amp;type=ws#<i",
-        "vless:\/\/a94e6abd-2dd5-4a0d-a9df-2a3ba1062e89@www.parspack.com:8080?path=%2Fjoin---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&amp;type=ws#<i",
-        "vless:\/\/a94e6abd-2dd5-4a0d-a9df-2a3ba1062e89@104.16.100.84:8080?path=%2Fjoin---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&amp;type=ws#<i",
-        "vless:\/\/a94e6abd-2dd5-4a0d-a9df-2a3ba1062e89@zula.ir:8080?path=%2Fjoin---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&amp;type=ws#<i",
-        "vless:\/\/a94e6abd-2dd5-4a0d-a9df-2a3ba1062e89@www.parspack.com:8080?path=%2Fjoin---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&amp;type=ws#<i",
         "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-340.pages.dev:8443?path=%2FmzIuX2SHNQsfSMPK%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JOinmAHdiserver-340.PAgeS.DEv&amp;fp=randomized&amp;type=ws&amp;sni=jOinmahdiSeRVER-340.PAGES.DEV#<i",
         "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-340.pages.dev:2053?path=%2F3VmWLTBaqH67eq8s%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JoinmahDisErVer-340.PaGeS.DEv&amp;fp=randomized&amp;type=ws&amp;sni=JOINMahDIsERvEr-340.pageS.dev#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@18.198.164.142:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
-        "vless:\/\/35bf66ad-f01e-4cdd-855e-34c03cadd489@Bank.codezeep.ir:443?security=reality&amp;encryption=none&amp;pbk=kBBSmftl_t-gyWPm4cCg3n-_qYquZxC8lj_qJU5g0Ho&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=mdundo.com&amp;sid=34d2250a45581c19#<i",
-        "vless:\/\/%50a%72sa%73%68%6fna%6d-52@speedtest.net:443?path=\/@%50a%72sa%73%68%6fna%6d\/ws?ed=2560&amp;serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Parsashonam0.com&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#<i",
-        "vless:\/\/420e4da5-af5c-40b4-bd73-fb608fe45ecb@85.9.112.146:3434?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#<i",
-        "vless:\/\/ad0876aa-c9dc-4368-8090-3397abd98f4a@79.175.146.94:21194?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-429.pages.dev:2087?path=%2FiI1uE8O7TaGb6Syc%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=joInv2NgFAST-429.PaGES.DeV&amp;type=ws&amp;sni=jOinV2nGfAsT-429.PAgEs.dEv#<i",
-        "vless:\/\/19477f96-ea81-4f5b-93e7-119a171a7813@151.101.2.219:443?path=%2Fde3%3Fed%3D1080&amp;security=tls&amp;encryption=none&amp;host=telegram--xv2ry2.com&amp;type=ws&amp;sni=speedtest.net#<i"
+        "vless:\/\/f5cf31c2-b505-4d34-b2d4-59305841066c@de.colacloud.free.hr:11301\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=www.tesla.com&amp;fp=chrome&amp;security=reality&amp;pbk=SD9xJVFny7TIlG-AvCQWYkFhG7B0YE2zUXF2ERXnXw4&amp;sid=e0026151#<i",
+        "vless:\/\/SVNTEAM23@speedtest.net:443?path=%2FSVNTEAM%2CChannel%2CTelegram%2CSVNTEAM%3Fed&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Speed.Site&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#<i",
+        "vless:\/\/SVNTEAM23@speedtest.net:443?path=%2FSVNTEAM%2CChannel%2CTelegram%2CSVNTEAM%3Fed&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Speed.Site&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#<i",
+        "vless:\/\/fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443?path=%2FTELEGRAM%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=http\/1.1&amp;host=bpb-worker-panel-chf.pages.dev&amp;type=ws&amp;sni=bpb-worker-panel-chf.pages.dev#<i"
     ],
     "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNFJRWkZNZE1vcE10V1RhSjhjNUpk@vienna.telegavpn.com:61992#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0TDcxU3Rkb0pZckNFWVZGaElKdGgy@45.33.30.8:18789\/?outline=1#<i"
     ],
     "tuic": [],
     "hysteria": [],
