@@ -1,20 +1,29 @@
 {
     "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiMTA0LjI2LjEzLjcyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImNha2UuY2FwZWxsYXJlLmNvbSIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogImNha2UuY2FwZWxsYXJlLmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRlMGRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIn0=<\/code><\/div>"
+        "vmess:\/\/eyJhZGQiOiAiMTcyLjY3LjE5Mi41NyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJtYXgubWFua2FkbXUuY29tIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAibWF4Lm1hbmthZG11LmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRlMGRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkZTBkIn0=<\/code><\/div>",
+        "vmess:\/\/eyJhZGQiOiAiMTA0LjIxLjgzLjEwOCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJobXMwMi5meGlhb21pLnNicyIsICJpZCI6ICI2YzE2OGZjYy0yMjMxLTRmM2ItOGMxZS1mNjM5MTY5MmRmNGEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmsiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZTBkQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGUwZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiaG1zMDIuZnhpYW9taS5zYnMiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==<\/code><\/div>",
+        "vmess:\/\/eyJhZGQiOiAiMTA0LjIxLjgzLjExNSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJobXMwMi5meGlhb21pLnNicyIsICJpZCI6ICI2YzE2OGZjYy0yMjMxLTRmM2ItOGMxZS1mNjM5MTY5MmRmNGEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmsiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZTBkQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGUwZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiaG1zMDIuZnhpYW9taS5zYnMiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==<\/code><\/div>",
+        "vmess:\/\/eyJhZGQiOiAiMTg1LjE0Ni4xNzMuNTkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAib2JkaWkuY2ZkIiwgImlkIjogIjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzZFx1ZGUwZEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRlMGQiLCAic2N5IjogImF1dG8iLCAic25pIjogIm9iZGlpLmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9<\/code><\/div>"
     ],
     "vless": [
-        "vless:\/\/bf82a225-edb7-4b16-b7b3-96421fc85a79@49.12.193.246:443?mode=gun%3Bsecurity%3Dreality%3Bencryption%3Dnone%3Bpbk%3DJkoHaVaou4cTuQk5kbG2lwQx7Z5nzFiKbTDXbr-fdFQ%3Bfp%3Dchrome%3Bspx%3D%2F%3Btype%3Dgrpc%3BserviceName%3D%40VPNCUSTOMIZE%3Bsni%3Dwww.iranserver.com%3Bsid%3D9a6deee9#<i",
-        "vless:\/\/00114363-e4b7-4dab-a9bf-956ccadf84f7@zula.ir:8080?type=ws&amp;path=%2Ft.me%2FV2rayFa-V2rayng-v2rayNgfree-telegram-t.me%2FV2rayfa_telegram%3Fed%3D2048&amp;host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.&amp;security=none#<i",
-        "vless:\/\/68c421f0-278b-4fa4-9115-d86ee41d8798@ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM:80?path=%2FCUSTOMVPNSERVER-CUSTOMVPNSERVER-CUSTOMVPNSERVER-CUSTOMVPNSERVER&amp;security=none&amp;encryption=none&amp;host=V2ray-_-_-_-_-_-CUSTOMVPNSERVER.oNlineDoWnloaderFIle.com.&amp;type=ws#<i",
-        "vless:\/\/telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=3.V2.f.www.speedtest.net.speedtest-3.Shop.&amp;type=httpupgrade#<i",
-        "vless:\/\/5c096904-d1ce-486c-9e1f-757e27b4244a@5.75.214.174:443?type=grpc&amp;encryption=none&amp;sni=www.iranserver.com&amp;fp=chrome&amp;security=reality&amp;pbk=NUXzekpnYOisWQrl5Hidhxmzto5eF-pzZCqhRRrsuVg&amp;sid=ce356e2c#<i",
-        "vless:\/\/cc876e84-66c4-4bd8-ac67-7d2efc9daac8@sky1.bbv2ry.pics:443?type=tcp&amp;path=%2F&amp;host=ghbi.ir&amp;headerType=http&amp;security=none#<i"
+        "vless:\/\/17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443\/?type=ws&amp;encryption=none&amp;host=bpb-worker-panel-h5f.pages.dev&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=bpb-worker-panel-h5f.pages.dev#<i",
+        "vless:\/\/16de31fc-92e8-448a-9ca8-971c7af435fa@89.221.224.166:8443\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=185.238.228.222&amp;fp=chrome&amp;security=reality&amp;pbk=tEleAAmF2pnduY7IeJUMNdQmqe8ITCQlo15Ar52ZEGg&amp;sid=c6824216ae20938d#<i",
+        "vless:\/\/a1042a4a-d02f-42f1-bec8-ae6bf6527298@85.224.36.38:443\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=www.whatismyip.com&amp;fp=chrome&amp;security=reality&amp;pbk=KLQGU37PU52JQgb0fWgKCPpePrJSjRUcL2JZJjUfyUo&amp;sid=49b7ac26#<i",
+        "vless:\/\/68d883a5-8b91-43aa-b4ae-68458d25f77a@89.169.55.152:34311\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=www.digikala.com&amp;fp=chrome&amp;security=reality&amp;pbk=sojbJQBfQc5tdE2QjXGelIvYISxbTy2pWidbO3tZm2Y&amp;sid=c38275#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-340.pages.dev:8443?path=%2FmzIuX2SHNQsfSMPK%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JOinmAHdiserver-340.PAgeS.DEv&amp;fp=randomized&amp;type=ws&amp;sni=jOinmahdiSeRVER-340.PAGES.DEV#<i",
+        "vless:\/\/17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443\/?type=ws&amp;encryption=none&amp;host=bpb-worker-panel-h5f.pages.dev&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=bpb-worker-panel-h5f.pages.dev#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-340.pages.dev:2053?path=%2F3VmWLTBaqH67eq8s%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JoinmahDisErVer-340.PaGeS.DEv&amp;fp=randomized&amp;type=ws&amp;sni=JOINMahDIsERvEr-340.pageS.dev#<i",
+        "vless:\/\/ff83df30-8033-4d7e-a209-f0ca369e26a8@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&amp;security=none&amp;encryption=none&amp;host=splUs.Ir.DigIcYBer.CLIck.&amp;type=httpupgrade#<i"
     ],
-    "trojan": [
-        "trojan:\/\/telegram-id-directvpn@35.157.47.228:22222?security=tls&amp;alpn=http%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
-    ],
+    "trojan": [],
     "ss": [
-        "ss:\/\/OTk2NzgwNzQtMTIyYy00NmRiLTk3ZmMtODBiNjA0YzIwMTU4Og==@104.18.28.181:8080#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVZUN0YUs4dng0TTVVZllPWHpDWHQ1@167.71.77.212:62062#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@15.204.87.225:8118#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@15.204.87.225:8118#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
