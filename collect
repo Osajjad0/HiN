@@ -1,23 +1,15 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80\/?type=ws&amp;encryption=none&amp;host=fraud.chase&amp;path=%2F%3Fed%3D2048#<i",
-        "vless:\/\/416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:8880\/?type=ws&amp;encryption=none&amp;host=MlEwKbYr72.mAmMaDu-fAnToMgAmE.OrG&amp;path=%2F#<i",
-        "vless:\/\/4aa844b8-14b3-5ab5-aa44-e1d9a4e21c80@185.146.173.146:8080\/?type=ws&amp;encryption=none&amp;host=Uk1.vless.site.&amp;path=%2Fvless%3Fed%3D8080#<i",
-        "vless:\/\/434cd366-748e-4ec6-91f5-df027467ff8b@193.107.48.162:37829\/?encryption=none&amp;host=fast.com&amp;type=tcp&amp;headerType=http#<i",
-        "vless:\/\/b25fa07c-169d-4366-8733-82e82feb6083@185.146.173.252:8080\/?type=ws&amp;encryption=none&amp;host=unlimiteddev-vpn.unlimiteddev.Community.&amp;path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080#<i",
-        "vless:\/\/b25fa07c-169d-4366-8733-82e82feb6083@185.146.173.252:8080\/?type=ws&amp;encryption=none&amp;host=unlimiteddev-vpn.unlimiteddev.Community.&amp;path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080#<i",
         "vless:\/\/50a%72sa%73%68%6fna%6d-55@185.146.173.39:8880?path=%2F&amp;serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
-        "vless:\/\/Join--ZEDMODEON@Www.speedtest.net:8080?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-%40ZEDMODEON%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.main4.zedmodeon.LAT&amp;type=httpupgrade#<i",
-        "vless:\/\/9a531b6b-9a08-4adb-a1cd-c37f62dd40f2@185.146.173.58:8080\/?type=ws&amp;encryption=none&amp;host=lc14.lebasnoo.ir.&amp;path=%2Fservernett#<i",
-        "vless:\/\/cbeb450f-df92-46bf-9817-06d733118932@198.41.193.40:80\/?type=ws&amp;encryption=none&amp;host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&amp;path=%2FDaily_Configs-netmaster%3Fed%3D2048#<i",
-        "vless:\/\/d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.143.172:443\/?type=ws&amp;encryption=none&amp;host=mmdv2.pages.dev&amp;path=%2F%3Fed%3D2048&amp;security=tls&amp;sni=mmdv2.pages.dev#<i",
-        "vless:\/\/Telegram-ipV2Ray-man@www.speedtest.net:80?type=httpupgrade&amp;path=\/Telegram-ipV2Ray?ed%3D2048&amp;host=c.4.www.speedtest.net.zula.ir.zemestanil.iR.&amp;security=none#<i"
+        "vless:\/\/4ee50f98-d646-4491-b5a5-339fd79153a4@www.speedtest.net:8080?path=%2Fspeedtest.net%3Fed%3D512&amp;security=none&amp;encryption=none&amp;host=h17.Xn--gmq282ekfhyys3gs.Com.&amp;type=httpupgrade#<i",
+        "vless:\/\/telegram-id-ArV2ray@speedtest.net:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;host=paq.ir&amp;type=ws#<i",
+        "vless:\/\/Telegram-ipV2Ray-lot@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=c.4.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=httpupgrade#<i",
+        "vless:\/\/DIGIV2RAy@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&amp;type=ws#<i",
+        "vless:\/\/DIGIV2RAy@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&amp;type=ws#<i"
     ],
     "trojan": [],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKQXpQQldyYnBNVHJMUWh3R3U0MTVu@45.33.30.8:18789\/?outline=1#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
