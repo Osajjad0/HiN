@@ -1,19 +1,20 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/756c8d1d-360b-4266-808a-a365b24e5778@www.parspack.com:8080?path=%2FMdVpnSec%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=MDvpnsec-mdvpnSEC-MDvpnsec.PlusFood.org.&amp;type=httpupgrade#<i",
-        "vless:\/\/TELEGRAM-SVNTEAM2@www.speedtest.net:8880?path=%2FTelegram%2CSvnTeam%2CTelegram%2CSvnTeam%2CTelegram%2CSvnTeam%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=MobileKaraj.wWw.SpeedTeSt.Net.MobileSvn.GiSvn.IR.&amp;type=httpupgrade#<i",
-        "vless:\/\/CHAANEL-SVNTEAM2@MobileCenter.Tehran.www.speedtest.net.C.Tabriz.gisvn.IR:2096?mode=multi&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=yas.mhgy.75656.iryg.ir#<i",
-        "vless:\/\/852436db-272b-47d7-aa5a-61502f71731c@195.96.135.200:49499?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/12f66a69-8805-4ef1-80b0-9ff0040033f2@www.parspack.com:8880?path=%2FSHHPROXY%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=SHHproxy.com.digitalcity7.com.&amp;type=httpupgrade#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-340.pages.dev:2053?path=%2F3VmWLTBaqH67eq8s%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JoinmahDisErVer-340.PaGeS.DEv&amp;fp=randomized&amp;type=ws&amp;sni=JOINMahDIsERvEr-340.pageS.dev#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-340.pages.dev:8443?path=%2FmzIuX2SHNQsfSMPK%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JOinmAHdiserver-340.PAgeS.DEv&amp;fp=randomized&amp;type=ws&amp;sni=jOinmahdiSeRVER-340.PAGES.DEV#<i",
-        "vless:\/\/1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?path=%2FmrcU9YCPq4GNDHi4%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=alecruiz.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=alecruiz.pages.dev#<i"
+        "vless:\/\/c2f39bad-4213-42bc-bdd4-915739acf015@151.101.194.219:443?path=ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=ygedvbnwpscdfmveoin4gbjneognovn.com&amp;type=ws&amp;sni=speedtest.net#<i",
+        "vless:\/\/c2f39bad-4213-42bc-bdd4-915739acf015@151.101.194.219:443?path=ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=ygedvbnwpscdfmveoin4gbjneognovn.com&amp;type=ws&amp;sni=speedtest.net#<i",
+        "vless:\/\/50a%72sa%73%68%6fna%6d-55@185.146.173.39:8880?path=%2F&amp;serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
+        "vless:\/\/e1ffc0d3-04ce-5393-b91e-b54ea14eb3cb@185.146.173.49:80?path=%2Fvless&amp;security=none&amp;encryption=none&amp;host=Es1.vless.site.&amp;type=ws#<i",
+        "vless:\/\/c2f39bad-4213-42bc-bdd4-915739acf015@151.101.194.219:443?path=ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=ygedvbnwpscdfmveoin4gbjneognovn.com&amp;type=ws&amp;sni=speedtest.net#<i",
+        "vless:\/\/a8374247-0715-4509-a3c5-3f01842503e2@172.64.34.209:443?path=%2F&amp;security=tls&amp;encryption=none&amp;alpn=http\/1.1&amp;host=MeHrDaD-6Ut.PaGeS.DEv&amp;type=ws&amp;sni=MeHrDaD-6Ut.PaGeS.DEv#<i",
+        "vless:\/\/a584bbc4-11d8-4d87-a1c2-89b0dfa59c7f@92.223.124.62:443?path=%2F%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%3Fed%3D1024&amp;security=tls&amp;encryption=none&amp;host=iranserver.aparat.com.bankmellat.vbank.ir.word.ir.cdnarvan.ir.speedtest.net.speedtest.ir.vip.hamrahservicevip.shop&amp;type=ws&amp;sni=speedtest-fr5.gcore.com#<i",
+        "vless:\/\/e1ffc0d3-04ce-5393-b91e-b54ea14eb3cb@185.146.173.49:80?path=%2Fvless&amp;security=none&amp;encryption=none&amp;host=Es1.vless.site.&amp;type=ws#<i",
+        "vless:\/\/a8374247-0715-4509-a3c5-3f01842503e2@172.64.34.209:443?path=%2F&amp;security=tls&amp;encryption=none&amp;alpn=http\/1.1&amp;host=MeHrDaD-6Ut.PaGeS.DEv&amp;type=ws&amp;sni=MeHrDaD-6Ut.PaGeS.DEv#<i",
+        "vless:\/\/a584bbc4-11d8-4d87-a1c2-89b0dfa59c7f@92.223.124.62:443?path=%2F%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%40v2ray6388%3Fed%3D1024&amp;security=tls&amp;encryption=none&amp;host=iranserver.aparat.com.bankmellat.vbank.ir.word.ir.cdnarvan.ir.speedtest.net.speedtest.ir.vip.hamrahservicevip.shop&amp;type=ws&amp;sni=speedtest-fr5.gcore.com#<i"
     ],
     "trojan": [
-        "trojan:\/\/telegram-id-privatevpns@34.255.58.152:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/E-Graphic@www.speedtest.net:443?path=%2Fproxyip%3D62.3.12.185&amp;security=tls&amp;alpn=http\/1.1&amp;host=gcnwoegp2rjvyl7qmmy3ltqtaf3q22.pages.dev&amp;fp=firefox&amp;type=ws&amp;sni=gcnwoegp2rjvyl7qmmy3ltqtaf3q22.pages.dev#<i",
-        "trojan:\/\/telegram-id-privatevpns@34.255.58.152:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+        "trojan:\/\/Watashi_VPN@104.27.7.142:2053?path=%2F%3FTM%40AZARBAYJAB1%2BTM%40AZARBAYJAB1%2B%40AZARBAYJAB1&amp;security=tls&amp;host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&amp;fp=chrome&amp;type=ws&amp;sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#<i",
+        "trojan:\/\/Watashi_VPN@104.27.7.142:2053?path=%2F%3FTM%40AZARBAYJAB1%2BTM%40AZARBAYJAB1%2B%40AZARBAYJAB1&amp;security=tls&amp;host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&amp;fp=chrome&amp;type=ws&amp;sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#<i"
     ],
     "ss": [],
     "tuic": [],
