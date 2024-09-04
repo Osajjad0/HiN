@@ -1,30 +1,28 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbCIsICJhZGQiOiAiMjIwLjI0Ni41Ny4xNjEiLCAicG9ydCI6ICIzMDA2OCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjFjYmI4ZjA0LWIwY2MtNDUyMC04YjE3LWVkNDEyZjQ1N2I5ZiIsICJzbmkiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyJ9<\/code><\/div>",
-        "vmess:\/\/eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbCIsICJhZGQiOiAiMTA0LjE5LjM4LjYyIiwgInBvcnQiOiAyMDg2LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIyOWVlYmI2MC1iMjdiLTRhOWQtYmJhNS05NDc3NjNkOTIwNWUiLCAic25pIjogImlwMDA2LjMxOTY3NzIueHl6IiwgImhvc3QiOiAiaXAwMDYuMzE5Njc3Mi54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSJ9<\/code><\/div>",
-        "vmess:\/\/eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbCIsICJhZGQiOiAiMTcyLjY0LjE2Ni4yMiIsICJwb3J0IjogMjA4NiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwgImhvc3QiOiAiaXAyLjE0NTcyMzAueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkifQ==<\/code><\/div>",
-        "vmess:\/\/eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbCIsICJhZGQiOiAiMTcyLjY0LjE2Ny41IiwgInBvcnQiOiAyMDg2LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCAiaG9zdCI6ICJpcDIuMTQ1NzIzMC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSJ9<\/code><\/div>",
-        "vmess:\/\/eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbCIsICJhZGQiOiAiMjMuMjI3LjM4LjUiLCAicG9ydCI6IDIwODYsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjI5ZWViYjYwLWIyN2ItNGE5ZC1iYmE1LTk0Nzc2M2Q5MjA1ZSIsICJzbmkiOiAiaXAwMDYuZnJlZWdyYWRlbHkueHl6IiwgImhvc3QiOiAiaXAwMDYuZnJlZWdyYWRlbHkueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkifQ==<\/code><\/div>",
-        "vmess:\/\/eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbCIsICJhZGQiOiAiMTA0LjE5LjUxLjIzMiIsICJwb3J0IjogIjIwODYiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIyOWVlYmI2MC1iMjdiLTRhOWQtYmJhNS05NDc3NjNkOTIwNWUiLCAic25pIjogIiIsICJob3N0IjogImlwMDA1LmR0a3U0Ny54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSJ9<\/code><\/div>",
-        "vmess:\/\/eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbCIsICJhZGQiOiAiMTgzLjIzNi41MS4yMyIsICJwb3J0IjogIjU0MTA0IiwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAic25pIjogIiJ9<\/code><\/div>",
-        "vmess:\/\/eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbCIsICJhZGQiOiAiMTA0LjE2LjYwLjgiLCAicG9ydCI6ICI4ODgwIiwgImlkIjogImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAic3F1YXJlLXNub3dmbGFrZS00ODZhLmJlc2hpci1iZWlzZWwud29ya2Vycy5kZXYiLCAicGF0aCI6ICIvbGluZGUwNi5pbmRpYXZpZGVvLnNicy9saW5rd3MifQ==<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/ac2dd873-c0d1-4cc2-928f-b5d4d7ca0e44@38.180.70.206:8880?type=httpupgrade&amp;path=%2F&amp;host=&amp;security=none#<i",
-        "vless:\/\/2b1b4acf-109c-454d-8a9a-6acc48ed64eb@38.180.70.206:8080?type=tcp&amp;security=none#<i",
-        "vless:\/\/%74%65%6c%65%67%72%61%6d%2d%69%64%2d%41%72%56%32%72%61%79@speedtest.net:443?path=%2Ftelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%2Ctelegram-%41%72%56%32%72%61%79%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=wqro.ir&amp;fp=chrome&amp;type=ws&amp;sni=speedtest.net#<i",
-        "vless:\/\/50a%72sa%73%68%6fna%6d-55@185.146.173.39:8880?path=%2F&amp;serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-340.pages.dev:8443?path=%2FmzIuX2SHNQsfSMPK%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JOinmAHdiserver-340.PAgeS.DEv&amp;fp=randomized&amp;type=ws&amp;sni=jOinmahdiSeRVER-340.PAGES.DEV#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-340.pages.dev:2053?path=%2F3VmWLTBaqH67eq8s%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JoinmahDisErVer-340.PaGeS.DEv&amp;fp=randomized&amp;type=ws&amp;sni=JOINMahDIsERvEr-340.pageS.dev#<i"
+        "vless:\/\/79978027-ef16-4137-b18e-905f8c18f845@172.67.165.123:8080?encryption=none&amp;security=none&amp;type=ws&amp;host=cdnanycasteuorg.fjacz6xe.workers.dev&amp;path=%2F%3Fed%3D2048#<i",
+        "vless:\/\/79978027-ef16-4137-b18e-905f8c18f845@172.67.165.123:8080?encryption=none&amp;security=none&amp;type=ws&amp;host=cdnanycasteuorg.fjacz6xe.workers.dev&amp;path=%2F%3Fed%3D2048#<i",
+        "vless:\/\/2d01b0eb-91fd-4eae-9fb0-50c08856181d@e420ceed.aryoo-vpn-friends.pages.dev:443?encryption=none&amp;security=tls&amp;sni=e420ceed.aryoo-vpn-friends.pages.dev&amp;type=ws&amp;host=e420ceed.aryoo-vpn-friends.pages.dev&amp;path=%2F%3Fed%3D2560#<i",
+        "vless:\/\/2d01b0eb-91fd-4eae-9fb0-50c08856181d@e420ceed.aryoo-vpn-friends.pages.dev:443?encryption=none&amp;security=tls&amp;sni=e420ceed.aryoo-vpn-friends.pages.dev&amp;type=ws&amp;host=e420ceed.aryoo-vpn-friends.pages.dev&amp;path=%2F%3Fed%3D2560#<i",
+        "vless:\/\/64b3cbba-e6ac-495a-9481-976a0493eab9@172.67.211.70:443?encryption=none&amp;security=tls&amp;sni=esetsEcURiTYliCEnSe.kMlRV.wOrkERs.DEV&amp;alpn=h2%2Chttp%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=ESeTSECUriTYliCense.kmlRV.wORkErS.dEV&amp;path=%2FNcNau6guGA35qfuP%3Fed%3D2560#<i",
+        "vless:\/\/64b3cbba-e6ac-495a-9481-976a0493eab9@172.67.211.70:443?encryption=none&amp;security=tls&amp;sni=esetsEcURiTYliCEnSe.kMlRV.wOrkERs.DEV&amp;alpn=h2%2Chttp%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=ESeTSECUriTYliCense.kmlRV.wORkErS.dEV&amp;path=%2FNcNau6guGA35qfuP%3Fed%3D2560#<i",
+        "vless:\/\/e1cf1cbc-a1b0-4db8-86b0-45dd2e8a68da@172.67.172.147:443?encryption=none&amp;security=tls&amp;sni=easynet23.gosomok252.workers.dev&amp;fp=chrome&amp;type=ws&amp;host=easynet23.gosomok252.workers.dev&amp;path=%2F#<i",
+        "vless:\/\/e1cf1cbc-a1b0-4db8-86b0-45dd2e8a68da@172.67.172.147:443?encryption=none&amp;security=tls&amp;sni=easynet23.gosomok252.workers.dev&amp;fp=chrome&amp;type=ws&amp;host=easynet23.gosomok252.workers.dev&amp;path=%2F#<i",
+        "vless:\/\/13f842a4-fce1-434e-8f0d-d761ac4678cc@104.17.148.22:8880\/?type=ws&amp;encryption=none&amp;host=join.2.kiava.cloud.speedtest.net.xnmgba2h8quf.cdn.ws89.awscloudfront.net.kiava.fun&amp;path=%2F%3Fed%3D2560#<i",
+        "vless:\/\/891d999f-7864-45c5-8db9-3c69f35dcb96@172.67.148.150:2083?encryption=none&amp;security=tls&amp;sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&amp;fp=firefox&amp;type=ws&amp;host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&amp;path=%2F#<i",
+        "vless:\/\/891d999f-7864-45c5-8db9-3c69f35dcb96@172.67.148.150:2083?encryption=none&amp;security=tls&amp;sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&amp;fp=firefox&amp;type=ws&amp;host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&amp;path=%2F#<i",
+        "vless:\/\/DIGIV2RAy@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&amp;type=ws#<i",
+        "vless:\/\/DIGIV2RAy@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&amp;type=ws#<i",
+        "vless:\/\/DIGIV2RAy@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&amp;type=ws#<i",
+        "vless:\/\/17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.16.190.131:443?encryption=none&amp;security=tls&amp;sni=bpb-worker-panel-h5f.pages.dev&amp;type=ws&amp;host=bpb-worker-panel-h5f.pages.dev&amp;path=%2F#<i",
+        "vless:\/\/17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.16.190.131:443?encryption=none&amp;security=tls&amp;sni=bpb-worker-panel-h5f.pages.dev&amp;type=ws&amp;host=bpb-worker-panel-h5f.pages.dev&amp;path=%2F#<i",
+        "vless:\/\/f020a6cf-0ce7-47f3-88b3-d840dd8a557b@104.21.94.125:80?encryption=none&amp;security=none&amp;type=ws&amp;host=worker-empty-rain-c00d.raminramin006.workers.dev&amp;path=%2F%3Fed%3D2048#<i",
+        "vless:\/\/f020a6cf-0ce7-47f3-88b3-d840dd8a557b@104.21.94.125:80?encryption=none&amp;security=none&amp;type=ws&amp;host=worker-empty-rain-c00d.raminramin006.workers.dev&amp;path=%2F%3Fed%3D2048#<i"
     ],
-    "trojan": [
-        "trojan:\/\/aRh4GRxYO6@38.180.70.206:2096?type=tcp&amp;security=none#<i",
-        "trojan:\/\/aRh4GRxYO6@38.180.70.206:2096?type=tcp&amp;security=none#<i",
-        "trojan:\/\/aRh4GRxYO6@38.180.70.206:2096?type=tcp&amp;security=none#<i",
-        "trojan:\/\/aRh4GRxYO6@38.180.70.206:2096?type=tcp&amp;security=none#<i"
-    ],
+    "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyanhZMXdVODVzMUloUW05ZnN3Nnlx@194.87.45.189:40076#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1cWx3dm9oYjR5UkZWWmRTV1REZVVi@vienna.telegavpn.com:61992#<i"
     ],
     "tuic": [],
     "hysteria": [],
