@@ -1,13 +1,28 @@
 {
     "vmess": [],
-    "vless": [],
-    "trojan": [
-        "trojan:\/\/Watashi_VPN@104.18.26.94:8443?path=%2F&amp;security=tls&amp;host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&amp;type=ws&amp;sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#<i",
-        "trojan:\/\/b4e8771997c94732acbc9ec4d19c2589@104.16.159.4:443?path=%2F6b777a91&amp;security=tls&amp;host=bangladeshipatri.com&amp;type=ws&amp;sni=bangladeshipatri.com#<i",
-        "trojan:\/\/Watashi_VPN@104.18.26.94:8443?path=%2F&amp;security=tls&amp;host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&amp;type=ws&amp;sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#<i",
-        "trojan:\/\/b4e8771997c94732acbc9ec4d19c2589@104.16.159.4:443?path=%2F6b777a91&amp;security=tls&amp;host=bangladeshipatri.com&amp;type=ws&amp;sni=bangladeshipatri.com#<i"
+    "vless": [
+        "vless:\/\/%50a%72sa%73%68%6fna%6d-60@151.101.130.219:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&amp;path=%2F%40%50a%72sa%73%68%6fna%6d%2Fws%3Fed%3D2560&amp;serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=%50a%72sa%73%68%6fna%6d0.com&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#<i",
+        "vless:\/\/%50a%72sa%73%68%6fna%6d-60@185.146.173.39:8880?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&amp;path=%2F&amp;serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
+        "vless:\/\/3fc55264-7eb8-4aeb-a2f2-c9eff71c9252@185.146.173.58:8080?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&amp;path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc22.lebasnoo.ir.&amp;type=ws#<i",
+        "vless:\/\/8175b0ae-ed12-4fb2-9740-18a47d786348@185.146.173.58:8080?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&amp;path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc23.lebasnoo.ir.&amp;type=ws#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.161:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&amp;path=%2F&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=B458ab02.caa-chaNel-woRKeR-pAge-fREe-jhuiHnujhphJkl-nIhgkJn.PageS.DEv&amp;fp=randomized&amp;type=ws&amp;sni=B458Ab02.CAA-CHANeL-Worker-pAGE-freE-jHUIHnujhPhJKl-nihGkjN.pagES.dev#<i",
+        "vless:\/\/e1913fbb-cc33-4e13-bb2b-db35b60e6a53@104.16.149.244:2053?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&amp;path=%2F%3Fed%3D0&amp;security=tls&amp;encryption=none&amp;alpn=http\/1.1&amp;host=CoDe911COmeTOIraNnsOdSNEFHhdkAlcOsHd.pAGEs.dev&amp;fp=firefox&amp;type=ws&amp;sni=COde911comEtoIrAnNsOdSnefHHDKaLcOSHD.PAGES.dEV#<i",
+        "vless:\/\/%50a%72sa%73%68%6fna%6d-60@151.101.130.219:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&amp;path=%2F%40%50a%72sa%73%68%6fna%6d%2Fws%3Fed%3D2560&amp;serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=%50a%72sa%73%68%6fna%6d0.com&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#<i",
+        "vless:\/\/%50a%72sa%73%68%6fna%6d-60@185.146.173.39:8880?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&amp;path=%2F&amp;serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
+        "vless:\/\/358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@151.101.130.219:443?path=%2FW0tvTq4oSbHyKeRM%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=roocket.ir.&amp;fp=randomized&amp;type=ws&amp;sni=speedtest.net#<i",
+        "vless:\/\/3fc55264-7eb8-4aeb-a2f2-c9eff71c9252@185.146.173.58:8080?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&amp;path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc22.lebasnoo.ir.&amp;type=ws#<i",
+        "vless:\/\/Parsashonam-60@151.101.66.219:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Parsashonam0.com&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#<i",
+        "vless:\/\/358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@speedtest.net:443?path=%2FW0tvTq4oSbHyKeRM%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=roocket.ir.&amp;fp=randomized&amp;type=ws&amp;sni=speedtest.net#<i",
+        "vless:\/\/8175b0ae-ed12-4fb2-9740-18a47d786348@185.146.173.58:8080?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&amp;path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc23.lebasnoo.ir.&amp;type=ws#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.161:443?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&amp;path=%2F&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=B458ab02.caa-chaNel-woRKeR-pAge-fREe-jhuiHnujhphJkl-nIhgkJn.PageS.DEv&amp;fp=randomized&amp;type=ws&amp;sni=B458Ab02.CAA-CHANeL-Worker-pAGE-freE-jHUIHnujhPhJKl-nihGkjN.pagES.dev#<i",
+        "vless:\/\/e1913fbb-cc33-4e13-bb2b-db35b60e6a53@104.16.149.244:2053?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&amp;path=%2F%3Fed%3D0&amp;security=tls&amp;encryption=none&amp;alpn=http\/1.1&amp;host=CoDe911COmeTOIraNnsOdSNEFHhdkAlcOsHd.pAGEs.dev&amp;fp=firefox&amp;type=ws&amp;sni=COde911comEtoIrAnNsOdSnefHHDKaLcOSHD.PAGES.dEV#<i",
+        "vless:\/\/566b7166-6352-4f0c-9aae-803f922ce383@www.speedtest.net:443?path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=maal.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=maal.pages.dev#<i",
+        "vless:\/\/566b7166-6352-4f0c-9aae-803f922ce383@www.speedtest.net:443?path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=maal.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=maal.pages.dev#<i"
     ],
-    "ss": [],
+    "trojan": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVSVBsWU1kMVFqcE5pMDRJa0hDYU9Y@45.33.30.8:18789\/?outline=1#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
