@@ -1,15 +1,23 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/38c570c8-1b07-40fc-a60c-fdcc4ecc856e@188.245.125.1:443?path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=joe4pmnhdUoeBf582Q8PBOgtht060EQx2pClarVk4yM&amp;fp=chrome&amp;type=http&amp;sni=mdundo.com&amp;sid=7a1c6099b0a7f14b#<i",
         "vless:\/\/%50a%72sa%73%68%6fna%6d-64@185.146.173.39:8880?path=%2F&amp;serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
-        "vless:\/\/f7973706-3a18-4799-8165-9ea4f84f052a@194.5.178.153:443?type=tcp&amp;security=none#<i"
+        "vless:\/\/111cdb03-9206-4bd0-8598-d0f4abe61201@79.127.70.80:2087?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-2mm.pages.dev:2096?path=%2FN9AxDoukMSap6Kq1%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=JOInv2ngFaSt-2mM.pAges.DeV&amp;type=ws&amp;sni=JoinV2nGFaSt-2MM.pAges.DEV#<i",
+        "vless:\/\/3bad59da-2448-4216-b9cb-0ca7c4c69356@www.speedtest.net:8080?path=%2FTELEGRAMmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=JOiNMAiN.MRaLPHa-Vpn.CoM.&amp;type=ws#<i",
+        "vless:\/\/3bad59da-2448-4216-b9cb-0ca7c4c69356@www.speedtest.net:80?path=%2FTELEGRAMmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%2Cmainv2-ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=joinmain.mralpha-vpn.com&amp;type=httpupgrade#<i",
+        "vless:\/\/Parsashonam-64@185.146.173.39:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
+        "vless:\/\/Parsashonam-64@speedtest.net:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Parsashonam0.com&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#<i",
+        "vless:\/\/f7c2d7ee-093a-4469-b00e-1b0eea594ddf@www.speedtest.net:8443?path=\/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE%3Fed%3D8443&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com#<i",
+        "vless:\/\/ee4a114b-8db8-464f-a2c4-086ca3d35f12@www.speedtest.net:8443?path=\/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE%3Fed%3D2480&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#<i",
+        "vless:\/\/b8de6d49-a891-4e53-9be5-f1ab6a2e9dd2@www.speedtest.net:8443?path=\/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#<i"
     ],
-    "trojan": [
-        "trojan:\/\/cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?path=6b777a91&amp;security=tls&amp;host=jobscareertoday.com&amp;type=ws&amp;sni=jobscareertoday.com#<i",
-        "trojan:\/\/cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?path=6b777a91&amp;security=tls&amp;host=jobscareertoday.com&amp;type=ws&amp;sni=jobscareertoday.com#<i"
+    "trojan": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjS2NTdVNNWVBwTGxXS2M5cGpCZGpq@vienna.telegavpn.com:61992#<i"
     ],
-    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
