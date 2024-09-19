@@ -1,28 +1,28 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiMTg4LjExNC45Ny4zIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogImNocm9tZSIsICJob3N0IjogImFmcmhtczE2di5iZXN0eHJheS5idXp6IiwgImlkIjogImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJhZnJobXMxNnYuYmVzdHhyYXkuYnV6eiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/a67872dc-6137-436d-b63f-c2edcca6b331@speedtest.net:443?path=%2Fhome%28%29nginx%28%29%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=xs2ray.com&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#<i",
-        "vless:\/\/850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00@172.66.47.200:443?path=%2FpimYiCPFd3353OXG%2FMTM5LjE4NS4zNC4xMzE%3D%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=ev2raydev.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=eV2rAYdEV.pageS.dEv#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-az7.pages.dev:8443?path=%2F5MYfsbXPTJZd737O%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JoInmaHDiseRveR-Az7.paGES.dEv&amp;fp=randomized&amp;type=ws&amp;sni=JOInMahdIServER-Az7.PaGeS.DEv#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FISB6gvC3mmVSWxzE%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=joinmahdiseRver-Az7.pAgES.dev&amp;fp=randomized&amp;type=ws&amp;sni=jOInmAHDiSERVer-AZ7.paGes.dEV#<i",
-        "vless:\/\/7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@151.101.64.223:443?path=%2FTelegram-Xv2ry2%3Fed%3D1080&amp;security=tls&amp;encryption=none&amp;host=2v.com&amp;type=ws&amp;sni=python.org#<i",
-        "vless:\/\/Parsashonam-64@185.146.173.39:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
-        "vless:\/\/Parsashonam-64@speedtest.net:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Parsashonam0.com&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#<i",
-        "vless:\/\/Parsashonam-64@151.101.66.219:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Parsashonam0.com&amp;fp=firefox&amp;type=ws&amp;sni=speedtest.net#<i",
+        "vless:\/\/DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?path=%2FTelegram-%40Azarakhsh_Proxy%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5c53ca21.vpn-aryoo.pages.dev&amp;type=ws&amp;sni=5c53ca21.vpn-aryoo.pages.dev#<i",
+        "vless:\/\/bf7e1009-1574-44f7-86df-6cbecd338477@172.66.44.150:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=pardazeshvpn-tg18.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=pardazeshvpn-tg18.pages.dev#<i",
         "vless:\/\/c2c8a201-09b9-47a7-b336-fcf1657f54a8@172.66.44.75:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=bpb-worker-panel-3jc.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bpb-wORKer-paNeL-3JC.pAgeS.DeV#<i",
-        "vless:\/\/3cdb1825-c98b-4c28-ba32-29fd1a0999d6@TRX.v2shopvip.cfd:443?path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=qTuE1EQKSbeV6AWUkIzWV0tEoDH-WT_AnNOvmM93XQM&amp;fp=chrome&amp;spx=%2F&amp;type=http&amp;sni=mdundo.com&amp;sid=a3ee4447881f1d7f#<i",
-        "vless:\/\/05670e2b-7578-4bb8-8775-b79d5331846c@SpeedTest.net:80?security=none&amp;encryption=none&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v12.newbackup.com&amp;type=ws#<i",
-        "vless:\/\/05670e2b-7578-4bb8-8775-b79d5331846c@SpeedTest.net:443?security=tls&amp;encryption=none&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.newbackup.com&amp;fp=chrome&amp;type=ws&amp;sni=speedtest.net#<i",
-        "vless:\/\/TELEGRAM-NUFiLTER@bache.2sedkfjeuixijd0[ew9dvkc](https:\/\/t.me\/idv2ray\/2276?single)xoi[siek31](https:\/\/t.me\/idv2ray\/2279?single).bl[og:8880?path=%2F](https:\/\/t.me\/idv2ray\/2281)telegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=Khoresh.2sedkfjeuixijd0ew9dvkcxoisiek31.blog&amp;type=httpupgrade#<i",
-        "vless:\/\/3b06dbb2-c01a-4fca-8ab0-ead2e82492de@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D8443&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com#<i"
+        "vless:\/\/c2c8a201-09b9-47a7-b336-fcf1657f54a8@172.66.44.75:443?path=%2FTelegram%40Azarakhsh_Proxy%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=bpb-worker-panel-3jc.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bpb-wORKer-paNeL-3JC.pAgeS.DeV#<i",
+        "vless:\/\/105c7a94-ddd4-4025-bf6f-5be4fc657354@172.66.47.74:443?path=%2FTelegram-%40Azarakhsh_Proxy%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=ShAh-9aQ.PaGEs.DEV&amp;fp=randomized&amp;type=ws&amp;sni=SHAh-9Aq.PAGes.deV#<i",
+        "vless:\/\/c2c8a201-09b9-47a7-b336-fcf1657f54a8@172.66.44.75:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=bpb-worker-panel-3jc.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bpb-wORKer-paNeL-3JC.pAgeS.DeV#<i",
+        "vless:\/\/a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?path=%2FT7OzaaLG5SkllZJf%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=IsaA1.pAGEs.DEV&amp;fp=randomized&amp;type=ws&amp;sni=iSaA1.paGes.DEv#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-2mm.pages.dev:2096?path=%2FN9AxDoukMSap6Kq1%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=JOInv2ngFaSt-2mM.pAges.DeV&amp;type=ws&amp;sni=JoinV2nGFaSt-2MM.pAges.DEV#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-az7.pages.dev:8443?path=%2F5MYfsbXPTJZd737O%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JoInmaHDiseRveR-Az7.paGES.dEv&amp;fp=randomized&amp;type=ws&amp;sni=JOInMahdIServER-Az7.PaGeS.DEv#<i",
+        "vless:\/\/bf7e1009-1574-44f7-86df-6cbecd338477@172.66.44.150:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=pardazeshvpn-tg18.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=pardazeshvpn-tg18.pages.dev#<i",
+        "vless:\/\/a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?path=%2FTelegram-%40Azarakhsh_Proxy%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5c53ca21.vpn-aryoo.pages.dev&amp;type=ws&amp;sni=5c53ca21.vpn-aryoo.pages.dev#<i",
+        "vless:\/\/c2c8a201-09b9-47a7-b336-fcf1657f54a8@172.66.44.75:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=bpb-worker-panel-3jc.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bpb-wORKer-paNeL-3JC.pAgeS.DeV#<i",
+        "vless:\/\/105c7a94-ddd4-4025-bf6f-5be4fc657354@172.66.47.74:443?path=%2FTelegram-%40Azarakhsh_Proxy%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=ShAh-9aQ.PaGEs.DEV&amp;fp=randomized&amp;type=ws&amp;sni=SHAh-9Aq.PAGes.deV#<i",
+        "vless:\/\/c2c8a201-09b9-47a7-b336-fcf1657f54a8@172.66.44.75:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=bpb-worker-panel-3jc.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bpb-wORKer-paNeL-3JC.pAgeS.DeV#<i",
+        "vless:\/\/a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?path=%2FT7OzaaLG5SkllZJf%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=IsaA1.pAGEs.DEV&amp;fp=randomized&amp;type=ws&amp;sni=iSaA1.paGes.DEv#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-2mm.pages.dev:2096?path=%2FN9AxDoukMSap6Kq1%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=JOInv2ngFaSt-2mM.pAges.DeV&amp;type=ws&amp;sni=JoinV2nGFaSt-2MM.pAges.DEV#<i",
+        "vless:\/\/c2c8a201-09b9-47a7-b336-fcf1657f54a8@172.66.44.75:443?path=%2FTelegram%40Azarakhsh_Proxy%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=bpb-worker-panel-3jc.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bpb-wORKer-paNeL-3JC.pAgeS.DeV#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-az7.pages.dev:8443?path=%2F5MYfsbXPTJZd737O%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JoInmaHDiseRveR-Az7.paGES.dEv&amp;fp=randomized&amp;type=ws&amp;sni=JOInMahdIServER-Az7.PaGeS.DEv#<i"
     ],
     "trojan": [],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
