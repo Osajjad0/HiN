@@ -1,24 +1,9 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiMTcyLjY3LjIyMy4xMTkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiaG1zMDIuZnhpYW9taS5zYnMiLCAiaWQiOiAiNmMxNjhmY2MtMjIzMS00ZjNiLThjMWUtZjYzOTE2OTJkZjRhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJobXMwMi5meGlhb21pLnNicyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9<\/code><\/div>",
-        "vmess:\/\/eyJhZGQiOiAiMTcyLjY3LjIyMy4xMTkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiaG1zMDIuZnhpYW9taS5zYnMiLCAiaWQiOiAiNmMxNjhmY2MtMjIzMS00ZjNiLThjMWUtZjYzOTE2OTJkZjRhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJobXMwMi5meGlhb21pLnNicyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9<\/code><\/div>"
-    ],
-    "vless": [
-        "vless:\/\/65204037-26ce-5765-8bcd-d2fb42bbc8d2@104.26.13.8:8880\/?type=ws&amp;encryption=none&amp;host=www.abrha.com.speedtest.net.be1.vless.sitespeedtest.net&amp;path=JoinBede--ShokhmiPlus--ShokhmiPlus--ShokhmiPlus--ShokhmiPlus%3Fed%3D2048#<i",
-        "vless:\/\/fbc0ecd4-9fd3-4533-8df7-33d29493ff65@188.114.98.255:443\/?type=ws&amp;encryption=none&amp;host=mwa100100m.a2c6ec2a96.workers.dev&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=mwa100100m.a2c6ec2a96.workers.dev&amp;fp=randomized#<i",
-        "vless:\/\/7f69c69c-d4ab-44e5-a12a-c0bd48626228@79.127.70.84:8080\/?encryption=none&amp;host=www.speedtest.net&amp;type=tcp&amp;headerType=http#<i",
-        "vless:\/\/65204037-26ce-5765-8bcd-d2fb42bbc8d2@104.26.13.8:8880\/?type=ws&amp;encryption=none&amp;host=www.abrha.com.speedtest.net.be1.vless.sitespeedtest.net&amp;path=JoinBede--ShokhmiPlus--ShokhmiPlus--ShokhmiPlus--ShokhmiPlus%3Fed%3D2048#<i",
-        "vless:\/\/fbc0ecd4-9fd3-4533-8df7-33d29493ff65@188.114.98.255:443\/?type=ws&amp;encryption=none&amp;host=mwa100100m.a2c6ec2a96.workers.dev&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=mwa100100m.a2c6ec2a96.workers.dev&amp;fp=randomized#<i",
-        "vless:\/\/7f69c69c-d4ab-44e5-a12a-c0bd48626228@79.127.70.84:8080\/?encryption=none&amp;host=www.speedtest.net&amp;type=tcp&amp;headerType=http#<i",
-        "vless:\/\/DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#<i",
-        "vless:\/\/DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
-        "vless:\/\/DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#<i"
-    ],
+    "vmess": [],
+    "vless": [],
     "trojan": [],
     "ss": [
-        "ss:\/\/MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SzdrSTFlL2VaRGVLMXlobnZlU1RKc2tZMHgxekx1RDFHUTJzeHY1NWM5OD0@154.198.227.69:47887#<i",
-        "ss:\/\/MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SzdrSTFlL2VaRGVLMXlobnZlU1RKc2tZMHgxekx1RDFHUTJzeHY1NWM5OD0@154.198.227.69:47887#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVNFpldWJBZjR5VXllOUxiSVU2ZHpY@vienna.telegavpn.com:61992#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqREpLNm1xMVZzVEVjVGhhRzhwVkF2@167.99.216.236:50250\/?outline=1#<i"
     ],
     "tuic": [],
     "hysteria": [],
