@@ -1,21 +1,19 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJhZGQiOiAiMTQxLjExLjIwMy4xNTAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiU29mdDk4LmlyLlZlbG9DbG91ZC5pci4iLCAiaWQiOiAiMmZmZWU0NzUtZmNmNS00YjEyLWI2ODAtNzM2ZDQ5NTFkOGM4IiwgIm5ldCI6ICJodHRwdXBncmFkZSIsICJwYXRoIjogIi8\/ZWQ9MjA0OCIsICJwb3J0IjogIjIwODYiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmN0ZyYW5jZSJ9<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/905be079-93ff-4078-c3d0-20a496d19422@104.17.147.22:2082?type=ws&amp;encryption=none&amp;host=download.ir.shad.ir.bmi.ir.www.speedtest.net.zula.com.aparat.com.spikevpn.cfd&amp;path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#<i",
-        "vless:\/\/56ca2df7-add1-4e50-979c-296dd9adc583@speedtest.net:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=barkatc4.ir&amp;type=ws#<i",
-        "vless:\/\/a9e543ea-bed2-4918-93bf-ca36ddbdce37@speedtest.net:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinshhproxybede.ir&amp;type=ws&amp;sni=speedtest.net#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.93.57:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
-        "vless:\/\/-",
-        "vless:\/\/-",
-        "vless:\/\/-",
-        "vless:\/\/1b461cc8-a19f-4a01-8195-f3228d08b330@ultrasenalpremium.duckdns.org:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=aka.ms#<i",
-        "vless:\/\/27ac9551-0fa1-4e14-d906-78774c93e059@ultrasenalpremium.duckdns.org:47440?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=m.viber.com#<i"
+        "vless:\/\/6cffb34f-2197-4037-8bbe-54cd90410922@104.21.40.63:443?path=%2Fnimws&amp;security=tls&amp;encryption=none&amp;host=jorum.toptechnonews.com&amp;type=ws&amp;sni=jorum.toptechnonews.com#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2FfbcWzDzJvoTG4l0W%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=v2nGfasT-b95.PAGEs.dEv&amp;type=ws&amp;sni=V2NgFAST-b95.Pages.dEv#<i",
+        "vless:\/\/045a2146-5250-4f7c-ab10-de96b212a766@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc47.lebasnoo.ir.&amp;type=ws#<i",
+        "vless:\/\/6e6b4885-0ecb-44d6-a514-176bda31c3e0@Www.speedtest.net:8080?path=%2F%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8E%BB%E7%9C%8B%E5%95%A5%E4%BA%8B%E6%83%85%E5%9F%BA%E6%9C%AC%E4%BA%8B%E4%BA%8B.superbranman.info.iranetv.top.alifoodm.top.&amp;type=ws#<i",
+        "vless:\/\/DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/9dac67dc-e6d5-4d1f-b2dd-6356e8b56b39@www.speedtest.net:443?path=%2F@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=ntsafe.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=ntsafe.pages.dev#<i"
     ],
-    "trojan": [
-        "trojan:\/\/telegram-id-directvpn@13.50.128.226:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@13.60.132.40:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+    "trojan": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3QmxPS3BySjhIcHJPVFlaN0JMVmdW@138.68.182.23:2248\/?outline=1#<i"
     ],
-    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
