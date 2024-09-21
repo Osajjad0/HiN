@@ -1,23 +1,18 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/V2RAXX@www.speedtest.net:8080?path=%2FV2raxx%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.xn--79qr8bwg980ayroj80c.website.&amp;type=ws#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@speedtest.org:2096?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=JOInv2ngFaSt-2mM.pAges.DeV&amp;type=ws&amp;sni=JoinV2nGFaSt-2MM.pAges.DEV#<i",
-        "vless:\/\/e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=119f3a0b.chikiy123w.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=119f3a0b.chikiy123w.pages.dev#<i",
-        "vless:\/\/e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=dc1bf227.vf-8co.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=dc1bf227.vf-8co.pages.dev#<i",
-        "vless:\/\/1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=poORiaReD--PErsePOlIs.PagES.DEv&amp;fp=randomized&amp;type=ws&amp;sni=POOrIaREd--persEPolIS.pAGEs.Dev#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=v2nGfasT-b95.PAGEs.dEv&amp;type=ws&amp;sni=V2NgFAST-b95.Pages.dEv#<i"
+        "vless:\/\/6cffb34f-2197-4037-8bbe-54cd90410922@104.21.40.63:443?path=%2Fnimws&amp;security=tls&amp;encryption=none&amp;host=jorum.toptechnonews.com&amp;type=ws&amp;sni=jorum.toptechnonews.com#<i",
+        "vless:\/\/6cffb34f-2197-4037-8bbe-54cd90410922@104.21.40.63:443?path=%2Fnimws&amp;security=tls&amp;encryption=none&amp;host=jorum.toptechnonews.com&amp;type=ws&amp;sni=jorum.toptechnonews.com#<i",
+        "vless:\/\/telegram-id-ArV2ray@speedtest.net:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=oaq8.ir&amp;type=ws#<i",
+        "vless:\/\/telegram-id-ArV2ray@speedtest.net:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=oaq8.ir&amp;type=ws#<i"
     ],
     "trojan": [
-        "trojan:\/\/auto@172.66.44.131:443?path=%2F&amp;security=tls&amp;host=e9464f45.trauma-2r4.pages.dev&amp;type=ws&amp;sni=e9464f45.trauma-2r4.pages.dev#<i"
+        "trojan:\/\/Watashi_VPN@104.18.26.94:8443?path=%2F&amp;security=tls&amp;host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&amp;type=ws&amp;sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#<i",
+        "trojan:\/\/Watashi_VPN@104.27.7.142:2053?path=%2F%3FTM%40AZARBAYJAB1%2BTM%40AZARBAYJAB1%2B%40AZARBAYJAB1&amp;security=tls&amp;host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&amp;fp=chrome&amp;type=ws&amp;sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#<i",
+        "trojan:\/\/Watashi_VPN@104.18.26.94:8443?path=%2F&amp;security=tls&amp;host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&amp;type=ws&amp;sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#<i",
+        "trojan:\/\/Watashi_VPN@104.27.7.142:2053?path=%2F%3FTM%40AZARBAYJAB1%2BTM%40AZARBAYJAB1%2B%40AZARBAYJAB1&amp;security=tls&amp;host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&amp;fp=chrome&amp;type=ws&amp;sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#<i"
     ],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLMGtTRGZ5Uk5lM1h5VkZBcWU1QW50@13.212.250.185:18098#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.92.85:5500#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.92.85:7307#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfODdndDZqcUJ3S0F2WVJiUl9iNUJB@141.98.168.127:443#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206Mk1WVFFtMlFkSWVYNEZ4UDZjd1U1Zg==@146.19.170.82:47777#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
