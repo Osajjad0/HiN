@@ -1,23 +1,23 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/0451f9d0-897a-4598-954c-72bb5e5adf7b@190.93.247.56:2082?path=%2Fspeedtest%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=webmail.hpcdn.info.&amp;type=httpupgrade#<i",
         "vless:\/\/ea9148b9-13b7-41cf-8911-94234e7c3fcf@104.21.80.70:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=private-codmhttp.teqqlzdw.workers.dev&amp;type=ws#<i",
-        "vless:\/\/3e2be9f4-363f-419d-a23a-28e171c6bc54@172.67.140.149:8880?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=telegram-falcunargo.31186fb105.workers.Dev&amp;type=ws#<i",
         "vless:\/\/9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.170.213:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=king1980.b91sptsl.workers.dev&amp;type=ws#<i",
-        "vless:\/\/d4839c6a-4a44-4f6f-a2c1-5344c43b408d@85.133.200.28:45627?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/884e09dd-bcb5-41a7-ab86-48d0b44c510e@79.127.70.107:443?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/e7cae227-ffda-4612-a76c-adcf3a9e49b6@79.127.70.80:2082?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/d4839c6a-4a44-4f6f-a2c1-5344c43b408d@85.133.200.28:45627?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/3e2be9f4-363f-419d-a23a-28e171c6bc54@172.67.140.149:8880?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=telegram-falcunargo.31186fb105.workers.Dev&amp;type=ws#<i",
-        "vless:\/\/0451f9d0-897a-4598-954c-72bb5e5adf7b@190.93.247.56:2082?path=%2Fspeedtest%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=webmail.hpcdn.info.&amp;type=httpupgrade#<i",
-        "vless:\/\/77be959a-3a9f-53a1-ab5c-71e461a79f4d@185.146.173.46:80?path=%2F@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Fi2.vless.site.&amp;type=ws#<i"
+        "vless:\/\/ce17e25d-73b5-4d83-9ad7-a26f505ab2e3@104.18.218.118:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8443&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com#<i",
+        "vless:\/\/ce17e25d-73b5-4d83-9ad7-a26f505ab2e3@104.17.234.114:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#<i",
+        "vless:\/\/ce17e25d-73b5-4d83-9ad7-a26f505ab2e3@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#<i",
+        "vless:\/\/ce17e25d-73b5-4d83-9ad7-a26f505ab2e3@104.19.239.120:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;host=Join.Bede.VPNCUSTOMIZE.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.Bede.VPNCUSTOMIZE.speedtest.net.Naziitness.com#<i",
+        "vless:\/\/ce17e25d-73b5-4d83-9ad7-a26f505ab2e3@104.17.234.114:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3#<i",
+        "vless:\/\/ce17e25d-73b5-4d83-9ad7-a26f505ab2e3@104.19.239.120:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3#<i",
+        "vless:\/\/ce17e25d-73b5-4d83-9ad7-a26f505ab2e3@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&amp;security=tls&amp;encryption=none&amp;alpn=h3#<i",
+        "vless:\/\/20391437-59fb-4f9c-8ebe-d4667dbde883@190.93.247.56:2086?path=%2Fspeedtest%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=webmail.hpcdn.info.&amp;type=ws#<i",
+        "vless:\/\/ce17e25d-73b5-4d83-9ad7-a26f505ab2e3@104.18.218.118:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8443&amp;security=tls&amp;encryption=none&amp;alpn=h3#<i",
+        "vless:\/\/9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.170.213:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=king1980.b91sptsl.workers.dev&amp;type=ws#<i",
+        "vless:\/\/ce17e25d-73b5-4d83-9ad7-a26f505ab2e3@104.19.239.120:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3#<i",
+        "vless:\/\/fb9892d2-d6d8-4e21-98e6-f6e89edf7f3f@Speedtest.net:443?security=tls&amp;type=ws&amp;headerType=&amp;path=%2F%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420%3Fed%3D2048&amp;host=1236.cu&amp;sni=Speedtest.net&amp;fp=firefox&amp;alpn=h2%2Chttp%2F1.1#<i",
+        "vless:\/\/fb9892d2-d6d8-4e21-98e6-f6e89edf7f3f@Speedtest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=%2F%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420----%40ExpressVpn_420%3Fed%3D2048&amp;host=1236.cu#<i"
     ],
-    "trojan": [
-        "trojan:\/\/telegram-id-privatevpns@51.20.57.182:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@51.20.57.182:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@51.20.57.182:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
-    ],
+    "trojan": [],
     "ss": [],
     "tuic": [],
     "hysteria": [],
