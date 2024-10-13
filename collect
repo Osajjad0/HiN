@@ -1,25 +1,13 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/5f676d84-c151-48c2-bc09-63017f4a822a@104.21.48.53:8443?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2087&amp;security=tls&amp;encryption=none&amp;alpn=http\/1.1&amp;host=yEchIv2raY-x-CGyGFXdDeWaW345556.PageS.deV&amp;fp=chrome&amp;type=ws&amp;sni=pAgES.DEV#<i",
-        "vless:\/\/5f676d84-c151-48c2-bc09-63017f4a822a@104.21.48.53:8443?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2087&amp;security=tls&amp;encryption=none&amp;alpn=http\/1.1&amp;host=yEchIv2raY-x-CGyGFXdDeWaW345556.PageS.deV&amp;fp=chrome&amp;type=ws&amp;sni=pAgES.DEV#<i",
-        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
-        "vless:\/\/c5049393-6f27-4265-9691-8c9d963fa32b@79.127.70.82:8443?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/7fe54c48-2f17-419b-9916-6726f85a6bf0@www.speedtest.net:80?path=\/TELEGRAM-@MainV2-ray#<i",
-        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
-        "vless:\/\/c5049393-6f27-4265-9691-8c9d963fa32b@79.127.70.82:8443?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@52.204.149.174:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=argodev11222.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=ArGodev11222.PaGes.Dev#<i",
         "vless:\/\/e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=dc1bf227.vf-8co.pages.dev&amp;type=ws&amp;sni=dc1bf227.vf-8co.pages.dev#<i",
-        "vless:\/\/a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?path=%2FT7OzaaLG5SkllZJf%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=IsaA1.pAGEs.DEV&amp;fp=randomized&amp;type=ws&amp;sni=iSaA1.paGes.DEv#<i",
-        "vless:\/\/23aa88a0-cdc6-4a62-998b-30ef72f9b321@2.189.175.126:2052?type=tcp&amp;headerType=http&amp;host=idem.ir&amp;path=\/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpned%3D2560&amp;security=none#<i",
-        "vless:\/\/3080f4e4-a258-4ca7-933e-c330b176bd83@79.127.70.114:443?type=tcp&amp;headerType=http&amp;host=www.speedtest.net&amp;path=\/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpned%3D2560&amp;security=none#<i"
+        "vless:\/\/a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=iSAA1.paGEs.DEV&amp;fp=randomized&amp;type=ws&amp;sni=iSaa1.PAGeS.DeV#<i"
     ],
-    "trojan": [
-        "trojan:\/\/Watashi_VPN@104.18.38.122:8443\/?type=ws&amp;host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&amp;path=%2F&amp;security=tls&amp;sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#<i",
-        "trojan:\/\/auto@104.21.90.210:2053\/?type=ws&amp;host=e9464f45.trauma-2r4.pages.dev&amp;path=%2F&amp;security=tls&amp;sni=e9464f45.trauma-2r4.pages.dev#<i"
-    ],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRE15Tm1aaQ==@95.164.35.90:8388#<i"
-    ],
+    "trojan": [],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
