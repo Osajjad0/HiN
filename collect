@@ -1,21 +1,29 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJhZGQiOiAiMTA0LjIxLjc0LjIzOSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJhZnJobXMwNy54Zml4ZWRmbG9hdC5jZmQiLCAiaWQiOiAiYTE2NTVmNTEtMWUyMC00YTkyLThhMTEtYjdjYTMwYTdhMzUzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogImFmcmhtczA3LnhmaXhlZGZsb2F0LmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9<\/code><\/div>",
+        "vmess:\/\/eyJhZGQiOiAiMTcyLjY3LjIyMC44MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJsaW5qYTA1Lmh3Y2FyLnNicyIsICJpZCI6ICIzOWNlYzE4Zi1hNDM5LTQyN2MtOWE0ZS1hZWI2ZmNkZjZmNTMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAibGluamEwNS5od2Nhci5zYnMiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/4c942230-2910-4c2d-80eb-f3800c79dc7a@91.107.151.209:58298\/?encryption=none&amp;host=divarcdn.com&amp;type=tcp&amp;headerType=http#<i",
-        "vless:\/\/aa81d044-0e0a-5b01-a6d7-3981ed218497@www.speedtest.net:2095\/?type=ws&amp;encryption=none&amp;host=at1.vless.Sitespeedtest.net.&amp;path=%2F#<i",
-        "vless:\/\/2d01b0eb-91fd-4eae-9fb0-50c08856181d@172.66.44.57:443\/?type=ws&amp;encryption=none&amp;host=e420ceed.aryoo-vpn-friends.pages.dev&amp;path=Telegram%40V2ray_Alpha%2F%3Fed%3D2087&amp;security=tls&amp;sni=e420ceed.aryoo-vpn-friends.pages.dev#<i",
-        "vless:\/\/e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443\/?type=ws&amp;encryption=none&amp;host=119f3a0b.chikiy123w.pages.dev&amp;path=%2F%3Fed%3D2048&amp;security=tls&amp;sni=119f3a0b.chikiy123w.pages.dev&amp;fp=randomized#<i",
-        "vless:\/\/e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@104.17.148.22:443\/?type=ws&amp;encryption=none&amp;host=119f3a0b.chikiy123w.pages.dev&amp;path=%2F%3Fed%3D2048&amp;security=tls&amp;sni=119f3a0b.chikiy123w.pages.dev&amp;fp=randomized#<i",
-        "vless:\/\/telegram-Afv2ray@re.iranfastfod.ir:8443\/?type=tcp&amp;encryption=none&amp;sni=www.speedtest.net&amp;fp=chrome&amp;security=reality&amp;pbk=0LI5bDltMLiL2_W9Sl4xp60UGlznmgR-b6TbsKFtKG4&amp;sid=96c7#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@185.251.82.149:2053\/?type=ws&amp;encryption=none&amp;host=bpb-v.PaGEs.DeV&amp;path=Telegram%40V2ray_Alpha%2F%3Fed%3D2087&amp;security=tls&amp;sni=BpB-v.PAgEs.Dev&amp;alpn=http%2F1.1#<i",
-        "vless:\/\/43f8f2c7-59fd-4ab4-b7dd-c52f0f0da18f@ilovepdf.com:443\/?type=ws&amp;encryption=none&amp;host=bugfreenet-sattar.pages.dev&amp;path=%2FbmvpiqrOHtbFAnVM%3Fed%3D2560&amp;security=tls&amp;sni=BuGfrEEnet-sattAr.PAGes.DEV&amp;alpn=h3&amp;fp=randomized#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@23spt.pages.dev:443\/?type=ws&amp;encryption=none&amp;host=23spt.pages.dev&amp;path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;sni=23sPT.pAGEs.dEV&amp;alpn=http%2F1.1&amp;fp=randomized#<i",
-        "vless:\/\/e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@104.17.148.22:443\/?type=ws&amp;encryption=none&amp;host=119f3a0b.chikiy123w.pages.dev&amp;path=%2F%3Fed%3D2048&amp;security=tls&amp;sni=119f3a0b.chikiy123w.pages.dev&amp;fp=randomized#<i",
-        "vless:\/\/9b1ef235-56df-4af6-8e41-37e363103bcb@hajlab.ucdavis.edu:443?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8880&amp;security=tls&amp;encryption=none&amp;host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&amp;fp=firefox&amp;type=ws&amp;sni=zmaoz.faculty.ucdavis.edu#<i",
-        "vless:\/\/c2c9e93c-fbf6-42ab-b9f3-8d50a2d9f60c@Tel.lololilo.lol:2096?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN#<i"
+        "vless:\/\/04655b62-7275-4c97-b735-998627fe95d7@EXPRESSVPN_420.fastly80.hosting-ip.com:80?security=none&amp;type=ws&amp;headerType=&amp;path=%2FJoin--%40EXPRESSVPN_420--Join--%40EXPRESSVPN_420--Join--%40EXPRESSVPN_420--Join--%40EXPRESSVPN_420--Join--%40EXPRESSVPN_420--Join--%40EXPRESSVPN_420--Join--%40EXPRESSVPN_420--Join--%40EXPRESSVPN_420--Join--%40EXPRESSVPN_420--Join--%40EXPRESSVPN_420--Join--%40EXPRESSVPN_420--Join--%40EXPRESSVPN_420--Join--%40EXPRESSVPN_420%3Fed%3D2048&amp;host=khomldam.ir#<i",
+        "vless:\/\/45d6db68-8895-468a-80f7-de24553e5b2f@www.speedtest.net:443?security=tls&amp;encryption=none&amp;type=grpc&amp;sni=ad52fshsl.felafel.org&amp;fp=chrome&amp;serviceName=@ConfigTell&amp;alpn=h2,h3,http\/1.1#<i"
     ],
     "trojan": [],
-    "ss": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
