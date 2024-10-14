@@ -1,9 +1,16 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/faec23a3-1cab-4ef2-b9aa-4999ea14e451@theatlantic.com:443?path=%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=http\/1.1&amp;host=alf17.ir&amp;fp=chrome&amp;type=ws&amp;sni=theatlantic.com#<i",
-        "vless:\/\/faec23a3-1cab-4ef2-b9aa-4999ea14e451@theatlantic.com:443?path=%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=http\/1.1&amp;host=alf17.ir&amp;fp=chrome&amp;type=ws&amp;sni=theatlantic.com#<i",
-        "vless:\/\/4c942230-2910-4c2d-80eb-f3800c79dc7a@91.107.151.209:58298?security=none&amp;encryption=none&amp;host=divarcdn.com&amp;headerType=http&amp;type=tcp#<i"
+        "vless:\/\/834f701d-303f-4b5a-8306-a2eb3a3594dc@www.speedtest.net:8443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D2480&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1=Telegram",
+        "vless:\/\/834f701d-303f-4b5a-8306-a2eb3a3594dc@104.17.234.114:8443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1=Telegram",
+        "vless:\/\/834f701d-303f-4b5a-8306-a2eb3a3594dc@104.17.234.128:443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1=Telegram",
+        "vless:\/\/834f701d-303f-4b5a-8306-a2eb3a3594dc@www.speedtest.net:8443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D2480&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1=Telegram",
+        "vless:\/\/834f701d-303f-4b5a-8306-a2eb3a3594dc@104.17.234.114:8443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1=Telegram",
+        "vless:\/\/834f701d-303f-4b5a-8306-a2eb3a3594dc@104.17.234.128:443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1=Telegram",
+        "vless:\/\/834f701d-303f-4b5a-8306-a2eb3a3594dc@get-admin-upanel.poqpoq.cfd:8443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D8443&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1=Telegram",
+        "vless:\/\/834f701d-303f-4b5a-8306-a2eb3a3594dc@www.speedtest.net:8443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D2480&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1=Telegram",
+        "vless:\/\/834f701d-303f-4b5a-8306-a2eb3a3594dc@104.17.234.114:8443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1=Telegram",
+        "vless:\/\/834f701d-303f-4b5a-8306-a2eb3a3594dc@104.17.234.128:443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1=Telegram"
     ],
     "trojan": [],
     "ss": [],
