@@ -1,28 +1,26 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiYW4uYW5hdmlyaXRpLmluZm8iLCAiYWlkIjogIjEiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYW4uYW5hdmlyaXRpLmluZm8iLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImxpbmt2d3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogImFuLmFuYXZpcml0aS5pbmZvIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=<\/code><\/div>",
-        "vmess:\/\/eyJhZGQiOiAidi52YWxraW5pbi5vcmciLCAiYWlkIjogIjEiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidi52YWxraW5pbi5vcmciLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImxpbmt2d3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogInYudmFsa2luaW4ub3JnIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=<\/code><\/div>",
-        "vmess:\/\/eyJhZGQiOiAibGFtbWFsYW5kLm9yZyIsICJhaWQiOiAiMSIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJsYW1tYWxhbmQub3JnIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJsaW5rdndzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJsYW1tYWxhbmQub3JnIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=<\/code><\/div>",
-        "vmess:\/\/eyJhZGQiOiAidmFsa2luaW4ub3JnIiwgImFpZCI6ICIxIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInZhbGtpbmluLm9yZyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAibGlua3Z3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAidmFsa2luaW4ub3JnIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=<\/code><\/div>",
-        "vmess:\/\/eyJhZGQiOiAiYW4uYW5hdmlyaXRpLmluZm8iLCAiYWlkIjogIjEiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYW4uYW5hdmlyaXRpLmluZm8iLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImxpbmt2d3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogImFuLmFuYXZpcml0aS5pbmZvIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=<\/code><\/div>",
-        "vmess:\/\/eyJhZGQiOiAidi52YWxraW5pbi5vcmciLCAiYWlkIjogIjEiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidi52YWxraW5pbi5vcmciLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImxpbmt2d3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogInYudmFsa2luaW4ub3JnIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=<\/code><\/div>",
-        "vmess:\/\/eyJhZGQiOiAiMTg1LjE0Ni4xNzMuMTU4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImphaGZramhhLmNmZCIsICJpZCI6ICI5NTBkYjZhYS00OTI2LTQ2MTYtODE2ZS1lYzAzMTJkY2I4N2IiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiamFoZmtqaGEuY2ZkIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhU3dlZGVuIn0=<\/code><\/div>",
-        "vmess:\/\/eyJhZGQiOiAiMTg1LjE0Ni4xNzMuMTU4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImphaGZramhhLmNmZCIsICJpZCI6ICI5NTBkYjZhYS00OTI2LTQ2MTYtODE2ZS1lYzAzMTJkY2I4N2IiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiamFoZmtqaGEuY2ZkIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhU3dlZGVuIn0=<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/aa81d044-0e0a-5b01-a6d7-3981ed218497@www.speedtest.net:2095?path=%2F&amp;security=none&amp;encryption=none&amp;host=at1.vless.Sitespeedtest.net.&amp;type=ws#<i",
-        "vless:\/\/c8951426-a5a8-5fcb-884f-0a253f771dfd@172.67.171.39:80?path=%2Fvless&amp;security=none&amp;encryption=none&amp;host=Fr1.vless.site.&amp;type=ws#<i",
-        "vless:\/\/47dad2b2-00c5-4263-a9d8-911c0739d0cd@zula.ir:8080?path=%2F%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=2sedkfjeuixijd0ew9d3.2sedkfjeuixijd0ew9dvkcxoisiek11.blog&amp;type=httpupgrade#<i",
-        "vless:\/\/904c0c1e-eacd-482c-8f69-50e660759e3d@live.989bull.com:443?path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Golestanvpn.com&amp;fp=firefox&amp;type=ws&amp;sni=live.989bull.com#<i",
-        "vless:\/\/904c0c1e-eacd-482c-8f69-50e660759e3d@live.989bull.com:443?path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Golestanvpn.com&amp;fp=firefox&amp;type=ws&amp;sni=live.989bull.com#<i",
-        "vless:\/\/a9e40418-3474-4cb7-a6ed-deda4eb31f74@www.speedtest.net:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h3#<i",
-        "vless:\/\/c9ef82df-f2a3-4bf5-b456-2e6937eab8a6@www.speedtest.net:2082?path=%2F%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=4.9.1canva.cOm.eA.coM.cloudFlare.com.0.google.Com.kaktuspanel.iR&amp;type=httpupgrade#<i",
-        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
+        "vless:\/\/23da8ed0-d864-4a4b-a024-ad8dce9a3a51@79.127.70.119:2053?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/23da8ed0-d864-4a4b-a024-ad8dce9a3a51@79.127.70.119:2053?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#<i",
         "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
         "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i"
     ],
-    "trojan": [],
-    "ss": [],
+    "trojan": [
+        "trojan:\/\/6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.68.157:8443?path=trojan-ws%2F%3Fed%3D2048&amp;security=tls&amp;alpn=http\/1.1&amp;host=vfarid.xcdi.wORKERS.DEv&amp;type=ws&amp;sni=vfarid.xcdi.wORKERS.DEv#<i",
+        "trojan:\/\/6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.68.157:8443?path=trojan-ws%2F%3Fed%3D2048&amp;security=tls&amp;alpn=http\/1.1&amp;host=vfarid.xcdi.wORKERS.DEv&amp;type=ws&amp;sni=vfarid.xcdi.wORKERS.DEv#<i",
+        "trojan:\/\/6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.68.157:8443?path=trojan-ws%2F%3Fed%3D2048&amp;security=tls&amp;alpn=http\/1.1&amp;host=vfarid.xcdi.wORKERS.DEv&amp;type=ws&amp;sni=vfarid.xcdi.wORKERS.DEv#<i"
+    ],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.2:8080#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.2:8080#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.21:8080#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5@45.87.175.166:8080#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.21:8080#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5@45.87.175.166:8080#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OEVZV204Zk9ZTkFOb2dWV2lzYUV1@5.180.45.142:18429#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
