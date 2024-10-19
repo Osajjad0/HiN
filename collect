@@ -1,16 +1,18 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiZnJlZS5oYXJkdG9maW5kLjQyd2ViLmlvIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImZyZWUuaGFyZHRvZmluZC40MndlYi5pbyIsICJpZCI6ICIyOTY3ZmY3YS0xZWYwLTRmN2ItYTAyMy1lMWUzYzU5OWVjOWIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL21ha2VhY2FsbCIsICJwb3J0IjogIjQwNDEzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJmcmVlLmhhcmR0b2ZpbmQuNDJ3ZWIuaW8iLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZmFSdXNzaWEifQ==<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443\/?type=ws&amp;encryption=none&amp;host=bpb-worker-panel1-e4p.pages.dev&amp;path=%2FYE8wFQQnzARDsNUP%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&amp;security=tls&amp;sni=BPb-WOrKeR-paneL1-e4P.PAGES.DEV&amp;alpn=http%2F1.1&amp;fp=randomized#<i",
-        "vless:\/\/68acb23b-7883-423d-bf35-9aa14d7a0ef7@104.18.165.38:8443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#<i",
+        "vless:\/\/3ae5e5e9-44be-4acd-b22b-f9e5ae69a0fc@www.speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2#<i",
         "vless:\/\/68acb23b-7883-423d-bf35-9aa14d7a0ef7@104.17.234.128:443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=join.bede.vpncustomize.www.speedtest.net.Abrha.co.za&amp;fp=randomized&amp;type=ws&amp;sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za#<i",
-        "vless:\/\/68acb23b-7883-423d-bf35-9aa14d7a0ef7@104.17.234.128:443?path=\/Telegram#<i",
-        "vless:\/\/2f856cdb-e573-41fc-95b3-922da1c82d29@185.231.182.95:8443\/?type=tcp&amp;encryption=none#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.0:443\/?type=ws&amp;encryption=none&amp;host=V2NGfAst-924.PAGes.DEV&amp;path=%2FTN2sjiQsFvtr29PW%3Fed%3D2560&amp;security=tls&amp;sni=v2NgfAsT-924.PaGeS.dEV#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.0:443\/?type=ws&amp;encryption=none&amp;host=V2NGfAst-924.PAGes.DEV&amp;path=%2FTN2sjiQsFvtr29PW%3Fed%3D2560&amp;security=tls&amp;sni=v2NgfAsT-924.PaGeS.dEV#<i",
-        "vless:\/\/9520a1fd-5ced-4a0f-a912-ffabccc52543@81.12.27.90:39568\/?type=ws&amp;encryption=none&amp;path=%2F#<i"
+        "vless:\/\/68acb23b-7883-423d-bf35-9aa14d7a0ef7@www.speedtest.net:8443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D2480&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1=Telegram",
+        "vless:\/\/68acb23b-7883-423d-bf35-9aa14d7a0ef7@104.18.165.38:8443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1=Telegram",
+        "vless:\/\/68acb23b-7883-423d-bf35-9aa14d7a0ef7@104.17.234.128:443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1=Telegram",
+        "vless:\/\/68acb23b-7883-423d-bf35-9aa14d7a0ef7@www.speedtest.net:8443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D2480&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1=Telegram",
+        "vless:\/\/56f8e484-fbd8-41c2-a08e-3df64b4cb7d1@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.A.lightning-6.LiVE.&amp;type=ws#<i",
+        "vless:\/\/68acb23b-7883-423d-bf35-9aa14d7a0ef7@104.18.165.38:8443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1=Telegram",
+        "vless:\/\/68acb23b-7883-423d-bf35-9aa14d7a0ef7@www.speedtest.net:8443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D2480&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1=Telegram",
+        "vless:\/\/68acb23b-7883-423d-bf35-9aa14d7a0ef7@104.18.165.38:8443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1=Telegram",
+        "vless:\/\/68acb23b-7883-423d-bf35-9aa14d7a0ef7@104.17.234.128:443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1=Telegram",
+        "vless:\/\/68acb23b-7883-423d-bf35-9aa14d7a0ef7@104.17.234.128:443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1=Telegram"
     ],
     "trojan": [],
     "ss": [],
