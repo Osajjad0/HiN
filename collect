@@ -1,28 +1,26 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJhZGQiOiAiV3d3LnNwZWVkdGVzdC5uZXQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICJoMiIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICJtcmNvbmZpZy1mYXN0LWdvb2QtaGFqYWxpLmhhamFsaWkuY29tIiwgImlkIjogIjYzZDE0MDIzLTdjNWQtNDFmZS05Yjk5LTZlN2MzZDc5ZTM2MyIsICJuZXQiOiAiaHR0cHVwZ3JhZGUiLCAicGF0aCI6ICIvelZKS29qSDJFNEx3TUNGZWsiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIm1yY29uZmlnLWZhc3QtZ29vZC1oYWphbGkuaGFqYWxpaS5jb20iLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/01ff9ca2-c99b-4f1d-aa6e-80b00e4e8b26@162.159.138.178:8080?type=httpupgrade&amp;host=2sedkfjeuixijd0ew9d3.2sedkfjeuixijd0ew9dvkcxoisiek11.blog&amp;path=\/\/?ed%3D@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn8080?ed%3D8080&amp;security=none#<i",
-        "vless:\/\/01ff9ca2-c99b-4f1d-aa6e-80b00e4e8b26@162.159.138.178:8080?type=httpupgrade&amp;host=2sedkfjeuixijd0ew9d3.2sedkfjeuixijd0ew9dvkcxoisiek11.blog&amp;path=\/\/?ed%3D@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn8080?ed%3D8080&amp;security=none#<i",
-        "vless:\/\/90cd4a77-141a-43c9-991b-08263cfe9c10@172.66.46.249:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=79193c43.aryoovpn-5fr.pages.dev&amp;type=ws&amp;sni=79193c43.aryoovpn-5fr.pages.dev#<i",
-        "vless:\/\/b2bd4c7f-1b17-433b-87a1-dfa6095c8f3f@190.93.247.56:8080?path=%2Ftelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=astech.ir.www.speedtest.net.www.zula.ir.cloudflare.com.hostirann.xYz.&amp;type=ws#<i",
-        "vless:\/\/c64fc8ac-e5e1-4f53-93b9-3d71671d6519@151.101.3.8:80?path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=shortcoding.com&amp;type=ws#<i",
-        "vless:\/\/1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&amp;sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&amp;type=ws&amp;host=xn----pmcnaac0dkn0rb71nda.pages.dev&amp;path=%2FTelegram%40Linkvws%3Fed%3D2560#<i",
-        "vless:\/\/b2bd4c7f-1b17-433b-87a1-dfa6095c8f3f@190.93.247.56:8080?path=%2Ftelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=astech.ir.www.speedtest.net.www.zula.ir.cloudflare.com.hostirann.xYz.&amp;type=ws#<i",
-        "vless:\/\/c64fc8ac-e5e1-4f53-93b9-3d71671d6519@151.101.3.8:80?path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=shortcoding.com&amp;type=ws#<i",
-        "vless:\/\/b2bd4c7f-1b17-433b-87a1-dfa6095c8f3f@190.93.247.56:8080?path=%2Ftelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=astech.ir.www.speedtest.net.www.zula.ir.cloudflare.com.hostirann.xYz.&amp;type=ws#<i",
-        "vless:\/\/c64fc8ac-e5e1-4f53-93b9-3d71671d6519@151.101.3.8:80?path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=shortcoding.com&amp;type=ws#<i",
-        "vless:\/\/90cd4a77-141a-43c9-991b-08263cfe9c10@172.66.46.249:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=79193c43.aryoovpn-5fr.pages.dev&amp;type=ws&amp;sni=79193c43.aryoovpn-5fr.pages.dev#<i",
-        "vless:\/\/c3c20db7-d32b-454a-9843-ec22d064a842@172.67.147.94:443?security=tls&amp;sni=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir2.kehib41931.workers.dev&amp;type=ws&amp;host=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir2.kehib41931.workers.dev&amp;path=%2F-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR%2F%3Fed%3D2047#<i"
+        "vless:\/\/5512bf69-a563-4ea7-be2b-2d14d27e6323@23.227.60.7:443?security=tls&amp;sni=falcUNArGOo.EBf9A41066.woRkErS.DEV&amp;type=ws&amp;host=fALcUnaRgOO.ebf9A41066.worKErs.dEv&amp;path=%2FPath%2FTelegram@proxy_mtm%2F%3Fed%3D2048&amp;fp=chrome#<i",
+        "vless:\/\/SVNTEAM-SVNTEAM@104.17.234.128:8080?path=%2Ftelegram-SVNTEAM%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=JOIN.SVNTEAM.ger.speedtest.net.FiSvn.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/SVNTEAM-SVNTEAM@104.17.234.128:8080?path=%2Ftelegram-SVNTEAM%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=JOIN.SVNTEAM.ger.speedtest.net.FiSvn.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=pardazesh18.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=pardazesh18.pages.dev#<i",
+        "vless:\/\/SVNTEAM-SVNTEAM@104.17.234.128:8080?path=%2Ftelegram-SVNTEAM%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=JOIN104.17.234.128.SVNTEAM.eng.speedtest.net.FiSvn.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/SVNTEAM-SVNTEAM@104.17.234.128:8080?path=%2Ftelegram-SVNTEAM%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=JOIN.SVNTEAM.eng.speedtest.net.FiSvn.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/SVNTEAM-SVNTEAM@104.17.234.128:8080?path=%2Ftelegram-SVNTEAM%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=JOIN.SVNTEAM.eng.speedtest.net.FiSvn.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/SVNTEAM-SVNTEAM@104.17.234.128:8080?path=%2Ftelegram-SVNTEAM%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=JOIN104.17.234.128.SVNTEAM.eng.speedtest.net.FiSvn.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/SVNTEAM-SVNTEAM@104.17.234.128:8080?path=%2Ftelegram-SVNTEAM%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=JOIN.SVNTEAM.eng.speedtest.net.FiSvn.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/SVNTEAM-SVNTEAM@104.17.234.128:8080?path=%2Ftelegram-SVNTEAM%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=JOIN.SVNTEAM.eng.speedtest.net.FiSvn.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/9a4bc15d-a7d4-4181-9485-405629c36894@185.146.173.227:2053?security=tls&amp;sni=king-ae1.pages.dev&amp;type=ws&amp;host=king-ae1.pages.dev&amp;path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#<i",
+        "vless:\/\/SVNTEAM-SVNTEAM@104.17.234.128:8080?path=%2Ftelegram-SVNTEAM%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=JOIN.SVNTEAM.eng.speedtest.net.FiSvn.ir.&amp;type=httpupgrade#<i"
     ],
     "trojan": [
-        "trojan:\/\/bpb-trojan@104.17.147.22:2053?path=%2Ftrn6lSYIYbgvYGra0u%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&amp;security=tls&amp;alpn=http\/1.1&amp;host=bpb-worker-panel1-e4p.pages.dev&amp;type=ws&amp;sni=bPB-worker-PANeL1-e4p.paGes.DeV#<i",
-        "trojan:\/\/telegram-id-directvpn@3.11.55.135:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/bpb-trojan@104.17.147.22:2053?path=%2Ftrn6lSYIYbgvYGra0u%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&amp;security=tls&amp;alpn=http\/1.1&amp;host=bpb-worker-panel1-e4p.pages.dev&amp;type=ws&amp;sni=bPB-worker-PANeL1-e4p.paGes.DeV#<i",
-        "trojan:\/\/telegram-id-directvpn@3.11.55.135:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+        "trojan:\/\/bpb-trojan@104.18.34.21:2053?path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&amp;security=tls&amp;alpn=http\/1.1&amp;host=bpb-worker-panel1-e4p.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bpB-worKER-paneL1-e4p.pAGes.dEV#<i"
     ],
     "ss": [
-        "ss:\/\/YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.95.103:8008#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@15.204.87.225:5003#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
