@@ -1,14 +1,23 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4yMS4yMzguMTAxIiwgInBvcnQiOiAiMjA5NSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMThkOTYxOTAtYzEwZi00NDhmLWE4MmEtMmQzNmRmNWMzY2RlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAiaXAzLjYwMTY3MjUueHl6IiwgInRscyI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/a64f0cea-ca89-40e6-b316-b3badff1eb90@156.238.18.192:443?path=%D8%AA%DB%8C%D9%85+%D8%A7%D9%86%D8%AC%D9%85%D9%86+%D8%A7%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86++%D9%84%DB%8C%D9%86%DA%A9+t.me%2FAZARBAYJAB1&amp;security=tls&amp;encryption=none&amp;host=ISAA1.PAGES.DEV&amp;type=ws&amp;sni=iSaA1.paGes.DEv#<i",
-        "vless:\/\/d697bdd8-43ab-4787-ad07-e7f98bc0a3eb@theatlantic.com:443?path=\/@Alfred_Config\/@Alfred_Config\/@Alfred_Config\/@Alfred_Config\/@Alfred_Config\/@Alfred_Config\/@Alfred_Config\/@Alfred_Config\/@Alfred_Config\/@Alfred_Config\/@Alfred_Config\/@Alfred_Config\/@Alfred_Config\/@Alfred_Config\/@Alfred_Config\/@Alfred_Config%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=http\/1.1&amp;host=bas-kon-irani.ir&amp;fp=chrome&amp;type=ws&amp;sni=theatlantic.com#<i",
-        "vless:\/\/a64f0cea-ca89-40e6-b316-b3badff1eb90@156.238.18.162:2053?path=%D8%AA%DB%8C%D9%85+%D8%A7%D9%86%D8%AC%D9%85%D9%86+%D8%A7%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86++%D9%84%DB%8C%D9%86%DA%A9+t.me%2FAZARBAYJAB1&amp;security=tls&amp;encryption=none&amp;host=ISAA1.PAGES.DEV&amp;type=ws&amp;sni=iSaA1.paGes.DEv#<i",
-        "vless:\/\/a64f0cea-ca89-40e6-b316-b3badff1eb90@156.238.18.162:2053?path=%D8%AA%DB%8C%D9%85+%D8%A7%D9%86%D8%AC%D9%85%D9%86+%D8%A7%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86++%D9%84%DB%8C%D9%86%DA%A9+t.me%2FAZARBAYJAB1&amp;security=tls&amp;encryption=none&amp;host=ISAA1.PAGES.DEV&amp;type=ws&amp;sni=iSaA1.paGes.DEv#<i"
+        "vless:\/\/fa61eebf-21a8-4d08-ac92-44fa45ee54a6@213.176.7.231:12573?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#<i",
+        "vless:\/\/2e3e0e35-3fd0-4f1b-8cce-4781575da1f5@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v08.TzZLiMitT.CoM#<i",
+        "vless:\/\/2e3e0e35-3fd0-4f1b-8cce-4781575da1f5@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v18.TzZLiMitT.CoM#<i",
+        "vless:\/\/2e3e0e35-3fd0-4f1b-8cce-4781575da1f5@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v18.TzZLiMitT.CoM#<i",
+        "vless:\/\/2e3e0e35-3fd0-4f1b-8cce-4781575da1f5@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v08.TzZLiMitT.CoM#<i",
+        "vless:\/\/2e3e0e35-3fd0-4f1b-8cce-4781575da1f5@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.TzZLiMitT.CoM#<i",
+        "vless:\/\/2e3e0e35-3fd0-4f1b-8cce-4781575da1f5@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v11.TzZLiMitT.CoM#<i",
+        "vless:\/\/2e3e0e35-3fd0-4f1b-8cce-4781575da1f5@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v18.TzZLiMitT.CoM#<i",
+        "vless:\/\/c5049393-6f27-4265-9691-8c9d963fa32b@79.127.70.82:8443?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/c5049393-6f27-4265-9691-8c9d963fa32b@79.127.70.82:8443?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/2e3e0e35-3fd0-4f1b-8cce-4781575da1f5@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v18.TzZLiMitT.CoM#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.16.148.244:2083?path=trojan-ws%2F%3Fed%3D2048&amp;security=tls&amp;alpn=http\/1.1&amp;host=vfarid.xcdi.WOrKErs.dEV&amp;type=ws&amp;sni=vfarid.xcdi.WOrKErs.dEV#<i",
+        "trojan:\/\/telegram-id-privatevpns@35.179.6.130:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-privatevpns@3.251.51.219:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+    ],
     "ss": [],
     "tuic": [],
     "hysteria": [],
