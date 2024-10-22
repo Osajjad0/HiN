@@ -1,26 +1,18 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiMTA0LjE3LjE5Ny4zMSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJob3N0IjogInF1aWV0LW1vb24tMTMyYS54ZXRhZzQyNzE0LndvcmtlcnMuZGV2IiwgImlkIjogIjQ0MWRhMzQyLWNlOTAtNDQxZS1iZmY5LWQyY2ViNTVlNjhjYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaXZpZGVvcy5zYnMvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJxdWlldC1tb29uLTEzMmEueGV0YWc0MjcxNC53b3JrZXJzLmRldiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVuaXRlZCBTdGF0ZXMifQ==<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.141:443?security=tls&amp;sni=Sanjeshp.Ir&amp;type=ws&amp;host=Sanjeshp.Ir&amp;path=%2FH%3Fed%3D2560&amp;fp=randomized&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.141:443?security=tls&amp;sni=Sanjeshp.Ir&amp;type=ws&amp;host=Sanjeshp.Ir&amp;path=%2FH%3Fed%3D2560&amp;fp=randomized&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1#<i",
-        "vless:\/\/bc2e07ae-9fdd-4eec-9dce-88af83a9b15a@www.speedtest.net:2086?path=yakuzaytorg%3D%3D%3Fed%3D2082&amp;security=none&amp;encryption=none&amp;host=yakuzaytt.arsekharid.ir.&amp;type=httpupgrade#<i",
-        "vless:\/\/bc2e07ae-9fdd-4eec-9dce-88af83a9b15a@www.speedtest.net:2086?path=yakuzaytorg%3D%3D%3Fed%3D2082&amp;security=none&amp;encryption=none&amp;host=yakuzaytt.arsekharid.ir.&amp;type=httpupgrade#<i",
-        "vless:\/\/7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.138.178:443?path=%2FTelegram-Xv2ry2-5%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=1v-2wk.pages.dev&amp;type=ws&amp;sni=Pages.dev#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.38.85:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JoiNMAhdISERver-Bg3.pAGES.DEv&amp;fp=randomized&amp;type=ws&amp;sni=JoInMahDISeRver-bg3.PAGes.Dev#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JoiNMAhdISERver-Bg3.pAGES.DEv&amp;fp=randomized&amp;type=ws&amp;sni=JoInMahDISeRver-bg3.PAGes.Dev#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JOiNMAHdiSERVer-BG3.Pages.dEv&amp;fp=randomized&amp;type=ws&amp;sni=JOiNmahDIsErVER-Bg3.PAGes.deV#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JOiNMAHdiSERVer-BG3.Pages.dEv&amp;fp=randomized&amp;type=ws&amp;sni=JOiNmahDIsErVER-Bg3.PAGes.deV#<i",
-        "vless:\/\/7ee6c0a5-377f-41a1-a2d3-bcc1df69f5ba@speedtest-fr5.gcore.com:80?type=httpupgrade&amp;path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;host=bng.org&amp;security=none#<i",
-        "vless:\/\/7ee6c0a5-377f-41a1-a2d3-bcc1df69f5ba@speedtest-fr5.gcore.com:80?type=httpupgrade&amp;path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;host=bng.org&amp;security=none#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.38.85:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
-        "vless:\/\/65f1320d-c417-4114-97a0-fc178d85b7fb@191.96.242.179:8080?security=reality&amp;flow=xtls-rprx-vision&amp;sni=zabbix.mikunet.work&amp;type=tcp&amp;fp=chrome&amp;pbk=ykBTZq-ZnVnRyHzfeZ0n2Tgbnjs6XutIHZDfKDPGDHc&amp;sid=b6e0cf87#<i"
+        "vless:\/\/c4439ad6-9fd8-42af-b937-64450bb9c455@81.12.27.85:14551?path=%2F&amp;security=none&amp;encryption=none&amp;host=%40BugFreeNet&amp;type=ws#<i",
+        "vless:\/\/002ef6c3-2f20-4240-b0ad-fddc51c380de@www.speedtest.net:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;authority=&amp;fp=chrome&amp;type=grpc&amp;serviceName=%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN&amp;sni=03.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech#<i",
+        "vless:\/\/c4439ad6-9fd8-42af-b937-64450bb9c455@81.12.27.85:14551?path=%2F&amp;security=none&amp;encryption=none&amp;host=%40BugFreeNet&amp;type=ws#<i",
+        "vless:\/\/994c91dd-b282-4c25-a0c5-af76b480c080@2.189.59.3:443?security=tls&amp;sni=mci-google-bing3164.sdb5j.workers.dev.&amp;type=ws&amp;host=mci-google-bing3164.sdb5j.workers.dev.&amp;path=%2F#<i"
     ],
-    "trojan": [],
-    "ss": [],
+    "trojan": [
+        "trojan:\/\/auto@172.67.2.238:2083?path=%2F&amp;security=tls&amp;host=e9464f45.trauma-2r4.pages.dev&amp;type=ws&amp;sni=e9464f45.trauma-2r4.pages.dev#<i"
+    ],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
