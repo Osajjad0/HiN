@@ -1,16 +1,29 @@
 {
-    "vmess": [],
-    "vless": [
-        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
-        "vless:\/\/f8dec3e1-391d-4cc4-9d9a-f01ea8b6c10c@188.245.193.79:43296?security=none&amp;type=ws&amp;host=st-fr-1.brocdn.com&amp;path=%2F%40proprojec%3Fed%3D56#<i",
-        "vless:\/\/f41dcdeb-f819-4c19-b848-20972b4bfd23@151.101.2.133:443?security=tls&amp;sni=busbud.com&amp;type=ws&amp;host=france1.4577.io&amp;path=%2FVLESS%3Fed%3D2048&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "vless:\/\/f192f52e-6c1d-41d4-8a80-120c707e9123@104.20.66.92:80?path=%2FSvnProBot-V2ray69Speed.ir.shop.com%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=vstorep.hamrahmarzban.com&amp;type=ws#<i",
-        "vless:\/\/f13b0d60-ab23-49c3-8e4f-fc31ca6fbeca@www.speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=jobinja.pages.dev&amp;fp=firefox&amp;type=ws&amp;sni=pages.dev#<i",
-        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
-        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
-        "vless:\/\/f8dec3e1-391d-4cc4-9d9a-f01ea8b6c10c@188.245.193.79:43296?security=none&amp;type=ws&amp;host=st-fr-1.brocdn.com&amp;path=%2F%40proprojec%3Fed%3D56#<i"
+    "vmess": [
+        "vmess:\/\/eyJhZGQiOiAiMTk4LjIuMjE4LjEwMCIsICJ2IjogIjIiLCAicG9ydCI6IDQxNDAwLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=<\/code><\/div>"
     ],
-    "trojan": [],
+    "vless": [
+        "vless:\/\/9394c3b8-4664-4ede-b22a-fa479aa1f901@104.17.148.22:8443?security=tls&amp;sni=03.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&amp;type=grpc&amp;serviceName=%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1#<i",
+        "vless:\/\/59020e28-7615-4e2c-b35d-1515dc74e504@87.249.50.215:443?type=tcp#<i",
+        "vless:\/\/9394c3b8-4664-4ede-b22a-fa479aa1f901@104.17.148.22:8443?security=tls&amp;sni=03.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&amp;type=grpc&amp;serviceName=%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@54.154.97.78:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;path=\/telegram-channel-vlessconfig-ws#<i",
+        "vless:\/\/9394c3b8-4664-4ede-b22a-fa479aa1f901@104.17.148.22:8443?security=tls&amp;sni=03.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&amp;type=grpc&amp;serviceName=%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1#<i",
+        "vless:\/\/59020e28-7615-4e2c-b35d-1515dc74e504@87.249.50.215:443?type=tcp#<i",
+        "vless:\/\/59020e28-7615-4e2c-b35d-1515dc74e504@87.249.50.215:443?type=tcp#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@54.154.97.78:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;path=\/telegram-channel-vlessconfig-ws#<i"
+    ],
+    "trojan": [
+        "trojan:\/\/auto@172.64.35.148:443?security=tls&amp;sni=trojanfree-76s.pages.dev&amp;type=ws&amp;host=trojanfree-76s.pages.dev&amp;path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&amp;fp=randomized#<i",
+        "trojan:\/\/telegram-id-directvpn@18.197.85.71:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http\/1.1#<i",
+        "trojan:\/\/cbaacba-cbaa-acab-bdac-bbaacbaacbcc@127.0.0.1:1080?security=tls&amp;type=tcp#<i",
+        "trojan:\/\/telegram-id-directvpn@18.197.85.71:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http\/1.1#<i",
+        "trojan:\/\/auto@172.64.35.148:443?security=tls&amp;sni=trojanfree-76s.pages.dev&amp;type=ws&amp;host=trojanfree-76s.pages.dev&amp;path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&amp;fp=randomized#<i",
+        "trojan:\/\/auto@104.19.173.68:443?security=tls&amp;sni=trojanfree-76s.pages.dev&amp;type=ws&amp;host=trojanfree-76s.pages.dev&amp;path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&amp;fp=randomized#<i",
+        "trojan:\/\/cbaacba-cbaa-acab-bdac-bbaacbaacbcc@127.0.0.1:1080?security=tls&amp;type=tcp#<i",
+        "trojan:\/\/telegram-id-directvpn@18.197.85.71:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http\/1.1#<i",
+        "trojan:\/\/auto@172.64.35.148:443?security=tls&amp;sni=trojanfree-76s.pages.dev&amp;type=ws&amp;host=trojanfree-76s.pages.dev&amp;path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&amp;fp=randomized#<i",
+        "trojan:\/\/auto@172.64.35.148:443?security=tls&amp;sni=trojanfree-76s.pages.dev&amp;type=ws&amp;host=trojanfree-76s.pages.dev&amp;path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&amp;fp=randomized#<i"
+    ],
     "ss": [],
     "tuic": [],
     "hysteria": [],
