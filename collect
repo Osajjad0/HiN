@@ -1,28 +1,20 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJhZGQiOiAiMTcyLjY3LjExNi40OCIsICJhaWQiOiAiMCIsICJob3N0IjogIndhcC5ob3N0bWpqLmNvbSIsICJpZCI6ICIyMmExM2FhMi00ODU0LTQ0Y2ItZTA5MC1lYzcxYWI4NGIxZmYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6IDIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=poORiaReD--PErsePOlIs.PagES.DEv&amp;fp=randomized&amp;type=ws&amp;sni=POOrIaREd--persEPolIS.pAGEs.Dev#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2#<i",
-        "vless:\/\/%50a%72sa%73%68%6fna%6d-87@185.146.173.39:8880?path=%2F&amp;serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
-        "vless:\/\/telegram-ArV2ray@Arv2ry.fastly80.hosting-ip.com:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=Cdiuw13.net&amp;type=ws#<i",
-        "vless:\/\/telegram-id-ArV2ray@ArV2ry.fastly80.hosting-ip.com:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=Fer10sowk.net&amp;type=ws#<i",
-        "vless:\/\/1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?path=%2FTelegram%40Linkvws%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=xn----pmcnaac0dkn0rb71nda.pages.dev&amp;type=ws&amp;sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev#<i",
-        "vless:\/\/%50a%72sa%73%68%6fna%6d-87@185.146.173.39:8880?path=%2F&amp;serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
-        "vless:\/\/b2bd4c7f-1b17-433b-87a1-dfa6095c8f3f@190.93.247.56:8080?path=%2Ftelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%2Ctelegram-%40ASinTech%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=astech.ir.www.speedtest.net.www.zula.ir.cloudflare.com.hostirann.xYz.&amp;type=ws#<i",
-        "vless:\/\/738302ed-0d4e-4a87-9f4d-353605db827c@94.141.96.125:7355?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/738302ed-0d4e-4a87-9f4d-353605db827c@94.141.96.125:7355?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/738302ed-0d4e-4a87-9f4d-353605db827c@94.141.96.125:7355?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
-        "vless:\/\/1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?path=%2FTelegram%40Linkvws%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=xn----pmcnaac0dkn0rb71nda.pages.dev&amp;type=ws&amp;sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev#<i"
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JoiNMAhdISERver-Bg3.pAGES.DEv&amp;fp=randomized&amp;type=ws&amp;sni=JoInMahDISeRver-bg3.PAGes.Dev#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JOiNMAHdiSERVer-BG3.Pages.dEv&amp;fp=randomized&amp;type=ws&amp;sni=JOiNmahDIsErVER-Bg3.PAGes.deV#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JoiNMAhdISERver-Bg3.pAGES.DEv&amp;fp=randomized&amp;type=ws&amp;sni=JoInMahDISeRver-bg3.PAGes.Dev#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JOiNMAHdiSERVer-BG3.Pages.dEv&amp;fp=randomized&amp;type=ws&amp;sni=JOiNmahDIsErVER-Bg3.PAGes.deV#<i",
+        "vless:\/\/a35cf68a-1be8-4e2f-8704-3204916143c3@104.18.165.38:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#<i",
+        "vless:\/\/5ca0dafa-a50e-40c0-acc8-69b6106de0b3@live.989bull.com:443?path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Golestanvpn.com&amp;fp=firefox&amp;type=ws&amp;sni=live.989bull.com#<i",
+        "vless:\/\/telegram-id-ArV2ray@Arv2ry.fastly80.hosting-ip.com:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=Cdiuw13.net&amp;type=ws#<i",
+        "vless:\/\/a35cf68a-1be8-4e2f-8704-3204916143c3@104.18.165.38:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#<i",
+        "vless:\/\/5ca0dafa-a50e-40c0-acc8-69b6106de0b3@live.989bull.com:443?path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Golestanvpn.com&amp;fp=firefox&amp;type=ws&amp;sni=live.989bull.com#<i"
     ],
     "trojan": [],
-    "ss": [
-        "ss:\/\/YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.166.88.198:4444#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphWHVWOGs1YTRORm1rcGhncjVOVGxM@89.185.84.185:52338#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDYU5HMWFObEgwUUpSa2RzV1Z6VzYz@89.185.84.185:12575#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2UDhzbkRhdGcwOTdjMTlBM2VZUGpV@51.120.10.54:4567#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
