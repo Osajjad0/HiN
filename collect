@@ -1,31 +1,25 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiZHMubnVydWwuaG9tZXMiLCAidiI6ICIyIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjEiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZHMubnVydWwuaG9tZXMiLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
-        "vless:\/\/ab6ac91e-2e86-4f6b-99ac-dd1124a023c4@www.speedtest.net:443?type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2048&amp;host=uigukjlgbkljguyfkjbk.pages.dev&amp;fp=randomized&amp;sni=uigukjlgbkljguyfkjbk.pages.dev#<i",
-        "vless:\/\/ab6ac91e-2e86-4f6b-99ac-dd1124a023c4@uigukjlgbkljguyfkjbk.pages.dev:443?type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2048&amp;host=uigukjlgbkljguyfkjbk.pages.dev&amp;fp=randomized&amp;sni=uigukjlgbkljguyfkjbk.pages.dev#<i",
-        "vless:\/\/ab6ac91e-2e86-4f6b-99ac-dd1124a023c4@uigukjlgbkljguyfkjbk.pages.dev:443?type=ws&amp;host=uigukjlgbkljguyfkjbk.pages.dev&amp;path=\/?ed%3D2048&amp;security=tls&amp;fp=randomized&amp;sni=uigukjlgbkljguyfkjbk.pages.dev#<i",
-        "vless:\/\/aabcbca-baac-acba-acdb-bcbaccbacaba@127.0.0.1:8080?security=tls&amp;type=tcp#<i",
-        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
-        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
+        "vless:\/\/83f6a953-8e6f-4c52-b972-877ca4babe22@hajlab.ucdavis.edu:443?path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=Aashe8tokhobi.net&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/255f2128-3659-4cf2-bc5a-046970136103@104.27.101.40:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev#<i",
+        "vless:\/\/83f6a953-8e6f-4c52-b972-877ca4babe22@hajlab.ucdavis.edu:443?path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=Aashe8tokhobi.net&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/255f2128-3659-4cf2-bc5a-046970136103@172.65.237.80:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev#<i",
+        "vless:\/\/255f2128-3659-4cf2-bc5a-046970136103@104.24.255.191:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev#<i",
         "vless:\/\/5d090fee-cb75-4df8-ae97-385f388fbca5@hajlab.ucdavis.edu:443?security=tls&amp;type=ws&amp;headerType=&amp;path=%3Fed%3D%40Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn%2B2048&amp;host=torent.ir&amp;sni=hajlab.ucdavis.edu&amp;fp=#<i",
         "vless:\/\/5d090fee-cb75-4df8-ae97-385f388fbca5@hajlab.ucdavis.edu:443?security=tls&amp;type=ws&amp;headerType=&amp;path=%3Fed%3D%40Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn%2B2048&amp;host=torent.ir&amp;sni=hajlab.ucdavis.edu&amp;fp=#<i",
-        "vless:\/\/aabcbca-baac-acba-acdb-bcbaccbacaba@127.0.0.1:8080?security=tls&amp;type=tcp#<i"
+        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
+        "vless:\/\/255f2128-3659-4cf2-bc5a-046970136103@172.66.213.38:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev#<i",
+        "vless:\/\/255f2128-3659-4cf2-bc5a-046970136103@172.65.237.80:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev#<i",
+        "vless:\/\/4639cda7-0742-4bcd-ab1e-b7c879c2189c@ArV2ry.fastly80.hosting-ip.com:80?type=ws&amp;host=que4.ir&amp;path=\/v2pedia?ed%3D2048&amp;security=none#<i",
+        "vless:\/\/4639cda7-0742-4bcd-ab1e-b7c879c2189c@ArV2ry.fastly80.hosting-ip.com:80?type=ws&amp;host=que4.ir&amp;path=\/v2pedia?ed%3D2048&amp;security=none#<i",
+        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
+        "vless:\/\/255f2128-3659-4cf2-bc5a-046970136103@104.24.255.191:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev#<i",
+        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
+        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i"
     ],
-    "trojan": [
-        "trojan:\/\/auto@172.67.49.134:443?path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&amp;security=tls&amp;host=trojanfree-76s.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=trojanfree-76s.pages.dev#<i",
-        "trojan:\/\/auto@172.67.49.134:443?path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&amp;security=tls&amp;host=trojanfree-76s.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=trojanfree-76s.pages.dev#<i",
-        "trojan:\/\/auto@172.67.49.134:443?path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&amp;security=tls&amp;host=trojanfree-76s.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=trojanfree-76s.pages.dev#<i"
-    ],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#<i"
-    ],
+    "trojan": [],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
