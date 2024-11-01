@@ -1,29 +1,19 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=pardazeshvpn-tg48.pages.dev&amp;fp=random&amp;type=ws&amp;sni=pardazeshvpn-tg48.pages.dev#<i",
-        "vless:\/\/c9c89064-240c-4b49-b45f-0a1ff29d7de4@172.67.159.223:443?security=tls&amp;sni=lstar.ir&amp;type=ws&amp;host=lstar.ir&amp;path=%2F&amp;fp=random&amp;alpn=http%2F1.1#<i",
-        "vless:\/\/0b6f2ccb-d61b-11ee-aaa8-00505603e70d@st-fr-1.brocdn.com:443?path=%2Fwebsocket&amp;security=tls&amp;encryption=none&amp;host=st-fr-1.brocdn.com&amp;type=ws&amp;sni=st-fr-1.brocdn.com#<i",
-        "vless:\/\/9a4bc15d-a7d4-4181-9485-405629c36894@185.146.173.115:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=king-ae1.pages.dev&amp;type=ws&amp;sni=king-ae1.pages.dev#<i",
-        "vless:\/\/bba5ce00-09e4-4fce-8d26-35db5b4e38d4@cfpage-39t.pages.dev:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=cfpage-39t.pages.dev&amp;fp=random&amp;type=ws&amp;sni=cfpage-39t.pages.dev#<i",
-        "vless:\/\/1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=poORiaReD--PErsePOlIs.PagES.DEv&amp;fp=randomized&amp;type=ws&amp;sni=POOrIaREd--persEPolIS.pAGEs.Dev#<i",
-        "vless:\/\/c9c89064-240c-4b49-b45f-0a1ff29d7de4@172.67.159.223:443?security=tls&amp;sni=lstar.ir&amp;type=ws&amp;host=lstar.ir&amp;path=%2F&amp;fp=random&amp;alpn=http%2F1.1#<i",
-        "vless:\/\/98f0c223-cb75-4faa-859e-47110b1f052b@zula.ir:2096?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=internet4everieone7.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=iNTeRnET4EVERIeONe7.PaGes.DeV#<i",
-        "vless:\/\/a94edb46-0734-4593-a8b5-9cd11ddc57f6@172.66.45.7:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5c53ca21.vpn-aryoo.pages.dev&amp;type=ws&amp;sni=5c53ca21.vpn-aryoo.pages.dev#<i",
-        "vless:\/\/36a7f3d3-4608-4f35-97cf-99b9f17c6e44@79.127.70.120:2083?security=none&amp;encryption=none&amp;host=doostihaa.com&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=aksnmaioas.pages.dev&amp;type=ws&amp;sni=aksnmaioas.pages.dev#<i",
-        "vless:\/\/9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=pardazeshvpn-tg48.pages.dev&amp;fp=random&amp;type=ws&amp;sni=pardazeshvpn-tg48.pages.dev#<i",
-        "vless:\/\/38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=aksnmaioas.pages.dev&amp;type=ws&amp;sni=aksnmaioas.pages.dev#<i",
-        "vless:\/\/0b6f2ccb-d61b-11ee-aaa8-00505603e70d@st-fr-1.brocdn.com:443?path=%2Fwebsocket&amp;security=tls&amp;encryption=none&amp;host=st-fr-1.brocdn.com&amp;type=ws&amp;sni=st-fr-1.brocdn.com#<i"
+        "vless:\/\/DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/a70e1ca7-0cfa-5d07-b068-ca7657f9aba8@www.speedtest.net:2095?path=join-%40mosiv2-%40mosiv2-%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.digikala.com.joinTelegram.mosiv2.fi3.vless.Sitespeedtest.net.&amp;type=ws#<i",
+        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
+        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
+        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
+        "vless:\/\/a70e1ca7-0cfa-5d07-b068-ca7657f9aba8@www.speedtest.net:2095?path=join-%40mosiv2-%40mosiv2-%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.digikala.com.joinTelegram.mosiv2.fi3.vless.Sitespeedtest.net.&amp;type=ws#<i",
+        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
+        "vless:\/\/a70e1ca7-0cfa-5d07-b068-ca7657f9aba8@www.speedtest.net:2095?path=join-%40mosiv2-%40mosiv2-%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.digikala.com.joinTelegram.mosiv2.fi3.vless.Sitespeedtest.net.&amp;type=ws#<i"
     ],
     "trojan": [
-        "trojan:\/\/telegram-id-privatevpns@3.254.44.30:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http\/1.1#<i",
-        "trojan:\/\/telegram-id-directvpn@18.168.15.115:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http\/1.1#<i"
+        "trojan:\/\/auto@104.17.142.12:443?path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&amp;security=tls&amp;host=trojanfree-76s.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=trojanfree-76s.pages.dev#<i"
     ],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1QXU3TmhGbWNCcU1uaWthNEtWazdoNFpkVjN3RDRoRnRKOFBKM0FsSHpMZVUxY2hFQmF6MTlhNjQzcTdoQlBW@ams1.fromblancwithlove.com:19175#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
