@@ -1,25 +1,29 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjQ1Ljk0LjY4LjIxMCIsICJwb3J0IjogIjQxNTEwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIxOGUxMWJiMS0yZWNjLTQ3MDAtOTAyZS05YTE3MmI3NjJiYmQiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlN1VuaXRlZCBLaW5nZG9tIn0=<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-7nr.pages.dev:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=jOINV2ngfast-7nr.PAges.Dev&amp;type=ws&amp;sni=joinV2NGFasT-7Nr.pAgeS.DeV#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JoiNMAhdISERver-Bg3.pAGES.DEv&amp;fp=randomized&amp;type=ws&amp;sni=JoInMahDISeRver-bg3.PAGes.Dev#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JoiNMAhdISERver-Bg3.pAGES.DEv&amp;fp=randomized&amp;type=ws&amp;sni=JoInMahDISeRver-bg3.PAGes.Dev#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JOiNMAHdiSERVer-BG3.Pages.dEv&amp;fp=randomized&amp;type=ws&amp;sni=JOiNmahDIsErVER-Bg3.PAGes.deV#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=JOiNMAHdiSERVer-BG3.Pages.dEv&amp;fp=randomized&amp;type=ws&amp;sni=JOiNmahDIsErVER-Bg3.PAGes.deV#<i",
-        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
-        "vless:\/\/4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443?path=%2FYE8wFQQnzARDsNUP%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=bpb-worker-panel1-e4p.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=BPb-WOrKeR-paneL1-e4P.PAGES.DEV#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-7nr.pages.dev:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=jOINV2ngfast-7nr.PAges.Dev&amp;type=ws&amp;sni=joinV2NGFasT-7Nr.pAgeS.DeV#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-7nr.pages.dev:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=jOINV2ngfast-7nr.PAges.Dev&amp;type=ws&amp;sni=joinV2NGFasT-7Nr.pAgeS.DeV#<i",
-        "vless:\/\/TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=\/telegram-NUFiLTER#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2#<i"
+        "vless:\/\/a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.117:443?security=tls&amp;sni=cg.ylks.xyz&amp;type=ws&amp;host=cg.ylks.xyz&amp;path=%2Fblue#<i",
+        "vless:\/\/a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.58.252:443?security=tls&amp;sni=lg.ylks01.eu.org&amp;type=ws&amp;host=lg.ylks01.eu.org&amp;path=%2Fblue#<i",
+        "vless:\/\/a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.216.16:443?security=tls&amp;sni=lg.kpcloud.eu.org&amp;type=ws&amp;host=lg.kpcloud.eu.org&amp;path=%2F%3Fed%3D2048#<i",
+        "vless:\/\/a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.117:443?security=tls&amp;sni=cg.ylks.xyz&amp;type=ws&amp;host=cg.ylks.xyz&amp;path=%2Fblue#<i",
+        "vless:\/\/a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.58.252:443?security=tls&amp;sni=lg.ylks01.eu.org&amp;type=ws&amp;host=lg.ylks01.eu.org&amp;path=%2Fblue#<i",
+        "vless:\/\/a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.117:443?security=tls&amp;sni=cg.ylks.xyz&amp;type=ws&amp;host=cg.ylks.xyz&amp;path=%2Fblue#<i",
+        "vless:\/\/a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.216.16:443?security=tls&amp;sni=lg.kpcloud.eu.org&amp;type=ws&amp;host=lg.kpcloud.eu.org&amp;path=%2F%3Fed%3D2048#<i",
+        "vless:\/\/a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.117:443?security=tls&amp;sni=cg.ylks.xyz&amp;type=ws&amp;host=cg.ylks.xyz&amp;path=%2Fblue#<i",
+        "vless:\/\/a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.216.16:443?security=tls&amp;sni=lg.kpcloud.eu.org&amp;type=ws&amp;host=lg.kpcloud.eu.org&amp;path=%2F%3Fed%3D2048#<i"
     ],
     "trojan": [
-        "trojan:\/\/telegram-id-directvpn@52.201.181.156:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http\/1.1#<i",
-        "trojan:\/\/telegram-id-directvpn@52.201.181.156:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http\/1.1#<i"
+        "trojan:\/\/cbaabca-acba-aacb-badc-bcabcbacabac@127.0.0.1:1080?security=tls&amp;type=tcp#<i",
+        "trojan:\/\/cbaabca-acba-aacb-badc-bcabcbacabac@127.0.0.1:1080?security=tls&amp;type=tcp#<i",
+        "trojan:\/\/cbaabca-acba-aacb-badc-bcabcbacabac@127.0.0.1:1080?security=tls&amp;type=tcp#<i"
     ],
-    "ss": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@206.119.175.50:8388#<i",
+        "ss:\/\/c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvd05qZ3pZalJpWkMwMVlURTVMVFJrWVdVdFltWXdOeTAzWlRkbVpUVmtabVE0TVRN@183.240.255.75:11001#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@206.119.175.50:8388#<i",
+        "ss:\/\/c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvd05qZ3pZalJpWkMwMVlURTVMVFJrWVdVdFltWXdOeTAzWlRkbVpUVmtabVE0TVRN@183.240.255.75:11001#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
