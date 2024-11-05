@@ -1,22 +1,21 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/SVNTEAM-4@104.17.234.128:8080?path=%2Ftelegram-SVNTEAM%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=JOIN.SVNTEAM.can.speedtest.net.FiSvn.ir.&amp;type=httpupgrade#<i",
-        "vless:\/\/a446ef35-6c74-40d9-910c-f63d60197d9b@de-08.pezesh-kian.com:2095?path=%2Fenglish.tgju.org%2Fde-08.pezesh-kian.com%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;type=httpupgrade#<i",
-        "vless:\/\/a446ef35-6c74-40d9-910c-f63d60197d9b@de-08.pezesh-kian.com:2095?path=%2Fenglish.tgju.org%2Fde-08.pezesh-kian.com%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;type=httpupgrade#<i",
-        "vless:\/\/SVNTEAM-4@104.17.234.128:8080\/?type=httpupgrade&amp;path=%2F%3Fed%3D8080&amp;host=l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.nisvn.iR.&amp;security=none#<i",
-        "vless:\/\/SVNTEAM-4@104.17.234.128:8080\/?type=httpupgrade&amp;path=%2F%3Fed%3D8080&amp;host=l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.nisvn.iR.&amp;security=none#<i",
-        "vless:\/\/SVNTEAM-4@104.17.234.128:8080?path=%2Ftelegram-SVNTEAM%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=JOIN.SVNTEAM.eng.speedtest.net.FiSvn.ir.&amp;type=httpupgrade#<i",
-        "vless:\/\/SVNTEAM-4@104.17.234.128:8080?path=%2Ftelegram-SVNTEAM%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=JOIN.SVNTEAM.fra.speedtest.net.FiSvn.ir.&amp;type=httpupgrade#<i",
-        "vless:\/\/SVNTEAM-4@104.17.234.128:8080?path=%2Ftelegram-SVNTEAM%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=JOIN.SVNTEAM.can.speedtest.net.FiSvn.ir.&amp;type=httpupgrade#<i",
-        "vless:\/\/SVNTEAM-4@104.17.234.128:8080?path=%2Ftelegram-SVNTEAM%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=JOIN.SVNTEAM.can.speedtest.net.FiSvn.ir.&amp;type=httpupgrade#<i"
+        "vless:\/\/acabbac-caab-acba-cdab-acbcacacbabb@127.0.0.1:1080?security=tls&amp;type=tcp#<i",
+        "vless:\/\/76c1cf10-8cef-47ce-ba03-076ada44d4c4@104.17.234.114:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;host=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&amp;fp=chrome&amp;type=ws&amp;sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de#<i",
+        "vless:\/\/76c1cf10-8cef-47ce-ba03-076ada44d4c4@104.17.234.114:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;host=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&amp;fp=chrome&amp;type=ws&amp;sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de#<i",
+        "vless:\/\/76c1cf10-8cef-47ce-ba03-076ada44d4c4@104.17.234.128:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&amp;fp=randomized&amp;type=ws&amp;sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de#<i",
+        "vless:\/\/76c1cf10-8cef-47ce-ba03-076ada44d4c4@104.17.234.128:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&amp;fp=randomized&amp;type=ws&amp;sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de#<i",
+        "vless:\/\/56f45772-6840-4297-8313-f905304ae503@www.speedtest.net:8880?path=\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.A.lightning-6.LiVE.&amp;type=ws#<i",
+        "vless:\/\/56f45772-6840-4297-8313-f905304ae503@www.speedtest.net:8880?path=\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.B.lightning-6.LiVE.&amp;type=ws#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@3.10.78.149:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;path=\/telegram-channel-vlessconfig-ws#<i",
+        "vless:\/\/acabbac-caab-acba-cdab-acbcacacbabb@127.0.0.1:1080?security=tls&amp;type=tcp#<i",
+        "vless:\/\/DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
+        "vless:\/\/DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/76c1cf10-8cef-47ce-ba03-076ada44d4c4@104.17.234.128:443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h2#<i"
     ],
     "trojan": [],
-    "ss": [
-        "ss:\/\/YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.35:5004#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.111:8000#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.92.110:8009#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
