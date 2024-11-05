@@ -1,29 +1,20 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogInJ1c3NpYS5jb20iLCAicG9ydCI6ICIyMDk1IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIxOGQ5NjE5MC1jMTBmLTQ0OGYtYTgyYS0yZDM2ZGY1YzNjZGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2dpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAiaXAxMS42MDE2NzI1Lnh5eiIsICJ0bHMiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/03633c5e-9be8-45e9-a3d6-2729d9d4ac82@live.skornorth.com:443?type=ws&amp;host=Join_Evay_vpn.ir&amp;path=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&amp;security=tls&amp;fp=firefox&amp;sni=live.skornorth.com&amp;alpn=h2,http\/1.1#<i",
         "vless:\/\/DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
-        "vless:\/\/03633c5e-9be8-45e9-a3d6-2729d9d4ac82@live.skornorth.com:443?type=ws&amp;host=Join_Evay_vpn.ir&amp;path=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&amp;security=tls&amp;fp=firefox&amp;sni=live.skornorth.com&amp;alpn=h2,http\/1.1#<i",
         "vless:\/\/DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#<i",
-        "vless:\/\/336a1cc3-dc1c-4d20-b2cc-618b50dc3f23@91.107.154.43:2083?security=reality&amp;encryption=none&amp;pbk=nS5815rpEsXGTPO9hjUW7KPMg_gkIgSfKHIN-JoLzg4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=varzesh3.com&amp;sid=1c5fb555a9609e45#<i",
-        "vless:\/\/a446ef35-6c74-40d9-910c-f63d60197d9b@de-08.pezesh-kian.com:2095?path=%2Fenglish.tgju.org%2Fde-08.pezesh-kian.com%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;type=httpupgrade#<i",
-        "vless:\/\/a446ef35-6c74-40d9-910c-f63d60197d9b@de-08.pezesh-kian.com:2095?path=%2Fenglish.tgju.org%2Fde-08.pezesh-kian.com%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;type=httpupgrade#<i",
-        "vless:\/\/03633c5e-9be8-45e9-a3d6-2729d9d4ac82@live.skornorth.com:443?type=ws&amp;host=Join_Evay_vpn.ir&amp;path=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&amp;security=tls&amp;fp=firefox&amp;sni=live.skornorth.com&amp;alpn=h2#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.75.139:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;path=\/telegram-channel-vlessconfig-ws#<i",
-        "vless:\/\/bc673eaa-656f-46c9-a8ec-d34b17557580@151.101.194.228:443?security=tls&amp;sni=pscresearch.faculty.ucdavis.edu&amp;type=ws&amp;host=inyy.com&amp;path=ws%2F%3Fed%3D2048#<i"
+        "vless:\/\/b551a105-2391-4182-8e5a-5e0d3323fc27@re.iranfastfod.ir:6543?security=reality&amp;encryption=none&amp;pbk=W0KzAPz2e3FFi-yzHzDdeo4mH_ZmkGb97dny2fkHjjY&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=www.speedtest.net&amp;sid=ad52706b#<i",
+        "vless:\/\/7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.17.147.22:80?path=%2FTelegram-Xv2ry2%3Fed%3D512&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.nl1.72.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&amp;type=ws#<i",
+        "vless:\/\/7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.17.147.22:80?path=%2FTelegram-Xv2ry2%3Fed%3D512&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.nl1.72.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&amp;type=ws#<i",
+        "vless:\/\/a13df940-020c-465f-bc89-ee5279b5cd6a@20.127.201.36:443?security=tls&amp;sni=lg.kpcloud.eu.org&amp;type=ws&amp;host=lg.kpcloud.eu.org&amp;path=%2F%3Fed%3D2048#<i"
     ],
     "trojan": [
-        "trojan:\/\/de45945e-65ea-4d13-b29d-1835a4281023@ak2.firewoodzz.com:35005?allowInsecure=0&amp;sni=updates.sub-nthu.com#<i",
-        "trojan:\/\/JoiN_DAilY_COnfiGs@172.67.204.84:443?security=tls&amp;sni=kanale-daily-configs.blackoutconnection.ir&amp;type=ws&amp;host=kanale-daily-configs.blackoutconnection.ir&amp;path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&amp;fp=randomized#<i",
-        "trojan:\/\/auto@104.20.17.146:443?security=tls&amp;sni=b96ef9ae.trojanfree-76s.pages.dev&amp;type=ws&amp;host=b96ef9ae.trojanfree-76s.pages.dev&amp;path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#<i",
-        "trojan:\/\/de45945e-65ea-4d13-b29d-1835a4281023@ak2.firewoodzz.com:35005?allowInsecure=0&amp;sni=updates.sub-nthu.com#<i",
-        "trojan:\/\/JoiN_DAilY_COnfiGs@172.67.204.84:443?security=tls&amp;sni=kanale-daily-configs.blackoutconnection.ir&amp;type=ws&amp;host=kanale-daily-configs.blackoutconnection.ir&amp;path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&amp;fp=randomized#<i"
+        "trojan:\/\/telegram-id-privatevpns@3.125.54.187:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http\/1.1#<i"
     ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTBJczFnMEFIM1cxOG9PSDNSbEp5@35.93.40.37:28351#<i",
-        "ss:\/\/c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwbVpqaGxNekEyWlMwM09UQTRMVFExTnpZdFlURTBaQzB5WVRabE1ETTNZVFk1TldJ@61.172.235.22:11001#<i"
+        "ss:\/\/YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@142.202.49.122:8118#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.56:9102#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.89:7001#<i"
     ],
     "tuic": [],
     "hysteria": [],
