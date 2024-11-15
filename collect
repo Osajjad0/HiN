@@ -1,27 +1,22 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/202c2198-61f5-436c-a0bf-aac29fc97a24@162.159.153.4:2083?security=tls&amp;sni=piaz.hazhin4.top&amp;type=ws&amp;host=piaz.hazhin4.top&amp;path=%2FMr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20-Mr-proxy-20%2F%3Fed%3D2048&amp;fp=randomized&amp;alpn=h3%2Ch2%2Chttp%2F1.1#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.237.12:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
+        "vless:\/\/8f8622b9-4ddf-4568-af35-3b75f2f82191@104.18.165.38:8443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;host=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&amp;fp=chrome&amp;type=ws&amp;sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de#<i",
         "vless:\/\/DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.237.12:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
+        "vless:\/\/8f8622b9-4ddf-4568-af35-3b75f2f82191@www.speedtest.net:8443?path=\/Telegram#<i",
+        "vless:\/\/8f8622b9-4ddf-4568-af35-3b75f2f82191@104.18.165.38:8443?path=\/Telegram,VPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;host=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&amp;fp=chrome&amp;type=ws&amp;sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de#<i",
         "vless:\/\/DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#<i",
-        "vless:\/\/60d5bd1b-7ccd-4754-a90a-33cca1ba97a8@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinshhproxybedeeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
-        "vless:\/\/60d5bd1b-7ccd-4754-a90a-33cca1ba97a8@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinshhproxybedeeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
-        "vless:\/\/8c9f6e0e-5b26-4c4b-a779-706d031b066a@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinshhproxybedeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
-        "vless:\/\/8c9f6e0e-5b26-4c4b-a779-706d031b066a@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinshhproxybedeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i"
+        "vless:\/\/TELEGRAM-NUFiLTER@151.101.3.8:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=dachibodoberim.net&amp;type=ws#<i",
+        "vless:\/\/TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Berim3arddekar.net&amp;type=ws#<i",
+        "vless:\/\/39d538ba-a214-46b7-a6e4-1599880dea17@b2n.ir:443?type=ws&amp;host=ttt.piaz.link.&amp;path=\/@mypiaz.ir?ed%3D2048&amp;security=tls&amp;fp=random&amp;sni=ttt.piaz.link.#<i",
+        "vless:\/\/5232ec47-5d1c-4884-aa96-a6f07e6352c2@185.58.240.75:443?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-7nr.pages.dev:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=jOINV2ngfast-7nr.PAges.Dev&amp;type=ws&amp;sni=joinV2NGFasT-7Nr.pAgeS.DeV#<i",
+        "vless:\/\/39d538ba-a214-46b7-a6e4-1599880dea17@b2n.ir:443?path=%2F%40mypiaz.ir%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=ttt.piaz.link.&amp;fp=safari&amp;type=ws&amp;sni=ttt.piaz.link.#<i",
+        "vless:\/\/8f8622b9-4ddf-4568-af35-3b75f2f82191@www.speedtest.net:8443?path=\/Telegram#<i",
+        "vless:\/\/39d538ba-a214-46b7-a6e4-1599880dea17@b2n.ir:443?path=%2F%40mypiaz.ir%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=ttt.piaz.link.&amp;fp=safari&amp;type=ws&amp;sni=ttt.piaz.link.#<i"
     ],
-    "trojan": [
-        "trojan:\/\/telegram-id-privatevpns@3.122.167.97:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
-    ],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnTno3M1ViQUxMZE80UktHYzk5R3Vs@213.108.23.243:15584#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnTno3M1ViQUxMZE80UktHYzk5R3Vs@213.108.23.243:15584#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#<i"
-    ],
+    "trojan": [],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
