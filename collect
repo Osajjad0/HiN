@@ -1,21 +1,29 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJhZGQiOiAicC52YWxraW5pbi5vcmciLCAiYWlkIjogMSwgImhvc3QiOiAicC52YWxraW5pbi5vcmciLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImxpbmt2d3MiLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/a446ef35-6c74-40d9-910c-f63d60197d9b@de-08.pezesh-kian.com:2095?path=%2Fenglish.tgju.org%2Fde-08.pezesh-kian.com%3Fed%3D2095&amp;security=none&amp;encryption=none&amp;type=httpupgrade#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@54.154.149.29:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
-        "vless:\/\/83082070-6b71-4e48-937a-3e4bf304fe68@172.66.44.87:443?security=tls&amp;host=channel-eliv2ray.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=ChAnNeL-ELiV2rAY.pagES.dEv#<i",
-        "vless:\/\/76c554ee-0626-4c76-827d-40432957a01e@79.127.70.87:2096?security=none&amp;encryption=none&amp;host=Doostihaa.coM+%40Client_Proo&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/ffd32c63-3151-4abf-8e4d-0042cc6adf88@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=join.bede.VPNCUSTOMIZE.www.speedtest.net.de.Abrha.co.za&amp;fp=chrome&amp;type=ws&amp;sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.de.Abrha.co.za#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@54.154.149.29:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@54.154.149.29:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i"
+        "vless:\/\/bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.47.33:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=cfpage-39t.pages.dev&amp;fp=chrome&amp;type=ws&amp;sni=cfpage-39t.pages.dev#<i",
+        "vless:\/\/bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.47.33:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=cfpage-39t.pages.dev&amp;fp=chrome&amp;type=ws&amp;sni=cfpage-39t.pages.dev#<i",
+        "vless:\/\/6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=1223-9ux.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=1223-9ux.pages.dev#<i",
+        "vless:\/\/6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=1223-9ux.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=1223-9ux.pages.dev#<i",
+        "vless:\/\/50b7fc84-85b4-4043-b1f7-6477c9017a44@162.159.152.2:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=purlitefastest.pages.dev&amp;type=ws&amp;sni=purlitefastest.pages.dev#<i",
+        "vless:\/\/50b7fc84-85b4-4043-b1f7-6477c9017a44@162.159.152.2:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=purlitefastest.pages.dev&amp;type=ws&amp;sni=purlitefastest.pages.dev#<i",
+        "vless:\/\/d8038434-51de-440b-9521-d114503e57af@104.18.37.146:8443?path=%2FTELEGRAM-Daily_Configs%3Fed%3D1048&amp;security=tls&amp;encryption=none&amp;alpn=h2#<i",
+        "vless:\/\/2928d83a-ca75-4d52-b437-fa78c7601378@104.22.73.111:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=freedom-1rj.pages.dev&amp;type=ws&amp;sni=freedom-1rj.pages.dev#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-7nr.pages.dev:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=jOINV2ngfast-7nr.PAges.Dev&amp;type=ws&amp;sni=joinV2NGFasT-7Nr.pAgeS.DeV#<i",
+        "vless:\/\/d3a12e79-ef42-4268-b367-42eeb3494e60@104.21.233.139:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=Hagh.PaGes.DEv&amp;type=ws&amp;sni=Hagh.PaGes.DEv#<i",
+        "vless:\/\/6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=1223-9ux.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=1223-9ux.pages.dev#<i",
+        "vless:\/\/50b7fc84-85b4-4043-b1f7-6477c9017a44@162.159.152.2:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=purlitefastest.pages.dev&amp;type=ws&amp;sni=purlitefastest.pages.dev#<i",
+        "vless:\/\/DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
+        "vless:\/\/DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=1223-9ux.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=1223-9ux.pages.dev#<i",
+        "vless:\/\/6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=1223-9ux.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=1223-9ux.pages.dev#<i"
     ],
-    "trojan": [
-        "trojan:\/\/telegram-id-directvpn@15.222.136.72:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/telegram-id-directvpn@15.222.136.72:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@63.246.112.81:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@63.246.112.81:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+    "trojan": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i"
     ],
-    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
