@@ -1,8 +1,29 @@
 {
     "vmess": [],
-    "vless": [],
-    "trojan": [],
-    "ss": [],
+    "vless": [
+        "vless:\/\/b037ff46-dfc8-43dd-a1b0-1afd0e1f2157@hajlab.ucdavis.edu:443?type=ws&amp;host=Join_Evay_vpn.ir&amp;path=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&amp;security=tls&amp;fp=firefox&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/41062be2-5dcc-479a-bd5c-c3942502561d@79.127.70.123:2087?security=none&amp;encryption=none&amp;host=Doostihaa.coM+%40FergalVpnMod&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/2928d83a-ca75-4d52-b437-fa78c7601378@162.159.44.154:443?path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=freedom-1rj.pages.dev&amp;type=ws&amp;sni=freedom-1rj.pages.dev#<i",
+        "vless:\/\/41062be2-5dcc-479a-bd5c-c3942502561d@79.127.70.123:2087?security=none&amp;encryption=none&amp;host=Doostihaa.coM+%40FergalVpnMod&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/2928d83a-ca75-4d52-b437-fa78c7601378@162.159.44.154:443?path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=freedom-1rj.pages.dev&amp;type=ws&amp;sni=freedom-1rj.pages.dev#<i",
+        "vless:\/\/41062be2-5dcc-479a-bd5c-c3942502561d@79.127.70.123:2087?security=none&amp;encryption=none&amp;host=Doostihaa.coM+%40FergalVpnMod&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.67.108:443?path=%2FjA5UlhrxfCQq0pAb%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=pPaL03.TorRis-bRAyLiN.woRKeRS.deV&amp;fp=randomized&amp;type=ws&amp;sni=PPAl03.toRRis-BRaYlIN.worKeRs.dEV#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.67.108:443?path=%2FjA5UlhrxfCQq0pAb%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=pPaL03.TorRis-bRAyLiN.woRKeRS.deV&amp;fp=randomized&amp;type=ws&amp;sni=PPAl03.toRRis-BRaYlIN.worKeRs.dEV#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.67.108:443?path=%2FjA5UlhrxfCQq0pAb%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=pPaL03.TorRis-bRAyLiN.woRKeRS.deV&amp;fp=randomized&amp;type=ws&amp;sni=PPAl03.toRRis-BRaYlIN.worKeRs.dEV#<i",
+        "vless:\/\/f20f66d6-fb65-4d19-9b71-381426933445@ru.nimcllub-net26.site:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ru.nimcllub-net26.site#<i",
+        "vless:\/\/f20f66d6-fb65-4d19-9b71-381426933445@ru.nimcllub-net26.site:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ru.nimcllub-net26.site#<i"
+    ],
+    "trojan": [
+        "trojan:\/\/auto@104.26.12.31:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&amp;security=tls&amp;host=trojanmz.pages.dev&amp;type=ws&amp;sni=trojanmz.pages.dev#<i",
+        "trojan:\/\/auto@104.26.12.31:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&amp;security=tls&amp;host=trojanmz.pages.dev&amp;type=ws&amp;sni=trojanmz.pages.dev#<i"
+    ],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjamxOaERBWlFNdURINk1JOEYwRTZt@62.210.88.22:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjamxOaERBWlFNdURINk1JOEYwRTZt@62.210.88.22:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUkc2SEt2RFlwM01meFBVZDRCQldm@37.221.126.186:54335#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUkc2SEt2RFlwM01meFBVZDRCQldm@37.221.126.186:54335#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjamxOaERBWlFNdURINk1JOEYwRTZt@62.210.88.22:443#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
