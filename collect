@@ -1,25 +1,28 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiNjUuNzUuMTkyLjQ4IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI0Njc0Y2JmYy1mOWFiLTRjNDctZWVjMS1iYTBhOThhZTM3MGUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLzY3amZzZiIsICJwb3J0IjogMzc1NDMsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVuaXRlZCBTdGF0ZXMifQ==<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.129:443?encryption=none&amp;security=tls&amp;sni=aw.ylks.xyz&amp;type=ws&amp;host=aw.ylks.xyz&amp;path=%2F%3Fed%3D2048#<i",
-        "vless:\/\/c95a5a3a-5a4c-4ee5-b11a-96f72cf80661@japantimes.co.jp:443?encryption=none&amp;security=tls&amp;sni=4cbba020.fastpurnet3.pages.dev&amp;fp=randomized&amp;type=ws&amp;host=4cbba020.fastpurnet3.pages.dev&amp;path=%2F4cbba020.mobilesignal.pages.dev%2F%3Fed%3D2560#<i",
-        "vless:\/\/telegram__v2rayng_76@Zula.ir:80?path=%2F%3Fed%3D2053&amp;security=none&amp;encryption=none&amp;host=bo2bo2.bia2bax.shoP.&amp;type=ws#<i",
-        "vless:\/\/2d22be53-0b1e-4714-b79f-dcc025cfc63d@104.19.55.158:443?security=tls&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&amp;type=ws&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&amp;path=%2F%3Fed%3D2048&amp;fp=chrome&amp;alpn=h3%2Ch2#<i",
-        "vless:\/\/48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.129:443?encryption=none&amp;security=tls&amp;sni=aw.ylks.xyz&amp;type=ws&amp;host=aw.ylks.xyz&amp;path=%2F%3Fed%3D2048#<i",
-        "vless:\/\/03633612-cb32-46cc-8f93-7103d1511adc@www.speedtest.net:2095?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=mahxmc.mahxraytm.com&amp;type=httpupgrade#<i"
+        "vless:\/\/47be24c0-aa63-4077-a730-b32f10a251ce@88.119.175.149:2083\/?type=tcp&amp;encryption=none&amp;sni=apple.com&amp;fp=chrome&amp;security=reality&amp;pbk=Q8pMgx4EupsfDhXDaZ7Ch5Ylpt-B3jwNj6jAqqG8Q1g&amp;sid=a53ea25a#<i",
+        "vless:\/\/a38fbcf4-edb4-4b2b-88dd-5c357c2af4ff@89.221.225.159:2053\/?type=tcp&amp;encryption=none&amp;sni=apple.com&amp;fp=chrome&amp;security=reality&amp;pbk=Am1Y8Hfk9DWE9SEticU93yF2G2PcC8bmgKpq_V5NuiI&amp;sid=e8ebda2f23f6#<i",
+        "vless:\/\/5957ca33-d8d9-4c2c-aadc-203270e33422@45.12.134.129:2053\/?type=tcp&amp;encryption=none&amp;sni=apple.com&amp;fp=chrome&amp;security=reality&amp;pbk=jpS_UPS4HEJApIV1DRW6omCRG8d2XuJXjj2FW7iT-mg&amp;sid=cc87#<i",
+        "vless:\/\/a35367d5-0edb-4882-b8b5-0249b820e114@213.252.232.175:2096\/?type=tcp&amp;encryption=none&amp;sni=apple.com&amp;fp=random&amp;security=reality&amp;pbk=PbUniy2w23tAs97ciXVClmXXRXtV1lb69dS-J9SFbAc&amp;sid=7c88bf8e#<i",
+        "vless:\/\/TELEGRAM-NUFiLTER@151.101.3.8:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Berim3arazekar.net&amp;type=ws#<i",
+        "vless:\/\/TELEGRAM-NUFiLTER@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=dachibodoberim.net&amp;type=ws#<i",
+        "vless:\/\/f8275dfe-4fd7-46b2-8d6c-de1891afb443@188.245.197.174:1618?security=reality&amp;encryption=none&amp;pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=wwww.refersion.com&amp;sid=3a622700e73c6642#<i",
+        "vless:\/\/3fd51f6e-680f-45f9-947f-42ab48208fe8@www.speedtest.net:8443?mode=gun&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;authority=&amp;fp=chrome&amp;type=grpc&amp;serviceName=%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN&amp;sni=02.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech#<i",
+        "vless:\/\/TELEGRAM-NUFiLTER@151.101.3.8:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Berim3arazekar.net&amp;type=ws#<i",
+        "vless:\/\/b037ff46-dfc8-43dd-a1b0-1afd0e1f2157@hajlab.ucdavis.edu:443?type=ws&amp;host=Join_Evay_vpn.ir&amp;path=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&amp;security=tls&amp;fp=firefox&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/TELEGRAM-NUFiLTER@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=dachibodoberim.net&amp;type=ws#<i",
+        "vless:\/\/f8275dfe-4fd7-46b2-8d6c-de1891afb443@188.245.197.174:1618?security=reality&amp;encryption=none&amp;pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=wwww.refersion.com&amp;sid=3a622700e73c6642#<i",
+        "vless:\/\/3fd51f6e-680f-45f9-947f-42ab48208fe8@www.speedtest.net:8443?mode=gun&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;authority=&amp;fp=chrome&amp;type=grpc&amp;serviceName=%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN%2C%40Everyday_VPN&amp;sni=02.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech#<i",
+        "vless:\/\/aca7039a-eb24-404d-94ac-28099c5b9afd@79.127.70.123:2083\/?encryption=none&amp;host=Doostihaa.coM&amp;type=tcp&amp;headerType=http#<i",
+        "vless:\/\/de44b044-8f90-4e18-b742-16591667ff96@20.217.216.51:2053\/?type=ws&amp;encryption=none&amp;host=edgetunnel-free.pages.dev&amp;path=%2F%3Fed%3D2048&amp;security=tls&amp;sni=edgetunnel-free.pages.dev&amp;fp=randomized#<i",
+        "vless:\/\/20fda433-1864-433b-b3dd-8f119fe4cafd@46.22.213.78:8443\/?type=ws&amp;encryption=none&amp;host=happy.mianfeicf.lol&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=happy.mianfeicf.lol#<i"
     ],
-    "trojan": [
-        "trojan:\/\/f181b265-5fd4-456e-ad2d-c9b0446e0d51@45.146.232.173:27001?allowInsecure=1&amp;sni=q08m.vgraxiw73s.hasyaf.cn#<i",
-        "trojan:\/\/ccababa-bcaa-acba-dacb-aacabcacbcbb@127.0.0.1:8080?security=tls&amp;type=tcp#<i",
-        "trojan:\/\/QwwHvrnN@36.151.192.198:42292?allowInsecure=1#<i",
-        "trojan:\/\/ccababa-bcaa-acba-dacb-aacabcacbcbb@127.0.0.1:8080?security=tls&amp;type=tcp#<i",
-        "trojan:\/\/ccababa-bcaa-acba-dacb-aacabcacbcbb@127.0.0.1:8080?security=tls&amp;type=tcp#<i",
-        "trojan:\/\/f181b265-5fd4-456e-ad2d-c9b0446e0d51@45.146.232.173:27001?allowInsecure=1&amp;sni=q08m.vgraxiw73s.hasyaf.cn#<i"
-    ],
+    "trojan": [],
     "ss": [
-        "ss:\/\/bm9uZTpiYWFiY2NhLWFhY2ItYmNhYS1jYmRhLWJjYWNjYmJhYmNhYQ==@127.0.0.1:8080#<i"
+        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.164:443#<i",
+        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.164:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#<i"
     ],
     "tuic": [],
     "hysteria": [],
