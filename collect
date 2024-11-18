@@ -1,30 +1,27 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjIzLjE2Mi4xNTIuMTc3IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMSIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiMjMuMTYyLjE1Mi4xNzciLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMiLCAic25pIjogIjIzLjE2Mi4xNTIuMTc3IiwgImFscG4iOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGViXHVkODNjXHVkZGY3RnJhbmNlIn0=<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/d3a12e79-ef42-4268-b367-42eeb3494e60@104.26.14.85:2096?encryption=none&amp;security=tls&amp;sni=hagh.pages.dev&amp;fp=random&amp;type=ws&amp;host=hagh.pages.dev&amp;path=%2F%3Fed%3D2048#<i",
-        "vless:\/\/4274368b-9caa-493a-b92f-b2022074e858@85.9.126.186:2052?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http#<i",
-        "vless:\/\/a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?encryption=none&amp;security=tls&amp;sni=iSaa1.PAGeS.DeV&amp;alpn=h2%2Chttp%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=iSAA1.paGEs.DEV&amp;path=%2FBDwnEtVwG7BS0S9f%3Fed%3D2560#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:80?path=%2FygOspaD3CyMmYSg8%2FMTQ4LjI1MS4xMTAuMTc2%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=cxrolvpn.cxrolvpn8767.workers.dev&amp;type=ws#<i"
+        "vless:\/\/9cbdc595-1d8d-4443-af07-99149153d025@whatismyipaddress.com:443?path=%2Fabcdews&amp;security=tls&amp;encryption=none&amp;host=2cf501ce5da94f4d9eaf.starsha-goodd.info&amp;fp=chrome&amp;type=ws&amp;sni=2cf501ce5da94f4d9eaf.starsha-goodd.info#<i",
+        "vless:\/\/f20f66d6-fb65-4d19-9b71-381426933445@ru.nimcllub-net26.site:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ru.nimcllub-net26.site#<i",
+        "vless:\/\/9cbdc595-1d8d-4443-af07-99149153d025@whatismyipaddress.com:443?path=%2Fabcdews&amp;security=tls&amp;encryption=none&amp;host=ae4bb2e40aaf47a9b331.starsha-goodd.info&amp;fp=chrome&amp;type=ws&amp;sni=ae4bb2e40aaf47a9b331.starsha-goodd.info#<i",
+        "vless:\/\/9cbdc595-1d8d-4443-af07-99149153d025@chat.openai.com:443?path=%2Fabcdews&amp;security=tls&amp;encryption=none&amp;host=e16ebb1457c945089bc8.starsha-goodd.info&amp;fp=chrome&amp;type=ws&amp;sni=e16ebb1457c945089bc8.starsha-goodd.info#<i",
+        "vless:\/\/83082070-6b71-4e48-937a-3e4bf304fe68@172.66.44.87:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=channel-eliv2ray.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=ChAnNeL-ELiV2rAY.pagES.dEv#<i",
+        "vless:\/\/f571e7f0-f657-45c3-a474-09c2852f8113@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinshhproxybedeeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/f20f66d6-fb65-4d19-9b71-381426933445@ru.nimcllub-net26.site:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=randomized&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ru.nimcllub-net26.site#<i",
+        "vless:\/\/83082070-6b71-4e48-937a-3e4bf304fe68@172.66.44.87:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=channel-eliv2ray.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=ChAnNeL-ELiV2rAY.pagES.dEv#<i",
+        "vless:\/\/578ade22-1e58-4c37-ce01-bfad51a72c62@185.146.173.63:8443?mode=gun&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;authority=&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=1i3.diginoshops10.ir#<i",
+        "vless:\/\/9cbdc595-1d8d-4443-af07-99149153d025@chat.openai.com:443?path=%2Fabcdews&amp;security=tls&amp;encryption=none&amp;host=e16ebb1457c945089bc8.starsha-goodd.info&amp;fp=chrome&amp;type=ws&amp;sni=e16ebb1457c945089bc8.starsha-goodd.info#<i",
+        "vless:\/\/9cbdc595-1d8d-4443-af07-99149153d025@whatismyipaddress.com:443?path=%2Fabcdews&amp;security=tls&amp;encryption=none&amp;host=2cf501ce5da94f4d9eaf.starsha-goodd.info&amp;fp=chrome&amp;type=ws&amp;sni=2cf501ce5da94f4d9eaf.starsha-goodd.info#<i",
+        "vless:\/\/4324423e-23ed-421f-be18-5fe56bcb010f@hajlab.ucdavis.edu:443?type=ws&amp;host=Join_Evay_vpn.ir&amp;path=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&amp;security=tls&amp;fp=firefox&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/9cbdc595-1d8d-4443-af07-99149153d025@whatismyipaddress.com:443?path=%2Fabcdews&amp;security=tls&amp;encryption=none&amp;host=ae4bb2e40aaf47a9b331.starsha-goodd.info&amp;fp=chrome&amp;type=ws&amp;sni=ae4bb2e40aaf47a9b331.starsha-goodd.info#<i",
+        "vless:\/\/690f16d0-6425-462b-86e0-a70a8169c5d9@172.66.44.211:443?path=%2FTelegram-%40proxy_mtm%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=pardazeshvpn-tg97.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=pardazeshvpn-tg97.pages.dev#<i",
+        "vless:\/\/f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=late-tooth.granzinhannah.workers.dev&amp;type=ws#<i"
     ],
-    "trojan": [
-        "trojan:\/\/ComYEI7fQv@51.68.215.55:443?security=tls&amp;type=ws&amp;sni=uk-04.allhubb.info&amp;path=\/TBHDjkhbgbygcvbjhbfrASDFASdfapoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg#<i",
-        "trojan:\/\/bpb-trojan@172.67.70.92:443?type=ws&amp;sni=bpb.macser.us.kg&amp;host=bpb.macser.us.kg#<i",
-        "trojan:\/\/6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?security=tls&amp;type=ws&amp;sni=1223-9ux.pages.dev&amp;path=\/Telegram@V2ray_Alpha\/?ed=2048&amp;host=1223-9ux.pages.dev#<i",
-        "trojan:\/\/0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@172.66.44.87:443?security=tls&amp;type=ws&amp;sni=pardazeshvpn-tg7.pages.dev&amp;path=\/Telegram@V2ray_Alpha\/?ed=2048&amp;host=pardazeshvpn-tg7.pages.dev#<i",
-        "trojan:\/\/0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@172.66.44.87:443?security=tls&amp;type=ws&amp;sni=pardazeshvpn-tg7.pages.dev&amp;path=\/Telegram@V2ray_Alpha\/?ed=2048&amp;host=pardazeshvpn-tg7.pages.dev#<i",
-        "trojan:\/\/0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@172.66.44.87:443?security=tls&amp;type=ws&amp;sni=pardazeshvpn-tg7.pages.dev&amp;path=\/Telegram@V2ray_Alpha\/?ed=2048&amp;host=pardazeshvpn-tg7.pages.dev#<i",
-        "trojan:\/\/auto@104.20.22.57:443?security=tls&amp;type=ws&amp;sni=b96ef9ae.trojanfree-76s.pages.dev&amp;path=\/b96ef9ae.trojanfree-76s.pages.dev\/&amp;host=b96ef9ae.trojanfree-76s.pages.dev#<i",
-        "trojan:\/\/bpb-trojan@172.67.70.92:443?type=ws&amp;sni=bpb.macser.us.kg&amp;host=bpb.macser.us.kg#<i",
-        "trojan:\/\/auto@104.20.22.57:443?security=tls&amp;type=ws&amp;sni=b96ef9ae.trojanfree-76s.pages.dev&amp;path=\/b96ef9ae.trojanfree-76s.pages.dev\/&amp;host=b96ef9ae.trojanfree-76s.pages.dev#<i",
-        "trojan:\/\/ComYEI7fQv@51.68.215.55:443?security=tls&amp;type=ws&amp;sni=uk-04.allhubb.info&amp;path=\/TBHDjkhbgbygcvbjhbfrASDFASdfapoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg#<i",
-        "trojan:\/\/auto@104.18.12.229:2053?path=%2F&amp;security=tls&amp;host=e9464f45.trauma-2r4.pages.dev&amp;type=ws&amp;sni=e9464f45.trauma-2r4.pages.dev#<i"
-    ],
+    "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2U0RXU0JRMjhxZW0wcHdxVzhXSDJW@51.158.252.130:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMlF3WW1OaQ==@95.164.44.21:8388#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2U0RXU0JRMjhxZW0wcHdxVzhXSDJW@51.158.252.130:443#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWFU0NmZEZDNOOGVKYmY4TWI4NldG@62.133.63.21:65262#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDkxLjIxOS4yMzcuMTAyOjk5MA==#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5sQDg5LjIzLjEwMy4yMTo1MTU4NA==#<i"
     ],
     "tuic": [],
     "hysteria": [],
