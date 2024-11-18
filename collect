@@ -1,20 +1,30 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/5cf043d9-f752-4c05-be56-1570ade52ac6@104.18.165.38:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#<i",
-        "vless:\/\/4d05c1db-5401-407b-ba16-3c3b6300b4f6@www.speedtest.net:8080?path=\/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&amp;encryption=none&amp;security=none&amp;type=ws&amp;host=maznet---_-_---maznet2.iMamhussaIn.sbs.#<i",
-        "vless:\/\/1ff6ed6d-e93b-439a-a12f-1788d2492ce6@www.speedtest.net:8880?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet?ed=2048&amp;security=none&amp;encryption=none&amp;host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.&amp;type=ws#<i",
-        "vless:\/\/5cf043d9-f752-4c05-be56-1570ade52ac6@104.18.165.38:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#<i",
-        "vless:\/\/4d05c1db-5401-407b-ba16-3c3b6300b4f6@www.speedtest.net:8080?path=\/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&amp;encryption=none&amp;security=none&amp;type=ws&amp;host=maznet---_-_---maznet2.iMamhussaIn.sbs#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?allowInsecure=1&amp;sni=samane.ir&amp;type=ws&amp;host=samane.ir&amp;path=\/4u7lAS4nPLtz0xPz?ed=2560fp=iosfp=chromefp=iosfp=chrome#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.152.40:443?allowInsecure=1&amp;sni=Sanjeshp.Ir&amp;alpn=h2,http\/1.1&amp;type=ws&amp;host=Sanjeshp.Ir&amp;path=\/H?ed=2560fp=randomized&amp;security=tls#<i",
+        "vless:\/\/041f671a-63f5-4af1-a492-8cbff5797b8a@151.101.130.228:443?security=tls&amp;sni=zmaoz.faculty.ucdavis.edu&amp;type=ws&amp;host=Falcunargo.net&amp;alpn=http\/1.1&amp;allowInsecure=1#<i",
+        "vless:\/\/041f671a-63f5-4af1-a492-8cbff5797b8a@151.101.130.228:443?security=tls&amp;sni=zmaoz.faculty.ucdavis.edu&amp;type=ws&amp;host=Falcunargo.net&amp;alpn=http\/1.1&amp;allowInsecure=1#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?allowInsecure=1&amp;sni=samane.ir&amp;type=ws&amp;host=samane.ir&amp;path=\/4u7lAS4nPLtz0xPz?ed=2560fp=iosfp=chromefp=iosfp=chrome#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.1.255:443?allowInsecure=1&amp;sni=Sanjeshp.Ir&amp;alpn=h2,http\/1.1&amp;type=ws&amp;host=Sanjeshp.Ir&amp;path=\/H?ed=2560fp=randomized&amp;security=tls#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?allowInsecure=1&amp;sni=samane.ir&amp;type=ws&amp;host=samane.ir&amp;path=\/4u7lAS4nPLtz0xPz?ed=2560fp=iosfp=chromefp=iosfp=chrome#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.1.255:443?allowInsecure=1&amp;sni=Sanjeshp.Ir&amp;alpn=h2#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.1.255:443?allowInsecure=1&amp;sni=Sanjeshp.Ir&amp;alpn=h2,http\/1.1&amp;type=ws&amp;host=Sanjeshp.Ir&amp;path=\/H?ed=2560fp=randomized&amp;security=tls#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.152.40:443?allowInsecure=1&amp;sni=Sanjeshp.Ir&amp;alpn=h2,http\/1.1&amp;type=ws&amp;host=Sanjeshp.Ir&amp;path=\/H?ed=2560fp=randomized&amp;security=tls#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.152.40:443?allowInsecure=1&amp;sni=Sanjeshp.Ir&amp;alpn=h2,http\/1.1&amp;type=ws&amp;host=Sanjeshp.Ir&amp;path=\/H?ed=2560fp=randomized&amp;security=tls#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?allowInsecure=1&amp;sni=samane.ir&amp;type=ws&amp;host=samane.ir&amp;path=\/4u7lAS4nPLtz0xPz?ed=2560fp=iosfp=chromefp=iosfp=chrome#<i",
         "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
-        "vless:\/\/4d05c1db-5401-407b-ba16-3c3b6300b4f6@www.speedtest.net:8080?path=\/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&amp;encryption=none&amp;security=none&amp;type=ws&amp;host=maznet---_-_---maznet2.iMamhussaIn.sbs.#<i",
-        "vless:\/\/4d05c1db-5401-407b-ba16-3c3b6300b4f6@www.speedtest.net:8080?path=\/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&amp;encryption=none&amp;security=none&amp;type=ws&amp;host=maznet---_-_---maznet2.iMamhussaIn.sbs.#<i",
-        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#<i",
-        "vless:\/\/1ff6ed6d-e93b-439a-a12f-1788d2492ce6@www.speedtest.net:8880?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet?ed=2048&amp;security=none&amp;encryption=none&amp;host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.&amp;type=ws#<i",
-        "vless:\/\/1ff6ed6d-e93b-439a-a12f-1788d2492ce6@www.speedtest.net:8880?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet?ed=2048&amp;security=none&amp;encryption=none&amp;host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.&amp;type=ws#<i"
+        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#<i"
     ],
-    "trojan": [],
-    "ss": [],
+    "trojan": [
+        "trojan:\/\/auto@104.20.20.162:443?security=tls&amp;sni=b96ef9ae.trojanfree-76s.pages.dev&amp;type=ws&amp;host=b96ef9ae.trojanfree-76s.pages.dev&amp;path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#<i",
+        "trojan:\/\/f181b265-5fd4-456e-ad2d-c9b0446e0d51@45.146.232.172:27001?allowInsecure=1&amp;sni=q08m.vgraxiw73s.hasyaf.cn#<i",
+        "trojan:\/\/f181b265-5fd4-456e-ad2d-c9b0446e0d51@45.146.232.171:27001?security=tls&amp;sni=q08m.vgraxiw73s.hasyaf.cn&amp;type=tcp#<i",
+        "trojan:\/\/f181b265-5fd4-456e-ad2d-c9b0446e0d51@45.146.232.171:27001?security=tls&amp;sni=q08m.vgraxiw73s.hasyaf.cn&amp;type=tcp#<i"
+    ],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
