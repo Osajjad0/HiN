@@ -1,28 +1,28 @@
 {
     "vmess": [],
-    "vless": [
-        "vless:\/\/47f78a35-9378-4ba8-97d3-959cbaa36050@151.101.3.8:80?serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&amp;path=%2F%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79%3Fed%3D2048&amp;serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&amp;security=none&amp;encryption=none&amp;host=barkatc1.ir&amp;type=ws#<i",
-        "vless:\/\/15f34214-d8de-41e9-ba72-93daeafc59ef@chatgpt.com:2087?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=subhiddify.mmdv2.host&amp;type=ws&amp;sni=subhiddify.mmdv2.host#<i",
-        "vless:\/\/15f34214-d8de-41e9-ba72-93daeafc59ef@chatgpt.com:2087?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=subhiddify.mmdv2.host&amp;type=ws&amp;sni=subhiddify.mmdv2.host#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.79:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=BloOM-cHh.PagEs.dEv&amp;type=ws&amp;sni=BloOM-cHh.PagEs.dEv#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.79:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=BloOM-cHh.PagEs.dEv&amp;type=ws&amp;sni=BloOM-cHh.PagEs.dEv#<i",
-        "vless:\/\/15f34214-d8de-41e9-ba72-93daeafc59ef@chatgpt.com:2087?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=subhiddify.mmdv2.host&amp;type=ws&amp;sni=subhiddify.mmdv2.host#<i"
-    ],
+    "vless": [],
     "trojan": [
-        "trojan:\/\/eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@alihk.yuwenle.vip:3333\/?type=tcp&amp;security=tls#<i",
-        "trojan:\/\/telegram-id-privatevpns@35.156.231.14:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@yxkrvol.yuwenle.vip:3333\/?type=tcp&amp;security=tls#<i"
+        "trojan:\/\/c5691b8f-d833-41e4-9295-769f3edb4cd2@95.164.38.151:443\/?type=tcp&amp;security=tls&amp;sni=customer-95-164-38-151.stark-industries.solutions&amp;allowInsecure=1#<i",
+        "trojan:\/\/c5691b8f-d833-41e4-9295-769f3edb4cd2@95.164.38.151:443\/?type=tcp&amp;security=tls&amp;sni=customer-95-164-38-151.stark-industries.solutions&amp;allowInsecure=1#<i",
+        "trojan:\/\/c5691b8f-d833-41e4-9295-769f3edb4cd2@45.67.229.222:443\/?type=tcp&amp;security=tls&amp;sni=customer-45-67-229-222.stark-industries.solutions&amp;allowInsecure=1#<i",
+        "trojan:\/\/c5691b8f-d833-41e4-9295-769f3edb4cd2@95.164.38.151:443\/?type=tcp&amp;security=tls&amp;sni=customer-95-164-38-151.stark-industries.solutions&amp;allowInsecure=1#<i",
+        "trojan:\/\/c5691b8f-d833-41e4-9295-769f3edb4cd2@95.164.38.151:443\/?type=tcp&amp;security=tls&amp;sni=customer-95-164-38-151.stark-industries.solutions&amp;allowInsecure=1#<i",
+        "trojan:\/\/c5691b8f-d833-41e4-9295-769f3edb4cd2@45.67.229.222:443\/?type=tcp&amp;security=tls&amp;sni=customer-45-67-229-222.stark-industries.solutions&amp;allowInsecure=1#<i"
     ],
     "ss": [
-        "ss:\/\/YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.100:443#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5003#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.248.122:7002#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3.11.192.226:443#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5003#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.248.122:7002#<i"
+        "ss:\/\/YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@23.157.40.103:9101#<i",
+        "ss:\/\/YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@45.89.52.66:9043#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.203:443#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@23.150.152.16:9102#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.119:5601#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.150.152.16:8118#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.87.225:5499#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#<i",
+        "ss:\/\/YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@45.89.52.66:9043#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.87:8881#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@69.50.95.180:5498#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.87.217:5499#<i"
     ],
     "tuic": [],
     "hysteria": [],
