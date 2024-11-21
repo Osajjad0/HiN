@@ -1,23 +1,28 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/d123fad4-47a1-4f83-c5c1-541001798a66@zmaoz.faculty.ucdavis.edu:443?encryption=none&amp;security=tls&amp;sni=Zmaoz.Faculty.UcdavIS.Edu.&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox&amp;type=ws&amp;host=meloch-de.com&amp;path=%2F%40melov2ray%2Fws%3Fed%3D2048#<i",
-        "vless:\/\/acbc8d39-343b-44b8-a4aa-859af09f98b1@151.101.3.8:80?encryption=none&amp;security=none&amp;type=ws&amp;host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&amp;path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8880#<i",
-        "vless:\/\/47f78a35-9378-4ba8-97d3-959cbaa36050@151.101.3.8:80?encryption=none&amp;security=none&amp;type=ws&amp;host=barkatc1.ir&amp;path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#<i",
-        "vless:\/\/43cf5a35-32ee-43cb-9c5d-7832a0d2534f@nufilter.fastly80-2.hosting-ip.com:80?encryption=none&amp;security=none&amp;type=ws&amp;host=Berim3arazekar.net&amp;path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#<i",
-        "vless:\/\/c8127c55-420b-5801-966b-a0e0dc237032@199.232.5.66:443?encryption=none&amp;security=tls&amp;sni=ELiV2RaY-0.cOm&amp;fp=qq&amp;allowInsecure=1&amp;type=ws&amp;host=ELiV2RaY-0.cOm&amp;path=%2F#<i",
-        "vless:\/\/4b497bae-8499-45a8-ae48-d0f46e8014b2@nufilter.fastly80-2.hosting-ip.com:80?encryption=none&amp;security=none&amp;type=ws&amp;host=dachibodoberim.net&amp;path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#<i",
-        "vless:\/\/4b497bae-8499-45a8-ae48-d0f46e8014b2@nufilter.fastly80-2.hosting-ip.com:80?encryption=none&amp;security=none&amp;type=ws&amp;host=dachibodoberim.net&amp;path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#<i",
-        "vless:\/\/Join--ZEDMODEON@live.skornorth.com:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=gooshishop.com&amp;type=ws&amp;sni=live.skornorth.com#<i",
-        "vless:\/\/a96d5002-b59e-4b14-ddf2-0ee0161b1668@151.101.3.8:80?encryption=none&amp;security=none&amp;type=ws&amp;host=UNLIMITEDDEV.channel-telegram-1.ir&amp;path=%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480#<i",
-        "vless:\/\/Join--ZEDMODEON@live.skornorth.com:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=gooshishop.com&amp;type=ws&amp;sni=live.skornorth.com#<i"
+        "vless:\/\/DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@46.3.109.13:3333?sni=yxhkvol.yuwenle.vip#<i",
+        "trojan:\/\/fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?security=tls&amp;type=ws&amp;sni=sB-1u6.Pages.DEV&amp;path=\/Telegram@V2ray_Alpha\/?ed=2560&amp;host=sB-1u6.Pages.DEV#<i",
+        "trojan:\/\/auto@172.64.35.169:443?security=tls&amp;type=ws&amp;sni=trojanmz.pages.dev&amp;path=\/trojanmz.pages.dev\/?ed=2560&amp;host=trojanmz.pages.dev#<i",
+        "trojan:\/\/auto@104.20.18.209:443?security=tls&amp;type=ws&amp;sni=b96ef9ae.trojanfree-76s.pages.dev&amp;path=\/b96ef9ae.trojanfree-76s.pages.dev\/&amp;host=b96ef9ae.trojanfree-76s.pages.dev#<i",
+        "trojan:\/\/telegram-id-privatevpns@18.134.24.125:22222?security=tls&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/f181b265-5fd4-456e-ad2d-c9b0446e0d51@45.146.232.173:27001?sni=q08m.vgraxiw73s.hasyaf.cn#<i",
+        "trojan:\/\/eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@46.3.109.13:3333?sni=yxhkvol.yuwenle.vip#<i",
+        "trojan:\/\/fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?security=tls&amp;type=ws&amp;sni=sB-1u6.Pages.DEV&amp;path=\/Telegram@V2ray_Alpha\/?ed=2560&amp;host=sB-1u6.Pages.DEV#<i",
+        "trojan:\/\/f181b265-5fd4-456e-ad2d-c9b0446e0d51@45.146.232.173:27001?sni=q08m.vgraxiw73s.hasyaf.cn#<i",
+        "trojan:\/\/auto@104.20.18.209:443?security=tls&amp;type=ws&amp;sni=b96ef9ae.trojanfree-76s.pages.dev&amp;path=\/b96ef9ae.trojanfree-76s.pages.dev\/&amp;host=b96ef9ae.trojanfree-76s.pages.dev#<i",
+        "trojan:\/\/auto@104.20.18.209:443?security=tls&amp;type=ws&amp;sni=b96ef9ae.trojanfree-76s.pages.dev&amp;path=\/b96ef9ae.trojanfree-76s.pages.dev\/&amp;host=b96ef9ae.trojanfree-76s.pages.dev#<i",
+        "trojan:\/\/auto@172.64.35.169:443?security=tls&amp;type=ws&amp;sni=trojanmz.pages.dev&amp;path=\/trojanmz.pages.dev\/?ed=2560&amp;host=trojanmz.pages.dev#<i",
+        "trojan:\/\/eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@46.3.109.13:3333?sni=yxhkvol.yuwenle.vip#<i"
+    ],
     "ss": [
-        "ss:\/\/YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.49.84:5004#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#<i",
-        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.164:443#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.10:9090#<i"
+        "ss:\/\/YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.117:5500#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.92.55:7307#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.117:5500#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.117:5500#<i"
     ],
     "tuic": [],
     "hysteria": [],
