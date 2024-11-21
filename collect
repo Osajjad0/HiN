@@ -1,27 +1,21 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/c341bdd5-038c-4a83-8519-b21c88ab6c27@188.245.67.23:50875\/?type=tcp&amp;encryption=none&amp;sni=business.stackoverflow.com&amp;fp=chrome&amp;security=reality&amp;pbk=3TrvJr0BfbCPdv-e4LZcUBotYcuifQZH3YER8FIZcS4&amp;sid=a51aabe09367#<i",
-        "vless:\/\/a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.247.74:443\/?type=ws&amp;encryption=none&amp;host=lv.kpcloud.eu.org&amp;path=%2F%3Fed%3D2048&amp;security=tls&amp;sni=lv.kpcloud.eu.org#<i",
-        "vless:\/\/a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.247.74:443\/?type=ws&amp;encryption=none&amp;host=lv.kpcloud.eu.org&amp;path=%2F%3Fed%3D2048&amp;security=tls&amp;sni=lv.kpcloud.eu.org#<i",
-        "vless:\/\/DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i",
         "vless:\/\/DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#<i",
-        "vless:\/\/01dad6ef-3303-4fa8-abc4-8bf29f9809d3@VPNCSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed&amp;security=none&amp;encryption=none&amp;host=api.nhl.ir&amp;type=ws#<i",
-        "vless:\/\/fca01448-d84a-436e-9aec-3be1ebdfb350@130.162.250.180:443?encryption=none&amp;security=tls&amp;sni=SB-1u6.PAgeS.Dev&amp;type=ws&amp;path=%2Fkgin6lazd2ckpj8j%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#<i",
-        "vless:\/\/6ff28b87-82bc-4446-b8f3-18978358b47a@138.68.75.135:443?encryption=none&amp;security=none&amp;type=ws&amp;host=Fela.felafel.shop&amp;path=%2FBARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN%3Fed%3D443#<i"
+        "vless:\/\/DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&amp;type=ws#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/telegram-id-directvpn@63.176.246.40:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@46.232.57.180:3333?security=tls&amp;sni=yxjphy.yuwenle.vip&amp;type=tcp&amp;allowInsecure=1#<i"
+    ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ2dAWDBtNTE1@176.124.199.255:30252#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8119#<i",
-        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.164:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTolLU1WYTExJnpw@176.124.199.255:19999#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@51.112.5.221:443#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@69.50.95.203:5498#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.203:8882#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
