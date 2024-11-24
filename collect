@@ -1,27 +1,6 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiNTcuMTI5LjI1LjIwIiwgImFpZCI6IDEsICJob3N0IjogIjU3LjEyOS4yNS4yMCIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAibGlua3Z3cyIsICJwb3J0IjogNDQzLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWFHZXJtYW55In0=<\/code><\/div>"
-    ],
-    "vless": [
-        "vless:\/\/c918bc36-ea05-4b45-a3ba-3130508bbe0d@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=barkatc2.ir&amp;type=ws&amp;sni=mio.splashthat.com#<i",
-        "vless:\/\/69c104f1-1d4e-4520-894c-e8db66350646@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=barkatc3.ir&amp;type=ws#<i",
-        "vless:\/\/Tel--V2RAXX@www.speedtest.net:8443?path=%2FTelegram%2CV2RAXX%3Fed%3D2480&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&amp;fp=chrome&amp;type=ws&amp;sni=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir#<i",
-        "vless:\/\/d3882d5d-709a-4432-82cb-bcbaf986fbe1@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=barkatc1.ir&amp;type=ws&amp;sni=mio.splashthat.com#<i",
-        "vless:\/\/c918bc36-ea05-4b45-a3ba-3130508bbe0d@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=barkatc2.ir&amp;type=ws&amp;sni=mio.splashthat.com#<i",
-        "vless:\/\/Tel--V2RAXX@funnelytics.io:8443?path=%2FTelegram%2CV2RAXX%3Fed%3D2480&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&amp;fp=chrome&amp;type=ws&amp;sni=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir#<i",
-        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&amp;type=ws#<i",
-        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#<i",
-        "vless:\/\/69c104f1-1d4e-4520-894c-e8db66350646@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=barkatc3.ir&amp;type=ws#<i",
-        "vless:\/\/c918bc36-ea05-4b45-a3ba-3130508bbe0d@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=barkatc2.ir&amp;type=ws&amp;sni=mio.splashthat.com#<i",
-        "vless:\/\/69c104f1-1d4e-4520-894c-e8db66350646@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=barkatc3.ir&amp;type=ws#<i",
-        "vless:\/\/Tel--V2RAXX@funnelytics.io:8443?path=%2FTelegram%2CV2RAXX%3Fed%3D2480&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&amp;fp=chrome&amp;type=ws&amp;sni=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir#<i",
-        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&amp;type=ws#<i",
-        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#<i",
-        "vless:\/\/Tel--V2RAXX@www.speedtest.net:8443?path=%2FTelegram%2CV2RAXX%3Fed%3D2480&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&amp;fp=chrome&amp;type=ws&amp;sni=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir#<i",
-        "vless:\/\/Tel--V2RAXX@funnelytics.io:8443?path=%2FTelegram%2CV2RAXX%3Fed%3D2480&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&amp;fp=chrome&amp;type=ws&amp;sni=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir#<i",
-        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#<i",
-        "vless:\/\/Tel--V2RAXX@funnelytics.io:8443?path=%2FTelegram%2CV2RAXX%3Fed%3D2480&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&amp;fp=chrome&amp;type=ws&amp;sni=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir#<i"
-    ],
+    "vmess": [],
+    "vless": [],
     "trojan": [],
     "ss": [],
     "tuic": [],
