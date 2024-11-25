@@ -1,15 +1,23 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiMTM3LjE3NS4xMy4yMTgiLCAiYWlkIjogNjQsICJob3N0IjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMTEyMzIyMTgwMzMzIiwgInBvcnQiOiAzNzAwMCwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VW5pdGVkIFN0YXRlcyJ9<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&amp;type=ws#<i",
-        "vless:\/\/8a3105f2-a816-4287-9d46-c4f3a780e767@www.speedtest.net:8880?type=ws&amp;host=www.speedtest.net.i.xn--113-qze36dsg.cdn.kiava.live.&amp;path=\/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpned%3D2560&amp;security=none#<i",
-        "vless:\/\/8a3105f2-a816-4287-9d46-c4f3a780e767@www.speedtest.net:8880?type=ws&amp;host=www.speedtest.net.i.xn--113-qze36dsg.cdn.kiava.live.&amp;path=\/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpned%3D2560&amp;security=none#<i",
-        "vless:\/\/f4397322-d5fa-11ee-aaa8-00505603e70d@172.67.73.241:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=st-pl-1.brocdn.com&amp;path=\/websocket&amp;sni=st-pl-1.brocdn.com&amp;fp=chrome#<i"
+        "vless:\/\/17d3952f-50ea-4a42-9dda-f5bb7aa03e9a@llil4.flaptop.sbs:1487?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/69c104f1-1d4e-4520-894c-e8db66350646@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=barkatc3.ir&amp;type=ws#<i",
+        "vless:\/\/TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl6.ir&amp;type=ws#<i",
+        "vless:\/\/80772220-3e7d-5f06-ae29-96672b8fa6df@199.232.8.68:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ELiv2RAy-jOiN.cOm&amp;fp=qq&amp;type=ws&amp;sni=ELiv2RAy-jOiN.cOm#<i",
+        "vless:\/\/14687d04-f9e5-541b-a330-64704b7dcd35@199.232.7.18:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ELIV2RAY-JOIN.COM&amp;fp=randomized&amp;type=ws&amp;sni=ELIV2RAY-JOIN.COM#<i",
+        "vless:\/\/92c15dc4-6e60-5603-8a13-a760e1e87f3a@199.232.7.18:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ELiV2RaY-0.cOm&amp;fp=qq&amp;type=ws&amp;sni=ELiV2RaY-0.cOm#<i",
+        "vless:\/\/17d3952f-50ea-4a42-9dda-f5bb7aa03e9a@llil4.flaptop.sbs:1487?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/%74%65%6c%65%67%72%61%6d%2d%41%72%56%32%72%61%79@104.17.147.22:8880?Telegram=@V2RayTz,@V2RayTz&amp;path=\/te%6cegr%61m-A%72V2r%79,te%6cegr%61m-A%72V2r%79,te%6cegr%61m-A%72V2r%79,te%6cegr%61m-A%72V2r%79,te%6cegr%61m-A%72V2r%79,te%6cegr%61m-A%72V2r%79,te%6cegr%61m-A%72V2r%79,te%6cegr%61m-A%72V2r%79,te%6cegr%61m-A%72V2r%79,te%6cegr%61m-A%72V2r%79,te%6cegr%61m-A%72V2r%79&amp;security=none&amp;encryption=none&amp;host=2.w%77w.s%70eed%74est%2enet%2eN.d%6esch%65cke%72.te%63H.&amp;type=ws#<i",
+        "vless:\/\/619a4352-7d8a-4ac2-ab31-0b5135c7eb2f@vip.xsgame.ir:40199?host=&amp;path=%2F&amp;security=none&amp;type=ws#<i",
+        "vless:\/\/0f3e3b53-fe0f-402a-bd6d-1c5af0e2fbe5@104.17.207.36:8880?security=&amp;type=httpupgrade&amp;path=\/&amp;host=join-daily-configs.broken-dreams.ir&amp;encryption=none#<i"
     ],
     "trojan": [],
-    "ss": [],
+    "ss": [
+        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.164:443#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY%3D@69.50.95.179:5498#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
