@@ -1,28 +1,21 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/213d6337-7e90-43cb-b515-e392c946b371@cpanel.com:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;authority=&amp;fp=chrome&amp;type=grpc&amp;serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&amp;sni=WWW.felafel.org.#<i",
-        "vless:\/\/DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-teldIGIv2-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&amp;type=ws#<i",
-        "vless:\/\/SVNTEAM2@SvnTeam.fastly80-2.hosting-ip.com:80\/?type=ws&amp;path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&amp;host=SvnTeam.Svn10.ir&amp;security=none#<i",
-        "vless:\/\/SVNTEAM2@SvnTeam.fastly80-2.hosting-ip.com:80\/?type=ws&amp;path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&amp;host=SvnTeam.Svn11.ir&amp;security=none#<i",
-        "vless:\/\/SVNTEAM2@SvnTeam.fastly80-2.hosting-ip.com:80\/?type=ws&amp;path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&amp;host=SvnTeam.Svn10.ir&amp;security=none#<i",
-        "vless:\/\/SVNTEAM2@SvnTeam.fastly80-2.hosting-ip.com:80\/?type=ws&amp;path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&amp;host=SvnTeam.Svn11.ir&amp;security=none#<i",
-        "vless:\/\/4d63e415-9e34-431a-eaae-32a941c18bfe@www.speedtest.net:2083?path=%2Ftest%3Fed%3D2083&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=dl1.iranikala.top&amp;fp=chrome&amp;type=splithttp&amp;sni=dl1.iranikala.top#<i",
-        "vless:\/\/bc2135a3-f5d5-4118-a3df-8e2981a6541d@www.speedtest.net:2086?path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&amp;type=httpupgrade#<i",
-        "vless:\/\/bc202cfd-84ed-4713-f3e3-82be5fa7bffd@www.speedtest.net:2082?path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&amp;type=ws#<i",
-        "vless:\/\/SVNTEAM2@SvnTeam.fastly80-2.hosting-ip.com:80\/?type=ws&amp;path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&amp;host=SvnTeam.Svn10.ir&amp;security=none#<i",
-        "vless:\/\/SVNTEAM2@SvnTeam.fastly80-2.hosting-ip.com:80\/?type=ws&amp;path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&amp;host=SvnTeam.Svn11.ir&amp;security=none#<i",
-        "vless:\/\/SVNTEAM2@SvnTeam.fastly80-2.hosting-ip.com:80\/?type=ws&amp;path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&amp;host=SvnTeam.Svn10.ir&amp;security=none#<i",
-        "vless:\/\/SVNTEAM2@SvnTeam.fastly80-2.hosting-ip.com:80\/?type=ws&amp;path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&amp;host=SvnTeam.Svn11.ir&amp;security=none#<i",
-        "vless:\/\/9cbdc595-1d8d-4443-af07-99149153d025@5cce15203ee042d599be.danr-piavi.info:443?path=%2Fabcdews&amp;security=tls&amp;encryption=none&amp;host=5cce15203ee042d599be.danr-piavi.info&amp;type=ws&amp;sni=5cce15203ee042d599be.danr-piavi.info#<i",
-        "vless:\/\/9cbdc595-1d8d-4443-af07-99149153d025@5cce15203ee042d599be.danr-piavi.info:443?path=%2Fabcdews&amp;security=tls&amp;encryption=none&amp;host=5cce15203ee042d599be.danr-piavi.info&amp;type=ws&amp;sni=5cce15203ee042d599be.danr-piavi.info#<i",
-        "vless:\/\/213d6337-7e90-43cb-b515-e392c946b371@172.67.214.21:443?security=tls&amp;sni=WWW.felafel.org.&amp;type=grpc&amp;serviceName=@ConfigTell,@ConfigTell,@ConfigTell#<i",
-        "vless:\/\/35409a35-02b3-493d-87c2-0c56ee000ca3@live.989bull.com:443?path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Golestanvpn.com&amp;fp=firefox&amp;type=ws&amp;sni=live.989bull.com#<i",
-        "vless:\/\/35409a35-02b3-493d-87c2-0c56ee000ca3@live.989bull.com:443?path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Golestanvpn.com&amp;fp=firefox&amp;type=ws&amp;sni=live.989bull.com#<i"
+        "vless:\/\/213d6337-7e90-43cb-b515-e392c946b371@cpanel.com:443?mode=gun&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&amp;sni=WWW.felafel.org.#<i",
+        "vless:\/\/213d6337-7e90-43cb-b515-e392c946b371@cpanel.com:443?mode=gun&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&amp;sni=WWW.felafel.org.#<i",
+        "vless:\/\/f82c2052-7411-40e8-96ef-d433127979a6@my.jasrama.com:2096?path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=9LY8_rbDS8zJoZLk9J4BYbdKOYK8vdKg11Wab5IetXY&amp;fp=chrome&amp;type=http&amp;sni=dalfak.com&amp;sid=a56f693ce784b4cc#<i",
+        "vless:\/\/f82c2052-7411-40e8-96ef-d433127979a6@my.jasrama.com:2096?path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=9LY8_rbDS8zJoZLk9J4BYbdKOYK8vdKg11Wab5IetXY&amp;fp=chrome&amp;type=http&amp;sni=dalfak.com&amp;sid=a56f693ce784b4cc#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/bpb-trojan@172.66.44.101:443?path=%2Ftrss18U9tGvEQvfLbA%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&amp;security=tls&amp;alpn=http%2F1.1&amp;host=g2-1oy.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=g2-1OY.pageS.dev#<i"
+    ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080?type=tcp#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080?type=tcp#<i",
+        "ss:\/\/Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.107:5000#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.87.225:7307#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
