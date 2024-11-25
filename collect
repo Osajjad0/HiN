@@ -1,21 +1,22 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/213d6337-7e90-43cb-b515-e392c946b371@cpanel.com:443?mode=gun&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&amp;sni=WWW.felafel.org.#<i",
-        "vless:\/\/213d6337-7e90-43cb-b515-e392c946b371@cpanel.com:443?mode=gun&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&amp;sni=WWW.felafel.org.#<i",
-        "vless:\/\/f82c2052-7411-40e8-96ef-d433127979a6@my.jasrama.com:2096?path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=9LY8_rbDS8zJoZLk9J4BYbdKOYK8vdKg11Wab5IetXY&amp;fp=chrome&amp;type=http&amp;sni=dalfak.com&amp;sid=a56f693ce784b4cc#<i",
-        "vless:\/\/f82c2052-7411-40e8-96ef-d433127979a6@my.jasrama.com:2096?path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=9LY8_rbDS8zJoZLk9J4BYbdKOYK8vdKg11Wab5IetXY&amp;fp=chrome&amp;type=http&amp;sni=dalfak.com&amp;sid=a56f693ce784b4cc#<i"
+        "vless:\/\/3237181b-74a5-4917-bc74-2958fa21786a@172.66.192.80:443?encryption=none&amp;security=tls&amp;sni=vless.siliv98810.workers.dev&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=vless.siliv98810.workers.dev&amp;path=%2F%3Fed%3D2560#<i",
+        "vless:\/\/7cd593fc-9023-4a4c-8aeb-23cab5c847f1@www.visa.com.sg:8443?encryption=none&amp;security=tls&amp;sni=pardazeshvpn-tg72.pages.dev&amp;fp=random&amp;type=ws&amp;host=pardazeshvpn-tg72.pages.dev&amp;path=%2FTelegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN%3Fed%3D2048#<i",
+        "vless:\/\/fb86e393-2117-480e-9372-4ddcb58398e0@www.speedtest.net:2052?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=telegram.opeta_team.telegram.opeta_team.telegram.opeta_team.telegram.opeta_team.telegram.opeta_team.telegram.opeta_team.telegram.opeta_team.telegram.opeta_team.telegram.opeta_team.telegram.opeta_team.telegram.opeta_team.VpSpeRsIaOnLinE.iR.&amp;type=httpupgrade#<i",
+        "vless:\/\/fb86e393-2117-480e-9372-4ddcb58398e0@www.speedtest.net:2052?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=telegram.opeta_team.telegram.opeta_team.telegram.opeta_team.telegram.opeta_team.telegram.opeta_team.telegram.opeta_team.telegram.opeta_team.telegram.opeta_team.telegram.opeta_team.telegram.opeta_team.telegram.opeta_team.PaRadOxsToRe.Ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/%74%65%6c%65%67%72%61%6d%2d%41%72%56%32%72%61%79@www.speedtest.net:8880?path=%2Ftelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79&amp;security=none&amp;encryption=none&amp;host=2.www.speedtest.net.api.nhl.ir.dnschecker.tecH.&amp;type=ws#<i",
+        "vless:\/\/%54%45%4c%45%47%52%41%4d%2d%4e%55%46%69%4c%54%45%52@151.101.194.165:80?path=%2Ftelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52-telegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl11.ir&amp;type=ws#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@3.96.95.131:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;path=\/telegram-channel-vlessconfig-ws#<i"
     ],
     "trojan": [
-        "trojan:\/\/bpb-trojan@172.66.44.101:443?path=%2Ftrss18U9tGvEQvfLbA%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&amp;security=tls&amp;alpn=http%2F1.1&amp;host=g2-1oy.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=g2-1OY.pageS.dev#<i"
+        "trojan:\/\/86484d9e-c2ac-4d67-af6e-31dc1f98619c@45.79.115.118:4438?security=tls&amp;sni=us1.vpn.ong&amp;type=tcp&amp;allowInsecure=1#<i"
     ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080?type=tcp#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080?type=tcp#<i",
         "ss:\/\/Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.107:5000#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.87.225:7307#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk%3D@51.77.53.200:9102#<i"
     ],
     "tuic": [],
     "hysteria": [],
