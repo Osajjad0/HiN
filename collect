@@ -1,25 +1,26 @@
 {
     "vmess": [
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogImlydmlkZW8uY2ZkIiwgInBvcnQiOiAiNDQzIiwgImlkIjogImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiaXJ2aWRlby5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmN0ZyYW5jZSJ9<\/code><\/div>"
+        "vmess:\/\/eyJhZGQiOiAid29tLmNvIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgImhvc3QiOiAidmtlaGlpcGFpZC5jb20iLCAiaWQiOiAiNDZlMzg2ZmUtZmJiOC00ZTE3LWE5N2YtZmY3NTc4NzVlZTcyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI4MCIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VW5pdGVkIFN0YXRlcyJ9<\/code><\/div>",
+        "vmess:\/\/eyJhZGQiOiAiaG1zMDgyLmd3ZGVmLnNicyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJnd2RlZi5zYnMiLCAiaWQiOiAiYmM4NjQwNzgtZGNmMy00YmY0LThkYmYtY2E5ZjIwMGI1NmJlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogImd3ZGVmLnNicyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGViXHVkODNjXHVkZGY3RnJhbmNlIn0=<\/code><\/div>"
     ],
     "vless": [
-        "vless:\/\/e8899a8e-729a-43bc-aebf-95e12c6c6db6@183.98.53.177:10911?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=global2.ccdd.site&amp;type=ws&amp;sni=global2.ccdd.site#<i",
-        "vless:\/\/775213ac-3976-439a-8977-3277c0e4735d@94.247.142.241:443?path=twitterfreecodessecurity%3Dtls&amp;security=tls&amp;encryption=none&amp;host=fq521.6789.cloudns.be&amp;type=ws&amp;sni=fq521.6789.cloudns.be#<i",
-        "vless:\/\/%40EXPRESSVPN_420@EXPRESSVPN_420.fastly80-2.hosting-ip.com:80?type=ws&amp;path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D2048&amp;host=Nobiteks.net&amp;security=none#<i",
+        "vless:\/\/c89d3fb9-3aa2-4928-bfb8-26742f245830@152.42.165.216:443?encryption=none&amp;flow=none&amp;type=tcp&amp;headerType=none&amp;security=tls&amp;sni=m.zoom.us#<i",
+        "vless:\/\/c89d3fb9-3aa2-4928-bfb8-26742f245830@152.42.165.216:443?encryption=none&amp;flow=none&amp;type=tcp&amp;headerType=none&amp;security=tls&amp;sni=android.googleapis.com#<i",
+        "vless:\/\/c89d3fb9-3aa2-4928-bfb8-26742f245830@152.42.165.216:443?encryption=none&amp;flow=none&amp;type=tcp&amp;headerType=none&amp;security=tls&amp;sni=partner.steampowered.com#<i",
+        "vless:\/\/c89d3fb9-3aa2-4928-bfb8-26742f245830@152.42.165.216:443?encryption=none&amp;flow=none&amp;type=tcp&amp;headerType=none&amp;security=tls&amp;sni=Add%20Your%20Host%20#<i",
+        "vless:\/\/3fedbd26-b4da-440e-9f7c-004d2463caec@medium.com:443?path=%2F---------DisVpn---------DisVpn---------DisVpn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=DisVpn.us.kg&amp;fp=randomized&amp;type=ws&amp;sni=DisVpn.us.kg#<i",
+        "vless:\/\/3fedbd26-b4da-440e-9f7c-004d2463caec@medium.com:443?path=%2F---------DisVpn---------DisVpn---------DisVpn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=DisVpn.us.kg&amp;fp=randomized&amp;type=ws&amp;sni=DisVpn.us.kg#<i",
+        "vless:\/\/3fedbd26-b4da-440e-9f7c-004d2463caec@zula.ir:443?path=%2F---------DisVpn---------DisVpn---------DisVpn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=DisVpn.us.kg&amp;fp=randomized&amp;type=ws&amp;sni=DisVpn.us.kg#<i",
+        "vless:\/\/3fedbd26-b4da-440e-9f7c-004d2463caec@zula.ir:443?path=%2F---------DisVpn---------DisVpn---------DisVpn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=DisVpn.us.kg&amp;fp=randomized&amp;type=ws&amp;sni=DisVpn.us.kg#<i",
         "vless:\/\/%40EXPRESSVPN_420@EXPRESSVPN_420.fastly80-3.hosting-ip.com:80?type=ws&amp;path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D2048&amp;host=Nobiteks.net&amp;security=none#<i",
-        "vless:\/\/2f8d61ee-b14d-475b-92fc-923b45b372e6@EXPRESSVPN_420.fastly80-2.hosting-ip.com:80?path=%2FChannel%2CSPDNET%2CSPDNET-V2%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=spdnetvip.ir&amp;type=ws#<i",
-        "vless:\/\/1c2a1188-b3fc-4541-8987-ef4eb3c8f8e9@www.speedtest.net:8880?path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com&amp;type=httpupgrade#<i",
-        "vless:\/\/telegram-id-ArV2ray@ArV2ry.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=api.nhl12.ir&amp;type=ws#<i",
-        "vless:\/\/%40EXPRESSVPN_420@EXPRESSVPN_420.fastly80-2.hosting-ip.com:80?type=ws&amp;path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D2048&amp;host=Nobiteks.net&amp;security=none#<i",
-        "vless:\/\/%40EXPRESSVPN_420@EXPRESSVPN_420.fastly80-3.hosting-ip.com:80?type=ws&amp;path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D2048&amp;host=Nobiteks.net&amp;security=none#<i",
-        "vless:\/\/2f8d61ee-b14d-475b-92fc-923b45b372e6@EXPRESSVPN_420.fastly80-2.hosting-ip.com:80?path=%2FChannel%2CSPDNET%2CSPDNET-V2%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=spdnetvip.ir&amp;type=ws#<i",
-        "vless:\/\/1c2a1188-b3fc-4541-8987-ef4eb3c8f8e9@www.speedtest.net:8880?path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com&amp;type=httpupgrade#<i",
-        "vless:\/\/2f8d61ee-b14d-475b-92fc-923b45b372e6@EXPRESSVPN_420.fastly80-2.hosting-ip.com:80?path=%2FChannel%2CSPDNET%2CSPDNET-V2%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=spdnetvip.ir&amp;type=ws#<i",
-        "vless:\/\/1c2a1188-b3fc-4541-8987-ef4eb3c8f8e9@www.speedtest.net:8880?path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com&amp;type=httpupgrade#<i"
+        "vless:\/\/3e91d67b-44c8-40bd-9479-748f85e3f20c@video.myquiz.org:80?type=httpupgrade&amp;path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;host=oipm.org&amp;security=none#<i",
+        "vless:\/\/3e91d67b-44c8-40bd-9479-748f85e3f20c@video.myquiz.org:80?type=httpupgrade&amp;path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;host=oipm.org&amp;security=none#<i"
     ],
     "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
