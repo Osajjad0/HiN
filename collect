@@ -1,27 +1,19 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/cababca-baac-baac-acdb-cbabaccacbab@127.0.0.1:1080?security=tls&amp;type=tcp#<i",
-        "vless:\/\/acacabb-baca-caba-dacb-baccbbaabacc@127.0.0.1:8080?security=tls&amp;type=tcp#<i",
-        "vless:\/\/8863011b-5aaf-4500-8792-fbdea85cfad6@104.17.148.22:8880?security=none&amp;type=httpupgrade&amp;host=dl1.gpairnetwork369.com.&amp;path=%2F%3Fed%3D2048#<i",
-        "vless:\/\/4ef45945-6cb5-4e05-a6de-4d2c9d58b45f@188.245.90.214:1633?security=reality&amp;flow=xtls-rprx-vision&amp;sni=stackoverflow.com&amp;type=tcp&amp;fp=chrome&amp;pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&amp;sid=9bc0a55a5379c0ed#<i",
-        "vless:\/\/ad9ae42c-6858-4635-b93d-8bec2169e569@151.101.194.219:80?type=ws&amp;host=snapp.com&amp;path=\/Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN?ed%3D2048#<i",
-        "vless:\/\/8392b0ac-b196-4529-ea35-b9111eed41c5@1.168.177.238:17534?security=reality&amp;flow=xtls-rprx-vision&amp;sni=icloud.cdn-apple.com&amp;type=tcp&amp;fp=chrome&amp;pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@34.224.11.146:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;path=\/telegram-channel-vlessconfig-ws#<i",
-        "vless:\/\/8392b0ac-b196-4529-ea35-b9111eed41c5@1.168.177.238:17534?security=reality&amp;flow=xtls-rprx-vision&amp;sni=icloud.cdn-apple.com&amp;type=tcp&amp;fp=chrome&amp;pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@34.224.11.146:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;path=\/telegram-channel-vlessconfig-ws#<i",
-        "vless:\/\/1a9829ae-f8f0-4f8e-b404-6ed7f2da02f9@NUFiLTER.fastly80.hosting-ip.com:80?path=TELEGRAM-NUFiLTER&amp;security=none&amp;encryption=none&amp;host=api.nhl9.ir&amp;type=ws#<i",
+        "vless:\/\/telegram-id-ArV2ray@www.speedtest.net:2052?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2052&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.C.5.dnschecker.Tech.&amp;type=ws#<i",
+        "vless:\/\/055445f8-168c-4e74-f574-70ad1e53ed63@194.147.35.208:9091?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=vless9091#<i",
+        "vless:\/\/telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry&amp;security=none&amp;encryption=none&amp;host=4.www.speedtest.net.a.api.nhl.ir.speedtest-2.Shop.&amp;type=ws#<i",
         "vless:\/\/7f8c5c81-f213-4813-aa2a-a0e863496675@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl89.ir&amp;type=ws#<i",
-        "vless:\/\/347c666a-f909-4394-f5b2-715e914db254@Zmaoz.Faculty.UcdavIS.Edu:443?type=ws&amp;host=meloch-de.com&amp;path=\/@%6delo%762ray\/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2048&amp;security=tls&amp;fp=firefox&amp;sni=Zmaoz.Faculty.UcdavIS.Edu.&amp;alpn=h3,h2,http\/1.1#<i",
-        "vless:\/\/347c666a-f909-4394-f5b2-715e914db254@Zmaoz.Faculty.UcdavIS.Edu:443?type=ws&amp;host=meloch-de.com&amp;path=\/@%6delo%762ray\/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2048&amp;security=tls&amp;fp=firefox&amp;sni=Zmaoz.Faculty.UcdavIS.Edu.&amp;alpn=h3,h2,http\/1.1#<i",
         "vless:\/\/7f8c5c81-f213-4813-aa2a-a0e863496675@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl89.ir&amp;type=ws#<i",
         "vless:\/\/1a9829ae-f8f0-4f8e-b404-6ed7f2da02f9@NUFiLTER.fastly80.hosting-ip.com:80?path=TELEGRAM-NUFiLTER&amp;security=none&amp;encryption=none&amp;host=api.nhl9.ir&amp;type=ws#<i",
-        "vless:\/\/1a9829ae-f8f0-4f8e-b404-6ed7f2da02f9@NUFiLTER.fastly80.hosting-ip.com:80?path=TELEGRAM-NUFiLTER&amp;security=none&amp;encryption=none&amp;host=api.nhl9.ir&amp;type=ws#<i",
-        "vless:\/\/0c1b65c4-13c3-4da6-9b47-9c7dd1b52739@128.140.84.240:7642?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/7f8c5c81-f213-4813-aa2a-a0e863496675@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl89.ir&amp;type=ws#<i"
+        "vless:\/\/1a9829ae-f8f0-4f8e-b404-6ed7f2da02f9@NUFiLTER.fastly80.hosting-ip.com:80?path=TELEGRAM-NUFiLTER&amp;security=none&amp;encryption=none&amp;host=api.nhl9.ir&amp;type=ws#<i"
     ],
     "trojan": [
-        "trojan:\/\/blue2024@172.67.76.107:443?allowInsecure=0&amp;sni=ha.lii2010.us.kg&amp;ws=1&amp;wspath=%2F%3Fed%3D2560#<i"
+        "trojan:\/\/telegram-id-directvpn@13.58.168.146:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@13.58.168.146:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-privatevpns@13.36.126.85:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-privatevpns@13.36.126.85:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
     ],
     "ss": [],
     "tuic": [],
