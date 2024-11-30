@@ -1,25 +1,16 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/365d0527-e106-48db-b337-c3fb1b5d482a@188.245.90.214:1633\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=stackoverflow.com&amp;fp=chrome&amp;security=reality&amp;pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&amp;sid=9bc0a55a5379c0ed#<i",
-        "vless:\/\/365d0527-e106-48db-b337-c3fb1b5d482a@188.245.90.214:1633\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=stackoverflow.com&amp;fp=chrome&amp;security=reality&amp;pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&amp;sid=9bc0a55a5379c0ed#<i",
-        "vless:\/\/ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.190.135:80\/?type=tcp&amp;encryption=none&amp;sni=zula.ir&amp;fp=chrome&amp;security=reality&amp;pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&amp;sid=94aa1bdc#<i",
-        "vless:\/\/bfed7c40-7878-4ee5-a8db-8b9d0c546bea@188.245.162.16:6543\/?type=tcp&amp;encryption=none&amp;sni=www.speedtest.net&amp;fp=chrome&amp;security=reality&amp;pbk=T80OrhSLwBQrXvbS8fh97IXOu37wRXT0ZEfVYu-FEDo&amp;sid=ddb79eb6fb#<i",
-        "vless:\/\/bfed7c40-7878-4ee5-a8db-8b9d0c546bea@188.245.162.16:6543\/?type=tcp&amp;encryption=none&amp;sni=www.speedtest.net&amp;fp=chrome&amp;security=reality&amp;pbk=T80OrhSLwBQrXvbS8fh97IXOu37wRXT0ZEfVYu-FEDo&amp;sid=ddb79eb6fb#<i",
-        "vless:\/\/ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.190.135:80\/?type=tcp&amp;encryption=none&amp;sni=zula.ir&amp;fp=chrome&amp;security=reality&amp;pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&amp;sid=94aa1bdc#<i",
-        "vless:\/\/ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.160.252:80\/?type=tcp&amp;encryption=none&amp;sni=zula.ir&amp;fp=chrome&amp;security=reality&amp;pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&amp;sid=94aa1bdc#<i",
-        "vless:\/\/ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.185.63:80\/?type=tcp&amp;encryption=none&amp;sni=zula.ir&amp;fp=chrome&amp;security=reality&amp;pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&amp;sid=94aa1bdc#<i",
-        "vless:\/\/ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.160.252:80\/?type=tcp&amp;encryption=none&amp;sni=zula.ir&amp;fp=chrome&amp;security=reality&amp;pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&amp;sid=94aa1bdc#<i",
-        "vless:\/\/ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.185.63:80\/?type=tcp&amp;encryption=none&amp;sni=zula.ir&amp;fp=chrome&amp;security=reality&amp;pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&amp;sid=94aa1bdc#<i",
-        "vless:\/\/a35367d5-0edb-4882-b8b5-0249b820e114@213.252.232.175:2096\/?type=tcp&amp;encryption=none&amp;sni=apple.com&amp;fp=random&amp;security=reality&amp;pbk=PbUniy2w23tAs97ciXVClmXXRXtV1lb69dS-J9SFbAc&amp;sid=7c88bf8e#<i",
-        "vless:\/\/a35367d5-0edb-4882-b8b5-0249b820e114@213.252.232.175:2096\/?type=tcp&amp;encryption=none&amp;sni=apple.com&amp;fp=random&amp;security=reality&amp;pbk=PbUniy2w23tAs97ciXVClmXXRXtV1lb69dS-J9SFbAc&amp;sid=7c88bf8e#<i",
-        "vless:\/\/39415547-c245-41b5-aa31-3084249a70f0@hajlab.ucdavis.edu:443?security=tls&amp;sni=hajlab.ucdavis.edu&amp;type=ws&amp;path=\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&amp;host=joinshhproxybedeeeeee.ir&amp;encryption=none#<i",
-        "vless:\/\/1af8b2d6-213d-49ce-9bc9-ffbdc5830c35@104.18.8.209:2053\/?type=ws&amp;encryption=none&amp;host=EDGETunnel-AMl.pages.DEV&amp;path=%2FREvilxXx%3Fed%3D2560&amp;security=tls&amp;sni=EDGETunnel-AMl.pages.DEV&amp;alpn=http%2F1.1&amp;fp=safari#<i",
         "vless:\/\/6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:443\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;fp=chrome&amp;security=reality&amp;pbk=B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g&amp;sid=01b200e90e250221#<i",
-        "vless:\/\/6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:443\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;fp=chrome&amp;security=reality&amp;pbk=B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g&amp;sid=01b200e90e250221#<i"
+        "vless:\/\/6646db77-0d68-4e7b-9a53-e5401cb5609e@live.989bull.com:443?path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Golestanvpn.com&amp;fp=firefox&amp;type=ws&amp;sni=live.989bull.com#<i",
+        "vless:\/\/6646db77-0d68-4e7b-9a53-e5401cb5609e@live.989bull.com:443?path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Golestanvpn.com&amp;fp=firefox&amp;type=ws&amp;sni=live.989bull.com#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.219.46:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i"
     ],
     "trojan": [],
-    "ss": [],
+    "ss": [
+        "ss:\/\/YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@169.197.142.216:5500#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@169.197.142.216:5000#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
