@@ -1,15 +1,26 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiRnJlZSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDMzIiwgInNjeSI6ICJjaGFjaGEyMC1wb2x5MTMwNSIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzZVx1ZGQzN1x1MjAwZFx1MjY0MFx1ZmUwZlx1ZDgzZVx1ZGQzN1x1MjAwZFx1MjY0Mlx1ZmUwZiJ9<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/6f026cbd-5d4a-4d49-b653-9e02f3c1124d@185.113.10.129:443?security=none&amp;encryption=none&amp;type=tcp&amp;host=fast.com+@Client_Proo&amp;path=\/&amp;headerType=http#<i",
-        "vless:\/\/347c666a-f909-4394-f5b2-715e914db254@Zmaoz.Faculty.UcdavIS.Edu:443?type=ws&amp;host=meloch-de.com&amp;path=\/@%6delo%762ray\/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2048&amp;security=tls&amp;fp=firefox&amp;sni=Zmaoz.Faculty.UcdavIS.Edu.&amp;alpn=h3,h2,http\/1.1#<i"
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@13.48.184.26:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
+        "vless:\/\/6b9389e5-0dc3-42cb-b1c7-70b21ca0a26f@docs.twixspace.com:443?security=reality&amp;encryption=none&amp;pbk=MM2ZuhIbjaM6h7NOhWQZM8R8hkSE7Qc0uaEwzZ9YuQ0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=isna.ir&amp;sid=15bf9cd93a696bc5#<i",
+        "vless:\/\/8b899dc8-5d3f-4f5d-a96f-edc8e732ca3b@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=barkatc3.ir&amp;type=ws#<i",
+        "vless:\/\/da893b01-a582-4a8c-9828-dd8278ef5dc6@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=barkatc1.ir&amp;type=ws&amp;sni=mio.splashthat.com#<i",
+        "vless:\/\/6b9389e5-0dc3-42cb-b1c7-70b21ca0a26f@docs.twixspace.com:443?security=reality&amp;encryption=none&amp;pbk=MM2ZuhIbjaM6h7NOhWQZM8R8hkSE7Qc0uaEwzZ9YuQ0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=isna.ir&amp;sid=15bf9cd93a696bc5#<i",
+        "vless:\/\/6b9389e5-0dc3-42cb-b1c7-70b21ca0a26f@docs.twixspace.com:443?security=reality&amp;encryption=none&amp;pbk=MM2ZuhIbjaM6h7NOhWQZM8R8hkSE7Qc0uaEwzZ9YuQ0&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=isna.ir&amp;sid=15bf9cd93a696bc5#<i",
+        "vless:\/\/8b899dc8-5d3f-4f5d-a96f-edc8e732ca3b@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=barkatc3.ir&amp;type=ws#<i",
+        "vless:\/\/da893b01-a582-4a8c-9828-dd8278ef5dc6@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=barkatc1.ir&amp;type=ws&amp;sni=mio.splashthat.com#<i",
+        "vless:\/\/8b899dc8-5d3f-4f5d-a96f-edc8e732ca3b@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=barkatc3.ir&amp;type=ws#<i",
+        "vless:\/\/da893b01-a582-4a8c-9828-dd8278ef5dc6@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=barkatc1.ir&amp;type=ws&amp;sni=mio.splashthat.com#<i",
+        "vless:\/\/tell--ZEDMODEON@live.skornorth.com:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=mahex.com&amp;type=ws&amp;sni=live.skornorth.com#<i",
+        "vless:\/\/tell--ZEDMODEON@live.skornorth.com:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=mahex.com&amp;type=ws&amp;sni=live.skornorth.com#<i",
+        "vless:\/\/TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl80.ir&amp;type=ws#<i",
+        "vless:\/\/TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl186.ir&amp;type=ws#<i",
+        "vless:\/\/d64b8088-b569-4df3-a567-c4c99e7fe61d@151.101.3.8:80?encryption=none&amp;security=none&amp;type=ws&amp;host=iranvistapc.ir&amp;path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray%3Fed%3D2048#<i",
+        "vless:\/\/d64b8088-b569-4df3-a567-c4c99e7fe61d@151.101.3.8:80?encryption=none&amp;security=none&amp;type=ws&amp;host=iranvistapc.ir&amp;path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray%3Fed%3D2048#<i",
+        "vless:\/\/d64b8088-b569-4df3-a567-c4c99e7fe61d@151.101.3.8:80?encryption=none&amp;security=none&amp;type=ws&amp;host=iranvistapc.ir&amp;path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray%3Fed%3D2048#<i"
     ],
     "trojan": [],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6SUNTRVVvUjdWUVZHOWF5WS9BMER4RW5iMk1hTXFwVDRVbUU0TC9oSldrPUA0NS4xNTAuMzIuMTE2OjM5NDkw#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
