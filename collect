@@ -1,15 +1,27 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:443\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;fp=chrome&amp;security=reality&amp;pbk=B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g&amp;sid=01b200e90e250221#<i",
-        "vless:\/\/6646db77-0d68-4e7b-9a53-e5401cb5609e@live.989bull.com:443?path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Golestanvpn.com&amp;fp=firefox&amp;type=ws&amp;sni=live.989bull.com#<i",
-        "vless:\/\/6646db77-0d68-4e7b-9a53-e5401cb5609e@live.989bull.com:443?path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Golestanvpn.com&amp;fp=firefox&amp;type=ws&amp;sni=live.989bull.com#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.219.46:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i"
+        "vless:\/\/1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=http\/1.1&amp;host=trojanyu.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=trojanyu.pages.dev#<i",
+        "vless:\/\/1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?encryption=none&amp;security=none&amp;type=ws&amp;host=&amp;path=%2Fhttp#<i",
+        "vless:\/\/1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?encryption=none&amp;security=none&amp;type=ws&amp;host=&amp;path=%2Fhttp#<i",
+        "vless:\/\/f151bde4-6981-4ad9-bd01-dd34ad792a3e@185.146.173.58:80?path=%2FOmid%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=m22.6.site.org.ir.com.site.xn--fhq0la447aac5504dea701axr1g.antishop.sbs.&amp;type=ws#<i",
+        "vless:\/\/f151bde4-6981-4ad9-bd01-dd34ad792a3e@185.146.173.58:80?path=%2FOmid%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=m22.6.site.org.ir.com.site.xn--fhq0la447aac5504dea701axr1g.antishop.sbs.&amp;type=ws#<i",
+        "vless:\/\/b6067899-8c64-4e83-8ec9-b0abeef1596f@45.91.193.247:8495?security=reality&amp;encryption=none&amp;pbk=bJ7kNh4nOLMQjV737Rud9sDqdNE2vYx_hlYFD82-1Qc&amp;fp=chrome&amp;type=http&amp;sni=icloud.com&amp;sid=acbc173b1eef54b5#<i",
+        "vless:\/\/38b5b950-1999-4df5-ad45-96bafae50c53@193.107.48.76:45665?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/b6067899-8c64-4e83-8ec9-b0abeef1596f@45.91.193.247:8495?security=reality&amp;encryption=none&amp;pbk=bJ7kNh4nOLMQjV737Rud9sDqdNE2vYx_hlYFD82-1Qc&amp;fp=chrome&amp;type=http&amp;sni=icloud.com&amp;sid=acbc173b1eef54b5#<i",
+        "vless:\/\/38b5b950-1999-4df5-ad45-96bafae50c53@193.107.48.76:45665?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.65.122:443?path=%2FGGPPfZ3NKyOoKNiK%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=metrix.ir&amp;fp=randomized&amp;type=ws&amp;sni=metrix.ir#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.65.122:443?path=%2FGGPPfZ3NKyOoKNiK%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=metrix.ir&amp;fp=randomized&amp;type=ws&amp;sni=metrix.ir#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@18.168.222.111:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@18.168.222.111:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/blue2024@108.162.193.164:443?type=ws&amp;sni=hb.lii2010.us.kg&amp;host=hb.lii2010.us.kg#<i",
+        "trojan:\/\/telegram-id-directvpn@16.16.44.73:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+    ],
     "ss": [
-        "ss:\/\/YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@169.197.142.216:5500#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@169.197.142.216:5000#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
