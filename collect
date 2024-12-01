@@ -1,29 +1,21 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/af4bbbbd-9bd9-4eaa-a0be-50aa9f8784d1@87.248.152.25:35001?security=none&amp;type=grpc&amp;headerType=&amp;serviceName=35001vless&amp;host=aparat.com#<i",
-        "vless:\/\/af4bbbbd-9bd9-4eaa-a0be-50aa9f8784d1@87.248.152.25:35001?security=none&amp;type=grpc&amp;headerType=&amp;serviceName=35001vless&amp;host=aparat.com#<i",
-        "vless:\/\/c4d80437-ffd0-438c-99fb-89210c1b669c@hajlab.ucdavis.edu:443?path=%2F%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinshhproxybedeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
-        "vless:\/\/da893b01-a582-4a8c-9828-dd8278ef5dc6@151.101.2.133:443?path=%2F%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79%3Fed%3D2048&amp;serviceName=&amp;security=tls&amp;encryption=none&amp;host=barkatc1.ir&amp;type=ws&amp;sni=mio.splashthat.com#<i",
-        "vless:\/\/8b899dc8-5d3f-4f5d-a96f-edc8e732ca3b@151.101.3.8:80?path=%2F%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79%3Fed%3D2048&amp;serviceName=&amp;security=none&amp;encryption=none&amp;host=barkatc3.ir&amp;type=ws#<i",
-        "vless:\/\/%74%65l%65g%72a%6d-%69d-%41r%562r%61y@WedBaZ.fastly80-2.hosting-ip.com:80?type=grpc&amp;serviceName=Telegram",
-        "vless:\/\/tel--%5aED%4d%4fDE%4f%4e@connectcarolina.sites.unc.edu:443?type=grpc&amp;serviceName=Telegram",
-        "vless:\/\/Joinin--%5aED%4d%4fDE%4f%4e@live.skornorth.com:443?type=grpc&amp;serviceName=Telegram",
-        "vless:\/\/%50a%72sa%73%68%6fna%6d-118@Zmaoz.Faculty.Ucdavis.Edu:443?type=grpc&amp;serviceName=Telegram",
-        "vless:\/\/c4d80437-ffd0-438c-99fb-89210c1b669c@hajlab.ucdavis.edu:443?path=%2F%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y----%40S%68%68_Pro%78y%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinshhproxybedeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
-        "vless:\/\/da893b01-a582-4a8c-9828-dd8278ef5dc6@151.101.2.133:443?path=%2F%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79%3Fed%3D2048&amp;serviceName=&amp;security=tls&amp;encryption=none&amp;host=barkatc1.ir&amp;type=ws&amp;sni=mio.splashthat.com#<i",
-        "vless:\/\/8b899dc8-5d3f-4f5d-a96f-edc8e732ca3b@151.101.3.8:80?path=%2F%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79-%54%65l%65g%72a%6d-%69p%562%52a%79%3Fed%3D2048&amp;serviceName=&amp;security=none&amp;encryption=none&amp;host=barkatc3.ir&amp;type=ws#<i",
-        "vless:\/\/%74%65l%65g%72a%6d-%69d-%41r%562r%61y@WedBaZ.fastly80-2.hosting-ip.com:80?type=grpc&amp;serviceName=Telegram",
-        "vless:\/\/tel--%5aED%4d%4fDE%4f%4e@connectcarolina.sites.unc.edu:443?type=grpc&amp;serviceName=Telegram",
-        "vless:\/\/Joinin--%5aED%4d%4fDE%4f%4e@live.skornorth.com:443?type=grpc&amp;serviceName=Telegram",
-        "vless:\/\/%50a%72sa%73%68%6fna%6d-118@Zmaoz.Faculty.Ucdavis.Edu:443?type=grpc&amp;serviceName=Telegram",
-        "vless:\/\/TELEGRAM-NUFiLTER@151.101.194.133:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=api.nhl38.ir&amp;fp=chrome&amp;type=ws&amp;sni=mio.splashthat.com#<i"
+        "vless:\/\/3c0f245a-33a0-4492-9cd0-56dfa471bff9@Zmaoz.Faculty.UcdavIS.Edu:443?type=ws&amp;host=meloch-de.com&amp;path=\/@%6delo%762ray\/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2048&amp;security=tls&amp;fp=firefox&amp;sni=Zmaoz.Faculty.UcdavIS.Edu.&amp;alpn=h3,h2,http\/1.1#<i",
+        "vless:\/\/0be5d564-125c-4919-93da-8990ff9ca467@uae.jjavaher.ir:8811?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/0be5d564-125c-4919-93da-8990ff9ca467@uae.jjavaher.ir:8811?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/3c0f245a-33a0-4492-9cd0-56dfa471bff9@Zmaoz.Faculty.UcdavIS.Edu:443?type=ws&amp;host=meloch-de.com&amp;path=\/@%6delo%762ray\/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2048&amp;security=tls&amp;fp=firefox&amp;sni=Zmaoz.Faculty.UcdavIS.Edu.&amp;alpn=h3,h2,http\/1.1#<i",
+        "vless:\/\/cfe1723e-887f-5184-a2de-3d23cc1ac09a@140.248.139.207:80?host=ELiV2-ELENA.COM&amp;type=ws#<i",
+        "vless:\/\/cfe1723e-887f-5184-a2de-3d23cc1ac09a@199.232.79.51:443?allowInsecure=1&amp;security=tls&amp;host=ELiV2-ELENA.COM&amp;fp=qq&amp;type=ws&amp;sni=ELiV2-ELENA.COM#<i",
+        "vless:\/\/8cecedef-f088-5419-913d-c4c8b24c651d@199.232.79.51:80?host=ELiV2-0.COM&amp;type=ws#<i",
+        "vless:\/\/8cecedef-f088-5419-913d-c4c8b24c651d@199.232.79.51:443?allowInsecure=1&amp;security=tls&amp;host=ELiV2-0.COM&amp;fp=qq&amp;type=ws&amp;sni=ELiV2-0.COM#<i",
+        "vless:\/\/90493ff7-bf09-4814-bd6f-ee639f1bfab3@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=loye.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/62c6cdd8-2382-415b-b039-c1ebc698f71a@172.66.44.127:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=pardazeshvpn-tg62.pages.dev&amp;type=ws&amp;sni=pardazeshvpn-tg62.pages.dev#<i"
     ],
-    "trojan": [],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#<i"
+    "trojan": [
+        "trojan:\/\/telegram-id-directvpn@63.177.27.23:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
     ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
