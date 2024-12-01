@@ -1,25 +1,26 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiODIuMTE1LjE2LjE3OSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYWU2ZmZmYjEtNDE1YS00Y2FkLTk2ZjMtOTJhMzY4OWMxMWU4IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI1NjQ1MSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWFHZXJtYW55In0=<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/ID-ViraV2ray-7226@104.19.150.10:2095?type=httpupgrade&amp;path=digikala.com%2Flogin%2F%40ViraV2ray%2C%40ViraV2ray%2C%40ViraV2ray%3Fed%3D2560&amp;host=vira.www.speedtest.net.zula.digikala.com.avincloud.ir&amp;security=none#<i",
-        "vless:\/\/ID-ViraV2ray-6996@live.989bull.com:443?security=tls&amp;alpn=h2,http\/1.1&amp;fp=firefox&amp;sni=live.989bull.com&amp;type=ws&amp;path=digikala.com%2Flogin%2F%40ViraV2ray%2C%40ViraV2ray%2C%40ViraV2ray%3Fed%3D443&amp;host=telegram-id-ViraV2ray.com&amp;encryption=none#<i",
-        "vless:\/\/cc433e53-7a8f-4cae-be61-1c79d8ba444b@b3.mahour-music.ir:2053?type=ws&amp;security=tls&amp;path=%2FG211zX5z3%3Fed%3D2053%3Fed%3D2048&amp;encryption=none&amp;host=c.mahour-music.ir&amp;sni=cc433e53-7a8f-4cae-be61-1c79d8ba444b.mahour-music.ir&amp;fp=random&amp;alpn=h3%2Ch2%2Chttp%2F1.1#<i",
-        "vless:\/\/ID-ViraV2ray-6996@live.989bull.com:443?security=tls&amp;alpn=h2#<i",
-        "vless:\/\/TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl03.ir&amp;type=ws#<i",
-        "vless:\/\/TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl03.ir&amp;type=ws#<i",
-        "vless:\/\/TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl130.ir&amp;type=ws#<i",
-        "vless:\/\/TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl130.ir&amp;type=ws#<i",
-        "vless:\/\/TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl130.ir&amp;type=ws#<i",
-        "vless:\/\/b5f94b32-f02c-4fbb-b389-00741c257e9e@172.66.213.38:2087?security=tls&amp;sni=g4.ferdowsi.shop&amp;type=grpc&amp;serviceName=t.me\/entryNET&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "vless:\/\/TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl130.ir&amp;type=ws#<i",
-        "vless:\/\/TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=api.nhl03.ir&amp;type=ws#<i"
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@46.17.98.54:8000\/?type=ws&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=a.xn--i-sx6a60i.us.kg&amp;packetEncoding=xudp#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@85.192.63.127:2003\/?type=ws&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=a.xn--i-sx6a60i.us.kg&amp;packetEncoding=xudp#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@46.17.98.54:8000\/?type=ws&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=a.xn--i-sx6a60i.us.kg&amp;packetEncoding=xudp#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@45.14.64.185:587\/?type=ws&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=a.xn--i-sx6a60i.us.kg&amp;packetEncoding=xudp#<i",
+        "vless:\/\/45901894-b8b9-4301-b92e-77393c4021ae@98.67.185.47:4444?security=none&amp;type=grpc#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@45.14.64.185:587\/?type=ws&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=a.xn--i-sx6a60i.us.kg&amp;packetEncoding=xudp#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@195.200.19.139:6060\/?type=ws&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=a.xn--i-sx6a60i.us.kg&amp;packetEncoding=xudp#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@103.180.161.123:587\/?type=ws&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=a.xn--i-sx6a60i.us.kg&amp;packetEncoding=xudp#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@195.200.19.139:6060\/?type=ws&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=a.xn--i-sx6a60i.us.kg&amp;packetEncoding=xudp#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@31.44.0.68:25\/?type=ws&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=a.xn--i-sx6a60i.us.kg&amp;packetEncoding=xudp#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@103.180.161.123:587\/?type=ws&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=a.xn--i-sx6a60i.us.kg&amp;packetEncoding=xudp#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@103.180.161.69:587\/?type=ws&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=a.xn--i-sx6a60i.us.kg&amp;packetEncoding=xudp#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@31.44.0.68:25\/?type=ws&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=a.xn--i-sx6a60i.us.kg&amp;packetEncoding=xudp#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@103.214.68.133:587\/?type=ws&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=a.xn--i-sx6a60i.us.kg&amp;packetEncoding=xudp#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@103.180.161.69:587\/?type=ws&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=a.xn--i-sx6a60i.us.kg&amp;packetEncoding=xudp#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@103.214.68.133:587\/?type=ws&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=a.xn--i-sx6a60i.us.kg&amp;packetEncoding=xudp#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@193.243.147.107:587\/?type=ws&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=a.xn--i-sx6a60i.us.kg&amp;packetEncoding=xudp#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@212.34.155.210:2501\/?type=ws&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=a.xn--i-sx6a60i.us.kg&amp;packetEncoding=xudp#<i"
     ],
-    "trojan": [
-        "trojan:\/\/Telegram-VPNCUSTOMIZE@104.17.234.12:443?path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed&amp;security=tls&amp;host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&amp;type=ws&amp;sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za#<i",
-        "trojan:\/\/Telegram-VPNCUSTOMIZE@104.17.234.12:443?path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed&amp;security=tls&amp;host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za&amp;type=ws&amp;sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za#<i"
-    ],
+    "trojan": [],
     "ss": [],
     "tuic": [],
     "hysteria": [],
