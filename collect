@@ -10,12 +10,17 @@
         "vless:\/\/8cecedef-f088-5419-913d-c4c8b24c651d@199.232.79.51:80?host=ELiV2-0.COM&amp;type=ws#<i",
         "vless:\/\/8cecedef-f088-5419-913d-c4c8b24c651d@199.232.79.51:443?allowInsecure=1&amp;security=tls&amp;host=ELiV2-0.COM&amp;fp=qq&amp;type=ws&amp;sni=ELiV2-0.COM#<i",
         "vless:\/\/90493ff7-bf09-4814-bd6f-ee639f1bfab3@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=loye.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
-        "vless:\/\/62c6cdd8-2382-415b-b039-c1ebc698f71a@172.66.44.127:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=pardazeshvpn-tg62.pages.dev&amp;type=ws&amp;sni=pardazeshvpn-tg62.pages.dev#<i"
+        "vless:\/\/62c6cdd8-2382-415b-b039-c1ebc698f71a@172.66.44.127:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=pardazeshvpn-tg62.pages.dev&amp;type=ws&amp;sni=pardazeshvpn-tg62.pages.dev#<i",
+        "vless:\/\/39415547-c245-41b5-aa31-3084249a70f0@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinshhproxybedeeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/cfe1723e-887f-5184-a2de-3d23cc1ac09a@199.232.79.51:443?allowInsecure=1&amp;security=tls&amp;host=ELiV2-ELENA.COM&amp;fp=qq&amp;type=ws&amp;sni=ELiV2-ELENA.COM#<i",
+        "vless:\/\/39415547-c245-41b5-aa31-3084249a70f0@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinshhproxybedeeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i"
     ],
     "trojan": [
         "trojan:\/\/telegram-id-directvpn@63.177.27.23:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
     ],
-    "ss": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQzRPR1hCZW1kK0RXaGU3TzVrcmQzR0d0Y1EzeW9QR0YrZmpjZytvYjNjPQ==@45.150.32.39:45721#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
