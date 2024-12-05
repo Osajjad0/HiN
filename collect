@@ -1,22 +1,29 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJhZGQiOiAiMTcyLjk5LjE5MC41MCIsICJhaWQiOiAwLCAiaG9zdCI6ICIxNzIuOTkuMTkwLjUwIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJsaW5rdndzIiwgInBvcnQiOiA0NDMsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlN1VuaXRlZCBLaW5nZG9tIn0=<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@144.24.200.164:443?security=tls&amp;sni=pvg.aghabeiki.homes&amp;type=ws&amp;host=pvg.aghabeiki.homes&amp;path=%3Fed%3D2744#<i",
-        "vless:\/\/DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&amp;type=ws#<i",
-        "vless:\/\/DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#<i",
-        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.49.114:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;sni=a.xn--i-sx6a60i.us.kg#<i",
-        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.49.114:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;sni=a.xn--i-sx6a60i.us.kg#<i",
-        "vless:\/\/DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&amp;type=ws#<i"
+        "vless:\/\/1bb4b5c0-9daf-4a04-af97-aaa220fb191e@193.228.168.194:2062?security=none&amp;encryption=none&amp;host=Telegram#<i",
+        "vless:\/\/0cb1cfa0-2916-4f21-a145-6c1fe0e6718b@ns.cloudflare.com:2052?path=%2Fresult%3Fed%3D2086Telegram#<i",
+        "vless:\/\/1bb4b5c0-9daf-4a04-af97-aaa220fb191e@193.228.168.194:2062?security=none&amp;encryption=none&amp;host=Telegram#<i",
+        "vless:\/\/5af54e86-eef3-403e-8d7a-ebe5d7864233@clientproo.xyz:33156?security=none&amp;encryption=none&amp;host=Telegram#<i",
+        "vless:\/\/4f53514e-bf21-4d46-8c11-3ac9297927a6@ge2.soleymani.shop:9393?security=none&amp;encryption=none&amp;host=fast.comTelegram#<i",
+        "vless:\/\/a2b19330-4a35-4b3b-a4c9-66bbff854956@join.v2rynng.darkping.net:1633?security=reality&amp;encryption=none&amp;pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&amp;host=Telegram#<i",
+        "vless:\/\/0cb1cfa0-2916-4f21-a145-6c1fe0e6718b@ns.cloudflare.com:2052?path=%2Fresult%3Fed%3D2086Telegram#<i",
+        "vless:\/\/5af54e86-eef3-403e-8d7a-ebe5d7864233@clientproo.xyz:33156?security=none&amp;encryption=none&amp;host=Telegram#<i",
+        "vless:\/\/4f53514e-bf21-4d46-8c11-3ac9297927a6@ge2.soleymani.shop:9393?security=none&amp;encryption=none&amp;host=fast.comTelegram#<i",
+        "vless:\/\/a2b19330-4a35-4b3b-a4c9-66bbff854956@join.v2rynng.darkping.net:1633?security=reality&amp;encryption=none&amp;pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&amp;host=Telegram#<i",
+        "vless:\/\/7c46b360-efaf-452a-858f-c3633e7a9f5a@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinshhproxybedeeeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/7c46b360-efaf-452a-858f-c3633e7a9f5a@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinshhproxybedeeeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/bdc4302a-f0ac-4176-83d9-977cb84044f7@www.speedtest.net:2082?path=%2F%3Fed%3D8880Telegram#<i",
+        "vless:\/\/bdc4302a-f0ac-4176-83d9-977cb84044f7@www.speedtest.net:2082?path=%2F%3Fed%3D8880Telegram#<i",
+        "vless:\/\/3794b46c-64b5-474e-b38f-034f15e5c8ab@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinshhproxybedeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/3794b46c-64b5-474e-b38f-034f15e5c8ab@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinshhproxybedeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/45a338ad-8f40-480f-8641-838ca506048d@109.207.172.250:8443?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=Telegram#<i",
+        "vless:\/\/45a338ad-8f40-480f-8641-838ca506048d@109.207.172.250:8443?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=Telegram#<i"
     ],
     "trojan": [],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.69:8009#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.154.136.176:7307#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@167.88.63.21:8119#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
