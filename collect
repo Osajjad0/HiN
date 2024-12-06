@@ -1,24 +1,7 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.16.16.16:443?security=tls&amp;sni=x123456789000qwertyuioplkjhgfszxcvmagrehfcgryaegcfsetetrcih.xn--6bi8548mabeaana921b9b830dbbb0nn92a.xn--6bi8548mabeaana921b9b830dbbb0nn92a.x123456789000qwertyuioplkjhgfszxcvbnmagrehfcgryaegcfsetetrcih.speedtest.netafwe4654hr4f54h98rthr.wi0.ip-dynamic.org&amp;type=ws&amp;path=\/Telegram-V2raNG_DA2-6?ed%3D512&amp;host=x123456789000qwertyuioplkjhgfszxcvmagrehfcgryaegcfsetetrcih.xn--6bi8548mabeaana921b9b830dbbb0nn92a.xn--6bi8548mabeaana921b9b830dbbb0nn92a.x123456789000qwertyuioplkjhgfszxcvbnmagrehfcgryaegcfsetetrcih.speedtest.netafwe4654hr4f54h98rthr.wi0.ip-dynamic.org&amp;encryption=none#<i",
-        "vless:\/\/7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@199.232.150.47:443?security=tls&amp;sni=default.ssl.fastly.net&amp;type=ws&amp;path=\/Telegram-V2raNG_DA2-6?ed%3D1080&amp;host=9x.ru&amp;encryption=none#<i",
-        "vless:\/\/7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@151.101.3.8:80?security=&amp;type=ws&amp;path=\/Telegram-V2raNG_DA-6?ed%3D2048&amp;host=9x.ru&amp;encryption=none#<i",
-        "vless:\/\/2c4cd186-9e28-51b0-8ecb-43e65fa718d6@104.20.25.57:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=sany0116p.ljqza.WorKErs.dEv&amp;fp=qq&amp;type=ws&amp;sni=sany0116p.ljqza.WorKErs.dEv#<i",
-        "vless:\/\/2c4cd186-9e28-51b0-8ecb-43e65fa718d6@104.20.25.57:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=sany0116p.ljqza.WorKErs.dEv&amp;fp=qq&amp;type=ws&amp;sni=sany0116p.ljqza.WorKErs.dEv#<i",
-        "vless:\/\/2c4cd186-9e28-51b0-8ecb-43e65fa718d6@104.20.25.57:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=sany0116p.ljqza.WorKErs.dEv&amp;fp=qq&amp;type=ws&amp;sni=sany0116p.ljqza.WorKErs.dEv#<i",
-        "vless:\/\/7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@151.101.3.8:80?security=&amp;type=ws&amp;path=\/Telegram-V2raNG_DA-6?ed%3D2048&amp;host=9x.ru&amp;encryption=none#<i",
-        "vless:\/\/2c4cd186-9e28-51b0-8ecb-43e65fa718d6@104.20.25.57:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=sany0116p.ljqza.WorKErs.dEv&amp;fp=qq&amp;type=ws&amp;sni=sany0116p.ljqza.WorKErs.dEv#<i",
-        "vless:\/\/2c4cd186-9e28-51b0-8ecb-43e65fa718d6@104.20.25.57:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=sany0116p.ljqza.WorKErs.dEv&amp;fp=qq&amp;type=ws&amp;sni=sany0116p.ljqza.WorKErs.dEv#<i",
-        "vless:\/\/2c4cd186-9e28-51b0-8ecb-43e65fa718d6@104.20.25.57:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=sany0116p.ljqza.WorKErs.dEv&amp;fp=qq&amp;type=ws&amp;sni=sany0116p.ljqza.WorKErs.dEv#<i",
-        "vless:\/\/7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@151.101.3.8:80?security=&amp;type=ws&amp;path=\/Telegram-V2raNG_DA-6?ed%3D2048&amp;host=9x.ru&amp;encryption=none#<i",
-        "vless:\/\/2c4cd186-9e28-51b0-8ecb-43e65fa718d6@104.20.25.57:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=sany0116p.ljqza.WorKErs.dEv&amp;fp=qq&amp;type=ws&amp;sni=sany0116p.ljqza.WorKErs.dEv#<i",
-        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@ip.sb:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;sni=a.xn--i-sx6a60i.us.kg#<i",
-        "vless:\/\/2c4cd186-9e28-51b0-8ecb-43e65fa718d6@104.20.25.57:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=sany0116p.ljqza.WorKErs.dEv&amp;fp=qq&amp;type=ws&amp;sni=sany0116p.ljqza.WorKErs.dEv#<i",
-        "vless:\/\/2c4cd186-9e28-51b0-8ecb-43e65fa718d6@104.20.25.57:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=sany0116p.ljqza.WorKErs.dEv&amp;fp=qq&amp;type=ws&amp;sni=sany0116p.ljqza.WorKErs.dEv#<i",
-        "vless:\/\/telegram-id-ArV2ray@151.101.194.133:443?encryption=none&amp;security=tls&amp;sni=mio.splashthat.com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=mtn12kws.net&amp;path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#<i",
-        "vless:\/\/telegram-id-ArV2ray@151.101.194.133:443?encryption=none&amp;security=tls&amp;sni=mio.splashthat.com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=jNgfdkjn2.net&amp;path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#<i",
-        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.247.119:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;sni=a.xn--i-sx6a60i.us.kg#<i"
+        "vless:\/\/2bff5a97-8c56-fc0e-2b35-ceb4885ff114@nobitex.all.ir.p31download.com:443?path=%2FT7OzaaLG5SkllZJf%3Fed%3D2560&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=ww8.ir&amp;fp=chrome&amp;type=ws&amp;sni=Seminarsinmcb.faculty.ucdavis.edu#<i"
     ],
     "trojan": [],
     "ss": [],
