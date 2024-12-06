@@ -1,25 +1,29 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjIzLjEzNC45NC41MCIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAic25pIjogIndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCAiaG9zdCI6ICJ2ay5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVuaXRlZCBTdGF0ZXMifQ==<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/35017be6-5b1c-4cd4-a248-95c4a99a46b1@Zmaoz.Faculty.UcdavIS.Edu:443?type=ws&amp;host=meloch-de.com&amp;path=\/@%6delo%762ray\/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2048&amp;security=tls&amp;fp=firefox&amp;sni=Zmaoz.Faculty.UcdavIS.Edu.&amp;alpn=h3,h2,http\/1.1#<i",
-        "vless:\/\/ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.181.228:80?security=reality&amp;sni=zula.ir&amp;type=tcp&amp;fp=chrome&amp;pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&amp;sid=94aa1bdc#<i",
+        "vless:\/\/9f725d18-91f6-43ee-b5b8-1ddada19a445@151.101.194.133:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=api.nhl137.ir&amp;fp=chrome&amp;type=ws&amp;sni=mio.splashthat.com#<i",
+        "vless:\/\/fdd38e64-30a9-4d63-a7ca-c26f40fcc176@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=loye.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/d1944df1-2d0a-441b-bdee-e2b1225296f4@www.speedtest.net:8880?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet?ed=2048&amp;security=none&amp;encryption=none&amp;host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.&amp;type=ws#<i",
+        "vless:\/\/fdd38e64-30a9-4d63-a7ca-c26f40fcc176@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=loye.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.21:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;sni=a.xn--i-sx6a60i.us.kg#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@www.Speedtest.net:443?path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm-telegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;sni=a.xn--i-sx6a60i.us.kg#<i",
+        "vless:\/\/d1944df1-2d0a-441b-bdee-e2b1225296f4@www.speedtest.net:8880?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet?ed=2048&amp;security=none&amp;encryption=none&amp;host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.&amp;type=ws#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.247.19:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;sni=a.xn--i-sx6a60i.us.kg#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@knsta.com:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;sni=a.xn--i-sx6a60i.us.kg#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.247.19:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;sni=a.xn--i-sx6a60i.us.kg#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.21:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;sni=a.xn--i-sx6a60i.us.kg#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@www.Speedtest.net:443?path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm-telegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;sni=a.xn--i-sx6a60i.us.kg#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@knsta.com:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;sni=a.xn--i-sx6a60i.us.kg#<i",
         "vless:\/\/DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&amp;type=ws#<i",
-        "vless:\/\/DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#<i",
-        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.157.1:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;sni=a.xn--i-sx6a60i.us.kg#<i",
-        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.157.1:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;sni=a.xn--i-sx6a60i.us.kg#<i",
-        "vless:\/\/7411ab59-5fac-41bf-947a-0163ea82d568@185.146.173.39:443?type=splithttp&amp;host=chde.black-melo.store&amp;path=\/melo?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2096&amp;security=tls&amp;fp=chrome&amp;sni=chde.black-melo.store&amp;alpn=h3#<i",
-        "vless:\/\/35017be6-5b1c-4cd4-a248-95c4a99a46b1@Zmaoz.Faculty.UcdavIS.Edu:443?type=ws&amp;host=meloch-de.com&amp;path=\/@%6delo%762ray\/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2048&amp;security=tls&amp;fp=firefox&amp;sni=Zmaoz.Faculty.UcdavIS.Edu.&amp;alpn=h3,h2,http\/1.1#<i",
-        "vless:\/\/7411ab59-5fac-41bf-947a-0163ea82d568@185.146.173.39:443?type=splithttp&amp;host=chde.black-melo.store&amp;path=\/melo?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2096&amp;security=tls&amp;fp=chrome&amp;sni=chde.black-melo.store&amp;alpn=h3#<i",
-        "vless:\/\/35017be6-5b1c-4cd4-a248-95c4a99a46b1@Zmaoz.Faculty.UcdavIS.Edu:443?type=ws&amp;host=meloch-de.com&amp;path=\/@%6delo%762ray\/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2048&amp;security=tls&amp;fp=firefox&amp;sni=Zmaoz.Faculty.UcdavIS.Edu.&amp;alpn=h3,h2,http\/1.1#<i",
-        "vless:\/\/ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.181.228:80?security=reality&amp;sni=zula.ir&amp;type=tcp&amp;fp=chrome&amp;pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&amp;sid=94aa1bdc#<i",
-        "vless:\/\/DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#<i",
-        "vless:\/\/DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&amp;type=ws#<i"
+        "vless:\/\/DIGIV2RAy@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&amp;type=httpupgrade#<i"
     ],
-    "trojan": [
-        "trojan:\/\/03793bc4-e0e9-4527-b0ff-8fe1ce7aaf3d@172.67.171.49:443?security=tls&amp;sni=us1.trojanvpn.xyz&amp;type=ws&amp;host=us1.trojanvpn.xyz&amp;path=%2F#<i",
-        "trojan:\/\/telegram-id-directvpn@52.14.69.185:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http\/1.1#<i"
+    "trojan": [],
+    "ss": [
+        "ss:\/\/YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7307#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:5000#<i"
     ],
-    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
