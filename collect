@@ -1,9 +1,17 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/2bff5a97-8c56-fc0e-2b35-ceb4885ff114@nobitex.all.ir.p31download.com:443?path=%2FT7OzaaLG5SkllZJf%3Fed%3D2560&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=ww8.ir&amp;fp=chrome&amp;type=ws&amp;sni=Seminarsinmcb.faculty.ucdavis.edu#<i"
+        "vless:\/\/801e6d41-930e-4eb8-bd7d-547404198deb@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc83.lebasnoo.ir.&amp;type=ws#<i",
+        "vless:\/\/06eb68e6-5f5f-4ef1-8b5e-cffbf6189766@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc85.lebasnoo.ir.&amp;type=ws#<i",
+        "vless:\/\/244dbe27-d735-436c-bc1f-60aa0cca1653@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc86.lebasnoo.ir.&amp;type=ws#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/telegram-id-directvpn@54.170.35.253:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@51.20.160.158:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@52.208.147.46:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@52.47.96.249:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@99.79.155.19:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+    ],
     "ss": [],
     "tuic": [],
     "hysteria": [],
