@@ -1,16 +1,21 @@
 {
-    "vmess": [],
-    "vless": [
-        "vless:\/\/ff6916e5-3a87-4902-946a-57bc0d7b31d3@45.81.35.6:33156?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/ff6916e5-3a87-4902-946a-57bc0d7b31d3@45.81.35.6:33156?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/6675afe5-53c7-40ed-af50-de6442e42534@live.989bull.com:443?path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=Golestanvpn.com&amp;fp=firefox&amp;type=ws&amp;sni=live.989bull.com#<i"
+    "vmess": [
+        "vmess:\/\/eyJhZGQiOiAiZnJhbmtmdXJ0MDMuemdqb2suY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImZyYW5rZnVydDAzLnpnam9rLmNvbSIsICJpZCI6ICI0ZjdjMjI0My1hMzhhLTQ2NzItOTgzYi1mMTM3OGFlZTBhN2YiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhR2VybWFueSJ9<\/code><\/div>"
     ],
-    "trojan": [],
+    "vless": [
+        "vless:\/\/Joinn--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=gooshishop.com&amp;type=ws&amp;sni=zmaoz.faculty.ucdavis.edu#<i",
+        "vless:\/\/tel--ZEDMODEON@connectcarolina.sites.unc.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=porsline.ir&amp;type=ws&amp;sni=connectcarolina.sites.unc.edu#<i",
+        "vless:\/\/Joinn--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=mahex.com&amp;type=ws&amp;sni=zmaoz.faculty.ucdavis.edu#<i",
+        "vless:\/\/Joinin--ZEDMODEON@connectcarolina.sites.unc.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=mitrarank.ir&amp;type=ws&amp;sni=connectcarolina.sites.unc.edu#<i",
+        "vless:\/\/tel--ZEDMODEON@live.skornorth.com:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=nabzebourse.com&amp;type=ws&amp;sni=live.skornorth.com#<i"
+    ],
+    "trojan": [
+        "trojan:\/\/blue2024@104.16.238.107:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;host=td.promote.icu&amp;type=ws&amp;sni=td.promote.icu#<i"
+    ],
     "ss": [
-        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.162:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMGU3ZmQxZS0wNDY5LTQxNWYtOTVkYS03NzQwMjFmMTZmMzY%3D@soontw.soon.guru:40020#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMGU3ZmQxZS0wNDY5LTQxNWYtOTVkYS03NzQwMjFmMTZmMzY%3D@soonjp.soon.guru:40003#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMGU3ZmQxZS0wNDY5LTQxNWYtOTVkYS03NzQwMjFmMTZmMzY%3D@103.115.108.83:40020#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#<i"
     ],
     "tuic": [],
     "hysteria": [],
