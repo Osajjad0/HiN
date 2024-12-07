@@ -1,19 +1,17 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/7411ab59-5fac-41bf-947a-0163ea82d568@185.146.173.39:443?type=splithttp&amp;host=chde.black-melo.store&amp;path=\/melo?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2096&amp;security=tls&amp;fp=chrome&amp;sni=chde.black-melo.store&amp;alpn=h3#<i",
-        "vless:\/\/80489707-577a-4548-80f2-863b082fb6eb@mcc.rayanfmusic.ir:2096?security=tls&amp;sni=mcc.rayanfmusic.ir&amp;alpn=h3,h2,http\/1.1&amp;fp=chrome&amp;type=ws&amp;path=\/telegram-IRov2rayN,telegram-iroazadi,IRov2rayN-iroazadi,telegram-irov2rayN,telegram-irov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN,telegram-IRov2rayN?ed%3D2096&amp;host=mcc.rayanfmusic.IR&amp;encryption=none#<i",
-        "vless:\/\/DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.dalekishe.ir.&amp;type=ws#<i",
-        "vless:\/\/DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.hichinago.ir.&amp;type=httpupgrade#<i",
-        "vless:\/\/telegram-id-ArV2ray@151.101.194.133:443?encryption=none&amp;security=tls&amp;sni=mio.splashthat.com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=1.Hjgvdxx1.net&amp;path=%2Ftelegram-ArV2ray#<i",
-        "vless:\/\/e6464498-c5a6-4216-a61a-0a4ac3c77e25@spd.fastly80-3.hosting-ip.com:80?path=%2FSPdnet%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=servicefree.vip.no.tlswehoock.ir.&amp;type=ws#<i"
+        "vless:\/\/698c12c3-43ef-4dee-8c56-99e279a85879@hajlab.ucdavis.edu:443?path=%2F%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec%3Fed%3D8880&amp;security=tls&amp;encryption=none&amp;host=MdVpnSecJoin.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/8456babd-3b6e-4127-af39-e4cb8edda48f@157.230.20.98:14628?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
+        "vless:\/\/8456babd-3b6e-4127-af39-e4cb8edda48f@157.230.20.98:14628?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/15f34214-d8de-41e9-ba72-93daeafc59ef@172.64.155.209:2087?security=tls&amp;type=ws&amp;sni=subhiddify.mmdv2.host&amp;path=\/Telegram@V2ray_Alpha\/?ed=2560&amp;host=subhiddify.mmdv2.host#<i",
+        "trojan:\/\/telegram-id-privatevpns@3.66.249.138:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+    ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig13.usecharge.ir:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig14.usecharge.ir:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig15.usecharge.ir:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig14.usecharge.ir:443#<i"
+        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.162:443#<i",
+        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.162:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
