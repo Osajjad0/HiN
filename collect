@@ -1,27 +1,29 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJhZGQiOiAiYXJhLndpbGQwd24uY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIlRlbGV3ZWJpb24uY29tIiwgImlkIjogIjZlNjFiNzcxLWYyYzItNDBlMS05NzI1LTZjYWQwMDY1YTI2NCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQwODA0IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3SXJhbiJ9<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/e5f0a1d3-a236-43b5-9b43-36265e73f1fe@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc83.lebasnoo.ir.&amp;type=ws#<i",
-        "vless:\/\/244dbe27-d735-436c-bc1f-60aa0cca1653@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc86.lebasnoo.ir.&amp;type=ws#<i",
-        "vless:\/\/cea06199-e51d-4a53-b7c8-195b75ab3f1d@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc86.lebasnoo.ir.&amp;type=ws#<i",
-        "vless:\/\/c0403ace-a4c3-4870-a3c8-005fa0a64301@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc85.lebasnoo.ir.&amp;type=ws#<i",
-        "vless:\/\/9bb724c7-1435-4d91-a0f4-08c995e76762@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc82.lebasnoo.ir.&amp;type=ws#<i",
         "vless:\/\/00e85943-119a-4112-af52-d44175192452@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc82.lebasnoo.ir.&amp;type=ws#<i",
+        "vless:\/\/c0403ace-a4c3-4870-a3c8-005fa0a64301@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc85.lebasnoo.ir.&amp;type=ws#<i",
         "vless:\/\/801e6d41-930e-4eb8-bd7d-547404198deb@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc83.lebasnoo.ir.&amp;type=ws#<i",
         "vless:\/\/06eb68e6-5f5f-4ef1-8b5e-cffbf6189766@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc85.lebasnoo.ir.&amp;type=ws#<i",
         "vless:\/\/3d9a546c-85fa-4e52-8510-d18c1e7ee522@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=barkatc1.ir&amp;type=ws#<i",
         "vless:\/\/tell--ZEDMODEON@live.skornorth.com:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=nabzebourse.com&amp;type=ws&amp;sni=live.skornorth.com#<i",
-        "vless:\/\/cd52dcc2-9504-48c6-8dd8-46d0b494e3c5@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=barkatc1.ir&amp;type=ws#<i"
+        "vless:\/\/cd52dcc2-9504-48c6-8dd8-46d0b494e3c5@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=barkatc1.ir&amp;type=ws#<i",
+        "vless:\/\/ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.160.117:80?security=reality&amp;encryption=none&amp;pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=zula.ir&amp;sid=94aa1bdc#<i",
+        "vless:\/\/Joi--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=mahex.com&amp;type=ws&amp;sni=zmaoz.faculty.ucdavis.edu#<i",
+        "vless:\/\/cd52dcc2-9504-48c6-8dd8-46d0b494e3c5@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=barkatc1.ir&amp;type=ws#<i",
+        "vless:\/\/V2RAXX@test.fast.hosting-ip.com:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2CV2RAXX%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=V2RAXX.COM&amp;type=ws#<i",
+        "vless:\/\/9cf16370-7cb1-4d3c-aa56-7f45747939db@speedtest.net:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Tehranc3.Org&amp;type=ws#<i",
+        "vless:\/\/DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&amp;security=none&amp;encryption=none&amp;host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.hichinago.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/3a15a346-2f6f-41bc-ad0c-a885aec3002a@104.17.147.22:443?path=%2Fv2line-helsinki-finland-vl-ws-tls-advanced&amp;security=tls&amp;encryption=none&amp;host=46771119909676129223555549792065.v2line.net&amp;type=ws&amp;sni=46771119909676129223555549792065.v2line.net#<i",
+        "vless:\/\/3a15a346-2f6f-41bc-ad0c-a885aec3002a@104.17.147.22:443?path=%2Fv2line-helsinki-finland-vl-ws-tls-advanced&amp;security=tls&amp;encryption=none&amp;host=46771119909676129223555549792065.v2line.net&amp;type=ws&amp;sni=46771119909676129223555549792065.v2line.net#<i"
     ],
     "trojan": [],
     "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.188:8080#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.46.207:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
