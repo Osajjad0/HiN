@@ -1,26 +1,23 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiMzguMTEuNDkuNTMiLCAiYWlkIjogIjY0IiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInd3dy41NTE1MzIwMy54eXoiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wYXRoLzE3MzM0Nzc1NTk0NTIiLCAicG9ydCI6ICIzODAwMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAid3d3LjU1MTUzMjAzLnh5eiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVuaXRlZCBTdGF0ZXMifQ==<\/code><\/div>"
+    "vmess": [],
+    "vless": [
+        "vless:\/\/7411ab59-5fac-41bf-947a-0163ea82d568@185.146.173.39:443?security=tls&amp;sni=chde.black-melo.store&amp;type=splithttp&amp;host=chde.black-melo.store&amp;fp=chrome&amp;alpn=h3#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.69.166:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;path=\/telegram-channel-vlessconfig-ws#<i",
+        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.14.132:8443?security=tls&amp;sni=2-gd65fd.hc2021.cfd&amp;type=ws&amp;host=2-gd65fd.hc2021.cfd&amp;fp=chrome#<i",
+        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.14.132:8443?security=tls&amp;sni=2-gd65fd.hc2021.cfd&amp;type=ws&amp;host=2-gd65fd.hc2021.cfd&amp;fp=chrome#<i",
+        "vless:\/\/19d13bed-b8c5-4443-920e-12f833fed576@join.VPNCUSTOMIZE.com:80?path=\/xmlrpc.php\/Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE,Telegram,VPNCUSTOMIZE?ed%3D1080&amp;security=none&amp;encryption=none&amp;host=csgo.mozilla.5.0.xn--2b5baaa.127.0.0.1.offlinespeedtest.netdown.user.xn--2b5baaa.0.2.1.xn--j9h1028mqmaoytii00aha21hfjrd.xn--m39h.ajab.iP-ddns.com&amp;type=ws#<i"
     ],
-    "vless": [],
     "trojan": [
-        "trojan:\/\/telegram-id-privatevpns@18.193.113.18:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@3.71.206.184:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@13.48.5.87:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@18.193.113.18:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@3.68.167.147:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@13.48.5.87:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#<i",
         "trojan:\/\/telegram-id-privatevpns@3.70.219.173:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@3.68.167.147:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@3.250.123.154:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#<i",
+        "trojan:\/\/telegram-id-privatevpns@51.20.195.87:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
         "trojan:\/\/telegram-id-privatevpns@3.71.206.184:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@18.193.113.18:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@13.48.5.87:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@3.68.167.147:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@3.70.219.173:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@51.20.195.87:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+        "trojan:\/\/baacbac-abca-abac-dbac-babcaaccbbac@127.0.0.1:8080?security=tls&amp;type=tcp#<i"
     ],
-    "ss": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY0VEQWhSa05yandCMTZTdk41ZDdmQW1wc3d0R1RBZXhCMXFkem1lRnJnPQ==@150.241.68.171:24064#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjhiNjI1Yy1lZmI4LTQ1Y2QtYjUwOS1jN2NjZWFiZTBjYzY=@194.105.83.3:40003#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDVmZvZTVPbXFZazJIZExyZnFSWnVx@77.83.246.74:33320#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
