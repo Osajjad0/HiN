@@ -1,30 +1,8 @@
 {
     "vmess": [],
-    "vless": [
-        "vless:\/\/e1e47221-d318-4adc-ba94-8cab01b164e2@servger.sanjesh.online:7642?security=none&amp;encryption=none=\/@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/e1e47221-d318-4adc-ba94-8cab01b164e2@nodeser.sanjesh.online:7642?security=none&amp;encryption=none=\/@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/ca156343-91ca-4398-a0e8-23e6480a8718@172.66.213.38:2087?mode=gun&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA&amp;sni=g4.ferdowsi.shop#<i",
-        "vless:\/\/ca156343-91ca-4398-a0e8-23e6480a8718@172.66.213.38:2087?mode=gun&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA&amp;sni=g4.ferdowsi.shop#<i",
-        "vless:\/\/ca156343-91ca-4398-a0e8-23e6480a8718@172.66.213.38:2087?mode=gun&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA&amp;sni=g4.ferdowsi.shop#<i",
-        "vless:\/\/ca156343-91ca-4398-a0e8-23e6480a8718@172.66.213.38:2087?mode=gun&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA&amp;sni=g4.ferdowsi.shop#<i",
-        "vless:\/\/aa6f3d6e-f835-46ab-e35e-71828493ec4f@clearcreditrepair.com:443?type=ws&amp;host=www.meloammn.ir&amp;path=\/melo\/ws?e#<i"
-    ],
-    "trojan": [
-        "trojan:\/\/telegram-id-privatevpns@52.47.90.161:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
-    ],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY0VEQWhSa05yandCMTZTdk41ZDdmQW1wc3d0R1RBZXhCMXFkem1lRnJnPQ%3D%3D@150.241.68.171:24064#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjaFp0MDcyQlBDZExyR2UzNm4ybGR0@51.158.252.130:443#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5004#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY0VEQWhSa05yandCMTZTdk41ZDdmQW1wc3d0R1RBZXhCMXFkem1lRnJnPQ%3D%3D@150.241.68.171:24064#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbVlEelNHNkszNXM4YjE5b1k0Zkd6@92.118.112.111:18622#<i"
-    ],
+    "vless": [],
+    "trojan": [],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
