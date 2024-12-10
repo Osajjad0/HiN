@@ -1,28 +1,16 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJhZGQiOiAiMjMuMTYyLjIwMC4xODIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjIzMjQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZDYW5hZGEifQ==<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/0ee351f5-b9e7-482b-bf1e-873507f09fdc@free.techsonicpremium.shop:443?type=tcp&amp;security=tls&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=netflix.com#<i",
-        "vless:\/\/0ee351f5-b9e7-482b-bf1e-873507f09fdc@free.techsonicpremium.shop:443?type=tcp&amp;security=tls&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=m.zoom.us#<i",
-        "vless:\/\/0ee351f5-b9e7-482b-bf1e-873507f09fdc@free.techsonicpremium.shop:443?type=tcp&amp;security=tls&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=whatsapp.net#<i",
-        "vless:\/\/0ee351f5-b9e7-482b-bf1e-873507f09fdc@free.techsonicpremium.shop:443?type=tcp&amp;security=tls&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=aka.ms#<i",
-        "vless:\/\/0ee351f5-b9e7-482b-bf1e-873507f09fdc@free.techsonicpremium.shop:443?type=tcp&amp;security=tls&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=netflix.com#<i",
-        "vless:\/\/0ee351f5-b9e7-482b-bf1e-873507f09fdc@free.techsonicpremium.shop:443?type=tcp&amp;security=tls&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=m.youtube.com#<i",
-        "vless:\/\/0ee351f5-b9e7-482b-bf1e-873507f09fdc@free.techsonicpremium.shop:443?type=tcp&amp;security=tls&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=viber.com#<i",
-        "vless:\/\/0ee351f5-b9e7-482b-bf1e-873507f09fdc@free.techsonicpremium.shop:443?type=tcp&amp;security=tls&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=aka.ms#<i",
-        "vless:\/\/0ee351f5-b9e7-482b-bf1e-873507f09fdc@free.techsonicpremium.shop:443?type=tcp&amp;security=tls&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=abs.twimg.com#<i",
-        "vless:\/\/0ee351f5-b9e7-482b-bf1e-873507f09fdc@free.techsonicpremium.shop:443?type=tcp&amp;security=tls&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=viber.com#<i",
-        "vless:\/\/0ee351f5-b9e7-482b-bf1e-873507f09fdc@free.techsonicpremium.shop:443?type=tcp&amp;security=tls&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=www.pubgmobile.com#<i",
-        "vless:\/\/0ee351f5-b9e7-482b-bf1e-873507f09fdc@free.techsonicpremium.shop:443?type=tcp&amp;security=tls&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=abs.twimg.com#<i",
-        "vless:\/\/0ee351f5-b9e7-482b-bf1e-873507f09fdc@free.techsonicpremium.shop:443?type=tcp&amp;security=tls&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=m.facebook.com#<i",
-        "vless:\/\/0ee351f5-b9e7-482b-bf1e-873507f09fdc@free.techsonicpremium.shop:443?type=tcp&amp;security=tls&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=www.pubgmobile.com#<i",
-        "vless:\/\/0ee351f5-b9e7-482b-bf1e-873507f09fdc@free.techsonicpremium.shop:443?type=tcp&amp;security=tls&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=whatsapp.net#<i",
-        "vless:\/\/0ee351f5-b9e7-482b-bf1e-873507f09fdc@free.techsonicpremium.shop:443?type=tcp&amp;security=tls&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=m.facebook.com#<i",
-        "vless:\/\/0ee351f5-b9e7-482b-bf1e-873507f09fdc@free.techsonicpremium.shop:443?type=tcp&amp;security=tls&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=whatsapp.net#<i",
-        "vless:\/\/0ee351f5-b9e7-482b-bf1e-873507f09fdc@free.techsonicpremium.shop:443?type=tcp&amp;security=tls&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=m.youtube.com#<i",
-        "vless:\/\/0ee351f5-b9e7-482b-bf1e-873507f09fdc@free.techsonicpremium.shop:443?type=tcp&amp;security=tls&amp;fp=&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=m.youtube.com#<i"
+        "vless:\/\/b9509f1d-fed1-49bd-acd4-038ad13c81e7@104.17.148.22:443?path=%2Fv2line-chicago-unitedstates-vl-ws-tls-advanced&amp;security=tls&amp;encryption=none&amp;host=86278058785885367257976103254902.v2line.net&amp;type=ws&amp;sni=86278058785885367257976103254902.v2line.net#<i",
+        "vless:\/\/f6f183ff-6bdf-4596-88d3-165feab4417f@retete.cactusbic.ir:9595?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#<i"
     ],
     "trojan": [],
-    "ss": [],
+    "ss": [
+        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.244:443#<i",
+        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.244:443#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
