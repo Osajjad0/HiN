@@ -1,19 +1,23 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiZTY5MWQ2MWEtZi4zbnZ4LmNvbSIsICJhaWQiOiAxLCAiaG9zdCI6ICJlNjkxZDYxYS1mLjNudnguY29tIiwgImlkIjogIjc0ZGQ2NzRkLTM1ZmEtNGY3NS04YjA1LTBmMjc2ZTE1YzA5MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXNzZXRzIiwgInBvcnQiOiA0NDMsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJlNjkxZDYxYS1mLjNudnguY29tIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/47e9b63c-6a86-4ae6-acd0-4361f475f53a@65.109.176.108:2053?security=none&amp;type=xhttp&amp;headerType=&amp;path=%2Ftest%3Fed%3D2560&amp;host=#<i",
-        "vless:\/\/47e9b63c-6a86-4ae6-acd0-4361f475f53a@65.109.176.108:2053?security=none&amp;type=xhttp&amp;headerType=&amp;path=%2Ftest%3Fed%3D2560&amp;host=#<i",
-        "vless:\/\/c7953896-7bb2-4ce2-c7ca-117b2678b47f@151.101.128.204:80?path=%2Fmelo%2Fws%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.meloammn.ir&amp;type=ws#<i",
-        "vless:\/\/c7953896-7bb2-4ce2-c7ca-117b2678b47f@151.101.128.204:80?path=%2Fmelo%2Fws%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.meloammn.ir&amp;type=ws#<i",
-        "vless:\/\/%54%45%4c%45%47%52%41%4d%2d%69%64%2d%4e%55%46%69%4c%54%45%52@151.101.0.155:80?Telegram=@V2RayTz,@V2RayTz&amp;path=\/te%6cegr%61m-N%55FiL%54ER,%74ele%67ram%2dNUF%69LTE%52,te%6cegr%61m-N%55FiL%54ER,%74ele%67ram%2dNUF%69LTE%52?ed%3d80&amp;security=none&amp;encryption=none&amp;host=Khe%69li2%61sab%69am.%6eet&amp;type=ws#<i"
+        "vless:\/\/da34dd8d-6977-4839-a87b-cea3932578d7@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=Tehranc3.Org&amp;type=ws#<i",
+        "vless:\/\/da34dd8d-6977-4839-a87b-cea3932578d7@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=Tehranc3.Org&amp;type=ws#<i",
+        "vless:\/\/6ebc5b56-e760-43a1-9055-c7923a6139dd@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=Tehranc2.Org&amp;type=ws#<i",
+        "vless:\/\/6ebc5b56-e760-43a1-9055-c7923a6139dd@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=Tehranc2.Org&amp;type=ws#<i",
+        "vless:\/\/0132f1cf-f66c-4252-a052-3aa4edade4ec@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=Tehranc1.Org&amp;type=ws#<i",
+        "vless:\/\/0132f1cf-f66c-4252-a052-3aa4edade4ec@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=Tehranc1.Org&amp;type=ws#<i",
+        "vless:\/\/5c149ce3-c075-49a6-e850-cb46313a59a1@germany.acangame.site:4444?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=#<i",
+        "vless:\/\/6ebc5b56-e760-43a1-9055-c7923a6139dd@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=Tehranc2.Org&amp;type=ws#<i",
+        "vless:\/\/46653d19-4b76-405a-9263-a19af6a2aa5a@95.81.85.83:5001?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@217.163.76.107:8443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=edgood.889876.xyz&amp;fp=chrome&amp;type=ws&amp;sni=edgood.889876.xyz#<i",
+        "vless:\/\/b9509f1d-fed1-49bd-acd4-038ad13c81e7@www.speedtest.net:443?path=%2Fv2line-chicago-unitedstates-vl-ws-tls-advanced&amp;security=tls&amp;encryption=none&amp;host=86278058785885367257976103254902.v2line.net&amp;type=ws&amp;sni=86278058785885367257976103254902.v2line.net#<i",
+        "vless:\/\/65364f16-a80d-4879-a22a-fdb81340d0c2@www.speedtest.net:443?path=%2Fv2line-amsterdam-netherlands-vl-ws-tls-advanced&amp;security=tls&amp;encryption=none&amp;host=54153597949886727526628702092980.v2line.net&amp;type=ws&amp;sni=54153597949886727526628702092980.v2line.net#<i",
+        "vless:\/\/aa6f3d6e-f835-46ab-e35e-71828493ec4f@clearcreditrepair.com:443?type=ws&amp;host=www.meloammn.ir&amp;path=\/melo\/ws?e#<i",
+        "vless:\/\/iD--V2RAXX@fastlyipcloudflaretamiz.fast.hosting-ip.com:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2CV2RAXX%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=V2RAXX.IR&amp;type=ws#<i"
     ],
     "trojan": [],
-    "ss": [
-        "ss:\/\/YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2375#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.14:8080#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
