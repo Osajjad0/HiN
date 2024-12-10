@@ -1,7 +1,28 @@
 {
-    "vmess": [],
-    "vless": [],
-    "trojan": [],
+    "vmess": [
+        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjM4LjE0LjEwNy4yMjUiLCAicG9ydCI6IDM4MDAzLCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImhvc3QiOiAid3d3LjIzMTc5NzUzLnh5eiIsICJwYXRoIjogIi9wYXRoLzE4MTcyMTI3MjExNCIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVuaXRlZCBTdGF0ZXMifQ==<\/code><\/div>"
+    ],
+    "vless": [
+        "vless:\/\/49a2c7ca-002e-484c-fe76-bed8122007b1@sahanpaidcloudfront.menaka.online:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=www.pubgmobile.com#<i",
+        "vless:\/\/49a2c7ca-002e-484c-fe76-bed8122007b1@sahanpaidcloudfront.menaka.online:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=m.zoom.us#<i",
+        "vless:\/\/49a2c7ca-002e-484c-fe76-bed8122007b1@sahanpaidcloudfront.menaka.online:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=android.googleapis.com#<i",
+        "vless:\/\/49a2c7ca-002e-484c-fe76-bed8122007b1@sahanpaidcloudfront.menaka.online:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=google.com#<i",
+        "vless:\/\/49a2c7ca-002e-484c-fe76-bed8122007b1@sahanpaidcloudfront.menaka.online:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=Whatsapp.net#<i",
+        "vless:\/\/49a2c7ca-002e-484c-fe76-bed8122007b1@sahanpaidcloudfront.menaka.online:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=android.googleapis.com#<i",
+        "vless:\/\/49a2c7ca-002e-484c-fe76-bed8122007b1@sahanpaidcloudfront.menaka.online:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=Whatsapp.net#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.175.134:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;path=\/telegram-channel-vlessconfig-ws#<i",
+        "vless:\/\/49a2c7ca-002e-484c-fe76-bed8122007b1@sahanpaidcloudfront.menaka.online:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=m.zoom.us#<i",
+        "vless:\/\/aa6f3d6e-f835-46ab-e35e-71828493ec4f@clearcreditrepair.com:443?type=ws&amp;host=www.meloammn.ir&amp;path=\/melo\/ws?e#<i",
+        "vless:\/\/aa6f3d6e-f835-46ab-e35e-71828493ec4f@clearcreditrepair.com:443?type=ws&amp;host=www.meloammn.ir&amp;path=\/melo\/ws?e#<i",
+        "vless:\/\/5e454ad1-f158-4608-a51f-5f8700964e2e@62.60.148.24:39357?security=none&amp;type=tcp&amp;host=speedtest.net&amp;headerType=http#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@144.24.200.164:443?security=tls&amp;sni=pvg.aghabeiki.homes&amp;type=ws&amp;host=pvg.aghabeiki.homes&amp;path=%3Fed%3D2744#<i",
+        "vless:\/\/e6464498-c5a6-4216-a61a-0a4ac3c77e25@151.101.0.155:80?path=%2FSPdnet%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=servicefree.vip.no.tlswehoock.ir.&amp;type=ws#<i",
+        "vless:\/\/aa6f3d6e-f835-46ab-e35e-71828493ec4f@clearcreditrepair.com:443?type=ws&amp;host=www.meloammn.ir&amp;path=\/melo\/ws?e#<i",
+        "vless:\/\/49a2c7ca-002e-484c-fe76-bed8122007b1@sahanpaidcloudfront.menaka.online:443?path=%2F&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=m.viber.com#<i"
+    ],
+    "trojan": [
+        "trojan:\/\/telegram-id-privatevpns@3.124.226.209:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http\/1.1#<i"
+    ],
     "ss": [],
     "tuic": [],
     "hysteria": [],
