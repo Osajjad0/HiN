@@ -1,30 +1,8 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjQ2LjI5LjE2MS4yMjgiLCAicG9ydCI6ICI2MzcwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIyZTA5ZGZjYi03ZGQ2LTQ1ODQtYmJkNS0xMzdlMWY1NWJiMGMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZmFSdXNzaWEifQ==<\/code><\/div>",
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjE3Ni4zMi4zMy43MyIsICJwb3J0IjogIjYzNzAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjdlYWVmZGQxLTYyMTAtNDgzNy04Y2U1LTNhYzJjNGYzOTFlMCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmN1x1ZDgzY1x1ZGRmYVJ1c3NpYSJ9<\/code><\/div>",
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjU3LjEyOS4yOC42OSIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAic25pIjogIndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCAiaG9zdCI6ICJiYXJhZGloYS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYUdlcm1hbnkifQ==<\/code><\/div>",
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjQ2LjI5LjE2MS4yMjgiLCAicG9ydCI6ICI2MzcwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI3ZWFlZmRkMS02MjEwLTQ4MzctOGNlNS0zYWMyYzRmMzkxZTAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZmFSdXNzaWEifQ==<\/code><\/div>",
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4xOC4xMTQuMjI4IiwgInBvcnQiOiAiMjA4MiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAiZTQuNjkyOTE5OC54eXoiLCAidGxzIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9<\/code><\/div>",
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjQ2LjI5LjE2MS4xNSIsICJwb3J0IjogIjYzNzAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjdlYWVmZGQxLTYyMTAtNDgzNy04Y2U1LTNhYzJjNGYzOTFlMCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmN1x1ZDgzY1x1ZGRmYVJ1c3NpYSJ9<\/code><\/div>",
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjQ2LjI5LjE2MS4xNTkiLCAicG9ydCI6ICI2MDkwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI3ZWFlZmRkMS02MjEwLTQ4MzctOGNlNS0zYWMyYzRmMzkxZTAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZmFSdXNzaWEifQ==<\/code><\/div>",
-        "vmess:\/\/eyJhZGQiOiAiMTc2LjMyLjMyLjY4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJhNWZhNWY4MC1hMzgzLTQ2YWEtYjU4OS04NmVmNjhiNTgyMGMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNjM3MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZmFSdXNzaWEifQ==<\/code><\/div>",
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjE3Ni4zMi4zMy43MyIsICJwb3J0IjogIjYzNzAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjlkNDk5ZjM2LWNmNGEtNDdhNi05NjI5LWM5NjA4OTI3YTFhMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmN1x1ZDgzY1x1ZGRmYVJ1c3NpYSJ9<\/code><\/div>",
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjE3Ni4zMi4zMy43MyIsICJwb3J0IjogIjYzNzAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjlkNDk5ZjM2LWNmNGEtNDdhNi05NjI5LWM5NjA4OTI3YTFhMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmN1x1ZDgzY1x1ZGRmYVJ1c3NpYSJ9<\/code><\/div>"
-    ],
-    "vless": [
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@144.24.200.164:443?security=tls&amp;sni=pvg.aghabeiki.homes&amp;type=ws&amp;host=pvg.aghabeiki.homes&amp;path=%3Fed%3D2744#<i",
-        "vless:\/\/ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.186.87:80?security=reality&amp;sni=zula.ir&amp;type=tcp&amp;fp=chrome&amp;pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&amp;sid=94aa1bdc#<i",
-        "vless:\/\/3d5115e5-61c5-4a15-a616-6f2734914797@151.101.192.155:80?security=none&amp;type=ws&amp;host=Configt-Channel.Dev&amp;path=%2FlW0tvTq4oSbHyKeRM%3Fed%3D2560#<i",
-        "vless:\/\/cbb01d17-eeee-4394-a882-d6105c509be6@45.12.143.91:5444?security=reality&amp;flow=xtls-rprx-vision&amp;sni=www.veesp.com&amp;type=tcp&amp;fp=chrome&amp;pbk=r_t2d8_5K7RXA5StksoQxS_Zd9VWoHI0uwEoiK8T8Gs&amp;sid=c3d5#<i",
-        "vless:\/\/3d5115e5-61c5-4a15-a616-6f2734914797@151.101.192.155:80?security=none&amp;type=ws&amp;host=Configt-Channel.Dev&amp;path=%2FlW0tvTq4oSbHyKeRM%3Fed%3D2560#<i",
-        "vless:\/\/3d5115e5-61c5-4a15-a616-6f2734914797@151.101.192.155:80?security=none&amp;type=ws&amp;host=Configt-Channel.Dev&amp;path=%2FlW0tvTq4oSbHyKeRM%3Fed%3D2560#<i",
-        "vless:\/\/cbb01d17-eeee-4394-a882-d6105c509be6@45.12.143.91:5444?security=reality&amp;flow=xtls-rprx-vision&amp;sni=www.veesp.com&amp;type=tcp&amp;fp=chrome&amp;pbk=r_t2d8_5K7RXA5StksoQxS_Zd9VWoHI0uwEoiK8T8Gs&amp;sid=c3d5#<i",
-        "vless:\/\/cbb01d17-eeee-4394-a882-d6105c509be6@45.12.143.91:5444?security=reality&amp;flow=xtls-rprx-vision&amp;sni=www.veesp.com&amp;type=tcp&amp;fp=chrome&amp;pbk=r_t2d8_5K7RXA5StksoQxS_Zd9VWoHI0uwEoiK8T8Gs&amp;sid=c3d5#<i"
-    ],
+    "vmess": [],
+    "vless": [],
     "trojan": [],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTgzM2E2Zi00ZDQ2LTQyNmUtODdmZS03NzkzYTU0ODlmODQ@h-k01.loveroise.com:54000#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
