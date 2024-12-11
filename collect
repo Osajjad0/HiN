@@ -1,29 +1,22 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiNS4zOS4yNTQuMTk2IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICIzOThjZTg0ZS00ODQ5LTRlNWYtOWIxYS1hNTZmYmUyMzNiODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMjMxMjAsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmZkN6ZWNoaWEifQ==<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/b094b547-eee5-4dfe-9351-2fd0efa3f4b7@vmessorg.fastly80-3.hosting-ip.com:80?security=&amp;type=ws&amp;path=@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480&amp;host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&amp;encryption=none#<i",
-        "vless:\/\/959c009b-1989-43e4-9cfc-678efa9eed1d@188.245.211.120:443?security=tls&amp;sni=2.gpairnetwork369.ir&amp;type=tcp&amp;fp=chrome&amp;alpn=h3,h2,http\/1.1#<i",
-        "vless:\/\/f8bb4ae1-2358-4a76-ab75-2a6bc94272d6@151.101.130.228:443?security=tls&amp;sni=pscresearch.faculty.ucdavis.edu&amp;type=ws&amp;host=hgc6rct87gy.com&amp;path=ws%2F%3Fed%3D2048#<i",
-        "vless:\/\/959c009b-1989-43e4-9cfc-678efa9eed1d@188.245.211.120:443?security=tls&amp;sni=2.gpairnetwork369.ir&amp;type=tcp&amp;fp=chrome&amp;alpn=h3,h2,http\/1.1#<i",
-        "vless:\/\/959c009b-1989-43e4-9cfc-678efa9eed1d@188.245.211.120:443?security=tls&amp;sni=2.gpairnetwork369.ir&amp;type=tcp&amp;fp=chrome&amp;alpn=h3,h2,http\/1.1#<i",
-        "vless:\/\/f8bb4ae1-2358-4a76-ab75-2a6bc94272d6@151.101.130.228:443?security=tls&amp;sni=pscresearch.faculty.ucdavis.edu&amp;type=ws&amp;host=hgc6rct87gy.com&amp;path=ws%2F%3Fed%3D2048#<i",
-        "vless:\/\/f8bb4ae1-2358-4a76-ab75-2a6bc94272d6@151.101.130.228:443?security=tls&amp;sni=pscresearch.faculty.ucdavis.edu&amp;type=ws&amp;host=hgc6rct87gy.com&amp;path=ws%2F%3Fed%3D2048#<i"
+        "vless:\/\/a5bf7a44-c684-42a5-ba3a-9691735813d5@hajlab.ucdavis.edu:443?type=ws&amp;host=joinshhproxybedeeeeeee.ir&amp;path=\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&amp;security=tls&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/76042bdb-886d-4ef2-b069-fa514e2629cf@hajlab.ucdavis.edu:443?type=ws&amp;host=joinshhproxybedeeeee.ir&amp;path=\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&amp;security=tls&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/iD--V2RAXX@fastlyipcloudflaretamiz.fast.hosting-ip.com:80?type=ws&amp;host=V2RAXX.IR&amp;path=\/Telegram,V2RAXX,Telegram,V2RAXX?ed%3D443&amp;security=none#<i",
+        "vless:\/\/f2004126-5865-4980-b6dd-2211dbaadf10@zula.ir:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none=\/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&amp;host=rayan.sahel.us.kg&amp;fp=chrome&amp;type=ws&amp;sni=rayan.sahel.us.kg#<i",
+        "vless:\/\/f2004126-5865-4980-b6dd-2211dbaadf10@iplocation.net:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none=\/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&amp;host=rayan.sahel.us.kg&amp;type=ws&amp;sni=rayan.sahel.us.kg#<i",
+        "vless:\/\/ID-%56iraV2ray-6965@151.101.2.165:80?path=digikala.com%2Flogin%2F%40%56iraV2ray%2C%40%56iraV2ray%2C%40%56iraV2ray%3Fed%3D443&amp;security=none=\/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&amp;encryption=none&amp;host=telegram-id-ViraV2ray.com&amp;type=ws#<i",
+        "vless:\/\/%50%61%72%73%61%73%68%6F%6E%61%6D-127@185.146.173.39:8880?path=%2F&amp;serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
+        "vless:\/\/b945d1b4-f704-4908-bc73-fd8bd8fef50e@hajlab.ucdavis.edu:443?security=tls&amp;sni=hajlab.ucdavis.edu&amp;type=ws&amp;path=\/@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN---@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN?ed%3D8880&amp;host=Moft_VPN.net&amp;encryption=none#<i"
     ],
-    "trojan": [
-        "trojan:\/\/telegram-id-privatevpns@3.9.161.210:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http%2F1.1#<i",
-        "trojan:\/\/bbaacac-acba-abac-abcd-abaacbbcbacc@127.0.0.1:1080?security=tls&amp;type=tcp#<i",
-        "trojan:\/\/blue2024@172.64.35.110:443?sni=tc.promote.icu#<i",
-        "trojan:\/\/blue2024@162.159.44.110:443?sni=tc.promote.icu#<i",
-        "trojan:\/\/telegram-id-directvpn@3.123.52.125:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http\/1.1#<i",
-        "trojan:\/\/telegram-id-privatevpns@3.9.161.210:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http%2F1.1#<i",
-        "trojan:\/\/blue2024@162.159.44.110:443?sni=tc.promote.icu#<i",
-        "trojan:\/\/telegram-id-directvpn@3.123.52.125:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http\/1.1#<i"
-    ],
+    "trojan": [],
     "ss": [
-        "ss:\/\/YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.5:5003#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#<i",
+        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.244:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
