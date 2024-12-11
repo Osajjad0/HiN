@@ -1,19 +1,26 @@
 {
     "vmess": [],
     "vless": [
+        "vless:\/\/dbe2b913-3933-49a2-b662-206bea47d9da@ns2.esfahansiman.com:2052?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=FTP.tehrANSiman.coM.&amp;type=httpupgrade#<i",
+        "vless:\/\/f6f183ff-6bdf-4596-88d3-165feab4417f@116.203.201.23:9595?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/ad524a96-dfe5-460c-bf69-7513b3280a8e@86.104.32.218:26739?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/ad524a96-dfe5-460c-bf69-7513b3280a8e@86.104.32.218:26739?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/ad524a96-dfe5-460c-bf69-7513b3280a8e@86.104.32.218:26739?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/ad524a96-dfe5-460c-bf69-7513b3280a8e@86.104.32.218:26739?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i",
         "vless:\/\/TLS-V2RAY@abc4.iphone-shopp.ir:150?security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=\/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray#<i",
-        "vless:\/\/a5bf7a44-c684-42a5-ba3a-9691735813d5@hajlab.ucdavis.edu:443?security=tls&amp;sni=hajlab.ucdavis.edu&amp;type=ws&amp;path=\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&amp;host=joinshhproxybedeeeeeee.ir&amp;encryption=none#<i",
-        "vless:\/\/76042bdb-886d-4ef2-b069-fa514e2629cf@hajlab.ucdavis.edu:443?security=tls&amp;sni=hajlab.ucdavis.edu&amp;type=ws&amp;path=\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&amp;host=joinshhproxybedeeeee.ir&amp;encryption=none#<i",
-        "vless:\/\/a5bf7a44-c684-42a5-ba3a-9691735813d5@hajlab.ucdavis.edu:443?security=tls&amp;sni=hajlab.ucdavis.edu&amp;type=ws&amp;path=\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&amp;host=joinshhproxybedeeeeeee.ir&amp;encryption=none#<i",
-        "vless:\/\/d0709789-47b8-4c7b-9cfd-91a868307064@servger.sanjesh.online:7642?security=none=\/%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/d0709789-47b8-4c7b-9cfd-91a868307064@servger.sanjesh.online:7642?security=none=\/%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/d0709789-47b8-4c7b-9cfd-91a868307064@servger.sanjesh.online:7642?security=none=\/%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i"
+        "vless:\/\/ad524a96-dfe5-460c-bf69-7513b3280a8e@86.104.32.218:26739?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/ad524a96-dfe5-460c-bf69-7513b3280a8e@86.104.32.218:26739?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/telegram-id-privatevpns@3.11.229.209:22222?security=tls&amp;alpn=http%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+    ],
     "ss": [
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#<i",
         "ss:\/\/YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#<i",
-        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#<i"
+        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#<i"
     ],
     "tuic": [],
     "hysteria": [],
