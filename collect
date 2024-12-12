@@ -1,12 +1,21 @@
 {
     "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiMTQ5LjcuMTYuMTg4IiwgImFpZCI6IDAsICJob3N0IjogIjE0OS43LjE2LjE4OCIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3VW5pdGVkIEtpbmdkb20ifQ==<\/code><\/div>"
+        "vmess:\/\/eyJhZGQiOiAiaXJobXMwMy5kb25nZmVuZy5jZmQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiaG1zMDMuZG9uZ2ZlbmcuY2ZkIiwgImlkIjogImZhNWI1NWNkLWNhZmMtNGRlMC1hNGM4LTcyMmUwMmE5ZjU4ZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJobXMwMy5kb25nZmVuZy5jZmQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjdGcmFuY2UifQ==<\/code><\/div>"
     ],
-    "vless": [],
-    "trojan": [
-        "trojan:\/\/telegram-id-directvpn@15.157.142.36:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http\/1.1#<i"
+    "vless": [
+        "vless:\/\/787cbde8-126c-4c39-93f7-56cfe44527c0@six.app:443?type=ws&amp;host=doWnloadlynEt.iR.&amp;path=\/%40#<i",
+        "vless:\/\/787cbde8-126c-4c39-93f7-56cfe44527c0@six.app:443?type=ws&amp;host=doWnloadlynEt.iR.&amp;path=\/%40#<i",
+        "vless:\/\/dca7418d-6454-48f9-ac6b-9e586ca40a1c@151.101.66.228:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v15.TzZLiMitTNeWz.NeT&amp;type=ws#<i",
+        "vless:\/\/283ee7c1-69ca-4af9-a812-2c87e6dc6cd1@192.0.63.44:8080?security=none&amp;path=%2Fspeedtest.net%3Fed%3D512#<i"
     ],
-    "ss": [],
+    "trojan": [],
+    "ss": [
+        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.244:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
