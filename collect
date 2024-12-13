@@ -1,5 +1,6 @@
 {
     "vmess": [
+        "vmess:\/\/eyJhZGQiOiAiMTA0LjI2LjAuMjkiLCAiYWlkIjogMCwgImhvc3QiOiAicDEuNjEzMDU1Lnh5eiIsICJpZCI6ICJiYzY1ZmFjMi03ZGM3LTQyNmYtYWNkZC0wNzc5YTUwMzViZGUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAicG9ydCI6IDIwODYsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9<\/code><\/div>",
         "vmess:\/\/eyJhZGQiOiAiMTA0LjI2LjAuMjkiLCAiYWlkIjogMCwgImhvc3QiOiAicDEuNjEzMDU1Lnh5eiIsICJpZCI6ICJiYzY1ZmFjMi03ZGM3LTQyNmYtYWNkZC0wNzc5YTUwMzViZGUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAicG9ydCI6IDIwODYsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9<\/code><\/div>"
     ],
     "vless": [
@@ -17,6 +18,8 @@
         "vless:\/\/c7953896-7bb2-4ce2-c7ca-117b2678b47f@atrapalotickets.com:443?type=ws&amp;host=www.meloammn.com&amp;path=\/melo\/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd%3D2048&amp;security=tls&amp;fp=chrome&amp;sni=atrapalotickets.com.&amp;alpn=h2,http\/1.1#<i"
     ],
     "trojan": [
+        "trojan:\/\/telegram-id-directvpn@108.128.174.238:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http\/1.1#<i",
+        "trojan:\/\/telegram-id-privatevpns@63.177.38.103:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http\/1.1#<i",
         "trojan:\/\/telegram-id-directvpn@108.128.174.238:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http\/1.1#<i"
     ],
     "ss": [
