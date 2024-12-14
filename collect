@@ -1,27 +1,21 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJhZGQiOiAiMTkyLjc0LjI0NC4xODEiLCAiYWlkIjogNjQsICJob3N0IjogInd3dy4xNzMzMDU4NS54eXoiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wYXRoLzE3MzMzOTA5NTU3NzQiLCAicG9ydCI6IDMxMDAzLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/75f12cab-d1e7-4e52-a828-093492a8401e@151.101.194.228:443?security=tls&amp;sni=hajlab.ucdavis.edu&amp;type=ws&amp;host=joinshhproxybedeeeee.ir&amp;path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#<i",
-        "vless:\/\/0e626bc4-44a4-4e24-baa9-604f5387db80@84.47.233.102:20014?security=none&amp;type=tcp#<i",
-        "vless:\/\/75f12cab-d1e7-4e52-a828-093492a8401e@151.101.194.228:443?security=tls&amp;sni=hajlab.ucdavis.edu&amp;type=ws&amp;host=joinshhproxybedeeeee.ir&amp;path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#<i",
-        "vless:\/\/0e626bc4-44a4-4e24-baa9-604f5387db80@84.47.233.102:20014?security=none&amp;type=tcp#<i",
-        "vless:\/\/c405398e-9a13-4e7a-bda7-420bee9a09b4@5.202.6.243:1486?security=none&amp;type=tcp&amp;path=%2F&amp;headerType=http#<i",
-        "vless:\/\/c405398e-9a13-4e7a-bda7-420bee9a09b4@5.202.6.243:1486?security=none&amp;type=tcp&amp;path=%2F&amp;headerType=http#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.0.178:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;path=\/telegram-channel-vlessconfig-ws#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.0.178:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;path=\/telegram-channel-vlessconfig-ws#<i",
-        "vless:\/\/d74acf2c-2148-4343-891c-627c4b5d690b@151.101.38.133:443?security=tls&amp;sni=live.skornorth.com&amp;type=ws&amp;host=5774.ir&amp;fp=chrome&amp;alpn=h2,http\/1.1#<i",
-        "vless:\/\/d74acf2c-2148-4343-891c-627c4b5d690b@151.101.38.133:443?security=tls&amp;sni=live.skornorth.com&amp;type=ws&amp;host=5774.ir&amp;fp=chrome&amp;alpn=h2,http\/1.1#<i",
-        "vless:\/\/7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@135.125.244.42:1210?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&amp;fp=chrome&amp;type=grpc&amp;serviceName=%40%40jet_config-%40jet_config-%40jet_config&amp;sni=ubuntu.com&amp;sid=7fe29733#<i",
-        "vless:\/\/7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@135.125.244.42:1210?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&amp;fp=chrome&amp;type=grpc&amp;serviceName=%40%40jet_config-%40jet_config-%40jet_config&amp;sni=ubuntu.com&amp;sid=7fe29733#<i",
-        "vless:\/\/68d0f3df-6af0-4fca-82df-5b2ea11cd942@visa.com:2082?path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480&amp;security=none&amp;encryption=none&amp;host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaa.developer1.dns-dynamic.net.xn--9iqr0tm1r4wg.co&amp;type=ws#<i",
-        "vless:\/\/68d0f3df-6af0-4fca-82df-5b2ea11cd942@visa.com:2082?path=%2F%40UnlimitedDev----%40UnlimitedDev-----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev----%40UnlimitedDev%3Fed%3D2480&amp;security=none&amp;encryption=none&amp;host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaa.developer1.dns-dynamic.net.xn--9iqr0tm1r4wg.co&amp;type=ws#<i",
-        "vless:\/\/d74acf2c-2148-4343-891c-627c4b5d690b@151.101.38.133:443?security=tls&amp;sni=live.skornorth.com&amp;type=ws&amp;host=5774.ir&amp;fp=chrome&amp;alpn=h2#<i",
-        "vless:\/\/064f95d7-41d2-4135-8728-a896a3ff7983@free.fastly80.hosting-ip.com:80?type=ws&amp;security=none&amp;host=hostholadvipprimer1.com&amp;path=%2F%3Fed%3D2048#<i",
-        "vless:\/\/064f95d7-41d2-4135-8728-a896a3ff7983@free.fastly80.hosting-ip.com:80?type=ws&amp;security=none&amp;host=hostholadvipprimer1.com&amp;path=%2F%3Fed%3D2048#<i",
-        "vless:\/\/064f95d7-41d2-4135-8728-a896a3ff7983@free.fastly80.hosting-ip.com:80?type=ws&amp;security=none&amp;host=hostholadvipprimer1.com&amp;path=%2F%3Fed%3D2048#<i"
+        "vless:\/\/f2004126-5865-4980-b6dd-2211dbaadf10@104.26.6.214:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=rayan.sahel.us.kg&amp;type=ws&amp;sni=rayan.sahel.us.kg#<i",
+        "vless:\/\/f2004126-5865-4980-b6dd-2211dbaadf10@104.26.6.214:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=rayan.sahel.us.kg&amp;type=ws&amp;sni=rayan.sahel.us.kg#<i",
+        "vless:\/\/38828f71-504f-4bce-bc73-87c2ee2b9ea1@EXPRESSVPN_420.fast.hosting-ip.com:80?path=%2F%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420------%40EXPRESSVPN_420%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Sg89ehzstwi9.net&amp;type=ws#<i",
+        "vless:\/\/9adcf8a0-2234-4b89-bde7-b840eacf064b@2.188.213.223:3333?security=none&amp;type=tcp&amp;host=telewebion.com&amp;headerType=http#<i"
     ],
     "trojan": [],
-    "ss": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
