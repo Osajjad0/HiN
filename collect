@@ -1,28 +1,24 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v06.bEsTdRlImIt.NeT#<i",
-        "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v22.bEsTdRlImIt.NeT#<i",
-        "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v11.bEsTdRlImIt.NeT#<i",
-        "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.bEsTdRlImIt.NeT#<i",
-        "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.bEsTdRlImIt.NeT#<i",
-        "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.bEsTdRlImIt.NeT#<i",
-        "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.bEsTdRlImIt.NeT#<i",
-        "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v19.bEsTdRlImIt.NeT#<i",
-        "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v23.bEsTdRlImIt.NeT#<i",
-        "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v15.bEsTdRlImIt.NeT#<i",
-        "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v18.bEsTdRlImIt.NeT#<i",
-        "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v10.bEsTdRlImIt.NeT#<i",
-        "vless:\/\/1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v07.bEsTdRlImIt.NeT#<i",
-        "vless:\/\/13fa0037-5480-446b-8885-714e424677fb@103.21.244.182:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=black-wind-7f73lb.jewefe6869.workers.dev&amp;type=ws#<i",
-        "vless:\/\/13fa0037-5480-446b-8885-714e424677fb@104.16.145.82:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=black-wind-7f73lb.jewefe6869.workers.dev&amp;type=ws#<i",
-        "vless:\/\/13fa0037-5480-446b-8885-714e424677fb@103.21.244.182:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=black-wind-7f73lb.jewefe6869.workers.dev&amp;type=ws#<i",
-        "vless:\/\/13fa0037-5480-446b-8885-714e424677fb@104.16.145.82:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=black-wind-7f73lb.jewefe6869.workers.dev&amp;type=ws#<i",
-        "vless:\/\/40553fa2-2e7d-40c8-bba7-199fc63b4729@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=loye.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
-        "vless:\/\/257a3125-8af8-4f68-b008-0fb25e01cbcc@hajlab.ucdavis.edu:443?path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinbedemaznettel.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i"
+        "vless:\/\/3392536f-f459-4951-b2d7-c9a730e96cea@hajlab.ucdavis.edu:443?security=tls&amp;sni=hajlab.ucdavis.edu&amp;type=ws&amp;path=\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&amp;host=joinshhproxybedeeeeeee.ir&amp;encryption=none#<i",
+        "vless:\/\/3392536f-f459-4951-b2d7-c9a730e96cea@hajlab.ucdavis.edu:443?security=tls&amp;sni=hajlab.ucdavis.edu&amp;type=ws&amp;path=\/%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79?ed%3D2048&amp;host=%6A%6F%69%6E%73%68%68%70%72%6F%78%79%62%65%64eeeeeee.ir#<i",
+        "vless:\/\/c64208b4-c4a9-4aea-b3e5-bcbc6a452d52@hajlab.ucdavis.edu:443?security=tls&amp;sni=hajlab.ucdavis.edu&amp;type=ws&amp;path=\/%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79----%40%53%68%68_%50%72%6F%78%79?ed%3D2048&amp;host=%6A%6F%69%6E%73%68%68%70%72%6F%78%79%62%65%64eeeee.ir#<i",
+        "vless:\/\/0dfea564-4abd-49c7-82e4-7bda9718a6fc@198.105.125.194:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none=\/%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=20241214.777999.lol&amp;type=ws&amp;sni=20241214.777999.lol#<i",
+        "vless:\/\/0dfea564-4abd-49c7-82e4-7bda9718a6fc@185.153.218.161:18113?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none=\/%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=20241214.777999.lol&amp;type=ws&amp;sni=20241214.777999.lol#<i",
+        "vless:\/\/c743a107-2fd5-4136-81f0-fc9a2a7ea65e@206.238.237.118:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none=\/%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO-|-%40TEHRANARGO&amp;host=edg.sosorg.nyc.mn&amp;fp=random&amp;type=ws&amp;sni=edg.sosorg.nyc.mn#<i"
     ],
-    "trojan": [],
-    "ss": [],
+    "trojan": [
+        "trojan:\/\/telegram-id-privatevpns@18.156.17.28:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+    ],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
