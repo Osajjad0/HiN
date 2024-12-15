@@ -1,8 +1,6 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/1c16872a-f424-4821-ae03-f27cf581dc90@www.visa.com:443\/?type=ws&amp;encryption=none&amp;host=boring-falls-appreciate-tasks.trycloudflare.com&amp;path=%2F1c16872a-f424-4821-ae03-f27cf581dc90-vless%3Fed%3D2048&amp;security=tls&amp;sni=boring-falls-appreciate-tasks.trycloudflare.com&amp;packetEncoding=xudp#<i",
-        "vless:\/\/1c16872a-f424-4821-ae03-f27cf581dc90@[2407:3640:2185:9595:0:1:c2d0:9336]:65008\/?type=http&amp;encryption=none&amp;path=%2F&amp;sni=addons.mozilla.org&amp;alpn=h2&amp;fp=chrome&amp;security=reality&amp;pbk=XrpXuYo8oZs7sitHeijt5Pg0vRo5nrD7A8_U5KAHCCw&amp;sid=&amp;packetEncoding=xudp#<i",
         "vless:\/\/1c16872a-f424-4821-ae03-f27cf581dc90@[2407:3640:2185:9595:0:1:c2d0:9336]:65009\/?type=grpc&amp;encryption=none&amp;serviceName=grpc&amp;sni=addons.mozilla.org&amp;fp=chrome&amp;security=reality&amp;pbk=XrpXuYo8oZs7sitHeijt5Pg0vRo5nrD7A8_U5KAHCCw&amp;sid=&amp;packetEncoding=xudp#<i",
         "vless:\/\/16747acc-95c8-44ba-9b66-3d8a0c035347@147.45.51.16:2096\/?type=grpc&amp;encryption=none&amp;sni=dash.cloudflare.com&amp;fp=firefox&amp;security=reality&amp;pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&amp;sid=28f58957#<i",
         "vless:\/\/16747acc-95c8-44ba-9b66-3d8a0c035347@147.45.51.16:2096\/?type=grpc&amp;encryption=none&amp;sni=dash.cloudflare.com&amp;fp=firefox&amp;security=reality&amp;pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&amp;sid=28f58957#<i",
@@ -15,13 +13,15 @@
         "vless:\/\/d15a8968-954d-4315-9ea2-b8147908e688@matrix4.mobindvil.shop:18764\/?encryption=none&amp;host=telewebion.com&amp;type=tcp&amp;headerType=http#<i",
         "vless:\/\/f2004126-5865-4980-b6dd-2211dbaadf10@172.67.68.240:443\/?type=ws&amp;encryption=none&amp;host=rayan.sahel.us.kg&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=rayan.sahel.us.kg#<i",
         "vless:\/\/c94034cd-ab73-4b54-93cf-d7b2f8257ba0@213.108.23.243:26926\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;fp=random&amp;security=reality&amp;pbk=V1Sm4pc5EuEHSwsfXDDLYPuiu3JZUESNifEkvm5ARn8&amp;sid=435d625ae815#<i",
-        "vless:\/\/c94034cd-ab73-4b54-93cf-d7b2f8257ba0@213.108.23.243:26926\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;fp=random&amp;security=reality&amp;pbk=V1Sm4pc5EuEHSwsfXDDLYPuiu3JZUESNifEkvm5ARn8&amp;sid=435d625ae815#<i"
+        "vless:\/\/c94034cd-ab73-4b54-93cf-d7b2f8257ba0@213.108.23.243:26926\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;fp=random&amp;security=reality&amp;pbk=V1Sm4pc5EuEHSwsfXDDLYPuiu3JZUESNifEkvm5ARn8&amp;sid=435d625ae815#<i",
+        "vless:\/\/46b06e2c-e5e0-4ad2-ad3e-9f316d7d3065@mahx.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=MaHxRaYT.aI.&amp;type=ws#<i",
+        "vless:\/\/46b06e2c-e5e0-4ad2-ad3e-9f316d7d3065@mahx.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=MaHxRaYT.aI.&amp;type=ws#<i",
+        "vless:\/\/46b06e2c-e5e0-4ad2-ad3e-9f316d7d3065@bclead2023.com:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=MaHxRaYT.aI.&amp;fp=firefox&amp;type=ws&amp;sni=bclead2023.com#<i",
+        "vless:\/\/46b06e2c-e5e0-4ad2-ad3e-9f316d7d3065@mahx.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=MaHxRaYT.aI.&amp;type=ws#<i",
+        "vless:\/\/46b06e2c-e5e0-4ad2-ad3e-9f316d7d3065@bclead2023.com:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=MaHxRaYT.aI.&amp;fp=firefox&amp;type=ws&amp;sni=bclead2023.com#<i"
     ],
-    "trojan": [
-        "trojan:\/\/1c16872a-f424-4821-ae03-f27cf581dc90@[2407:3640:2185:9595:0:1:c2d0:9336]:65005\/?type=tcp&amp;security=tls&amp;allowInsecure=1&amp;fp=random#<i"
-    ],
+    "trojan": [],
     "ss": [
-        "ss:\/\/YWVzLTEyOC1nY206MWMxNjg3MmEtZjQyNC00ODIxLWFlMDMtZjI3Y2Y1ODFkYzkw@[2407:3640:2185:9595:0:1:c2d0:9336]:65004#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.139.40:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#<i"
     ],
