@@ -1,27 +1,28 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJ2IjogMiwgImFkZCI6ICJbMmEwMzo2ZjAwOmE6OjMwZDNdIiwgImFpZCI6IDAsICJpZCI6ICI0YzY0ZmMzNy05ZmM0LTQxZDgtZjI3ZC03NzM1YWVkNWM3ZjQiLCAibmV0IjogInRjcCIsICJwb3J0IjogODA4MCwgInRscyI6ICJub25lIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNlXHVkZDM3XHUyMDBkXHUyNjQwXHVmZTBmXHVkODNlXHVkZDM3XHUyMDBkXHUyNjQyXHVmZTBmIn0=<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/44ea12c9-69f3-4f19-c385-a4a7e136d411@188.245.233.230:111?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=dI0LP4M7hntLeNdYt31yrkjgbrrmCUMMlSf4klThOGk&amp;fp=chrome&amp;type=grpc&amp;sni=www.speedtest.net&amp;sid=072b02#<i",
-        "vless:\/\/69f8b663-1bb1-466d-a440-82814c5281d2@142.132.237.159:333?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=k7IVO7W6lPYjx7B9LnjZxA4cwTgCWiYF3w3wGE7wERU&amp;fp=chrome&amp;type=grpc&amp;sni=www.speedtest.net&amp;sid=fee425#<i",
-        "vless:\/\/69f8b663-1bb1-466d-a440-82814c5281d2@142.132.237.159:333?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=k7IVO7W6lPYjx7B9LnjZxA4cwTgCWiYF3w3wGE7wERU&amp;fp=chrome&amp;type=grpc&amp;sni=www.speedtest.net&amp;sid=fee425#<i",
-        "vless:\/\/40794205-2963-43ef-9f32-9808513b78b5@pscresearch.faculty.ucdavis.edu:443?path=ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=rfydctbiu.com&amp;type=ws&amp;sni=pscresearch.faculty.ucdavis.edu#<i",
-        "vless:\/\/40794205-2963-43ef-9f32-9808513b78b5@pscresearch.faculty.ucdavis.edu:443?path=ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=rfydctbiu.com&amp;type=ws&amp;sni=pscresearch.faculty.ucdavis.edu#<i",
-        "vless:\/\/4bda1d37-c0ac-4d81-8b5d-4b63159368f2@82.117.87.178:13579?security=reality&amp;encryption=none&amp;pbk=yHujXYE95xI1v3LxfkFRU_T1_WPYKtY9xHbpYZ11hko&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=icloud.com&amp;sid=811a9175#<i",
-        "vless:\/\/4bda1d37-c0ac-4d81-8b5d-4b63159368f2@82.117.87.178:13579?security=reality&amp;encryption=none&amp;pbk=yHujXYE95xI1v3LxfkFRU_T1_WPYKtY9xHbpYZ11hko&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=icloud.com&amp;sid=811a9175#<i",
-        "vless:\/\/b4a2ccd4-727a-40ca-8455-fa6e62df2218@116.203.201.23:23671?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/Parsashonam-129@185.146.173.39:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
-        "vless:\/\/b4a2ccd4-727a-40ca-8455-fa6e62df2218@116.203.201.23:23671?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/f4cf5881-2770-4106-add0-4fcd9fc3c01f@188.245.198.226:564?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=HNxUFbdt218ojBsCv9V5rRsJk2rFQLY_8QjaKuIMrys&amp;fp=chrome&amp;type=grpc&amp;sni=canva.com&amp;sid=69#<i",
-        "vless:\/\/f4cf5881-2770-4106-add0-4fcd9fc3c01f@188.245.198.226:564?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=HNxUFbdt218ojBsCv9V5rRsJk2rFQLY_8QjaKuIMrys&amp;fp=chrome&amp;type=grpc&amp;sni=canva.com&amp;sid=69#<i",
-        "vless:\/\/V2RAXX---@fastlyipcloudflaretamiz.fast.hosting-ip.com:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2CV2RAXX%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=V2RAXX.IR&amp;type=ws#<i",
-        "vless:\/\/6575a423-2e3d-4c89-9999-48bc1ddb72d2@151.101.3.8:80?path=%2FVpnWedbaz---VpnWedBaZ%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=Tehran2.Org&amp;type=ws#<i",
-        "vless:\/\/8458ecd7-1e71-4be4-a571-0806241d52d2@91.216.171.61:39497?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/6575a423-2e3d-4c89-9999-48bc1ddb72d2@151.101.3.8:80?path=%2FVpnWedbaz---VpnWedBaZ%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=Tehran2.Org&amp;type=ws#<i"
+        "vless:\/\/b5b96bc9-6df8-4500-a773-205fd4f8dabb@hajlab.ucdavis.edu:443?path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&amp;security=tls&amp;encryption=none&amp;host=rohammmmmvistav2.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/50321a42-dea6-42e0-8ca5-fabc550e893f@199.232.125.50:443?path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&amp;security=tls&amp;encryption=none&amp;host=rohammmmmvistav2.ir&amp;type=ws&amp;sni=ELENA.E-L-i-V-2-R-A-Y.IR#<i",
+        "vless:\/\/b5b96bc9-6df8-4500-a773-205fd4f8dabb@hajlab.ucdavis.edu:443?path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&amp;security=tls&amp;encryption=none&amp;host=rohammmmmvistav2.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/b5b96bc9-6df8-4500-a773-205fd4f8dabb@hajlab.ucdavis.edu:443?path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&amp;security=tls&amp;encryption=none&amp;host=rohammmmmvistav2.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/99ece951-d623-4fcd-adac-021b97d0f887@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v19.bEsTdRlImIt.NeT#<i",
+        "vless:\/\/99ece951-d623-4fcd-adac-021b97d0f887@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v19.bEsTdRlImIt.NeT#<i",
+        "vless:\/\/99ece951-d623-4fcd-adac-021b97d0f887@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v19.bEsTdRlImIt.NeT#<i",
+        "vless:\/\/dca7418d-6454-48f9-ac6b-9e586ca40a1c@151.101.66.228:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v15.TzZLiMitTNeWz.NeT&amp;type=ws#<i",
+        "vless:\/\/71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.120:443?security=tls&amp;sni=aaa.zhuk.us.kg&amp;type=ws&amp;host=aaa.zhuk.us.kg&amp;path=\/youlingkaishi#<i",
+        "vless:\/\/71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.120:443?security=tls&amp;sni=aaa.zhuk.us.kg&amp;type=ws&amp;host=aaa.zhuk.us.kg&amp;path=\/youlingkaishi#<i",
+        "vless:\/\/fce43fa4-6d52-489f-87d2-1818c6d690c8@151.101.3.8:80?path=%2FVpnWedbaz---VpnWedBaZ%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=Tehran2.Org&amp;type=ws#<i",
+        "vless:\/\/fce43fa4-6d52-489f-87d2-1818c6d690c8@151.101.3.8:80?path=%2FVpnWedbaz---VpnWedBaZ%3Fed%3D443&amp;security=none&amp;encryption=none&amp;host=Tehran2.Org&amp;type=ws#<i",
+        "vless:\/\/Joini--ZEDMODEON@connectcarolina.sites.unc.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=www.nezamsakhteman.ir&amp;type=ws&amp;sni=connectcarolina.sites.unc.edu#<i",
+        "vless:\/\/Bia--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=karafarini.ir&amp;type=ws&amp;sni=zmaoz.faculty.ucdavis.edu#<i",
+        "vless:\/\/tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=irantvto.ir&amp;type=ws&amp;sni=zmaoz.faculty.ucdavis.edu#<i",
+        "vless:\/\/Biain--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=ndmo.ir&amp;type=ws&amp;sni=zmaoz.faculty.ucdavis.edu#<i",
+        "vless:\/\/tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=sabteahval.ir&amp;type=ws&amp;sni=zmaoz.faculty.ucdavis.edu#<i"
     ],
     "trojan": [],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ%3D%3D@series-a2-me.samanehha.co:443#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
