@@ -1,28 +1,30 @@
 {
-    "vmess": [],
-    "vless": [],
-    "trojan": [
-        "trojan:\/\/user@s13.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s13.mynameismahsa.info#<i",
-        "trojan:\/\/user@s5.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s5.mynameismahsa.info#<i",
-        "trojan:\/\/user@s14.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s14.mynameismahsa.info#<i",
-        "trojan:\/\/user@s6.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s6.mynameismahsa.info#<i",
-        "trojan:\/\/user@s15.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s15.mynameismahsa.info#<i",
-        "trojan:\/\/user@s7.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s7.mynameismahsa.info#<i",
-        "trojan:\/\/user@s8.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s8.mynameismahsa.info#<i",
-        "trojan:\/\/user@s9.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s9.mynameismahsa.info#<i",
-        "trojan:\/\/user@s16.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s16.mynameismahsa.info#<i",
-        "trojan:\/\/user@s17.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s17.mynameismahsa.info#<i",
-        "trojan:\/\/user@s18.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s18.mynameismahsa.info#<i",
-        "trojan:\/\/user@s19.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s19.mynameismahsa.info#<i",
-        "trojan:\/\/user@s20.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s20.mynameismahsa.info#<i",
-        "trojan:\/\/user@s21.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s21.mynameismahsa.info#<i",
-        "trojan:\/\/user@s22.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s22.mynameismahsa.info#<i",
-        "trojan:\/\/user@s23.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s23.mynameismahsa.info#<i",
-        "trojan:\/\/user@s24.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s24.mynameismahsa.info#<i",
-        "trojan:\/\/user@s25.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s25.mynameismahsa.info#<i",
-        "trojan:\/\/user@s26.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s26.mynameismahsa.info#<i"
+    "vmess": [
+        "vmess:\/\/eyJhZGQiOiAic2kuMTgwOC5zaXRlIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiY2MyLjE4MDguc2l0ZSIsICJpZCI6ICJkM2Q4Yjc4MS1mMzBkLTQ5MDItOGViMC01OGIxY2E5MzZiZWMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2hncXF2d3MiLCAicG9ydCI6ICIzMDAwMiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiY2MyLjE4MDguc2l0ZSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmN1NvdXRoIEtvcmVhIn0=<\/code><\/div>",
+        "vmess:\/\/eyJhZGQiOiAic2kuMTgwOC5zaXRlIiwgImFpZCI6ICIwIiwgImhvc3QiOiAib2JkaWkuY2ZkIiwgImlkIjogIjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiMzAwMDIiLCAic2N5IjogImF1dG8iLCAic25pIjogIm9iZGlpLmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3U291dGggS29yZWEifQ==<\/code><\/div>"
     ],
-    "ss": [],
+    "vless": [
+        "vless:\/\/b1f58d90-e65f-4566-91f3-1b96e9a68612@Speedtest.net:80?path=\/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=JoiIInNn--DIgiv2Ray.Ir.&amp;type=ws#<i",
+        "vless:\/\/b1f58d90-e65f-4566-91f3-1b96e9a68613@Speedtest.net:80?path=\/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=JoiIInNn--DIgiv2Ray.Ir.&amp;type=ws#<i",
+        "vless:\/\/b1f58d90-e65f-4566-91f3-1b96e9a68614@Speedtest.net:80?path=\/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=JoiIInNn--DIgiv2Ray.Ir.&amp;type=ws#<i",
+        "vless:\/\/b1f58d90-e65f-4566-91f3-1b96e9a68615@Speedtest.net:80?path=\/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=JoiIInNn--DIgiv2Ray.Ir.&amp;type=ws#<i",
+        "vless:\/\/b1f58d90-e65f-4566-91f3-1b96e9a68616@Speedtest.net:80?path=\/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=JoiIInNn--DIgiv2Ray.Ir.&amp;type=ws#<i",
+        "vless:\/\/b1f58d90-e65f-4566-91f3-1b96e9a68617@Speedtest.net:80?path=\/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=JoiIInNn--DIgiv2Ray.Ir.&amp;type=ws#<i",
+        "vless:\/\/b1f58d90-e65f-4566-91f3-1b96e9a68618@Speedtest.net:80?path=\/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=JoiIInNn--DIgiv2Ray.Ir.&amp;type=ws#<i",
+        "vless:\/\/b1f58d90-e65f-4566-91f3-1b96e9a68619@Speedtest.net:80?path=\/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=JoiIInNn--DIgiv2Ray.Ir.&amp;type=ws#<i",
+        "vless:\/\/b1f58d90-e65f-4566-91f3-1b96e9a68610@Speedtest.net:80?path=\/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=JoiIInNn--DIgiv2Ray.Ir.&amp;type=ws#<i",
+        "vless:\/\/telegram-id-ArV2ray@151.101.3.8:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=cdiuw110.net&amp;type=ws#<i",
+        "vless:\/\/telegram-id-ArV2ray@151.101.3.8:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&amp;secu\u2026",
+        "vless:\/\/telegram-id-ArV2ray@151.101.3.8:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=cdiuw110.net&amp;type=ws#<i",
+        "vless:\/\/telegram-id-ArV2ray@151.101.3.8:80?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&amp;secu\u2026"
+    ],
+    "trojan": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
