@@ -1,10 +1,6 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/913af369-de79-43b2-b251-c28ddabc6815@151.101.194.133:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=6.fidsxss2x.iR&amp;fp=chrome&amp;type=ws&amp;sni=Zmaoz.Faculty.Ucdavis.Edu#<i",
-        "vless:\/\/TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25658?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:43085?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:55242?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
         "vless:\/\/TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:17293?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
         "vless:\/\/ccf66150-dccc-42d0-8bba-513391a09f40@[2a01:4f8:c010:5aa8::1]:55242?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
         "vless:\/\/396fba08-39c8-46dc-ba9d-ead46498b5df@free.serverlanddl.com:110?mode=gun&amp;security=reality&amp;encryption=none&amp;alpn=h2&amp;pbk=gjpZdZmvqNvzY9cgnc0tTF9XXAvvq5Hmp37jJl2lvWY&amp;fp=chrome&amp;type=grpc&amp;serviceName=Go4HFJDtQYDNh5HQII31&amp;sni=cdn.jsdelivr.net&amp;sid=ce9fa5#<i",
@@ -22,8 +18,6 @@
         "trojan:\/\/user@s1.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s1.mynameismahsa.info#<i"
     ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#<i"
     ],
     "tuic": [],
