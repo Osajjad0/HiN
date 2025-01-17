@@ -1,8 +1,31 @@
 {
     "vmess": [],
-    "vless": [],
-    "trojan": [],
-    "ss": [],
+    "vless": [
+        "vless:\/\/f21ef1b5-9501-48bb-8252-09b78b999913@barbari.yusefkhare.sbs:19670?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
+        "vless:\/\/913af369-de79-43b2-b251-c28ddabc6815@151.101.194.133:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=6.fidsxss2x.iR&amp;fp=chrome&amp;type=ws&amp;sni=Zmaoz.Faculty.Ucdavis.Edu#<i",
+        "vless:\/\/a133b68b-c47b-40a4-8189-d7f5036c28d7@151.101.130.133:443?security=tls&amp;type=ws&amp;headerType=&amp;path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net%3Fed%3D2048&amp;host=externalch.org&amp;sni=www.sunshinecity.co.jp&amp;fp=firefox#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@54.195.71.33:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;path=\/telegram-channel-vlessconfig-ws#<i",
+        "vless:\/\/user@s26.mynameismahsa.info:443?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s26.mynameismahsa.info#<i"
+    ],
+    "trojan": [
+        "trojan:\/\/user@s1.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s1.mynameismahsa.info#<i",
+        "trojan:\/\/user@s2.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s2.mynameismahsa.info#<i",
+        "trojan:\/\/user@s3.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s3.mynameismahsa.info#<i",
+        "trojan:\/\/user@s4.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s4.mynameismahsa.info#<i",
+        "trojan:\/\/user@s5.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s5.mynameismahsa.info#<i",
+        "trojan:\/\/user@s6.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s6.mynameismahsa.info#<i",
+        "trojan:\/\/user@s7.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s7.mynameismahsa.info#<i",
+        "trojan:\/\/user@s8.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s8.mynameismahsa.info#<i",
+        "trojan:\/\/user@s9.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s9.mynameismahsa.info#<i",
+        "trojan:\/\/user@s10.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s10.mynameismahsa.info#<i",
+        "trojan:\/\/user@s11.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s11.mynameismahsa.info#<i",
+        "trojan:\/\/user@s12.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s12.mynameismahsa.info#<i",
+        "trojan:\/\/user@s13.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s13.mynameismahsa.info#<i"
+    ],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
