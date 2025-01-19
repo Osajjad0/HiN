@@ -1,13 +1,26 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAidjQxLmVtb3Zwbi5idXp6IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInY0MS5lbW92cG4uYnV6eiIsICJpZCI6ICI4MjY2NzY2OC00YmZkLTQ5MDYtYWIzMS1jMjc0NWQwZGU3OGUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgyNzEiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVuaXRlZCBTdGF0ZXMifQ==<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/2088fc1a-af25-4dfb-a4ad-9cbd11e13fdb@c1.vact.ir:2083?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&amp;pbk=Re7kdDBxVgsI4VmCHrcsPeKD4CBoB6Oc8fqxtWJ6m18&amp;fp=randomized&amp;spx=%2F&amp;type=grpc&amp;sni=refersion.com&amp;sid=90278dfc#<i",
-        "vless:\/\/07814169-6ebd-42c9-a23b-0b7cf1d31d87@c2.vact.ir:2083?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&amp;pbk=IXXrQcqXgzopBeSGpCO_u53keeKZaN1AoOzdyLA-Mzo&amp;fp=randomized&amp;spx=%2F&amp;type=grpc&amp;sni=refersion.com&amp;sid=11a4b6bca8#<i",
-        "vless:\/\/07814169-6ebd-42c9-a23b-0b7cf1d31d87@c2.vact.ir:2083?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&amp;pbk=IXXrQcqXgzopBeSGpCO_u53keeKZaN1AoOzdyLA-Mzo&amp;fp=randomized&amp;spx=%2F&amp;type=grpc&amp;sni=refersion.com&amp;sid=11a4b6bca8#<i",
-        "vless:\/\/TELEGRAM-NUFiLTER-ebe108ec990e@nufilter.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=Germany2.vip-nufilter.coM&amp;type=ws#<i",
-        "vless:\/\/2d7c7aa5-364a-4dbb-937a-f8e4f5f73007@94.131.111.195:443?path=%2Fvless&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=de4.connecton.surf#<i"
+        "vless:\/\/4915c7af-c338-4819-97b4-038b8c5577fc@free.server.techsonicpro.xyz:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=zoom.us#<i",
+        "vless:\/\/4915c7af-c338-4819-97b4-038b8c5577fc@free.server.techsonicpro.xyz:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=netflix.com#<i",
+        "vless:\/\/4915c7af-c338-4819-97b4-038b8c5577fc@free.server.techsonicpro.xyz:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=whatsapp.net#<i",
+        "vless:\/\/4915c7af-c338-4819-97b4-038b8c5577fc@free.server.techsonicpro.xyz:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=android.googleapis.com#<i",
+        "vless:\/\/4915c7af-c338-4819-97b4-038b8c5577fc@free.server.techsonicpro.xyz:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=aka.ms#<i",
+        "vless:\/\/4915c7af-c338-4819-97b4-038b8c5577fc@free.server.techsonicpro.xyz:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=youTube.com#<i",
+        "vless:\/\/4915c7af-c338-4819-97b4-038b8c5577fc@free.server.techsonicpro.xyz:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=zoom.us#<i",
+        "vless:\/\/4915c7af-c338-4819-97b4-038b8c5577fc@free.server.techsonicpro.xyz:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=viber.com#<i",
+        "vless:\/\/4915c7af-c338-4819-97b4-038b8c5577fc@free.server.techsonicpro.xyz:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=netflix.com#<i",
+        "vless:\/\/4915c7af-c338-4819-97b4-038b8c5577fc@free.server.techsonicpro.xyz:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=chrome.google.com#<i",
+        "vless:\/\/4915c7af-c338-4819-97b4-038b8c5577fc@free.server.techsonicpro.xyz:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=telegram.hutch.lk#<i",
+        "vless:\/\/4915c7af-c338-4819-97b4-038b8c5577fc@free.server.techsonicpro.xyz:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=epicgames.com#<i",
+        "vless:\/\/4915c7af-c338-4819-97b4-038b8c5577fc@free.server.techsonicpro.xyz:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=facobook.com#<i",
+        "vless:\/\/4915c7af-c338-4819-97b4-038b8c5577fc@free.server.techsonicpro.xyz:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=whatsapp.net#<i",
+        "vless:\/\/4915c7af-c338-4819-97b4-038b8c5577fc@free.server.techsonicpro.xyz:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=youTube.com#<i",
+        "vless:\/\/41abecd9-8096-4142-a75c-4e1d36d990bd@193.122.58.158:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=mmdserver.us.kg&amp;type=ws&amp;sni=mmdserver.us.kg#<i",
+        "vless:\/\/fcc47ce8-219c-400e-bda9-e09d8f776ae6@TLS.zeoaeriedo-saioesrio.ir:2000\/?type=grpc&amp;serviceName=\/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&amp;authority=&amp;security=none#<i",
+        "vless:\/\/fcc47ce8-219c-400e-bda9-e09d8f776ae6@TLS.zeoaeriedo-saioesrio.ir:2000\/?type=grpc&amp;serviceName=\/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&amp;authority=&amp;security=none#<i",
+        "vless:\/\/27f6af70-0c00-5dca-8195-f0d8acbd782b@77.91.101.131:2052?type=ws&amp;path=\/vless%23@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=none#<i",
+        "vless:\/\/27f6af70-0c00-5dca-8195-f0d8acbd782b@77.91.101.131:2052?type=ws&amp;path=\/vless%23@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=none#<i"
     ],
     "trojan": [],
     "ss": [],
