@@ -1,10 +1,9 @@
 {
     "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiMTQzLjE5OC4xODkuMjQ3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInY0Mi5lbW92cG4uYnV6eiIsICJpZCI6ICI4MjY2NzY2OC00YmZkLTQ5MDYtYWIzMS1jMjc0NWQwZGU3OGUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjU1MzAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVuaXRlZCBTdGF0ZXMifQ==<\/code><\/div>"
+        "vmess:\/\/eyJhZGQiOiAiMTQzLjE5OC4xODkuMjQ3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInY0Mi5lbW92cG4uYnV6eiIsICJpZCI6ICI4MjY2NzY2OC00YmZkLTQ5MDYtYWIzMS1jMjc0NWQwZGU3OGUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjU1MzAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVuaXRlZCBTdGF0ZXMifQ==<\/code><\/div>",
+        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjM4LjExLjcxLjY4IiwgInBvcnQiOiAiMzcwMDIiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMTczNzE4ODM0OTgxOSIsICJob3N0IjogInd3dy42NDc4Njc1NS54eXoiLCAidGxzIjogInRscyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVuaXRlZCBTdGF0ZXMifQ==<\/code><\/div>"
     ],
     "vless": [
-        "vless:\/\/253ef561-9e57-4336-befd-878ddd30df01@167.82.0.226:80?path=%2Fvless-ws%2F%40Telegram-proxy_mtm%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=teleirani.ir&amp;type=ws#<i",
-        "vless:\/\/253ef561-9e57-4336-befd-878ddd30df01@167.82.1.111:80?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=teleirani.ir&amp;type=ws#<i",
         "vless:\/\/253ef561-9e57-4336-befd-878ddd30df01@167.82.0.226:80?path=%2Fvless-ws%2F%40Telegram-proxy_mtm%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=teleirani.ir&amp;type=ws#<i",
         "vless:\/\/27f6af70-0c00-5dca-8195-f0d8acbd782b@77.91.101.131:2052?type=ws&amp;path=\/vless%23@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=none#<i",
         "vless:\/\/27f6af70-0c00-5dca-8195-f0d8acbd782b@77.91.101.131:2052?type=ws&amp;path=\/vless%23@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=none#<i",
@@ -25,7 +24,9 @@
     "trojan": [
         "trojan:\/\/3723507166611775488@5.189.203.50:443?security=tls&amp;sni=devoted-starfish.boa152.lol&amp;type=tcp#<i"
     ],
-    "ss": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
