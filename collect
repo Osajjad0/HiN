@@ -1,25 +1,24 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJhZGQiOiAiNDUuMTk5LjEzOC4yMjYiLCAiYWlkIjogNjQsICJob3N0IjogInd3dy4zNjA5MjgyMi54eXoiLCAiaWQiOiAiZjlmYTNhOWMtZjdkNS00MTRmLTg4ZTYtNjk3MDU4NWQ5OTQ5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wYXRoLzE3MzMzMDY0MzMzNzMiLCAicG9ydCI6IDQxMDAzLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAid3d3LjM2MDkyODIyLnh5eiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMVRoZSBOZXRoZXJsYW5kcyJ9<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@18.196.85.67:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
-        "vless:\/\/9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us02.ssr.ee:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=itunes.apple.com&amp;fp=chrome&amp;pbk=AeJ40fWPYK3WSDtY_AGv3ewG_kwQvAoDtf3KIgk1DRU&amp;sid=6ba85179e30d4fc2&amp;type=tcp&amp;headerType=none#<i",
-        "vless:\/\/9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us04.ssr.ee:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=itunes.apple.com&amp;fp=chrome&amp;pbk=--Ssq_QptGzn8kl6PwVSRKglFCYXJHLUX2-Q4IGCgl0&amp;sid=6ba85179e30d4fc2&amp;type=tcp&amp;headerType=none#<i",
-        "vless:\/\/9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us01.ssr.ee:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=itunes.apple.com&amp;fp=chrome&amp;pbk=Fz8HhyDXOLkw3NU59cbyvLvyZEiaMhjmHZ8P-R5RxF0&amp;sid=6ba85179e30d4fc2&amp;type=tcp&amp;headerType=none#<i",
-        "vless:\/\/c871c98b-bf0a-4b67-9c5d-a52c3462101b@FISHLAB.UCDAVIS.EDU:443?path=%2FTelegram-Channel%3A%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47-----%40%48%71v2R%61y%4e%47%3Fed%3D8080&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=J.DEV&amp;fp=firefox&amp;type=ws&amp;sni=FISHLAB.UCDAVIS.EDU#<i",
-        "vless:\/\/c871c98b-bf0a-4b67-9c5d-a52c3462101b@FISHLAB.UCDAVIS.EDU:443?path=%2FTelegram-\u2026#<i",
-        "vless:\/\/8d5c2ad9-3880-4ff8-bb8b-ba9e2f386078@www.speedtest.net:443?path=%2F8d5c2ad9-3880-4ff8-bb8b-ba9e2f386078&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=saxony.scriptboy.ir&amp;fp=chrome&amp;type=ws&amp;sni=saxony.scriptboy.ir#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.55:8880?encryption=none&amp;security=none&amp;type=grpc#<i",
-        "vless:\/\/51b83496-83a6-5ece-b66d-46aff4bf1d7e@94.131.14.177:2086?encryption=none&amp;security=none&amp;type=grpc&amp;authority=&amp;serviceName=vless-grpc&amp;mode=gun#<i",
-        "vless:\/\/Join-VPNCUSTOMIZE@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=\/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE\u2026#<i",
+        "vless:\/\/TELEGRAM-NUFiLTER-a16731c398fa@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=Dorzadim.filtero.net&amp;type=ws#<i",
+        "vless:\/\/TELEGRAM-NUFiLTER-a16731c398fa@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=Dorzadim.filtero.net&amp;type=ws#<i",
         "vless:\/\/Join--VPNCUSTOMIZE@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=\/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&amp;security=none&amp;host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&amp;type=ws#<i",
-        "vless:\/\/Join--VPNCUSTOMIZE@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=\/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram\u2026#<i",
-        "vless:\/\/9d0a75d2-f747-4afa-b43f-d208af9e8f9a@db02.ssr.ee:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=itunes.apple.com&amp;fp=chrome&amp;pbk=0Vvc6EFXPQHWWqyhG4wek-MEh_q6a9CDMY7U-TSHGV4&amp;sid=6ba85179e30d4fc2&amp;type=tcp&amp;headerType=none#<i",
-        "vless:\/\/1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.101:3237?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#<i",
-        "vless:\/\/dc1f670a-cc2e-40d4-ba7c-284ed4b7da62@188.114.97.3:8080?encryption=none&amp;security=none&amp;sni=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&amp;alpn=h2%2Chttp%2F1.1&amp;fp=random&amp;type=ws&amp;host=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&amp;path=%2Fadmin#<i",
-        "vless:\/\/f6aa25e8-0a8a-4328-93f7-5af7680e8710@80.71.149.53:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=bama.ir&amp;type=ws#<i"
+        "vless:\/\/Join--VPNCUSTOMIZE@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=\/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&amp;security=none&amp;host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&amp;type=ws#<i",
+        "vless:\/\/Join--VPNCUSTOMIZE@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=\/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&amp;security=none&amp;host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&amp;type=ws#<i",
+        "vless:\/\/Join--VPNCUSTOMIZE@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&amp;type=ws#<i",
+        "vless:\/\/e6e445ab-c8af-4a4f-8a2f-c8f2ceb2c7f7@online.isgood.host:45851?type=tcp&amp;security=reality&amp;pbk=Cl530ooHVxlMgzqaZQhT5U1wn35U89lcfHR27okTSBY&amp;fp=random&amp;sni=twitch.tv&amp;sid=c98223&amp;spx=%2F&amp;flow=xtls-rprx-vision#<i",
+        "vless:\/\/5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@45.90.96.19:443?mode=packet-up&amp;path=%2Fln2ray%2F%3FJOKERRVPNTelegram#<i",
+        "vless:\/\/5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@45.90.96.19:443?mode=packet-up&amp;path=%2Fln2ray%2F%3FJOKERRVPNTelegram#<i"
     ],
     "trojan": [],
-    "ss": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTU4NmFhYi0zYTM3LTRmNTUtYjhiNy01YWU2OTU3MmQ0MDM=@185.221.64.225:1935#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWHVta0ZYOGJKc2Y4WEFFRHR4U1Aw@89.185.84.185:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWHVta0ZYOGJKc2Y4WEFFRHR4U1Aw@89.185.84.185:443#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
