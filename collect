@@ -1,14 +1,31 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJhZGQiOiAiMTA0LjE5LjE1MC4xMCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJtY2kubXRuLmlyLmNvbS5vcmcubmV0LmJ1eWtpdC5pci4iLCAiaWQiOiAiOTRmMzMyYjAtYzVkMy00NTMxLWExZDYtNmU2MzU4Y2M2YzcyIiwgIm5ldCI6ICJodHRwdXBncmFkZSIsICJwYXRoIjogIi9kM2QzTG1seVlXNW9iM04wTG1OdmJRPT0\/ZWQ9MjU2MCIsICJwb3J0IjogIjIwOTUiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/c492ed32-d953-572f-bdc3-106a1dd2bbca@146.19.106.10:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=vless-grpc&amp;sni=vpnAndroid2.vpnAndroid2.vpnAndroid2.site#<i",
-        "vless:\/\/fcc47ce8-219c-400e-bda9-e09d8f776ae6@TLS.zeoaeriedo-saioesrio.ir:2000\/?type=grpc&amp;serviceName=\/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&amp;authority=&amp;security=none#<i",
-        "vless:\/\/1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.129:3237?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/8e644ba4-c10f-4285-8c27-82cde672513f@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=\/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&amp;security=none&amp;host=join-----VPNCUSTOMIZE--VPNCUSTOMIZE.IR.&amp;type=ws#<i",
-        "vless:\/\/fcc47ce8-219c-400e-bda9-e09d8f776ae6@TLS.zeoaeriedo-saioesrio.ir:2000\/?type=grpc&amp;serviceName=\/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&amp;authority=&amp;security=none#<i"
+        "vless:\/\/469e6ccd-2052-4e90-b015-a12e5f5bdb23@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=join-----VPNCUSTOMIZE--VPNCUSTOMIZE.IR.&amp;type=ws#<i",
+        "vless:\/\/469e6ccd-2052-4e90-b015-a12e5f5bdb23@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=join-----VPNCUSTOMIZE--VPNCUSTOMIZE.IR.&amp;type=ws#<i",
+        "vless:\/\/%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=mmd3.ir&amp;type=ws#<i",
+        "vless:\/\/c0aef084-a029-401a-97ea-c37a18930f5b@151.101.2.165:80?path=%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=IPSERVIS2.ORG&amp;type=ws#<i",
+        "vless:\/\/c0aef084-a029-401a-97ea-c37a18930f5b@151.101.2.165:80?path=%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=IPSERVIS2.ORG&amp;type=ws#<i",
+        "vless:\/\/-KING",
+        "vless:\/\/-KING",
+        "vless:\/\/d725d070-f645-4579-8477-f6f36cbe96a1@rzm3.feeliran.org:12560?type=tcp&amp;security=tls&amp;sni=rzm3.feeliran.org#<i",
+        "vless:\/\/d725d070-f645-4579-8477-f6f36cbe96a1@rzm3.feeliran.org:12560?type=tcp&amp;security=tls&amp;sni=rzm3.feeliran.org#<i",
+        "vless:\/\/d725d070-f645-4579-8477-f6f36cbe96a1@rzm3.feeliran.org:12560?type=tcp&amp;security=tls&amp;sni=rzm3.feeliran.org#<i",
+        "vless:\/\/5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?encryption=none&amp;security=none&amp;sni=tr2.vless.site&amp;type=grpc&amp;authority=&amp;serviceName=vless-grpc&amp;mode=gun#<i",
+        "vless:\/\/b93d7dac-1430-4eef-ad55-967592b68e02@45.12.145.67:8880?encryption=none&amp;security=none&amp;type=grpc#<i",
+        "vless:\/\/d76542c9-916e-41bb-ad0d-fa37971a8b2e@65.109.211.154:443?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=CM7AaS7XYEohx4ZNbecHqTqhyX9-Q4MQKlHji1xxI2I&amp;sid=4b272f845593&amp;spx=%2F&amp;type=tcp&amp;headerType=none#<i",
+        "vless:\/\/5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?encryption=none&amp;security=none&amp;sni=tr2.vless.site&amp;type=grpc&amp;authority=&amp;serviceName=vless-grpc&amp;mode=gun#<i",
+        "vless:\/\/5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?encryption=none&amp;security=none&amp;sni=tr2.vless.site&amp;type=grpc&amp;authority=&amp;serviceName=vless-grpc&amp;mode=gun#<i",
+        "vless:\/\/b93d7dac-1430-4eef-ad55-967592b68e02@45.12.145.67:8880?encryption=none&amp;security=none&amp;type=grpc#<i",
+        "vless:\/\/b93d7dac-1430-4eef-ad55-967592b68e02@45.12.145.67:8880?encryption=none&amp;security=none&amp;type=grpc#<i",
+        "vless:\/\/d76542c9-916e-41bb-ad0d-fa37971a8b2e@65.109.211.154:443?encryption=none&amp;security=reality&amp;sni=yahoo.com&amp;fp=chrome&amp;pbk=CM7AaS7XYEohx4ZNbecHqTqhyX9-Q4MQKlHji1xxI2I&amp;sid=4b272f845593&amp;spx=%2F&amp;type=tcp&amp;headerType=none#<i"
     ],
     "trojan": [],
-    "ss": [],
+    "ss": [
+        "ss:\/\/YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.95.174:5004#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
