@@ -1,26 +1,7 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/617d5079-9fae-494a-98ca-90da9e10cd70@64.23.128.88:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=arvancloud.com&amp;type=ws#<i",
-        "vless:\/\/617d5079-9fae-494a-98ca-90da9e10cd70@64.23.128.88:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=arvancloud.com&amp;type=ws#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.158:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.158:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/1fb52030-a522-4665-8a35-09b6710b062d@v06.blkrose.ir:2053?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&amp;fp=chrome&amp;type=grpc&amp;serviceName=2053vless&amp;sni=sourceforge.net&amp;sid=5640288dca4f8519#<i",
-        "vless:\/\/1fb52030-a522-4665-8a35-09b6710b062d@v06.blkrose.ir:2053?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&amp;fp=chrome&amp;type=grpc&amp;serviceName=2053vless&amp;sni=sourceforge.net&amp;sid=5640288dca4f8519#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.158:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.158:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/2825557d-9580-5e95-920d-1f7bf01f7b88@94.131.118.246:2052?path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL&amp;security=none&amp;encryption=none&amp;type=ws#<i",
-        "vless:\/\/05340dba-aefc-5898-a3cd-73b76b1eb656@45.153.230.228:2052?path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL&amp;security=none&amp;encryption=none&amp;type=ws#<i",
-        "vless:\/\/4e54854f-c445-5000-9437-dd21f1d85d64@95.164.84.131:2052?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=vless-grpc&amp;sni=no2.vless.site#<i",
-        "vless:\/\/dba910a2-845a-4e63-8a88-098d6fd79a30@79.127.70.67:8822?security=none&amp;encryption=none&amp;host=archlinux.org&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/2825557d-9580-5e95-920d-1f7bf01f7b88@94.131.118.246:2052?path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL&amp;security=none&amp;encryption=none&amp;type=ws#<i",
-        "vless:\/\/2825557d-9580-5e95-920d-1f7bf01f7b88@94.131.118.246:2052?path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL&amp;security=none&amp;encryption=none&amp;type=ws#<i",
-        "vless:\/\/05340dba-aefc-5898-a3cd-73b76b1eb656@45.153.230.228:2052?path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL&amp;security=none&amp;encryption=none&amp;type=ws#<i",
-        "vless:\/\/05340dba-aefc-5898-a3cd-73b76b1eb656@45.153.230.228:2052?path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL&amp;security=none&amp;encryption=none&amp;type=ws#<i",
-        "vless:\/\/4e54854f-c445-5000-9437-dd21f1d85d64@95.164.84.131:2052?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=vless-grpc&amp;sni=no2.vless.site#<i",
-        "vless:\/\/4e54854f-c445-5000-9437-dd21f1d85d64@95.164.84.131:2052?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=vless-grpc&amp;sni=no2.vless.site#<i",
-        "vless:\/\/dba910a2-845a-4e63-8a88-098d6fd79a30@79.127.70.67:8822?security=none&amp;encryption=none&amp;host=archlinux.org&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/dba910a2-845a-4e63-8a88-098d6fd79a30@79.127.70.67:8822?security=none&amp;encryption=none&amp;host=archlinux.org&amp;headerType=http&amp;type=tcp#<i"
+        "vless:\/\/7204ddc9-8076-493a-9b0b-d53afe7011e6@c2.vact.ir:2083?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&amp;pbk=IXXrQcqXgzopBeSGpCO_u53keeKZaN1AoOzdyLA-Mzo&amp;fp=randomized&amp;spx=%2F&amp;type=grpc&amp;serviceName=&amp;sni=refersion.com&amp;sid=11a4b6bca8#<i"
     ],
     "trojan": [],
     "ss": [],
