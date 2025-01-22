@@ -1,30 +1,30 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjE5My4yOS4xMDcuMjM0IiwgInBvcnQiOiA0OTAyMCwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIyZTk2N2RkNS04ZDI0LTQwOTktYTkwMS00MTJkY2I0MDI0ZmQiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZjBEZW5tYXJrIn0=<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/22c7cdd0-5205-4f91-a98e-5fcf6cb0e9ed@108.162.195.157:443?path=%2Fwss&amp;security=tls&amp;encryption=none&amp;alpn=http\/1.1&amp;host=kjq0yl.p1vpn.com&amp;type=ws&amp;sni=kjq0yl.p1vpn.com#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.158:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#<i",
         "vless:\/\/7f8766f1-3ec3-44a0-aa0e-2508fb82a6fe@speedtest.net:80?type=ws&amp;host=foffmelo.com&amp;path=\/olem\/ws?ed%3D1024@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=none#<i",
-        "vless:\/\/fcc47ce8-219c-400e-bda9-e09d8f776ae6@TLS.zeoaeriedo-saioesrio.ir:2000\/?type=grpc&amp;serviceName=\/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&amp;authority=&amp;security=none#<i",
         "vless:\/\/7f8766f1-3ec3-44a0-aa0e-2508fb82a6fe@speedtest.net:80?type=ws&amp;host=foffmelo.com&amp;path=\/olem\/ws?ed%3D1024@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=none#<i",
-        "vless:\/\/fcc47ce8-219c-400e-bda9-e09d8f776ae6@TLS.zeoaeriedo-saioesrio.ir:2000\/?type=grpc&amp;serviceName=\/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&amp;authority=&amp;security=none#<i",
         "vless:\/\/910dba5a-bf48-445a-80d7-da990918f008@zmaoz.faculty.ucdavis.edu:443?type=ws&amp;host=fonmelo.com&amp;path=\/olem\/ws?ed%3D4096@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=tls&amp;fp=chrome&amp;sni=zmaoz.faculty.ucdavis.edu.&amp;alpn=h2,http\/1.1#<i",
         "vless:\/\/910dba5a-bf48-445a-80d7-da990918f008@zmaoz.faculty.ucdavis.edu:443?type=ws&amp;host=fonmelo.com&amp;path=\/olem\/ws?ed%3D4096@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=tls&amp;fp=chrome&amp;sni=zmaoz.faculty.ucdavis.edu.&amp;alpn=h2,http\/1.1#<i",
-        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.144.253:443?security=tls&amp;sni=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;host=a.xn--i-sx6a60i.us.kg&amp;path=%2F%3Fed%3D2560#<i",
-        "vless:\/\/51b83496-83a6-5ece-b66d-46aff4bf1d7e@94.131.14.177:2086?type=grpc&amp;serviceName=vless-grpc#<i"
+        "vless:\/\/fcc47ce8-219c-400e-bda9-e09d8f776ae6@TLS.zeoaeriedo-saioesrio.ir:2000\/?type=grpc&amp;serviceName=\/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&amp;authority=&amp;security=none#<i",
+        "vless:\/\/fcc47ce8-219c-400e-bda9-e09d8f776ae6@TLS.zeoaeriedo-saioesrio.ir:2000\/?type=grpc&amp;serviceName=\/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&amp;authority=&amp;security=none#<i",
+        "vless:\/\/253ef561-9e57-4336-befd-878ddd30df01@167.82.0.47:80?encryption=none&amp;security=none&amp;sni=teleirani.ir&amp;type=ws&amp;host=teleirani.ir&amp;path=%2Fvless-ws%2F%40V2ray_Alpha%2F%3Fed%3D2560#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@65.109.193.42:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/ec8a65ad-aafc-4095-9b8c-ea10890ca629@45.90.96.250:44441?security=reality&amp;encryption=none&amp;pbk=h-tx4d8yBKf5Cevu1bPJZwrSxT3kCkaMESHBIofaalo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=tile.openstreetmap.org&amp;sid=be4243#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@638721216101614817.amsterdam-blk-dra.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@65.109.193.42:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@65.109.193.42:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/ec8a65ad-aafc-4095-9b8c-ea10890ca629@45.90.96.250:44441?security=reality&amp;encryption=none&amp;pbk=h-tx4d8yBKf5Cevu1bPJZwrSxT3kCkaMESHBIofaalo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=tile.openstreetmap.org&amp;sid=be4243#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@638721216101614817.amsterdam-blk-dra.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/ec8a65ad-aafc-4095-9b8c-ea10890ca629@45.90.96.250:44441?security=reality&amp;encryption=none&amp;pbk=h-tx4d8yBKf5Cevu1bPJZwrSxT3kCkaMESHBIofaalo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=tile.openstreetmap.org&amp;sid=be4243#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@638721216101614817.amsterdam-blk-dra.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/253ef561-9e57-4336-befd-878ddd30df01@167.82.0.226:80?encryption=none&amp;security=none&amp;sni=teleirani.ir&amp;type=ws&amp;host=teleirani.ir&amp;path=%2F#<i",
+        "vless:\/\/84583e1e-a992-5344-a7f9-7645515c378b@185.250.150.220:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=vless-grpc#<i"
     ],
-    "trojan": [
-        "trojan:\/\/7799b1f0-d84f-11ef-8fdf-1239d0255272@51.38.65.155:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#<i",
-        "trojan:\/\/90580010-d84f-11ef-8489-1239d0255272@15.204.234.166:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#<i",
-        "trojan:\/\/835bacb0-d84f-11ef-aade-1239d0255272@51.38.65.155:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#<i",
-        "trojan:\/\/b76ced90-d84f-11ef-8c0c-1239d0255272@51.210.182.170:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#<i",
-        "trojan:\/\/adbc9fc0-d84f-11ef-a799-1239d0255272@51.210.182.170:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#<i",
-        "trojan:\/\/9f334190-d84f-11ef-ac68-1239d0255272@15.204.234.166:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#<i",
-        "trojan:\/\/75d753e0-d850-11ef-9224-1239d0255272@51.210.182.170:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#<i",
-        "trojan:\/\/67865d40-d850-11ef-bdf1-1239d0255272@51.210.182.170:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#<i",
-        "trojan:\/\/5d017ae0-d850-11ef-978e-1239d0255272@51.210.182.170:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#<i"
+    "trojan": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2V3FBM00ybllHblZNNGx4RFRRSXVD@45.129.185.82:42750#<i"
     ],
-    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
