@@ -1,25 +1,30 @@
 {
     "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiMTkyLjc0LjI0Mi4yNDQiLCAiYWlkIjogNjQsICJob3N0IjogInd3dy42MjgxMzIzNC54eXoiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wYXRoLzE3MzcyODA3NTc1MDQiLCAicG9ydCI6IDM4MDAzLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=<\/code><\/div>"
+        "vmess:\/\/eyJhZGQiOiAiczUuZGItbGluazAyLnRvcCIsICJhaWQiOiAwLCAiaG9zdCI6ICIxMDAtMjYtMjM5LTk4LnM1LmRiLWxpbmswMi50b3AiLCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kYWJhaS5pbjE3Mi42Ny4xMS4xNzEiLCAicG9ydCI6IDIwOTUsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9<\/code><\/div>",
+        "vmess:\/\/eyJhZGQiOiAiOTQuMTgyLjE1MC4yMzAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjJiN2NlMWQyLTAzNzItNDEwNC1hYTA2LWY3ZDk5OWYyNmUxZCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3SXJhbiJ9<\/code><\/div>"
     ],
     "vless": [
-        "vless:\/\/cf357990-31e9-4274-cdda-ba838e0ec493@iri.ginuerzht.ir:2053?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/cf357990-31e9-4274-cdda-ba838e0ec493@iri.ginuerzht.ir:2053?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/bf09ef80-aae7-42b7-ab37-a29cd310a9a4@www.visa.com:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=0121.v69a2770.workers.dev&amp;type=ws#<i",
-        "vless:\/\/cf357990-31e9-4274-cdda-ba838e0ec493@iri.ginuerzht.ir:2053?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/bf09ef80-aae7-42b7-ab37-a29cd310a9a4@www.visa.com:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=0121.v69a2770.workers.dev&amp;type=ws#<i",
-        "vless:\/\/bf09ef80-aae7-42b7-ab37-a29cd310a9a4@www.visa.com:2052?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=0121.v69a2770.workers.dev&amp;type=ws#<i",
-        "vless:\/\/bf09ef80-aae7-42b7-ab37-a29cd310a9a4@www.visa.com:2052?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=0121.v69a2770.workers.dev&amp;type=ws#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.20:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.22:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.38:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.41:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.26:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.48:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.49:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=#<i"
+        "vless:\/\/910dba5a-bf48-445a-80d7-da990918f008@zmaoz.faculty.ucdavis.edu:443?type=ws&amp;host=fonmelo.com&amp;path=\/olem\/ws?ed%3D4096@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=tls&amp;fp=chrome&amp;sni=zmaoz.faculty.ucdavis.edu.&amp;alpn=h2,http\/1.1#<i",
+        "vless:\/\/7f8766f1-3ec3-44a0-aa0e-2508fb82a6fe@speedtest.net:80?type=ws&amp;host=foffmelo.com&amp;path=\/olem\/ws?ed%3D1024@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=none#<i",
+        "vless:\/\/7f8766f1-3ec3-44a0-aa0e-2508fb82a6fe@speedtest.net:80?type=ws&amp;host=foffmelo.com&amp;path=\/olem\/ws?ed%3D1024@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=none#<i",
+        "vless:\/\/910dba5a-bf48-445a-80d7-da990918f008@zmaoz.faculty.ucdavis.edu:443?type=ws&amp;host=fonmelo.com&amp;path=\/olem\/ws?ed%3D4096@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=tls&amp;fp=chrome&amp;sni=zmaoz.faculty.ucdavis.edu.&amp;alpn=h2,http\/1.1#<i",
+        "vless:\/\/910dba5a-bf48-445a-80d7-da990918f008@zmaoz.faculty.ucdavis.edu:443?type=ws&amp;host=fonmelo.com&amp;path=\/olem\/ws?ed%3D4096@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=tls&amp;fp=chrome&amp;sni=zmaoz.faculty.ucdavis.edu.&amp;alpn=h2,http\/1.1#<i"
     ],
     "trojan": [],
-    "ss": [],
+    "ss": [
+        "ss:\/\/cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.45:8080#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.5:5601#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZm14S1gyRkJKUlUwSWU5VkxJWURM@141.98.234.93:20012#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8009#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.113:8090#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.5:8119#<i",
+        "ss:\/\/cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.45:8080#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.5:5601#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZm14S1gyRkJKUlUwSWU5VkxJWURM@141.98.234.93:20012#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8009#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
