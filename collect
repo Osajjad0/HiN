@@ -1,25 +1,28 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/1981c20c-f7fe-4458-ed6d-febcdc1284ee@49.12.200.119:6666?type=grpc&amp;serviceName=\/#<i",
-        "vless:\/\/16d9cd97-9e10-487f-a926-7a3df107fb1a@147.93.62.28:34595?security=reality&amp;sni=yahoo.com&amp;type=xhttp&amp;fp=chrome&amp;pbk=ZiHn_zqeJWaFqhpFI-VgtZJ9eBXHnQqlfnEhaQVS_SA&amp;sid=ffa771747e2785#<i",
-        "vless:\/\/7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.24.248.85:80?encryption=none&amp;security=none&amp;type=ws&amp;host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&amp;path=%2F%3Fed%3D2560#<i",
-        "vless:\/\/8d5c2ad9-3880-4ff8-bb8b-ba9e2f386078@104.17.148.22:443?security=tls&amp;sni=saxony.scriptboy.ir&amp;type=ws&amp;host=saxony.scriptboy.ir&amp;path=\/8d5c2ad9-3880-4ff8-bb8b-ba9e2f386078&amp;fp=chrome&amp;alpn=h2,http\/1.1&amp;allowInsecure=1#<i",
-        "vless:\/\/72eb88be-1cfc-4cd0-a4e1-5346144d4088@172.64.35.250:443?security=tls&amp;sni=x4u028.alligator27.com&amp;type=ws&amp;host=x4u028.alligator27.com&amp;path=%2Fwss&amp;alpn=http\/1.1#<i",
-        "vless:\/\/TELEGRAM-NUFiLTER2b398e1115b4@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=Germany.vipnufilter.coM&amp;type=ws#<i",
-        "vless:\/\/617d5079-9fae-494a-98ca-90da9e10cd70@64.23.128.88:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=arvancloud.com&amp;type=ws#<i",
-        "vless:\/\/df9f267c-b70b-4c62-b5c1-04ca8dba3662@65.109.215.254:8443?security=reality&amp;sni=stackoverflow.com&amp;type=grpc&amp;fp=chrome&amp;pbk=8Hw1uj_BX5LfP3QPBsQpHdOlDSRQrYwsnQeTM4FeVmQ&amp;sid=69dae4#<i",
-        "vless:\/\/469e6ccd-2052-4e90-b015-a12e5f5bdb23@151.101.2.165:80?security=none&amp;type=ws&amp;host=join-----VPNCUSTOMIZE--VPNCUSTOMIZE.IR.&amp;path=%2Ftelegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560#<i",
-        "vless:\/\/5f913408-aa39-4927-8510-a067beeb337b@151.101.2.216:80?path=%2Fwedbaz&amp;security=&amp;encryption=none&amp;host=1.3.5.fixdd56.s.cu&amp;type=ws#<i",
-        "vless:\/\/e1bb6cf4-f40c-481a-9a80-c76519b954e1@138.199.146.80:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/1fb52030-a522-4665-8a35-09b6710b062d@v06.blkrose.ir:2053?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&amp;fp=chrome&amp;type=grpc&amp;serviceName=2053vless&amp;sni=sourceforge.net&amp;sid=5640288dca4f8519#<i",
-        "vless:\/\/5f913408-aa39-4927-8510-a067beeb337b@Wedbaz\u2026#<i",
-        "vless:\/\/54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i"
+        "vless:\/\/253ef561-9e57-4336-befd-878ddd30df01@167.82.0.226:80?type=ws#<i",
+        "vless:\/\/5f0baf2f-733e-455c-aaff-0620ecd4bba8@92.114.20.12:1010?security=none&amp;type=tcp&amp;host=www.speedtest.net&amp;headerType=http#<i",
+        "vless:\/\/39c52f22-574e-5af4-be77-d91c960e2450@5.252.23.133:2052?security=none&amp;type=ws&amp;path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#<i",
+        "vless:\/\/c8aa52f3-dea3-4a84-b8d8-87938c1dd177@91.107.255.95:443?security=tls&amp;sni=ad4.transitkala.com&amp;type=ws&amp;host=ad4.transitkala.com&amp;path=%2F&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1#<i",
+        "vless:\/\/39c52f22-574e-5af4-be77-d91c960e2450@5.252.23.133:2052?security=none&amp;type=ws&amp;path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#<i",
+        "vless:\/\/c8aa52f3-dea3-4a84-b8d8-87938c1dd177@91.107.255.95:443?security=tls&amp;sni=ad4.transitkala.com&amp;type=ws&amp;host=ad4.transitkala.com&amp;path=%2F&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1#<i",
+        "vless:\/\/333baf8a-d8f4-4284-b0d1-4763f9d701fe@188.34.201.88:16072?type=grpc#<i",
+        "vless:\/\/333baf8a-d8f4-4284-b0d1-4763f9d701fe@188.34.201.88:16072?type=grpc#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.18.15:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;path=\/telegram-channel-vlessconfig-ws#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.18.15:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;path=\/telegram-channel-vlessconfig-ws#<i",
+        "vless:\/\/f3562b04-2f2b-433a-80b4-45f60d659004@104.21.7.193:8880?security=none&amp;type=ws&amp;host=925tg.3gnc3sjz.workers.dev&amp;path=%2F%3Fed%3D2560&amp;fp=chrome&amp;allowInsecure=1#<i",
+        "vless:\/\/253ef561-9e57-4336-befd-878ddd30df01@167.82.0.226:80?type=ws#<i",
+        "vless:\/\/f3562b04-2f2b-433a-80b4-45f60d659004@104.21.7.193:8880?security=none&amp;type=ws&amp;host=925tg.3gnc3sjz.workers.dev&amp;path=%2F%3Fed%3D2560&amp;fp=chrome&amp;allowInsecure=1#<i",
+        "vless:\/\/253ef561-9e57-4336-befd-878ddd30df01@167.82.0.226:80?type=ws#<i",
+        "vless:\/\/57331af7-c318-4a45-8ff0-790f10b8f345@151.101.2.133:443?path=%2FFreedom-Azadi%2F%3Fed%3D2048&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=UnitedStateAmincloud.com&amp;fp=randomized&amp;type=ws&amp;sni=live.skornorth.com#<i",
+        "vless:\/\/57331af7-c318-4a45-8ff0-790f10b8f345@151.101.2.133:443?path=%2FFreedom-Azadi%2F%3Fed%3D2048&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=UnitedStateAmincloud.com&amp;fp=randomized&amp;type=ws&amp;sni=live.skornorth.com#<i",
+        "vless:\/\/57331af7-c318-4a45-8ff0-790f10b8f345@151.101.2.133:443?path=%2FFreedom-Azadi%2F%3Fed%3D2048&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=UnitedStateAmincloud.com&amp;fp=randomized&amp;type=ws&amp;sni=live.skornorth.com#<i"
     ],
-    "trojan": [],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpudjJ5YTlCSGt2TnJ3NXp4WG45WEFR@103.57.250.210:443#<i"
+    "trojan": [
+        "trojan:\/\/telegram-id-privatevpns@13.37.94.145:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
     ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
