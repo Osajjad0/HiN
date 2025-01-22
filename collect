@@ -1,20 +1,26 @@
 {
-    "vmess": [],
-    "vless": [
-        "vless:\/\/27b5f24c-8f22-5094-aaae-07ecc35d93e3@77.75.230.125:2052?path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL&amp;security=none&amp;encryption=none&amp;type=ws#<i",
-        "vless:\/\/d1b1fbef-8b70-5c5e-9f90-22cb16907dd1@5.181.23.67:2052?path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL&amp;security=none&amp;encryption=none&amp;type=ws#<i",
-        "vless:\/\/0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=147135011033.sec21org.com#<i",
-        "vless:\/\/d1b1fbef-8b70-5c5e-9f90-22cb16907dd1@5.181.23.67:2052?path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL&amp;security=none&amp;encryption=none&amp;type=ws#<i",
-        "vless:\/\/27b5f24c-8f22-5094-aaae-07ecc35d93e3@77.75.230.125:2052?path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL&amp;security=none&amp;encryption=none&amp;type=ws#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.18.15:22222?path=%2Ftelegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.18.15:22222?path=%2Ftelegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
-        "vless:\/\/bf09ef80-aae7-42b7-ab37-a29cd310a9a4@104.18.14.19:2095?type=ws&amp;host=0121.v69a2770.workers.dev&amp;path=%2F%3Fed%3D2560#<i",
-        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@192.210.160.163:1001?security=tls&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg&amp;type=ws&amp;sni=a.xn--i-sx6a60i.us.kg#<i",
-        "vless:\/\/36302b16-e61e-5364-a052-dcaf827d4d25@193.203.203.63:2052?path=%2Fvless&amp;security=none&amp;encryption=none&amp;host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&amp;fp=chrome&amp;type=ws#<i",
-        "vless:\/\/b5c72809-4287-46f4-b930-309edc783dd9@45.67.32.147:443?path=%2Fsocks5tobefree&amp;security=tls&amp;encryption=none&amp;host=ihavesome.run.place&amp;fp=random&amp;type=ws&amp;sni=ihavesome.run.place#<i",
-        "vless:\/\/41abecd9-8096-4142-a75c-4e1d36d990bd@8.222.79.51:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=mmdserver.us.kg&amp;type=ws&amp;sni=mmdserver.us.kg#<i"
+    "vmess": [
+        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjIxMy4yMS4yMzIuMjQ1IiwgInBvcnQiOiAiNTAwOSIsICJpZCI6ICJkODk4Y2U3OS05MDQ4LTQzNDktYTUzOS1kNTFkNmM1YTMwYzIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICI0OSIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmMVx1ZDgzY1x1ZGRmYkxhdHZpYSJ9<\/code><\/div>"
     ],
-    "trojan": [],
+    "vless": [
+        "vless:\/\/7976be24-0966-4ac8-95fa-20afca3493d2@5.10.249.23:57350?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
+        "vless:\/\/9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us02.ssr.ee:443?security=reality&amp;encryption=none&amp;pbk=AeJ40fWPYK3WSDtY&#092;_AGv3ewG&#092;_kwQvAoDtf3KIgk1DRU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=itunes.apple.com&amp;sid=6ba85179e30d4fc2#<i",
+        "vless:\/\/107a7faf-dbbc-417f-ded2-4697fcf887bc@116.202.21.122:1777?security=reality&amp;sni=globalsign.com&amp;type=grpc&amp;serviceName=%2F%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM%3Fed%3D2048&amp;fp=chrome&amp;pbk=jkJpzKFOelmStHPCJNnzmoFzAIBn0AQM3UUmKC1TWm4#<i",
+        "vless:\/\/1fb52030-a522-4665-8a35-09b6710b062d@57.128.166.33:2053?security=reality&amp;sni=sourceforge.net&amp;type=grpc&amp;serviceName=2053vless&amp;fp=chrome&amp;pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&amp;sid=5640288dca4f8519#<i",
+        "vless:\/\/84920ac3-178a-4198-8536-3507120864db@190.93.245.137:443?security=tls&amp;sni=WWW.EsfahAnsimaN.infO.&amp;type=ws&amp;host=WWW.EsfahAnsimaN.infO.&amp;path=TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1#<i",
+        "vless:\/\/40a3975f-6c81-4fb1-a464-970a6ea801bf@108.162.194.232:443?security=tls&amp;sni=i2ygvr.kalastore.org&amp;type=ws&amp;host=i2ygvr.kalastore.org&amp;path=\/wss&amp;alpn=http\/1.1#<i",
+        "vless:\/\/TELEGRAM-NUFiLTER-83c62ff80906@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=6.fidsxss10x.iR&amp;type=ws#<i",
+        "vless:\/\/9d0a75d2-f747-4afa-b43f-d208af9e8f9a@sg04.ssr.ee:55560?security=reality&amp;encryption=none&amp;pbk=Dvv84goWLMnFoZWWLI8xtEErCIao&#092;_XnzXUVz9ryVSAU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=itunes.apple.com&amp;sid=6ba85179e30d4fc2#<i",
+        "vless:\/\/fcc47ce8-219c-400e-bda9-e09d8f776ae6@TLS.zeoaeriedo-saioesrio.ir:2000\/?type=grpc&amp;serviceName=\/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&amp;authority=&amp;security=none#<i",
+        "vless:\/\/fcc47ce8-219c-400e-bda9-e09d8f776ae6@TLS.zeoaeriedo-saioesrio.ir:2000\/?type=grpc&amp;serviceName=\/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&amp;authority=&amp;security=none#<i"
+    ],
+    "trojan": [
+        "trojan:\/\/Aimer@188.164.159.185:8443?allowInsecure=1&amp;sni=acepo.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/Aimer@27.50.49.234:8443?allowInsecure=1&amp;sni=acepo.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/Aimer@5.182.85.255:2096?allowInsecure=1&amp;sni=acepo.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/Aimer@45.67.214.41:2083?allowInsecure=1&amp;sni=acepo.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/telegram-id-v2rayvpnchannel@3.148.32.54:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+    ],
     "ss": [],
     "tuic": [],
     "hysteria": [],
