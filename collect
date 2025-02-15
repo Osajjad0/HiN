@@ -1,19 +1,7 @@
 {
-    "vmess": [
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REQ3Q1x1RDgzQ1x1REQ3NFx1RDgzQ1x1REQ3N1x1RDgzQ1x1REQ3M1x1RDgzQ1x1REQ3OCIsDQogICJhZGQiOiAiZXNuYS50d24yNC5pciIsDQogICJwb3J0IjogIjg0NDMiLA0KICAiaWQiOiAiMDQ1YzlkMGItZGRjMy00MDcyLThmOWYtZTIwNTU1YWQ1NGUyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJlc25hLnR3bjI0LmlyIiwNCiAgInBhdGgiOiAiLz9lZD0yMDQ4IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImVzbmEudHduMjQuaXIiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJjaHJvbWUiDQp9",
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REQ3Q1x1RDgzQ1x1REQ3NFx1RDgzQ1x1REQ3N1x1RDgzQ1x1REQ3M1x1RDgzQ1x1REQ3OCIsDQogICJhZGQiOiAiZXNuYS50d24yNC5pciIsDQogICJwb3J0IjogIjg0NDMiLA0KICAiaWQiOiAiZTc5YWYzZDktMzc4Ny00OWQ1LWFlOTItMDdhMjIyY2JjMTUxIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJlc25hLnR3bjI0LmlyIiwNCiAgInBhdGgiOiAiLz9lZD0yMDQ4IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImVzbmEudHduMjQuaXIiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJjaHJvbWUiDQp9",
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REQ3Q1x1RDgzQ1x1REQ3NFx1RDgzQ1x1REQ3N1x1RDgzQ1x1REQ3M1x1RDgzQ1x1REQ3OCIsDQogICJhZGQiOiAiZXNuYS50d24yNC5pciIsDQogICJwb3J0IjogIjg0NDMiLA0KICAiaWQiOiAiY2NiY2ViOWEtMGI1Ni00MWQzLWIxNzUtODMzMzhkNmRlZWM5IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJlc25hLnR3bjI0LmlyIiwNCiAgInBhdGgiOiAiLz9lZD0yMDQ4IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImVzbmEudHduMjQuaXIiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJjaHJvbWUiDQp9",
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REQ3Q1x1RDgzQ1x1REQ3NFx1RDgzQ1x1REQ3N1x1RDgzQ1x1REQ3M1x1RDgzQ1x1REQ3OCIsDQogICJhZGQiOiAiZXNuYS50d24yNC5pciIsDQogICJwb3J0IjogIjg0NDMiLA0KICAiaWQiOiAiNzQ3OWVmOWYtNTkxMS00MjkxLTg1Y2EtOWU1ZmE3NTMwOWFjIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJlc25hLnR3bjI0LmlyIiwNCiAgInBhdGgiOiAiLz9lZD0yMDQ4IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImVzbmEudHduMjQuaXIiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJjaHJvbWUiDQp9",
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REQ3Q1x1RDgzQ1x1REQ3NFx1RDgzQ1x1REQ3N1x1RDgzQ1x1REQ3M1x1RDgzQ1x1REQ3OCIsDQogICJhZGQiOiAiZXNuYS50d24yNC5pciIsDQogICJwb3J0IjogIjg0NDMiLA0KICAiaWQiOiAiMjExZTQ0ZDctNWEzZi00YjBlLWFkMzYtZDgxMzY3NTliNzdmIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJlc25hLnR3bjI0LmlyIiwNCiAgInBhdGgiOiAiLz9lZD0yMDQ4IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImVzbmEudHduMjQuaXIiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJjaHJvbWUiDQp9<\/pre><\/div>"
-    ],
+    "vmess": [],
     "vless": [],
-    "trojan": [
-        "trojan:\/\/TUFfeTYV56@esna.twn24.ir:2096?security=tls&amp;sni=esna.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=httpupgrade&amp;host=esna.twn24.ir&amp;path=%2F%3Fed%3D2048#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "trojan:\/\/4MMpMUxz0s@esna.twn24.ir:2096?security=tls&amp;sni=esna.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=httpupgrade&amp;host=esna.twn24.ir&amp;path=%2F%3Fed%3D2048#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "trojan:\/\/KdBJcknLYH@esna.twn24.ir:2096?security=tls&amp;sni=esna.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=httpupgrade&amp;host=esna.twn24.ir&amp;path=%2F%3Fed%3D2048#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "trojan:\/\/lBK61mBXBA@esna.twn24.ir:2096?security=tls&amp;sni=esna.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=httpupgrade&amp;host=esna.twn24.ir&amp;path=%2F%3Fed%3D2048#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "trojan:\/\/V8Ggxghv8Z@esna.twn24.ir:2096?security=tls&amp;sni=esna.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=httpupgrade&amp;host=esna.twn24.ir&amp;path=%2F%3Fed%3D2048#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8"
-    ],
+    "trojan": [],
     "ss": [],
     "tuic": [],
     "hysteria": [],
