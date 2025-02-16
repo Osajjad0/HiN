@@ -1,10 +1,18 @@
 {
     "vmess": [],
-    "vless": [],
-    "trojan": [],
+    "vless": [
+        "vless:\/\/e2d6455c-9846-4502-8394-16b8c1c07b68@www.speedtest.net:443?encryption=none&amp;security=tls&amp;sni=GroupYOunES.pAges.dev&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=groupyounes.pages.dev&amp;path=%2F5Iw0TdeAUc5AjloS%3Fed%3D2560#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
+        "vless:\/\/b27f4d97-2562-4867-ae20-45e625eec5f5@hajlab.ucdavis.edu:443?encryption=none&amp;security=tls&amp;sni=hajlab.ucdavis.edu&amp;fp=chrome&amp;type=ws&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.feadlenetworkv2sa.net&amp;path=%2F#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8<\/pre>"
+    ],
+    "trojan": [
+        "trojan:\/\/Pooria@104.17.147.22:443?security=tls&amp;sni=301.pOORiAm.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=301.pooriam.ir&amp;path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8"
+    ],
     "ss": [],
     "tuic": [],
     "hysteria": [],
-    "hysteria2": [],
+    "hysteria2": [
+        "hysteria2:\/\/9bb452b106ffc217@[2001:19f0:1000:18b3:5400:5ff:fe19:3f6d]:443?sni=vkvd127.mycdn.me&amp;obfs=salamander&amp;obfs-password=cd29099d&amp;insecure=1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
+        "hysteria2:\/\/9bb452b106ffc217@207.148.22.93:443?obfs=salamander&amp;obfs-password=cd29099d&amp;insecure=1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8"
+    ],
     "hy2": []
 }
