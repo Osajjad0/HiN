@@ -1,17 +1,7 @@
 {
-    "vmess": [
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REY4MFx1RDgzNVx1REM0MFx1RDgzNVx1REMzOFx1RDgzNVx1REMzQlx1RDgzNVx1REM5Rlx1RDgzNVx1REMzQ1x1RDgzQ1x1REY4MCIsDQogICJhZGQiOiAiZXhwcmVzc3R2LklUTjI0LklSIiwNCiAgInBvcnQiOiAiODQ0MyIsDQogICJpZCI6ICIyMTFlNDRkNy01YTNmLTRiMGUtYWQzNi1kODEzNjc1OWI3N2YiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImV4cHJlc3N0di5JVE4yNC5JUiIsDQogICJwYXRoIjogIi8\/ZWQ9MjA0OCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJleHByZXNzdHYuSVROMjQuSVIiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJjaHJvbWUiDQp9",
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REY4MFx1RDgzNVx1REM0MFx1RDgzNVx1REMzOFx1RDgzNVx1REMzQlx1RDgzNVx1REM5Rlx1RDgzNVx1REMzQ1x1RDgzQ1x1REY4MCIsDQogICJhZGQiOiAiZXhwcmVzc3R2LklUTjI0LklSIiwNCiAgInBvcnQiOiAiODQ0MyIsDQogICJpZCI6ICI3NDc5ZWY5Zi01OTExLTQyOTEtODVjYS05ZTVmYTc1MzA5YWMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImV4cHJlc3N0di5JVE4yNC5JUiIsDQogICJwYXRoIjogIi8\/ZWQ9MjA0OCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJleHByZXNzdHYuSVROMjQuSVIiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJjaHJvbWUiDQp9",
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REY4MFx1RDgzNVx1REM0MFx1RDgzNVx1REMzOFx1RDgzNVx1REMzQlx1RDgzNVx1REM5Rlx1RDgzNVx1REMzQ1x1RDgzQ1x1REY4MCIsDQogICJhZGQiOiAiZXhwcmVzc3R2LklUTjI0LklSIiwNCiAgInBvcnQiOiAiODQ0MyIsDQogICJpZCI6ICJjY2JjZWI5YS0wYjU2LTQxZDMtYjE3NS04MzMzOGQ2ZGVlYzkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImV4cHJlc3N0di5JVE4yNC5JUiIsDQogICJwYXRoIjogIi8\/ZWQ9MjA0OCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJleHByZXNzdHYuSVROMjQuSVIiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJjaHJvbWUiDQp9",
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REY4MFx1RDgzNVx1REM0MFx1RDgzNVx1REMzOFx1RDgzNVx1REMzQlx1RDgzNVx1REM5Rlx1RDgzNVx1REMzQ1x1RDgzQ1x1REY4MCIsDQogICJhZGQiOiAiZXhwcmVzc3R2LklUTjI0LklSIiwNCiAgInBvcnQiOiAiODQ0MyIsDQogICJpZCI6ICIwNDVjOWQwYi1kZGMzLTQwNzItOGY5Zi1lMjA1NTVhZDU0ZTIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImV4cHJlc3N0di5JVE4yNC5JUiIsDQogICJwYXRoIjogIi8\/ZWQ9MjA0OCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJleHByZXNzdHYuSVROMjQuSVIiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJjaHJvbWUiDQp9<\/pre>"
-    ],
+    "vmess": [],
     "vless": [],
-    "trojan": [
-        "trojan:\/\/ff3pn2XPXB@esna.itn24.ir:443?security=tls&amp;sni=esna.itn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=random&amp;type=grpc&amp;authority=ESNA.ITN24.IR&amp;serviceName=%2F42262%2Fmehdi&amp;mode=multi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80",
-        "trojan:\/\/EaJTCtWDH2@esna.itn24.ir:443?security=tls&amp;sni=esna.itn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=random&amp;type=grpc&amp;authority=ESNA.ITN24.IR&amp;serviceName=%2F42262%2Fmehdi&amp;mode=multi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80",
-        "trojan:\/\/Lar3HXz16D@esna.itn24.ir:443?security=tls&amp;sni=esna.itn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=random&amp;type=grpc&amp;authority=ESNA.ITN24.IR&amp;serviceName=%2F42262%2Fmehdi&amp;mode=multi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80",
-        "trojan:\/\/5JN1hOUWww@esna.itn24.ir:443?security=tls&amp;sni=esna.itn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=random&amp;type=grpc&amp;authority=ESNA.ITN24.IR&amp;serviceName=%2F42262%2Fmehdi&amp;mode=multi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80"
-    ],
+    "trojan": [],
     "ss": [],
     "tuic": [],
     "hysteria": [],
