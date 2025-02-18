@@ -1,30 +1,28 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogImlydmlkZW8uY2ZkIiwgInBvcnQiOiAiNDQzIiwgImlkIjogImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiaXJ2aWRlby5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmN0ZyYW5jZSJ9<\/code><\/div>"
+    "vmess": [],
+    "vless": [],
+    "trojan": [
+        "trojan:\/\/telegram-id-directvpn@13.61.191.86:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@51.21.209.95:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@13.39.173.69:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@13.39.144.121:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@18.134.103.43:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@52.47.207.189:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@18.215.119.90:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@13.43.186.193:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@13.53.146.138:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@18.132.227.27:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@34.247.25.48:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@52.19.35.59:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@13.61.200.194:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@13.49.141.226:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@15.236.250.123:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@51.21.147.187:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@63.177.209.12:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@51.20.245.27:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@13.61.77.134:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
     ],
-    "vless": [
-        "vless:\/\/a93fc14d-9438-4f2f-9778-313e2c57031b@de.lunarmc.ir:465?type=tcp&amp;security=none#<i",
-        "vless:\/\/2f90343f-c92f-4dcf-b150-4369c8749145@EXPRESSVPN_420.fastly80-3.hosting-ip.com:80?security=none&amp;type=ws&amp;headerType=&amp;path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D8080&amp;host=Digikala.iranian.net#<i",
-        "vless:\/\/2f90343f-c92f-4dcf-b150-4369c8749145@EXPRESSVPN_420.fast.hosting-ip.com:80?security=none&amp;type=ws&amp;headerType=&amp;path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D8080&amp;host=Digikala.iranian.net#<i",
-        "vless:\/\/2f90343f-c92f-4dcf-b150-4369c8749145@EXPRESSVPN_420.fast.hosting-ip.com:80?security=none&amp;type=ws&amp;headerType=&amp;path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D8080&amp;host=Digikala.iranian.net#<i",
-        "vless:\/\/2f90343f-c92f-4dcf-b150-4369c8749145@speedtest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D8080&amp;host=Digikala.iranian.net#<i",
-        "vless:\/\/2f90343f-c92f-4dcf-b150-4369c8749145@speedtest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D8080&amp;host=Digikala.iranian.net#<i",
-        "vless:\/\/48390ac8-9983-40cf-a522-265e00cf4cb6@TLS.zeoaeriedo-saioesrio.ir:2000\/?type=grpc&amp;serviceName=\/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&amp;authority=&amp;security=none#<i",
-        "vless:\/\/48390ac8-9983-40cf-a522-265e00cf4cb6@TLS.zeoaeriedo-saioesrio.ir:2000\/?type=grpc&amp;serviceName=\/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&amp;authority=&amp;security=none#<i",
-        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?path=%2F&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=redw.pooriam.ir&amp;fp=chrome&amp;type=ws&amp;sni=REDw.pOOriam.Ir#<i",
-        "vless:\/\/Parsashonam-174@185.146.173.39:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
-        "vless:\/\/627dc960-357b-4388-b040-0d66155d0652@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinshhproxybedeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
-        "vless:\/\/e6ea9c2a-ba11-41bc-986f-9d72429be0f7@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinshhproxybedeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
-        "vless:\/\/b49fb5f2-cc98-4123-833d-851363a57917@98.80.209.158:443?security=reality&amp;encryption=none&amp;pbk=hIHHr09OU4MFPDaY4b17NEO1goGisb1g98CxDIeHjzE&amp;headerType=none&amp;fp=chrome&amp;spx=%2Fclient&amp;type=tcp&amp;sni=api.cloudflare.com&amp;sid=f820a2#<i",
-        "vless:\/\/354712c4-dab3-452c-89fd-0a2edd6999f9@l.alaba.cam:2060?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=2096vless#<i"
-    ],
-    "trojan": [],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
