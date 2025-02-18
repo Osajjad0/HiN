@@ -1,27 +1,29 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/dfc1a9ab-6241-4b73-92f7-b299fc6b7751@www.speedtest.net:2052?path=%2F%3Fed%3D1080.AB_841-.[#<i",
-        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FLwW5jwrnymnOdqki%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=redw.pooriam.ir&amp;type=ws#<i",
-        "vless:\/\/dfc1a9ab-6241-4b73-92f7-b299fc6b7751@www.speedtest.net:2052?path=%2F%3Fed%3D1080.AB_841-.[#<i",
-        "vless:\/\/dfc1a9ab-6241-4b73-92f7-b299fc6b7751@www.speedtest.net:2052?path=%2F%3Fed%3D1080.AB_841-.[#<i",
-        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@b2n.ir:80?path=%2Fby-AB_841.[#<i",
-        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@b2n.ir:80?path=%2Fby-AB_841.[#<i",
-        "vless:\/\/c4fa89d4-fcb9-48ba-adbc-665181cc817f@51.81.37.20:443?security=tls&amp;encryption=none&amp;host=147135010072.sec21org.com&amp;headerType=none&amp;type=tcp&amp;sni=147135010072.sec21org.com#<i",
-        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg.&amp;type=ws#<i",
-        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@b2n.ir:80?path=%2Fby-AB_841.[#<i",
-        "vless:\/\/c4fa89d4-fcb9-48ba-adbc-665181cc817f@51.81.37.20:443?security=tls&amp;encryption=none&amp;host=147135010072.sec21org.com&amp;headerType=none&amp;type=tcp&amp;sni=147135010072.sec21org.com#<i",
-        "vless:\/\/48390ac8-9983-40cf-a522-265e00cf4cb6@TLS.zeoaeriedo-saioesrio.ir:2000\/?type=grpc&amp;serviceName=\/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&amp;authority=&amp;security=none#<i",
-        "vless:\/\/48390ac8-9983-40cf-a522-265e00cf4cb6@TLS.zeoaeriedo-saioesrio.ir:2000\/?type=grpc&amp;serviceName=\/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&amp;authority=&amp;security=none#<i",
-        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?path=tmevpnAndroid2%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg.&amp;type=ws#<i",
-        "vless:\/\/48390ac8-9983-40cf-a522-265e00cf4cb6@TLS.zeoaeriedo-saioesrio.ir:2000\/?type=grpc&amp;serviceName=\/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&amp;authority=&amp;security=none#<i",
-        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?path=tmevpnAndroid2%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg.&amp;type=ws#<i",
-        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=a.xn--i-sx6a60i.us.kg.&amp;type=ws#<i"
+        "vless:\/\/63177cce-4eb5-432d-bf97-b334b4d19e77@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinxvproxybedee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/4238240f-b5c6-4b0f-aed4-a5213da8887a@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinxvproxybedee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/63177cce-4eb5-432d-bf97-b334b4d19e77@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinxvproxybedee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/3240071c-9d7a-4c20-a840-8fd1a4d9ddb9@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinxvproxybedeeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/3240071c-9d7a-4c20-a840-8fd1a4d9ddb9@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinxvproxybedeeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/telegram-ArV2ray@AC.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=abmibk.ir&amp;type=ws#<i",
+        "vless:\/\/telegram-ArV2ray@AC.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=abmibk.ir&amp;type=ws#<i",
+        "vless:\/\/ZEDMODEON--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=ndmo.ir&amp;type=ws&amp;sni=zmaoz.faculty.ucdavis.edu#<i",
+        "vless:\/\/b85ef6d3-76e8-4586-8300-f8d1f5e2b559@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinxvproxybedeeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/99d441b8-33ff-4c74-819b-2c4b5a20d383@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinxvproxybedee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#<i",
+        "vless:\/\/telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.A.145.speedtest2.livE.&amp;type=ws#<i"
     ],
-    "trojan": [
-        "trojan:\/\/telegram-id-directvpn@18.132.227.27:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+    "trojan": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHWjNodllhRkJwNTJIdXBHQ0NPS3dz@159.65.17.32:80#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHWjNodllhRkJwNTJIdXBHQ0NPS3dz@159.65.17.32:80#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206WDRZYWxWdHV0aTkxR0o5OGxpalNqYUY5ZHRlbUlLa0dpZXIxZndjanRZaz0%3D@95.164.4.51:8443#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206WDRZYWxWdHV0aTkxR0o5OGxpalNqYUY5ZHRlbUlLa0dpZXIxZndjanRZaz0%3D@95.164.4.51:8443#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206ZjY3N2U3MjMtOTc3Ni00YmU3LWFhNTktYzQ5N2Q4OTBhYTYw@188.119.112.242:8443#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206ZjY3N2U3MjMtOTc3Ni00YmU3LWFhNTktYzQ5N2Q4OTBhYTYw@188.119.112.242:8443#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206ZWY3MTM2NDktYzE2NC00YTM2LTlmYzItZWJmOTNkNzZlMTRm@170.64.237.214:8443#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206ZWY3MTM2NDktYzE2NC00YTM2LTlmYzItZWJmOTNkNzZlMTRm@170.64.237.214:8443#<i"
     ],
-    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
