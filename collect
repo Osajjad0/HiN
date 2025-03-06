@@ -1,16 +1,7 @@
 {
-    "vmess": [
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REY4MFx1RDgzNVx1REM0MFx1RDgzNVx1REMzOFx1RDgzNVx1REMzQlx1RDgzNVx1REM5Rlx1RDgzNVx1REMzQ1x1RDgzQ1x1REY4MF9UT1IiLA0KICAiYWRkIjogIkZyZWVkb21pc25lYXIub25ldHdvdGhyZWUxMjMuaXIiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMDA1MDdkYTAtMjJmNC00YzQ2LWUzYmUtZDMxOGM1ZDE0NjgyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJncnBjIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIkZyZWVkb21pc25lYXIub25ldHdvdGhyZWUxMjMuaXIiLA0KICAicGF0aCI6ICIvNTYxNDAvbWVoZGkiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiRnJlZWRvbWlzbmVhci5vbmV0d290aHJlZTEyMy5pciIsDQogICJhbHBuIjogImh0dHAvMS4xIiwNCiAgImZwIjogInJhbmRvbSINCn0=",
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REY4MFx1RDgzNVx1REM0MFx1RDgzNVx1REMzOFx1RDgzNVx1REMzQlx1RDgzNVx1REM5Rlx1RDgzNVx1REMzQ1x1RDgzQ1x1REY4MF9UT1IiLA0KICAiYWRkIjogIkZyZWVkb21pc25lYXIub25ldHdvdGhyZWUxMjMuaXIiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYjg1YTkyODAtOTlhZi00MzIwLWRjMDUtZjc3M2E2MDQyYzA4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJncnBjIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIkZyZWVkb21pc25lYXIub25ldHdvdGhyZWUxMjMuaXIiLA0KICAicGF0aCI6ICIvNTYxNDAvbWVoZGkiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiRnJlZWRvbWlzbmVhci5vbmV0d290aHJlZTEyMy5pciIsDQogICJhbHBuIjogImh0dHAvMS4xIiwNCiAgImZwIjogInJhbmRvbSINCn0="
-    ],
+    "vmess": [],
     "vless": [],
-    "trojan": [
-        "trojan:\/\/v9OtK2vgTo@freedomisnear.onetwothree123.ir:443?security=tls&amp;sni=Freedomisnear.onetwothree123.ir&amp;alpn=http%2F1.1&amp;fp=random&amp;type=ws&amp;host=Freedomisnear.onetwothree123.ir&amp;path=%2F19992%2Fmehdi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_WARP%2B",
-        "trojan:\/\/iuqdXDHd2A@freedomisnear.onetwothree123.ir:443?security=tls&amp;sni=Freedomisnear.onetwothree123.ir&amp;alpn=http%2F1.1&amp;fp=random&amp;type=ws&amp;host=Freedomisnear.onetwothree123.ir&amp;path=%2F19992%2Fmehdi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_WARP%2B",
-        "trojan:\/\/f7i3vqVSN3@freedomisnear.onetwothree123.ir:443?security=tls&amp;sni=Freedomisnear.onetwothree123.ir&amp;alpn=http%2F1.1&amp;fp=random&amp;type=ws&amp;host=Freedomisnear.onetwothree123.ir&amp;path=%2F19992%2Fmehdi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_WARP%2B",
-        "trojan:\/\/jKmPmwuNOq@freedomisnear.onetwothree123.ir:443?security=tls&amp;sni=Freedomisnear.onetwothree123.ir&amp;alpn=http%2F1.1&amp;fp=random&amp;type=ws&amp;host=Freedomisnear.onetwothree123.ir&amp;path=%2F19992%2Fmehdi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_WARP%2B",
-        "trojan:\/\/7wzLwK55Dw@freedomisnear.onetwothree123.ir:443?security=tls&amp;sni=Freedomisnear.onetwothree123.ir&amp;alpn=http%2F1.1&amp;fp=random&amp;type=ws&amp;host=Freedomisnear.onetwothree123.ir&amp;path=%2F19992%2Fmehdi#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80_WARP%2B<\/pre><\/div>"
-    ],
+    "trojan": [],
     "ss": [],
     "tuic": [],
     "hysteria": [],
