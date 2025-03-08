@@ -1,20 +1,10 @@
 {
-    "vmess": [
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REQ3Q1x1RDgzQ1x1REQ3NFx1RDgzQ1x1REQ3N1x1RDgzQ1x1REQ3M1x1RDgzQ1x1REQ3OCIsDQogICJhZGQiOiAiMTUxLjEwMS4xOTQuMTY4IiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiN2RjNzg1ODItODhhOC00YjRjLTllM2UtNTA4MzFkNjcyNzY2IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJhbWQuYWwiLA0KICAicGF0aCI6ICIvWEVTQUxJU1RIRUJFU1Q\/ZWQ9MjA0OCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==<\/pre><\/div>"
-    ],
-    "vless": [
-        "vless:\/\/6d2a3f0d-3d10-4e97-a73c-aa5f88d7184f@172.66.168.201:443?encryption=none&amp;security=tls&amp;sni=Is1-vLESs.greeNssH.ORG&amp;type=ws&amp;path=%2Fvless#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "vless:\/\/1168fbbb-f9b0-4c44-8991-98a5b3cad8ad@188.114.97.3:443?encryption=none&amp;security=tls&amp;sni=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&amp;fp=random&amp;type=ws&amp;path=%2Fadmin#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "vless:\/\/68665e7f-31c1-49f4-9347-3e18c18e024b@138.68.131.11:1615?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=refersion.com&amp;fp=chrome&amp;pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8&amp;type=tcp&amp;headerType=none#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8"
-    ],
+    "vmess": [],
+    "vless": [],
     "trojan": [],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRaWVkaWhGaWt4bjRrQ1d5Z01YbUZi@77.83.246.74:443#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
-    "hysteria2": [
-        "hysteria2:\/\/dongtaiwang.com@46.17.41.189:51224?sni=www.bing.com&amp;insecure=1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8"
-    ],
+    "hysteria2": [],
     "hy2": []
 }
