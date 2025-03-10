@@ -1,22 +1,7 @@
 {
-    "vmess": [
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REY4MFx1RDgzNVx1REM0MFx1RDgzNVx1REMzOFx1RDgzNVx1REMzQlx1RDgzNVx1REM5Rlx1RDgzNVx1REMzQ1x1RDgzQ1x1REY4MCIsDQogICJhZGQiOiAidGFzbmltLnR3bjI0LmlyIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjY5MzA4NDcwLWVhYTgtNDQ0Yi1mNDdiLWE4M2I3YTVjNmEwNSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAiZ3JwYyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0YXNuaW0udHduMjQuaXIiLA0KICAicGF0aCI6ICIvMjcxMTQvZWQ9MjA0OCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJ0YXNuaW0udHduMjQuaXIiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJyYW5kb20iDQp9",
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REY4MFx1RDgzNVx1REM0MFx1RDgzNVx1REMzOFx1RDgzNVx1REMzQlx1RDgzNVx1REM5Rlx1RDgzNVx1REMzQ1x1RDgzQ1x1REY4MCIsDQogICJhZGQiOiAidGFzbmltLnR3bjI0LmlyIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImM5MGUwM2VkLTFhMTQtNDg0ZS04NjU5LTgzOWQzOTY3NzE0NiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAiZ3JwYyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0YXNuaW0udHduMjQuaXIiLA0KICAicGF0aCI6ICIvMjcxMTQvZWQ9MjA0OCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJ0YXNuaW0udHduMjQuaXIiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJyYW5kb20iDQp9",
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REY4MFx1RDgzNVx1REM0MFx1RDgzNVx1REMzOFx1RDgzNVx1REMzQlx1RDgzNVx1REM5Rlx1RDgzNVx1REMzQ1x1RDgzQ1x1REY4MCIsDQogICJhZGQiOiAidGFzbmltLnR3bjI0LmlyIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjRlY2JlNGQ0LWVhODMtNDA2MS1hYThlLWU2MjE4NzVlMDNiNiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAiZ3JwYyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0YXNuaW0udHduMjQuaXIiLA0KICAicGF0aCI6ICIvMjcxMTQvZWQ9MjA0OCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJ0YXNuaW0udHduMjQuaXIiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJyYW5kb20iDQp9"
-    ],
-    "vless": [
-        "vless:\/\/b3bd5361-4ec2-4e44-ada9-3e10ace5eb4e@tasnim.twn24.ir:443?encryption=none&amp;security=tls&amp;sni=tasnim.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=random&amp;type=grpc&amp;authority=tasnim.twn24.ir&amp;serviceName=%2F29135%2Fed%3D2048&amp;mode=gun#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80",
-        "vless:\/\/e82e63ad-484d-4171-83cb-5a7a5c3bed87@tasnim.twn24.ir:443?encryption=none&amp;security=tls&amp;sni=tasnim.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=random&amp;type=grpc&amp;authority=tasnim.twn24.ir&amp;serviceName=%2F29135%2Fed%3D2048&amp;mode=gun#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80",
-        "vless:\/\/898acf48-384d-4380-fa0b-57b55670f1e3@tasnim.twn24.ir:443?encryption=none&amp;security=tls&amp;sni=tasnim.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=random&amp;type=grpc&amp;authority=tasnim.twn24.ir&amp;serviceName=%2F29135%2Fed%3D2048&amp;mode=gun#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80"
-    ],
-    "trojan": [
-        "trojan:\/\/JvplpxvrCp@tasnim.twn24.ir:443?security=tls&amp;sni=tasnim.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=random&amp;type=grpc&amp;authority=tasnim.twn24.ir&amp;serviceName=%2F35643%2Fed%3D2048&amp;mode=gun#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80",
-        "trojan:\/\/eO7qelHuhh@tasnim.twn24.ir:443?security=tls&amp;sni=tasnim.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=random&amp;type=grpc&amp;authority=tasnim.twn24.ir&amp;serviceName=%2F35643%2Fed%3D2048&amp;mode=gun#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80",
-        "trojan:\/\/22WTMP9Y8S@tasnim.twn24.ir:443?security=tls&amp;sni=tasnim.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=random&amp;type=grpc&amp;authority=tasnim.twn24.ir&amp;serviceName=%2F35643%2Fed%3D2048&amp;mode=gun#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80",
-        "trojan:\/\/O2WLDKenY7@tasnim.twn24.ir:443?security=tls&amp;sni=tasnim.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=random&amp;type=ws&amp;host=tasnim.twn24.ir&amp;path=%2F42521%2F%3Fed%3D2048#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80",
-        "trojan:\/\/k16TEW4BiZ@tasnim.twn24.ir:443?security=tls&amp;sni=tasnim.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=random&amp;type=ws&amp;host=tasnim.twn24.ir&amp;path=%2F42521%2F%3Fed%3D2048#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80<\/pre><\/div>",
-        "trojan:\/\/2gODgMRbpU@tasnim.twn24.ir:443?security=tls&amp;sni=tasnim.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=random&amp;type=ws&amp;host=tasnim.twn24.ir&amp;path=%2F42521%2F%3Fed%3D2048#%F0%9F%8E%80%F0%9D%91%80%F0%9D%90%B8%F0%9D%90%BB%F0%9D%92%9F%F0%9D%90%BC%F0%9F%8E%80<\/pre><\/div>"
-    ],
+    "vmess": [],
+    "vless": [],
+    "trojan": [],
     "ss": [],
     "tuic": [],
     "hysteria": [],
