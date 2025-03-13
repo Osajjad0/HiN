@@ -1,15 +1,7 @@
 {
-    "vmess": [
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REQ3Q1x1RDgzQ1x1REQ3NFx1RDgzQ1x1REQ3N1x1RDgzQ1x1REQ3M1x1RDgzQ1x1REQ3OCIsDQogICJhZGQiOiAic2FiYS5pdG4yNC5pciIsDQogICJwb3J0IjogIjIwODMiLA0KICAiaWQiOiAiMjdhNjc2ODQtYWM1ZS00ZDY3LWQ2MGYtYjY5YmM3M2I2N2U4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJzYWJhLml0bjI0LmlyIiwNCiAgInBhdGgiOiAiL21laGRpIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInNhYmEuaXRuMjQuaXIiLA0KICAiYWxwbiI6ICJoMixodHRwLzEuMSIsDQogICJmcCI6ICJjaHJvbWUiDQp9",
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REQ3Q1x1RDgzQ1x1REQ3NFx1RDgzQ1x1REQ3N1x1RDgzQ1x1REQ3M1x1RDgzQ1x1REQ3OCIsDQogICJhZGQiOiAic2FiYS5pdG4yNC5pciIsDQogICJwb3J0IjogIjIwOTYiLA0KICAiaWQiOiAiZWFiNzRlNWQtODI3ZS00NjM0LWM3YzEtMjY5MjQzYmM1ZGYwIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJncnBjIiwNCiAgInR5cGUiOiAibXVsdGkiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvbWVoZGkiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2FiYS5pdG4yNC5pciIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIiwNCiAgImZwIjogImNocm9tZSINCn0=<\/pre><\/div>"
-    ],
-    "vless": [
-        "vless:\/\/0d32d6d3-589b-443a-c653-9a3f91d7b03e@saba.itn24.ir:8443?encryption=none&amp;security=tls&amp;sni=saba.itn24.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=saba.itn24.ir&amp;path=%2Fmehdi#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8<\/pre><\/div>",
-        "vless:\/\/0a1a5248-1a13-4e9a-d125-0c99c8c30995@saba.itn24.ir:2053?encryption=none&amp;security=tls&amp;sni=saba.itn24.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=grpc&amp;authority=saba.itn24.ir&amp;serviceName=%2Fmehdi&amp;mode=gun#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8<\/pre><\/div>"
-    ],
-    "trojan": [
-        "trojan:\/\/AwhNf0CLea@saba.itn24.ir:2087?security=tls&amp;sni=saba.itn24.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=saba.itn24.ir&amp;path=%2Fmehdi#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8"
-    ],
+    "vmess": [],
+    "vless": [],
+    "trojan": [],
     "ss": [],
     "tuic": [],
     "hysteria": [],
