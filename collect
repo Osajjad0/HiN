@@ -1,25 +1,22 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/40d44ae2-94bf-4510-bb8b-117c3315376c@172.66.44.168:2083?security=tls&amp;sni=MaHDisErVEr-KsL.pAGes.dEv&amp;type=ws&amp;host=mahdiserver-ksl.pages.dev&amp;path=%2FqJyQiTipFQAvxAvZ%3Fed%3D2560&amp;fp=randomized&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "vless:\/\/40d44ae2-94bf-4510-bb8b-117c3315376c@172.66.44.168:2083?security=tls&amp;sni=MaHDisErVEr-KsL.pAGes.dEv&amp;type=ws&amp;host=mahdiserver-ksl.pages.dev&amp;path=%2FqJyQiTipFQAvxAvZ%3Fed%3D2560&amp;fp=randomized&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "vless:\/\/55663359-a460-4c62-914a-5128640ce2bc@185.79.158.141:8088?security=none&amp;type=tcp&amp;headerType=http#<i",
-        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.28:2095?path=%2F&amp;security=none&amp;encryption=none&amp;host=redw.pooriam.ir&amp;type=ws#<i",
-        "vless:\/\/55663359-a460-4c62-914a-5128640ce2bc@185.79.158.141:8088?security=none&amp;type=tcp&amp;headerType=http#<i",
-        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.28:2095?path=%2F&amp;security=none&amp;encryption=none&amp;host=redw.pooriam.ir&amp;type=ws#<i",
-        "vless:\/\/85950277-f447-48f0-9ead-aaf6d5ff3cad@104.21.49.59:443?security=tls&amp;sni=dfgh5f.890617.xyz&amp;type=ws&amp;host=dfgh5f.890617.xyz&amp;path=%2F8NmRbZ1M4Ymx5NYQ76MGGq&amp;fp=chrome&amp;alpn=http%2F1.1#<i",
-        "vless:\/\/85950277-f447-48f0-9ead-aaf6d5ff3cad@104.21.49.59:443?security=tls&amp;sni=dfgh5f.890617.xyz&amp;type=ws&amp;host=dfgh5f.890617.xyz&amp;path=%2F8NmRbZ1M4Ymx5NYQ76MGGq&amp;fp=chrome&amp;alpn=http%2F1.1#<i",
-        "vless:\/\/2ProxyPJ---FuseVPN@v2ray.flashwrite.ir:2000?mode=multi&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=%2F%40ProxyPJ------%40ProxyPJ------%40ProxyPJ------%40ProxyPJ------%40ProxyPJ------%40FuseVPN------%40FuseVPN------%40FuseVPN------%40FuseVPN------%40FuseVPN#<i",
-        "vless:\/\/3ProxyPJ---FuseVPN@v2ray.flashwrite.ir:2000?mode=multi&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=%2F%40ProxyPJ------%40ProxyPJ------%40ProxyPJ------%40ProxyPJ------%40ProxyPJ------%40FuseVPN------%40FuseVPN------%40FuseVPN------%40FuseVPN------%40FuseVPN#<i",
-        "vless:\/\/4814f50c-a25c-498b-8d42-55898dae472d@wedbaz.net.flashwrite.ir:1000?type=grpc&amp;serviceName=%2F%40VpnWedBaZ----------%40VpnWedBaZ-----------%40VpnWedBaZ----%40VpnWedBaZ-------%40VpnWedBaz-----%40VpnWedBaZ----------%40VpnWedBaZ-----------%40VpnWedBaZ----%40VpnWedBaZ-------%40VpnWedBaz-----%40VpnWedBaZ----------%40VpnWedBaZ-----------%40VpnWedBaZ----%40VpnWedBaZ-------%40VpnWedBaz&amp;authority=&amp;mode=multi&amp;security=reality&amp;pbk=ea6_hMfN4rcPe1GW4080wUV7ZMVklxfS3Yn_qUobyz4&amp;fp=chrome&amp;sni=refersion.com&amp;sid=83f40032&amp;spx=%2F#<i",
-        "vless:\/\/4814f50c-a25c-498b-8d42-55898dae472d@wedbaz.net.flashwrite.ir:1000?type=grpc&amp;serviceName=%2F%40VpnWedBaZ----------%40VpnWedBaZ-----------%40VpnWedBaZ----%40VpnWedBaZ-------%40VpnWedBaz-----%40VpnWedBaZ----------%40VpnWedBaZ-----------%40VpnWedBaZ----%40VpnWedBaZ-------%40VpnWedBaz-----%40VpnWedBaZ----------%40VpnWedBaZ-----------%40VpnWedBaZ----%40VpnWedBaZ-------%40VpnWedBaz&amp;authority=&amp;mode=multi&amp;security=reality&amp;pbk=ea6_hMfN4rcPe1GW4080wUV7ZMVklxfS3Yn_qUobyz4&amp;fp=chrome&amp;sni=refersion.com&amp;sid=83f40032&amp;spx=%2F#<i",
-        "vless:\/\/4c60f4dd-a921-4b00-bd32-411fc1f53d40@wedbaz.net.flashwrite.ir:2000?type=grpc&amp;serviceName=%2F%40VpnWedBaZ----------%40VpnWedBaZ-----------%40VpnWedBaZ----%40VpnWedBaZ-------%40VpnWedBaz-----%40VpnWedBaZ----------%40VpnWedBaZ-----------%40VpnWedBaZ----%40VpnWedBaZ-------%40VpnWedBaz-----%40VpnWedBaZ----------%40VpnWedBaZ-----------%40VpnWedBaZ----%40VpnWedBaZ-------%40VpnWedBaz&amp;authority=&amp;mode=multi&amp;security=none#<i"
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@34.246.70.243:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@52.208.164.90:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.176.4:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.20.80:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.175.232:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
+        "vless:\/\/ZEDMODEON--ZEDMODEON@45.144.51.195:35032?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#<i",
+        "vless:\/\/ZEDMODEON--ZEDMODEON@85.235.150.137:43491?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-join-ZEDMODEON-tel-ZEDMODEON-zedmodeon-ZEDMODEON-zedmodeon-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-join-ZEDMODEON-tel-ZEDMODEON-zedmodeon-ZEDMODEON-zedmodeon-ZEDMODEON-ZEDMODEONZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON--ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-join-ZEDMODEON-tel-ZEDMODEON-zedmodeon-ZEDMODEON-zedmodeon-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#<i",
+        "vless:\/\/ZEDMODEON--biaZEDMODEON@51.83.78.193:19246?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#<i",
+        "vless:\/\/ZEDMODEON--ZEDMODEON@51.83.78.193:19247?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#<i",
+        "vless:\/\/ZEDMODEON--joinZEDMODEON@45.144.51.195:35033?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#<i",
+        "vless:\/\/ZEDMODEON--joinZEDMODEON@57.129.51.236:48384?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#<i"
     ],
     "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZWJhS0ZqY2hLbW12cnB1@admin.c4.havij.co:443?type=tcp#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZWJhS0ZqY2hLbW12cnB1@admin.c4.havij.co:443?type=tcp#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#<i"
+        "ss:\/\/YWVzLTI1Ni1nY206TnZTOE40VmY4cUFHUFNDTA%3D%3D@80.92.204.106:9046#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#<i"
     ],
     "tuic": [],
     "hysteria": [],
