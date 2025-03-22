@@ -1,25 +1,10 @@
 {
     "vmess": [],
-    "vless": [
-        "vless:\/\/ddb25cbe-e6da-4562-886f-853e4fe657f0@jp3-3.node.crosswall.org:443?encryption=none&amp;security=reality&amp;sni=www.yahoo.co.jp&amp;fp=edge&amp;pbk=rjw62ORAKn8uTo2rgH1iZFbvxhT5ZzH9zAph5ChSgl4&amp;sid=9987b56cdf4c0681&amp;type=grpc&amp;authority=&amp;serviceName=GunService&amp;mode=gun#%E6%97%A5%E6%9C%AC3-3%7C2%E5%80%8D%7C%E4%B8%89%E7%BD%91%E4%BC%98%E5%8C%96",
-        "vless:\/\/ddb25cbe-e6da-4562-886f-853e4fe657f0@jp3-3.node.crosswall.org:443?encryption=none&amp;security=reality&amp;sni=www.yahoo.co.jp&amp;fp=edge&amp;pbk=rjw62ORAKn8uTo2rgH1iZFbvxhT5ZzH9zAph5ChSgl4&amp;sid=9987b56cdf4c0681&amp;type=grpc&amp;authority=&amp;serviceName=GunService&amp;mode=\u2026<\/div>"
-    ],
+    "vless": [],
     "trojan": [],
     "ss": [],
     "tuic": [],
     "hysteria": [],
-    "hysteria2": [
-        "hysteria2:\/\/ddb25cbe-e6da-4562-886f-853e4fe657f0@us01.node.crosswall.org:38376?sni=null&amp;insecure=1&amp;mport=35000-40000#%E7%BE%8E%E5%9B%BD1%7C0.8%E5%80%8D",
-        "hysteria2:\/\/ddb25cbe-e6da-4562-886f-853e4fe657f0@sg01.node.crosswall.org:35891?sni=null&amp;insecure=1&amp;mport=35000-40000#%E6%96%B0%E5%8A%A0%E5%9D%A11%7C0.4%E5%80%8D",
-        "hysteria2:\/\/ddb25cbe-e6da-4562-886f-853e4fe657f0@sg02.node.crosswall.org:37968?sni=null&amp;insecure=1&amp;mport=35000-40000#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C1.2%E5%80%8D%7C%E7%A7%BB%E5%8A%A8%E4%BC%98%E5%8C%96",
-        "hysteria2:\/\/ddb25cbe-e6da-4562-886f-853e4fe657f0@tw01.node.crosswall.org:40470?sni=null&amp;insecure=1&amp;mport=40001-41000#%E5%8F%B0%E6%B9%BE01%7C3.8%E5%80%8D%7C%E4%B8%89%E7%BD%91%E4%BC%98%E5%8C%96",
-        "hysteria2:\/\/ddb25cbe-e6da-4562-886f-853e4fe657f0@de1.node.crosswall.org:36133?sni=null&amp;insecure=1&amp;mport=35000-40000#%E5%BE%B7%E5%9B%BD1%7C0.8%E5%80%8D",
-        "hysteria2:\/\/ddb25cbe-e6da-4562-886f-853e4fe657f0@vn1r.node.crosswall.org:37045?sni=null&amp;insecure=1&amp;mport=35000-40000#%E8%B6%8A%E5%8D%971%7C0.8%E5%80%8D",
-        "hysteria2:\/\/ddb25cbe-e6da-4562-886f-853e4fe657f0@vn01.node.crosswall.org:41893?sni=null&amp;insecure=1&amp;mport=41001-42000#%E8%B6%8A%E5%8D%971%7C3.3%E5%80%8D%7C%E4%B8%89%E7%BD%91%E4%BC%98%E5%8C%96",
-        "hysteria2:\/\/ddb25cbe-e6da-4562-886f-853e4fe657f0@kh1h.node.crosswall.org:42101?sni=null&amp;insecure=1#%E6%9F%AC%E5%9F%94%E5%AF%A81%7C5.5%E5%80%8D",
-        "hysteria2:\/\/ddb25cbe-e6da-4562-886f-853e4fe657f0@ru1.node.crosswall.org:36573?sni=null&amp;insecure=1&amp;mport=35000-40000#%E4%BF%84%E7%BD%97%E6%96%AF1%7C0.5%E5%80%8D%7C%E7%94%B5%E4%BF%A1%E8%81%94%E9%80%9A%E4%BC%98%E5%8C%96",
-        "hysteria2:\/\/ddb25cbe-e6da-4562-886f-853e4fe657f0@tr01.node.crosswall.org:35218?sni=null&amp;insecure=1&amp;mport=35000-40000#%E5%9C%9F%E8%80%B3%E5%85%B61%7C0.8%E5%80%8D",
-        "hysteria2:\/\/ddb25cbe-e6da-4562-886f-853e4fe657f0@nga1d.node.crosswall.org:42027?sni=null&amp;insecure=1&amp;mport=42001-42100#%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A1%7C15%E5%80%8D<\/pre><\/div>"
-    ],
+    "hysteria2": [],
     "hy2": []
 }
