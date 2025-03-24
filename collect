@@ -1,44 +1,10 @@
 {
-    "vmess": [
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REQ3Q1x1RDgzQ1x1REQ3NFx1RDgzQ1x1REQ3N1x1RDgzQ1x1REQ3M1x1RDgzQ1x1REQ3OCIsDQogICJhZGQiOiAiaXJhbi5mYXJzb25saW5lMjQuaXIiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYjBhODI3OTQtZDRkMy00NjYwLWQzZmQtMzRkZTcxMDcyN2QzIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJodHRwdXBncmFkZSIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJpcmFuLmZhcnNvbmxpbmUyNC5pciIsDQogICJwYXRoIjogIi8xMjczOS9ATTNIRElPMSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJpcmFuLmZhcnNvbmxpbmUyNC5pciIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICJjaHJvbWUiDQp9",
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REQ3Q1x1RDgzQ1x1REQ3NFx1RDgzQ1x1REQ3N1x1RDgzQ1x1REQ3M1x1RDgzQ1x1REQ3OCIsDQogICJhZGQiOiAiaXJhbi5mYXJzb25saW5lMjQuaXIiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYjBhODI3OTQtZDRkMy00NjYwLWQzZmQtMzRkZTcxMDcyN2QzIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJodHRwdXBncmFkZSIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJpcmFuLmZhcnNvbmxpbmUyNC5pciIsDQogICJwYXRoIjogIi81MjkzMS9ATTNIRElPMSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJpcmFuLmZhcnNvbmxpbmUyNC5pciIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICJjaHJvbWUiDQp9",
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REQ3Q1x1RDgzQ1x1REQ3NFx1RDgzQ1x1REQ3N1x1RDgzQ1x1REQ3M1x1RDgzQ1x1REQ3OCIsDQogICJhZGQiOiAiaXJhbi5mYXJzb25saW5lMjQuaXIiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYjBhODI3OTQtZDRkMy00NjYwLWQzZmQtMzRkZTcxMDcyN2QzIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJpcmFuLmZhcnNvbmxpbmUyNC5pciIsDQogICJwYXRoIjogIi81NjE1MC9ATTNIRElPMSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJpcmFuLmZhcnNvbmxpbmUyNC5pciIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICJjaHJvbWUiDQp9"
-    ],
-    "vless": [
-        "vless:\/\/c90932c0-a640-4113-a1d6-14812e4c64d1@support.sabapardaziran.ir:443?encryption=none&amp;security=tls&amp;sni=support.sabapardaziran.ir&amp;fp=chrome&amp;type=ws&amp;host=support.sabapardaziran.ir&amp;path=%2F55563%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "vless:\/\/c90932c0-a640-4113-a1d6-14812e4c64d1@support.sabapardaziran.ir:443?encryption=none&amp;security=tls&amp;sni=support.sabapardaziran.ir&amp;fp=chrome&amp;type=ws&amp;host=support.sabapardaziran.ir&amp;path=%2F19414%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "vless:\/\/c90932c0-a640-4113-a1d6-14812e4c64d1@support.sabapardaziran.ir:443?encryption=none&amp;security=tls&amp;sni=support.sabapardaziran.ir&amp;fp=chrome&amp;type=ws&amp;host=support.sabapardaziran.ir&amp;path=%2F47845%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "vless:\/\/bf517df9-a4e4-4a70-9667-7f695f23a369@tabnak.itn24.ir:443?encryption=none&amp;security=tls&amp;sni=tabnak.itn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=tabnak.itn24.ir&amp;path=%2F31365%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "vless:\/\/b0a82794-d4d3-4660-d3fd-34de710727d3@iran.farsonline24.ir:443?encryption=none&amp;security=tls&amp;sni=iran.farsonline24.ir&amp;fp=chrome&amp;type=ws&amp;host=iran.farsonline24.ir&amp;path=%2F40430%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "vless:\/\/b0a82794-d4d3-4660-d3fd-34de710727d3@iran.farsonline24.ir:443?encryption=none&amp;security=tls&amp;sni=iran.farsonline24.ir&amp;fp=chrome&amp;type=httpupgrade&amp;host=iran.farsonline24.ir&amp;path=%2F12273%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "vless:\/\/b0a82794-d4d3-4660-d3fd-34de710727d3@iran.farsonline24.ir:443?encryption=none&amp;security=tls&amp;sni=iran.farsonline24.ir&amp;fp=chrome&amp;type=ws&amp;host=iran.farsonline24.ir&amp;path=%2F35872%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8"
-    ],
-    "trojan": [
-        "trojan:\/\/NuL1nBAAaM@support.sabapardaziran.ir:2083?security=tls&amp;type=ws&amp;host=support.sabapardaziran.ir&amp;path=%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "trojan:\/\/NuL1nBAAaM@support.sabapardaziran.ir:443?security=tls&amp;sni=support.sabapardaziran.ir&amp;fp=chrome&amp;type=ws&amp;host=support.sabapardaziran.ir&amp;path=%2F37119%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8<\/pre><\/div>",
-        "trojan:\/\/NuL1nBAAaM@support.sabapardaziran.ir:443?security=tls&amp;sni=support.sabapardaziran.ir&amp;fp=chrome&amp;type=ws&amp;host=support.sabapardaziran.ir&amp;path=%2F55213%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "trojan:\/\/ksCDo3aEam@tabnak.itn24.ir:8443?security=tls&amp;type=ws&amp;host=tabnak.itn24.ir&amp;path=%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "trojan:\/\/ksCDo3aEam@tabnak.itn24.ir:443?security=tls&amp;sni=tabnak.itn24.ir&amp;fp=chrome&amp;type=ws&amp;host=tabnak.itn24.ir&amp;path=25590%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "trojan:\/\/ksCDo3aEam@tabnak.itn24.ir:443?security=tls&amp;sni=tabnak.itn24.ir&amp;fp=chrome&amp;type=ws&amp;host=tabnak.itn24.ir&amp;path=%2F15681%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "trojan:\/\/ksCDo3aEam@tabnak.itn24.ir:443?security=tls&amp;sni=tabnak.itn24.ir&amp;fp=chrome&amp;type=httpupgrade&amp;host=tabnak.itn24.ir&amp;path=%2F33041%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "trojan:\/\/ksCDo3aEam@tabnak.itn24.ir:443?security=tls&amp;sni=tabnak.itn24.ir&amp;fp=chrome&amp;type=ws&amp;host=tabnak.itn24.ir&amp;path=%2F51759%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "trojan:\/\/iP7yrI79tI@iran.farsonline24.ir:2053?security=tls&amp;type=ws&amp;host=iran.farsonline24.ir&amp;path=%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "trojan:\/\/iP7yrI79tI@iran.farsonline24.ir:443?security=tls&amp;sni=iran.farsonline24.ir&amp;fp=chrome&amp;type=httpupgrade&amp;host=iran.farsonline24.ir&amp;path=%2F16730%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "trojan:\/\/iP7yrI79tI@iran.farsonline24.ir:443?security=tls&amp;sni=iran.farsonline24.ir&amp;fp=chrome&amp;type=ws&amp;host=iran.farsonline24.ir&amp;path=%2F14067%2F%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8"
-    ],
+    "vmess": [],
+    "vless": [],
+    "trojan": [],
     "ss": [],
     "tuic": [],
     "hysteria": [],
-    "hysteria2": [
-        "hysteria2:\/\/NuL1nBAAaM@manager.sabapardaziran.ir:57268?sni=support.sabapardaziran.ir&amp;obfs=salamander&amp;obfs-password=usIbk%2ATlmDMbhD2I%40Fz%23i%40ccM4%5EMAkSR&amp;insecure=0#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "hysteria2:\/\/NuL1nBAAaM@manager.sabapardaziran.ir:22743?sni=support.sabapardaziran.ir&amp;obfs=salamander&amp;obfs-password=V1rkm%26cwj0%23w0zCLlzd%25%24miRgHK9m9hH&amp;insecure=0#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "hysteria2:\/\/NuL1nBAAaM@manager.sabapardaziran.ir:38186?sni=support.sabapardaziran.ir&amp;obfs=salamander&amp;obfs-password=e%262v%25%2A05N%26mN%2A7ZWj0vEufpzqioV7y%26D&amp;insecure=0#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "hysteria2:\/\/NuL1nBAAaM@manager.sabapardaziran.ir:20860?sni=support.sabapardaziran.ir&amp;obfs=salamander&amp;obfs-password=B5ZY4i%23i%21d0TkvrZYO2a58gQsXduoIUX&amp;insecure=0#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "hysteria2:\/\/NuL1nBAAaM@manager.sabapardaziran.ir:10342?sni=support.sabapardaziran.ir&amp;obfs=salamander&amp;obfs-password=ttI%4094ckK%23v%23h7i3fq76AYQAovGde%5E%25l&amp;insecure=0#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "hysteria2:\/\/NuL1nBAAaM@manager.sabapardaziran.ir:48547?sni=support.sabapardaziran.ir&amp;obfs=salamander&amp;obfs-password=%25pWw6%23q%25M2D%25HJO2BVD%24J4n%26l9l%23N%24jh&amp;insecure=0#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "hysteria2:\/\/NuL1nBAAaM@manager.sabapardaziran.ir:24216?sni=support.sabapardaziran.ir&amp;obfs=salamander&amp;obfs-password=vSlZ6PrV%23qVYNfFppQQte0c%40Zrjk%21nR%40&amp;insecure=0#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "hysteria2:\/\/NuL1nBAAaM@manager.sabapardaziran.ir:58901?sni=support.sabapardaziran.ir&amp;obfs=salamander&amp;obfs-password=AE7b%23zpTTo%40Fb87%2AAPrAxLo%21%5Ewkdu%2157&amp;insecure=0#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "hysteria2:\/\/NuL1nBAAaM@manager.sabapardaziran.ir:25860?sni=support.sabapardaziran.ir&amp;obfs=salamander&amp;obfs-password=YURG%215fjba%25JTLyN2hoiuUtj9JX%409K%24%21&amp;insecure=0#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8<\/pre><\/div>"
-    ],
+    "hysteria2": [],
     "hy2": []
 }
