@@ -1,9 +1,7 @@
 {
     "vmess": [],
     "vless": [],
-    "trojan": [
-        "trojan:\/\/0fN8m1RmyAi2@connect.onetwothree123.ir:2083?security=tls&amp;sni=connect.onetwothree123.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=connect.onetwothree123.ir&amp;path=%2FLXd5iQiF#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8"
-    ],
+    "trojan": [],
     "ss": [],
     "tuic": [],
     "hysteria": [],
