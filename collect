@@ -1,15 +1,7 @@
 {
-    "vmess": [
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REQ3Q1x1RDgzQ1x1REQ3NFx1RDgzQ1x1REQ3N1x1RDgzQ1x1REQ3M1x1RDgzQ1x1REQ3OCIsDQogICJhZGQiOiAib2ZmaWNlLmZhcnNvbmxpbmUyNC5pciIsDQogICJwb3J0IjogIjIwNTMiLA0KICAiaWQiOiAiZmUxNjdkODItZTJiOC00Mzc4LWJmNTktYmE3Yjg3Njk3NWQ4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJvZmZpY2UuZmFyc29ubGluZTI0LmlyIiwNCiAgInBhdGgiOiAiL1x1RDgzQ1x1REQ5NEBNM0hESU8xIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiBvZmZpY2UuZmFyc29ubGluZTI0LmlyIiwNCiAgImFscG4iOiAiaDMsaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ==",
-        "vmess:\/\/ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1REQ3Q1x1RDgzQ1x1REQ3NFx1RDgzQ1x1REQ3N1x1RDgzQ1x1REQ3M1x1RDgzQ1x1REQ3OCIsDQogICJhZGQiOiAidGFibmFrLmZhcnNvbmxpbmUyNC5pciIsDQogICJwb3J0IjogIjIwODMiLA0KICAiaWQiOiAiZmZhYzVlNGQtNTNlYy00ZTI5LWE0NzEtM2NkYzBiODViOWNlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJodHRwdXBncmFkZSIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0YWJuYWsuZmFyc29ubGluZTI0LmlyIiwNCiAgInBhdGgiOiAiL1x1RDgzQ1x1REQ5NEBNM0hESU8xIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInRhYm5hay5mYXJzb25saW5lMjQuaXIiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJjaHJvbWUiDQp9"
-    ],
+    "vmess": [],
     "vless": [],
-    "trojan": [
-        "trojan:\/\/ZNpxgwTsWC4%2B@tasnim.farsonline24.ir:2087?security=tls&amp;sni=tasnim.farsonline24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=tasnim.farsonline24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "trojan:\/\/yVYRN3iaCXZr@esna.farsonline24.ir:2096?security=tls&amp;sni=esna.farsonline24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=httpupgrade&amp;host=esna.farsonline24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "trojan:\/\/zTcCv3mAOZgT@tasnim.farsonline24.ir:2087?security=tls&amp;sni=tasnim.farsonline24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=tasnim.farsonline24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8",
-        "trojan:\/\/Z83jYefG7ySa@esna.farsonline24.ir:2096?security=tls&amp;sni=esna.farsonline24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=httpupgrade&amp;host=esna.farsonline24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8<\/pre><\/div>"
-    ],
+    "trojan": [],
     "ss": [],
     "tuic": [],
     "hysteria": [],
