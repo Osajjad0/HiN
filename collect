@@ -6,9 +6,7 @@
         "vless:\/\/cbb4251b-9b20-4c42-b09d-df77666bda12@95.216.146.31:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;pbk=MMVeX3GX6nZmdf6tmwDiNAXJUZk3s4iY7ztA6KA2MSY&amp;fp=chrome&amp;type=grpc&amp;sni=www.target.com&amp;sid=bc6f0833#<i",
         "vless:\/\/cbb4251b-9b20-4c42-b09d-df77666bda12@95.216.146.31:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;pbk=MMVeX3GX6nZmdf6tmwDiNAXJUZk3s4iY7ztA6KA2MSY&amp;fp=chrome&amp;type=grpc&amp;sni=www.target.com&amp;sid=bc6f0833#<i"
     ],
-    "trojan": [
-        "trojan:\/\/%263*iMxGxdoLZ@104.21.64.1:2087?path=%2FQHUjDbc6&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;host=tabnak.twn24.ir&amp;fp=chrome&amp;type=httpupgrade&amp;sni=tabnak.twn24.ir#<i"
-    ],
+    "trojan": [],
     "ss": [],
     "tuic": [],
     "hysteria": [],
