@@ -1,28 +1,19 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;type=ws#<i",
-        "vless:\/\/4cfed9ee-71db-429b-b18d-f9f3dbd11bad@104.21.96.65:443?security=tls&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&amp;type=ws&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&amp;fp=chrome&amp;alpn=h3,h2#<i"
+        "vless:\/\/4d5848af-3baf-4225-8f2b-fc25fc3370bb@18.227.228.41:80\/?type=tcp&amp;encryption=none#<i",
+        "vless:\/\/74049a59-4a76-48bb-9689-efa31e4dad6f@154.17.14.188:443\/?type=ws&amp;encryption=none&amp;host=usa.cayuo.me&amp;path=%2Fbing&amp;security=tls&amp;sni=usa.cayuo.me#<i",
+        "vless:\/\/2429bee3-e0c1-47dd-b420-75e6512b184b@132.145.105.88:42557\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=www.yahoo.com&amp;fp=chrome&amp;security=reality&amp;pbk=9pG_yCinyMylCDQVtADAZELH1vlb5PGz_MZw8dmYZxY&amp;sid=3139a260#<i",
+        "vless:\/\/8d3b917e-6520-4725-b284-a369f14a5315@sg004.421421.xyz:20230\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=www.alibaba.com&amp;fp=chrome&amp;security=reality&amp;pbk=gKQ1iax36vjbOYLKLveiSn_OnlBVAf3ecHLpQnrC4jw&amp;sid=a7464bff&amp;packetEncoding=xudp#<i"
     ],
-    "trojan": [
-        "trojan:\/\/AziRLOclQgiK@ana.twn24.ir:2087?security=tls&amp;sni=ana.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=httpupgrade&amp;host=ana.twn24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
-        "trojan:\/\/dOr4yD4vZA3h@esna.farsonline24.ir:2096?security=tls&amp;sni=esna.farsonline24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=httpupgrade&amp;host=esna.farsonline24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
-        "trojan:\/\/TU23wmAfktCV@econews.onetwothree123.ir:2087?security=tls&amp;sni=econews.onetwothree123.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=econews.onetwothree123.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
-        "trojan:\/\/4vcNM5xa6GjK@ana.twn24.ir:2087?security=tls&amp;sni=ana.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=httpupgrade&amp;host=ana.twn24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
-        "trojan:\/\/RLt7tZFdianN@ana.twn24.ir:2087?security=tls&amp;sni=ana.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=httpupgrade&amp;host=ana.twn24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
-        "trojan:\/\/zVAFaYRTyO7x@tasnim.farsonline24.ir:2087?security=tls&amp;sni=tasnim.farsonline24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=tasnim.farsonline24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
-        "trojan:\/\/XcMjU5ri1BRp@tasnim.farsonline24.ir:2087?security=tls&amp;sni=tasnim.farsonline24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=tasnim.farsonline24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
-        "trojan:\/\/xhO1CHtn8bb5@ana.twn24.ir:2087?security=tls&amp;sni=ana.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=httpupgrade&amp;host=ana.twn24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
-        "trojan:\/\/ASYE0FnRaCrG@tasnim.farsonline24.ir:2087?security=tls&amp;sni=tasnim.farsonline24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=tasnim.farsonline24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
-        "trojan:\/\/7XJbpYBkTrGI@tasnim.farsonline24.ir:2087?security=tls&amp;sni=tasnim.farsonline24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=tasnim.farsonline24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
-        "trojan:\/\/GknM5pi5G0fx@tasnim.farsonline24.ir:2087?security=tls&amp;sni=tasnim.farsonline24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=tasnim.farsonline24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i"
-    ],
+    "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDYwNTUyNy0yOGU0LTQ0OWMtODBlZS01NjQyY2MxNmE4YWY=@176.124.202.137:81#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1bjRFbTJocFdVU0NEUWFt@131.145.40.9:443#<i",
-        "ss:\/\/06df626b-5662-4339-8d5a-83f2f03bac5e@108.162.192.85:443?encryption=none&amp;security=tls&amp;sni=7qb7ui.gamvpn.com&amp;alpn=http%2F1.1&amp;type=ws&amp;host=7qb7ui.gamvpn.com&amp;path=%2Fwss#<i"
+        "ss:\/\/YWVzLTI1Ni1nY206R0pXVk5UWUVGUDJIWU1DNQ@ti3hyra4.slashdevslashnetslashtun.net:21004#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206U0kwRldBQVRGQ0ZLUUlGTQ@8tv68qhq.slashdevslashnetslashtun.net:15010#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206TkJXVUNPWk8yRDFHSE0xTg@ti3hyra4.slashdevslashnetslashtun.net:16013#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206STJDT1c3Njg0NEk5NFNGVA@ti3hyra4.slashdevslashnetslashtun.net:16004#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206OVlWQzY5VVZOOTEySU5DVA@ti3hyra4.slashdevslashnetslashtun.net:16015#<i",
+        "ss:\/\/YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@184.170.241.194:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
