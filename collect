@@ -1,23 +1,28 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=NkG27c9Gl1.MySpDmMeTi.CoM&amp;type=ws&amp;sni=NkG27c9Gl1.MySpDmMeTi.CoM#<i",
-        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.27:80?security=none&amp;type=ws&amp;host=gozargah.validbv7996.ir&amp;path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#<i",
-        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.194:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;type=ws#<i",
-        "vless:\/\/c44fbe30-1989-4917-bdae-04ef1315c4c8@germahy.nakarjgemming.ir:8443\/?type=xhttp&amp;path=%2F&amp;host=&amp;mode=auto&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;sni=germahy.nakarjgemming.ir#<i",
-        "vless:\/\/cbb4251b-9b20-4c42-b09d-df77666bda12@95.216.146.31:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;pbk=MMVeX3GX6nZmdf6tmwDiNAXJUZk3s4iY7ztA6KA2MSY&amp;fp=chrome&amp;type=grpc&amp;sni=www.target.com&amp;sid=bc6f0833#<i",
-        "vless:\/\/c44fbe30-1989-4917-bdae-04ef1315c4c8@germahy.nakarjgemming.ir:8443\/?type=xhttp&amp;path=%2F&amp;host=&amp;mode=auto&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;sni=germahy.nakarjgemming.ir#<i",
-        "vless:\/\/cbb4251b-9b20-4c42-b09d-df77666bda12@95.216.146.31:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;pbk=MMVeX3GX6nZmdf6tmwDiNAXJUZk3s4iY7ztA6KA2MSY&amp;fp=chrome&amp;type=grpc&amp;sni=www.target.com&amp;sid=bc6f0833#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.119.182:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i"
+        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;type=ws#<i",
+        "vless:\/\/4cfed9ee-71db-429b-b18d-f9f3dbd11bad@104.21.96.65:443?security=tls&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&amp;type=ws&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&amp;fp=chrome&amp;alpn=h3,h2#<i"
     ],
     "trojan": [
-        "trojan:\/\/telegram-id-privatevpns@3.65.115.88:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+        "trojan:\/\/AziRLOclQgiK@ana.twn24.ir:2087?security=tls&amp;sni=ana.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=httpupgrade&amp;host=ana.twn24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
+        "trojan:\/\/dOr4yD4vZA3h@esna.farsonline24.ir:2096?security=tls&amp;sni=esna.farsonline24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=httpupgrade&amp;host=esna.farsonline24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
+        "trojan:\/\/TU23wmAfktCV@econews.onetwothree123.ir:2087?security=tls&amp;sni=econews.onetwothree123.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=econews.onetwothree123.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
+        "trojan:\/\/4vcNM5xa6GjK@ana.twn24.ir:2087?security=tls&amp;sni=ana.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=httpupgrade&amp;host=ana.twn24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
+        "trojan:\/\/RLt7tZFdianN@ana.twn24.ir:2087?security=tls&amp;sni=ana.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=httpupgrade&amp;host=ana.twn24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
+        "trojan:\/\/zVAFaYRTyO7x@tasnim.farsonline24.ir:2087?security=tls&amp;sni=tasnim.farsonline24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=tasnim.farsonline24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
+        "trojan:\/\/XcMjU5ri1BRp@tasnim.farsonline24.ir:2087?security=tls&amp;sni=tasnim.farsonline24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=tasnim.farsonline24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
+        "trojan:\/\/xhO1CHtn8bb5@ana.twn24.ir:2087?security=tls&amp;sni=ana.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=httpupgrade&amp;host=ana.twn24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
+        "trojan:\/\/ASYE0FnRaCrG@tasnim.farsonline24.ir:2087?security=tls&amp;sni=tasnim.farsonline24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=tasnim.farsonline24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
+        "trojan:\/\/7XJbpYBkTrGI@tasnim.farsonline24.ir:2087?security=tls&amp;sni=tasnim.farsonline24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=tasnim.farsonline24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
+        "trojan:\/\/GknM5pi5G0fx@tasnim.farsonline24.ir:2087?security=tls&amp;sni=tasnim.farsonline24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=tasnim.farsonline24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i"
     ],
     "ss": [
-        "ss:\/\/YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@184.170.241.194:443#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206NDc1Y2EwMDEtMjJkMi00YzNiLTg1NmMtYTBlMjA0NTM5MjBl@137.131.180.87:7703#<i",
-        "ss:\/\/YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@184.170.241.194:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDYwNTUyNy0yOGU0LTQ0OWMtODBlZS01NjQyY2MxNmE4YWY=@176.124.202.137:81#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDYwNTUyNy0yOGU0LTQ0OWMtODBlZS01NjQyY2MxNmE4YWY=@176.124.202.137:81#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1bjRFbTJocFdVU0NEUWFt@131.145.40.9:443#<i",
+        "ss:\/\/06df626b-5662-4339-8d5a-83f2f03bac5e@108.162.192.85:443?encryption=none&amp;security=tls&amp;sni=7qb7ui.gamvpn.com&amp;alpn=http%2F1.1&amp;type=ws&amp;host=7qb7ui.gamvpn.com&amp;path=%2Fwss#<i"
     ],
     "tuic": [],
     "hysteria": [],
