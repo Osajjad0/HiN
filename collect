@@ -1,29 +1,23 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.25:8880\/?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.187:80\/?type=ws&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;path=%2FTelegram%40WangCai2%2F%3Fed%3D2560#<i",
-        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.194:80\/?type=ws&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#<i",
-        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.198:80\/?type=ws&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.104:8880\/?type=grpc&amp;encryption=none#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.35:8880\/?type=grpc&amp;encryption=none#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.26:8880\/?type=grpc&amp;encryption=none#<i",
-        "vless:\/\/d6691625-5650-59da-b243-6a6011a37b7d@45.141.58.22:443\/?type=grpc&amp;encryption=none&amp;serviceName=vless-grpc&amp;security=tls&amp;sni=nl.v2vless.site#<i",
-        "vless:\/\/96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.148.22:8443\/?type=ws&amp;encryption=none&amp;host=ZlLgGdEq13.gAgShOw.bLoG&amp;path=%2F&amp;security=tls&amp;sni=ZlLgGdEq13.gAgShOw.bLoG&amp;fp=chrome#<i",
-        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@doordash.com:80\/?type=ws&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;path=%2FTelegram%40JOKERRVPN_Join_Bade_Channel%40JOKERRVPN#<i",
-        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@104.18.35.30:80\/?type=ws&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;path=%2FTelegram%40JOKERRVPNJoin_Bade_Channel%40JOKERRVPN#<i"
+        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.227:80?path=Telegram%40WangCai2%2F%3Fed&amp;security=none&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;type=ws#<i",
+        "vless:\/\/Parsashonam-211@185.146.173.39:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
+        "vless:\/\/Parsashonam-211@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&amp;security=none&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=Parsashonam-DE.ir&amp;fp=firefox&amp;type=ws&amp;sni=Zmaoz.Faculty.Ucdavis.Edu.#<i",
+        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.246:2095?encryption=none&amp;security=none&amp;type=ws&amp;host=redw.pooriam.ir&amp;path=%2F#<i",
+        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.208:2095?encryption=none&amp;security=none&amp;type=ws&amp;host=redw.pooriam.ir&amp;path=%2F#<i",
+        "vless:\/\/8e63322f-94fc-4d6c-bbfa-5b89118e8930@198.71.188.119:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&amp;fp=randomized&amp;type=ws#<i",
+        "vless:\/\/8e63322f-94fc-4d6c-bbfa-5b89118e8930@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=\/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=Telegram-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&amp;fp=randomized&amp;type=ws#<i",
+        "vless:\/\/c9996505-847e-42cf-9214-0d6c232dd860@mehdi23.vact.ir:443\/?type=grpc&amp;serviceName=join---MTMVPN----MTMVPN-join---MTMVPN----MTMVPN-join---MTMVPN----MTMVPN-join---MTMVPN----MTMVPN&amp;authority=&amp;security=reality&amp;pbk=wpAf93EihwHYk0bmtLSFh8eSfrszEha4bHV1ETW69Qg&amp;fp=chrome&amp;sni=www.cdn77.com&amp;sid=a4&amp;spx=%2F#<i",
+        "vless:\/\/e3089788-42eb-4792-8348-47fe2fe213a2@104.17.231.69:443\/?path=%2FnR8YIgT2y9Cvz6EgciEMO&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=service-c.secretvps.cam&amp;fp=chrome&amp;type=httpupgrade&amp;sni=service-c.secretvps.cam#<i"
     ],
-    "trojan": [
-        "trojan:\/\/d67cfeaf-b277-44ac-ab99-9dd02a7c5299@104.21.49.59:443\/?type=ws&amp;host=Fgh9JkR5.890617.xYz&amp;path=%2FlWljHWvIMOj85lz42MdhsCLV&amp;security=tls&amp;sni=Fgh9JkR5.890617.xYz&amp;allowInsecure=1#<i"
-    ],
+    "trojan": [],
     "ss": [
-        "ss:\/\/cmM0LW1kNTozOTJkY2E0NTAyMDMxY2Ey@51.81.33.5:27461#<i",
-        "ss:\/\/cmM0LW1kNTplMWY1MDE5MzEyMzI3YTU4@163.171.213.47:46060#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYWY4MzBiNmY4MGYwYjhj@100.42.177.164:29850#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOGYxZmU1N2YzM2JjZDY3@51.159.191.13:13757#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206NDc1Y2EwMDEtMjJkMi00YzNiLTg1NmMtYTBlMjA0NTM5MjBl@137.131.180.87:7703#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#<i",
-        "ss:\/\/cmM0LW1kNTplMWY1MDE5MzEyMzI3YTU4@163.171.213.47:46060#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
