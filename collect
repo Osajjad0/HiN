@@ -1,24 +1,27 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjM4LjEwOS4yMjguMjE0IiwgInBvcnQiOiAxNDg1NCwgImlkIjogImYwYTIxNGJhLTJhNGYtNGYyMi1iMzQyLTAzMTIzNzI2YWIyNyIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAibm9uZSIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmN1x1MDBhZVx1ZmUwZkZyYW5jZVx1MDBhOVx1ZmUwZlBhcmlzXHVkODNkXHVkZWRjcGluZzozNS4wMW1zIn0=<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/5c183802-747d-4d2f-a6f1-aff2d5d78401@8.222.199.43:443?security=reality&amp;encryption=none&amp;pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=api.digital-help-prd.autodesk.com&amp;sid=6ba85179e30d4fc2#<i",
-        "vless:\/\/5c183802-747d-4d2f-a6f1-aff2d5d78401@8.222.199.43:443?security=reality&amp;encryption=none&amp;pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=api.digital-help-prd.autodesk.com&amp;sid=6ba85179e30d4fc2#<i",
-        "vless:\/\/e68b1ed2-fbaf-4808-aada-d79fb7714de5@188.227.85.89:8443?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;pbk=fYrfIC-Mg5Ju1c-8Rt9Tj5QsUjERqHyZkpIDSL9OTGs&amp;fp=chrome&amp;type=grpc&amp;sni=www.speedtest.net&amp;sid=5554353c62#<i",
-        "vless:\/\/e68b1ed2-fbaf-4808-aada-d79fb7714de5@188.227.85.89:8443?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;pbk=fYrfIC-Mg5Ju1c-8Rt9Tj5QsUjERqHyZkpIDSL9OTGs&amp;fp=chrome&amp;type=grpc&amp;sni=www.speedtest.net&amp;sid=5554353c62#<i",
-        "vless:\/\/54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.148:443?security=tls&amp;encryption=none&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;type=tcp&amp;sni=147135004002.sec20org.com#<i",
-        "vless:\/\/f099efbb-5d64-4429-99e0-094467294dbf@91.107.155.79:443?security=reality&amp;encryption=none&amp;pbk=_VD8PHTrS0iGsbWxwAKWDHY2RKUTsQNhjhQnleD2BW8&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=mw9.rogha.ir&amp;sid=298e20a67e0aea#<i",
-        "vless:\/\/fbdbe530-e73f-4b50-b263-b309e6918a5c@www.speedtest.net:80?path=\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.lightning6.ip-ddns.com.&amp;type=ws#<i"
+        "vless:\/\/0ac7faff-5358-453e-a2a4-ef0818ca19f5@217.60.239.58:26165\/?path=telegram%3A%20%40summertimeus&amp;security=none&amp;encryption=none&amp;type=ws#<i",
+        "vless:\/\/7fb908a2-b6e0-4567-a3c9-47441bc6a675@173.245.59.132:8080?security=none&amp;type=httpupgrade&amp;headerType=&amp;path=%2F@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn%3Fed%3D2048&amp;host=evay-free.ysphs.top.#<i",
+        "vless:\/\/7fb908a2-b6e0-4567-a3c9-47441bc6a675@173.245.59.132:8080?security=none&amp;type=httpupgrade&amp;headerType=&amp;path=%2F@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn%3Fed%3D2048&amp;host=evay-free.ysphs.top.#<i",
+        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.206:80?type=ws&amp;host=gozargah.validbv7996.ir&amp;path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#<i",
+        "vless:\/\/fb07cf18-249e-43e2-8f47-799792ecafdd@216.24.57.126:2096?security=tls&amp;sni=Channel-te1egram-EiiiM.danesh-bonyan.Store&amp;type=ws&amp;host=eiiim.danesh-bonyan.Store&amp;path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#<i",
+        "vless:\/\/1f1eb34f-9f6d-4316-b7a7-f95ecb6261bb@84.234.28.218:2593?security=reality&amp;encryption=none&amp;pbk=stkzXR66Onu6K6sujTw1rr27jdnhHpC5EUp8CF4wQHI&amp;host=JOKERRVPNTelegram#<i",
+        "vless:\/\/1f1eb34f-9f6d-4316-b7a7-f95ecb6261bb@84.234.28.55:2593?security=reality&amp;encryption=none&amp;pbk=stkzXR66Onu6K6sujTw1rr27jdnhHpC5EUp8CF4wQHI&amp;host=JOKERRVPNTelegram#<i",
+        "vless:\/\/e33c929b-acc0-46cd-b968-3b86b990933a@116.203.40.130:2226?mode=gun&amp;security=&amp;encryption=none&amp;authority=Join_Bade_Channel@Nicotine_joker\u0640\u0640Nicotine_joker\u0640\u0640Nicotine_joker\u0640\u0640Nicotine_joker&amp;type=grpc&amp;serviceName=2226vless#<i",
+        "vless:\/\/e33c929b-acc0-46cd-b968-3b86b990933a@116.203.40.130:6893?mode=gun&amp;security=&amp;encryption=none&amp;authority=JOKERRVPNJoin_Bade_Channel@JOKERRVPN&amp;type=grpc&amp;serviceName=6893vless#<i",
+        "vless:\/\/e33c929b-acc0-46cd-b968-3b86b990933a@116.203.40.130:2226?mode=gun&amp;security=&amp;encryption=none&amp;authority=JOKERRVPNJoin_Bade_Channel@JOKERRVPN&amp;type=grpc&amp;serviceName=2226vless#<i",
+        "vless:\/\/e33c929b-acc0-46cd-b968-3b86b990933a@116.203.40.130:1717?mode=gun&amp;security=&amp;encryption=none&amp;authority=JOKERRVPNJoin_Bade_Channel@JOKERRVPN&amp;type=grpc&amp;serviceName=1717vless#<i"
     ],
     "trojan": [
-        "trojan:\/\/74260700211203800@possible-tiger.shiner427.skin:443?allowInsecure=1&amp;sni=possible-tiger.shiner427.skin#<i",
-        "trojan:\/\/32b598e2-2bf7-4af1-8d17-306f839dde74@aafrtpfxr.twl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27201?allowInsecure=1&amp;sni=aafrtpfxr.twl01i9zjfegelp.5xfsur8v62.gosdk.xyz#<i",
-        "trojan:\/\/32b598e2-2bf7-4af1-8d17-306f839dde74@45.146.232.172:27201?allowInsecure=1#<i",
-        "trojan:\/\/74260702287384200@95.85.93.54:443?allowInsecure=1&amp;sni=settled-mite.shiner427.skin#<i",
-        "trojan:\/\/a8fce442-ae9a-4cc1-a0cc-20308ff0a0db@1p.890689.xyz:443\/?type=ws&amp;path=%2FlXENb74xF4ylXngZ&amp;security=tls&amp;sni=1P.890689.xyZ&amp;alpn=http%2F1.1&amp;fp=chrome#<i"
+        "trojan:\/\/74260700211203800@possible-tiger.shiner427.skin:443\/?type=tcp&amp;security=tls&amp;allowInsecure=1#<i"
     ],
-    "ss": [],
+    "ss": [
+        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWUjlKa1BLYnVmT1pRMmxy@admin.c4.havij.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYOXFLbEJ6eGRIajluQWxV@admin.c4.havij.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bTUwQUlaWjFlWU5kMFNX@admin.c4.havij.co:443#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
