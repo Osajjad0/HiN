@@ -1,18 +1,12 @@
 {
-    "vmess": [],
-    "vless": [
-        "vless:\/\/354e86bf-3d2f-5bfa-2c14-45cd8ac050f6@151.101.130.216:80?security=none&amp;type=ws&amp;host=marzneshinestonia.car&amp;path=%2F%3Fed%3D1024#<i",
-        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@www.speedtest.net:443?path=%2FPQbo6kwamNEbtFNK%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;fp=randomized&amp;type=ws&amp;sni=GOzaRGAH.VaLIDbV7996.Ir#<i",
-        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@www.speedtest.net:443?path=%2FPQbo6kwamNEbtFNK%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;fp=randomized&amp;type=ws&amp;sni=GOzaRGAH.VaLIDbV7996.Ir#<i",
-        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@188.114.96.3:443?path=%2FoiBBYyE4WkprI2wD%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;fp=randomized&amp;type=ws&amp;sni=GOZArgAH.vaLIDbV7996.IR#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@103.35.191.226:8443?security=tls&amp;sni=gozargah.validbv7996.ir&amp;type=ws&amp;host=gozargah.validbv7996.ir&amp;path=Telegram%40V2ray_Alpha%2F%3Fed#<i"
+    "vmess": [
+        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjk0LjEzNi4xODQuMTU2IiwgInBvcnQiOiAzODg3MiwgImlkIjogIjIyMDczMmNjLTllNDMtNDQ1My04M2YxLWM5NDM1YmUyNWI1YiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAibm9uZSIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzXHUwMGFlXHVmZTBmSW5kaWFcdTAwYTlcdWZlMGZNdW1iYWlcdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjEzOS4yMm1zIn0=<\/code><\/div>"
     ],
-    "trojan": [
-        "trojan:\/\/telegram-id-directvpn@18.169.99.160:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/hZ7JkYVAfB@141.227.138.29:1935?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=x1ch-ovh.devefun.net#<i"
+    "vless": [],
+    "trojan": [],
+    "ss": [
+        "ss:\/\/576d1c42-4b4a-4bba-c786-f1c43700d05d@speedtest.net:80?encryption=none&amp;security=none&amp;type=ws&amp;host=foffmelo.com&amp;path=%2Folem%2Fws%3Fed%3D1024#<i"
     ],
-    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
