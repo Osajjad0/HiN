@@ -1,19 +1,20 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/mBh3nsMa2ChdJPAIGT0o3a@45.89.52.5:443?security=reality&amp;encryption=none&amp;pbk=ZK-zsVzq-vqvKwfPRTrMR-4ReMeEuJqSmo42NXPeb2I&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=whatsapp.com&amp;sid=697a152a4ef00147#<i",
-        "vless:\/\/22328c44-1d91-4d4f-9f7f-7350a64c2f0f@173.245.59.132:8080?type=httpupgrade&amp;host=evay-free.ysphs.top.&amp;path=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2048&amp;security=none#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.36.244:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
-        "vless:\/\/503f0f16-a489-4fc3-b135-8fe75c7b5d08@photographipictureai.ir:443?path=%2FfaasfasfasfaA&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http\/1.1&amp;host=photographipictureai.ir&amp;fp=chrome&amp;type=ws&amp;sni=photographipictureai.ir#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.35:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/354e86bf-3d2f-5bfa-2c14-45cd8ac050f6@151.101.130.216:80?security=none&amp;type=ws&amp;host=marzneshinestonia.car&amp;path=%2F%3Fed%3D1024#<i",
-        "vless:\/\/6d91bc33-2d86-4839-9205-02024ff483c7@104.21.51.72:443?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=wtestfrtt.requesttest.cloudns.org&amp;fp=chrome&amp;type=ws&amp;sni=wtestfrtt.requesttest.cloudns.org#<i"
+        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.68.230.171:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#<i",
+        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@142.93.27.222:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#<i",
+        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.22.149.194:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#<i",
+        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@165.227.8.246:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#<i",
+        "vless:\/\/cbb4251b-9b20-4c42-b09d-df77666bda12@liaqpboolfreedashmg.sharknetshop.ir:2087?type=grpc&amp;serviceName=&amp;authority=&amp;mode=multi&amp;security=reality&amp;pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&amp;fp=chrome&amp;sni=www.target.com&amp;sid=bc6f0833&amp;spx=%2F#<i",
+        "vless:\/\/8dabe69a-0cf2-47d1-bce2-2404bb1d67d5@104.19.150.10:2095?type=httpupgrade&amp;path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&amp;host=mci.mtn.ir.com.org.net.om.org.my-digimento0.ir.&amp;security=none#<i",
+        "vless:\/\/cbb4251b-9b20-4c42-b09d-df77666bda12@liaqpboolfreedashm.sharknetshop.ir:2087?type=grpc&amp;serviceName=&amp;authority=&amp;mode=multi&amp;security=reality&amp;pbk=MMVeX3GX6nZmdf6tmwDiNAXJUZk3s4iY7ztA6KA2MSY&amp;fp=chrome&amp;sni=www.target.com&amp;sid=bc6f0833&amp;spx=%2F#<i",
+        "vless:\/\/cbb4251b-9b20-4c42-b09d-df77666bda12@liaqpboolfreedashm.sharknetshop.ir:2087?type=grpc&amp;serviceName=&amp;authority=&amp;mode=multi&amp;security=reality&amp;pbk=MMVeX3GX6nZmdf6tmwDiNAXJUZk3s4iY7ztA6KA2MSY&amp;fp=chrome&amp;sni=www.target.com&amp;sid=bc6f0833&amp;spx=%2F#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/ebhZ11qYng@51.195.254.75:8443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;sni=uk-02.allhubb.info#<i"
+    ],
     "ss": [
-        "ss:\/\/42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;fp=random&amp;type=ws&amp;sni=gozargah.validbv7996.ir#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@61.216.165.234:2377#<i",
-        "ss:\/\/271d139e-b41b-5338-b306-32f66450140b@faculty.ucdavis.edu:443?allowInsecure=1&amp;security=tls&amp;host=PABLOO-MOSTAFA.COM&amp;fp=qq&amp;type=ws&amp;sni=faculty.ucdavis.edu#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#<i"
     ],
     "tuic": [],
     "hysteria": [],
