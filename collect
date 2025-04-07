@@ -1,24 +1,28 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiMTk4LjQxLjIwOS43MCIsICJ2IjogIjIiLCAicG9ydCI6IDIwNTIsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTE4OS0xMzItMjQxLnMyLmRiLWxpbmswMS50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xMDQuMjQuMjI3LjIyIiwgInRscyI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNlx1MDBhZVx1ZmUwZkNhbmFkYVx1MDBhOVx1ZmUwZlRvcm9udG9cdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjE0Ljk0bXMifQ==<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/96a1b724-68d2-4f4d-ab25-38ecd83577bc@160.153.0.108:2053?security=tls&amp;sni=MoPrVjRx73.bRiGhTwAyE.OrG&amp;type=grpc&amp;fp=chrome&amp;alpn=h2#<i",
-        "vless:\/\/6865584d-f1ed-4791-9f64-f9544bc14391@104.21.16.1:443?security=tls&amp;sni=join.kiava.fun&amp;type=ws&amp;host=join.kiava.fun&amp;fp=chrome&amp;alpn=h2#<i",
-        "vless:\/\/telegram-id-ArV2ray25@www.speedtest.net:443?path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=m.mashti.link&amp;fp=firefox&amp;type=ws&amp;sni=m.mashti.link#<i",
-        "vless:\/\/27fc94cb-1886-4133-b0b7-0437a8f3c189@SPDNET.fastly80-3.hosting-ip.com:80?encryption=none&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=Telegram-SPDNET-SPDNET.ir&amp;path=%2FJoin----SPDNET----SPDNET----SPDNET---SPDNET---SPDNET---SPDNET#<i",
-        "vless:\/\/9d45854a-2b60-4215-bb9f-9c9f8b4df465@www.speedtest.net:8880?encryption=none&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=SPDNET.www.webdade.com.www.speedtest.net.irna.ir.ips.serviceprivate.ip-ddns.com.&amp;path=%2FJOIN----spdnet----spdnet----spdnet---spdnet---spdnet---spdnet%3Fed%3D2048#<i",
-        "vless:\/\/0b47156f-0784-48eb-b300-dbd6754d438e@188.245.43.225:41788?security=none&amp;type=tcp#<i",
-        "vless:\/\/78905d87-0266-4825-868d-3069e88d1201@172.67.204.84:2053?security=tls&amp;sni=all22.kikforwindows.com&amp;type=ws&amp;host=all22.kikforwindows.com&amp;path=\/containers\/de&amp;fp=chrome&amp;alpn=h3,h2,http\/1.1#<i",
-        "vless:\/\/75e1bb74-9989-4bca-9e5b-9d5b831ba00b@104.17.148.22:80?security=none&amp;type=ws&amp;host=Www.speedtest.net.speedtest2.cfd.&amp;path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#<i",
-        "vless:\/\/mitivpn@185.143.235.1:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=www.mahdiip.ir&amp;type=ws&amp;sni=r1-edge-v2-p.s3mer.net#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.43:8880\/?type=grpc&amp;encryption=none#<i",
-        "vless:\/\/--V2RAXXX--@speedtest.net:80?mode=auto&amp;path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=V2RAXX-join.global.ssl.fastly.net&amp;type=xhttp#<i"
+        "vless:\/\/805c8317-225b-4c9f-b87a-91bbca64358d@www.speedtest.net:80?path=%2Ftelegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram\u2026#<i",
+        "vless:\/\/a05be13e-3875-4e17-958c-6d09d2cca079@www.speedtest.net:80?path=%2Ftelegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Nb-boy.speedtest5.sitE.&amp;type=ws#<i",
+        "vless:\/\/e06e1c1b-a1a5-409c-847b-3951bc293a0a@51.89.119.99:11045?type=grpc&amp;serviceName=Tel#<i",
+        "vless:\/\/a05be13e-3875-4e17-958c-6d09d2cca079@www.speedtest.net:80?path=%2Ftelegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram\u2026#<i",
+        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?security=none&amp;sni=5-55sfjslf.ifenxiang.cfd&amp;type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=\/Telegram@V2ray_Alpha#<i",
+        "vless:\/\/2c5be922-1e2a-4ff7-9b25-7474e25ff678@www.speedtest.net:80?path=%2Ftelegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.isv.speedtest5.sitE.&amp;type=ws#<i",
+        "vless:\/\/a30932cf-2dc6-4e03-b803-d17c7b4fce80@good.speedtest3.online:2087?path=%2Ftelegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn%3Fed%3D2048&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=good.speedtest3.online&amp;fp=chrome&amp;type=ws&amp;sni=good.speedtest3.online#<i",
+        "vless:\/\/2c5be922-1e2a-4ff7-9b25-7474e25ff678@www.speedtest.net:80?path=%2Ftelegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram\u2026#<i",
+        "vless:\/\/5b0624e8-eb81-4a4e-a51d-0346cfc03bd4@www.speedtest.net:80?path=%2Ftelegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.isv.speedtest5.sitE.&amp;type=ws#<i",
+        "vless:\/\/ec18f06a-4f88-4ad8-aae4-e55d1eec305a@good.speedtest3.online:2087?path=%2Ftelegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn%3Fed%3D2048&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=good.speedtest3.online&amp;fp=chrome&amp;type=ws&amp;sni=good.speedtest3.online#<i",
+        "vless:\/\/80c9743a-d7d8-4a10-b28c-16ae5f75a077@138.199.216.129:6666?security=none#<i",
+        "vless:\/\/5cafd4a8-db5a-4045-816c-2444cae1e362@95.38.210.142:35021?security=none&amp;type=tcp#<i",
+        "vless:\/\/463dab82-af4f-4b16-8f05-36bd1c71477b@188.114.96.3:2096?security=tls&amp;sni=JOiNmAHDisERVeR-Sh8.paGEs.DeV&amp;type=ws&amp;host=joinmahdiserver-sh8.pages.dev&amp;path=%2F3iSRXE0aYaBPlNOF%3Fed%3D2560&amp;fp=randomized&amp;alpn=h2%2Chttp%2F1.1#<i",
+        "vless:\/\/50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.152.2:80?security=none&amp;type=ws&amp;host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.vpncustomize.V2ryng01.ru:0#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/5e1306ff-3ffa-4166-89ab-1a06ff42eca6@www.speedtest.net:443?path=%2F%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net&amp;type=ws&amp;sni=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net#<i",
+        "vless:\/\/8a8bf1b9-0830-4b9a-9ce9-30d1247ac356@mww2.rogha.ir:443?security=reality&amp;encryption=none&amp;pbk=q7hb9bUwTztHAd0l_B1VXphQlTrt9Tisnzm-l9r-3xM&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=eset.com&amp;sid=4022a0e5fa8ccd7f#<i"
     ],
-    "trojan": [
-        "trojan:\/\/a8fce442-ae9a-4cc1-a0cc-20308ff0a0db@104.21.48.1:443?security=tls&amp;sni=1g.890699.xyZ&amp;type=ws&amp;host=1g.890699.xyz&amp;path=%2FlXENb74xF4ylXngZ&amp;fp=chrome&amp;alpn=http%2F1.1#<i"
+    "trojan": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.188:8080#<i"
     ],
-    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
