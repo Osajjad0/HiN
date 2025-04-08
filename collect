@@ -1,23 +1,19 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&amp;sni=local.rogsoftwaregroup.com&amp;type=tcp&amp;alpn=h3%2Ch2%2Chttp%2F1.1#<i",
-        "vless:\/\/mitivpn@185.143.235.1:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=cdn.error-log.ir&amp;allowinsecure=0&amp;type=ws&amp;sni=r1-edge-v2-p.s3mer.net#<i",
-        "vless:\/\/41314641-cc9a-4ffc-ad31-6858f9da89d7@spdnet-spdvip.mispd.ir:443?security=reality&amp;encryption=none&amp;pbk=Zcyzgiterznw4Bh1rWU5spRfp7DqTEyR6a5HoJ2eNTw&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=tgju.org&amp;sid=8d5785d6b62ecfee#<i",
-        "vless:\/\/efe8bdbc-3d6f-44ad-a4a4-c9abd7f28e3a@173.245.59.132:8080?type=httpupgrade&amp;host=evay-free.ysphs.top.&amp;path=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2048&amp;security=none#<i",
-        "vless:\/\/96900f20-e033-49dc-a187-16315319e525@141.95.103.120:54436?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
-        "vless:\/\/e207c137-47aa-4f56-b82b-19e3d4ee72a6@51.77.108.99:13004?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
-        "vless:\/\/31bfe720-cbff-4e32-9540-634c3cf1e2b6@80.211.203.158:25210?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
-        "vless:\/\/265cc494-9b5c-4835-9ccf-460fb78efccf@194.182.90.159:57860?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
-        "vless:\/\/7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2Ftelegram%3Av2rayngv16%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=showmo.wfft.ir&amp;type=ws#<i",
-        "vless:\/\/533a65ae-8ec7-4c82-cbcc-807d4b90286f@84.234.28.218:2593?security=reality&amp;encryption=none&amp;pbk=stkzXR66Onu6K6sujTw1rr27jdnhHpC5EUp8CF4wQHI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=stackoverflow.com#<i",
-        "vless:\/\/7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2FTelegram%40v2rayngv16%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=showmo.wfft.ir&amp;type=ws#<i",
-        "vless:\/\/7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2Ftelegram_v2rayngngv16%20%3Av2rayngv16%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=showmo.wfft.ir&amp;type=ws#<i",
-        "vless:\/\/7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=showmo.wfft.ir&amp;type=ws#<i"
+        "vless:\/\/telegram-id-ArV2ray25@www.speedtest.net:443?path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=m.mashti.link&amp;fp=firefox&amp;type=ws&amp;sni=m.mashti.link#<i",
+        "vless:\/\/493fc2b4-77be-4eb5-a730-eb725b6e25f0@tel5.vpntype.dev:443?security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision#<i",
+        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=%2FSIGrNRCU4ongDlz4%3Fed&amp;security=none&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;type=ws#<i",
+        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.119:80?sni=gozargah.validbv7996.ir&amp;type=ws&amp;host=gozargah.validbv7996.ir&amp;path=\/Telegram#<i",
+        "vless:\/\/003ab005-1b05-4311-a23b-c0d898c264ca@188.245.43.225:34311?security=none&amp;type=tcp#<i",
+        "vless:\/\/59e8196c-13d2-4dc1-97ee-237bb858f085@137.184.173.104:25761?security=reality&amp;sni=www.openstreetmap.org&amp;type=xhttp&amp;path=%2F&amp;fp=chrome&amp;pbk=YDQhoikSzWtZf8DKxXoxgmBsHC10dhKvW1NaEcaLBmA&amp;sid=91#<i",
+        "vless:\/\/39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.26.1.117:2053?security=tls&amp;sni=iran.akcovufun.ir&amp;type=ws&amp;host=iran.akcovufun.ir&amp;path=%2F#<i",
+        "vless:\/\/d986d960-1ee3-48d3-bd48-9263f94ee6d6@188.245.240.141:1000?security=reality&amp;sni=refersion.com&amp;type=tcp&amp;fp=chrome&amp;pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4#<i",
+        "vless:\/\/19306fe8-10be-49b9-bf8e-034ed0978250@195.15.254.218:2096?security=reality&amp;sni=SoURcForgE.net&amp;type=grpc&amp;fp=firefox&amp;pbk=woE_DAeAkSjFhqwiaecawAOMwZUmAvaFpTbJZHvUJQk&amp;sid=765d8c54c01a53f7#<i",
+        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.52:443?security=tls&amp;sni=5-55sfjslf.ifenxiang.cfd&amp;type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=\/Join_Bade_Channel@Nicotine_joker&amp;fp=chrome#<i"
     ],
     "trojan": [
-        "trojan:\/\/6849c459-9b04-46e6-8dd8-f92812711563@45.146.232.172:34016?security=tls&amp;sni=q08m.vgraxiw73s.hasyaf.cn&amp;type=tcp#<i",
-        "trojan:\/\/telegram-id-privatevpns@13.43.175.177:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+        "trojan:\/\/32b598e2-2bf7-4af1-8d17-306f839dde74@aafrtpfxr.twl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27201?allowInsecure=1#<i"
     ],
     "ss": [],
     "tuic": [],
