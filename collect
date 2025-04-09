@@ -1,26 +1,15 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2087?path=%2Fnet.net%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/6d91bc33-2d86-4839-9205-02024ff483c7@162.159.129.11:443?path=%2FTelegram%40AstroVPN_Official%2F%3D37.1.195.124&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=wtestfrtt.requesttest.cloudns.org&amp;fp=random&amp;type=ws&amp;sni=wtestfrtt.requesttest.cloudns.org#<i",
-        "vless:\/\/39a91eaf-a379-4fff-a9c8-1cb01442b76f@iranserver.com:2053\/?path=%2F&amp;security=tls&amp;encryption=none&amp;host=iran.akcovufun.ir&amp;type=ws&amp;sni=iran.akcovufun.ir#<i",
-        "vless:\/\/39a91eaf-a379-4fff-a9c8-1cb01442b76f@iranserver.com:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;host=iran.akcovufun.ir&amp;type=ws&amp;sni=iran.akcovufun.ir#<i",
-        "vless:\/\/39a91eaf-a379-4fff-a9c8-1cb01442b76f@iranserver.com:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;host=telnet.akcovufun.ir&amp;type=ws&amp;sni=telnet.akcovufun.ir#<i",
-        "vless:\/\/39a91eaf-a379-4fff-a9c8-1cb01442b76f@iranserver.com:2053\/?path=%2F&amp;security=tls&amp;encryption=none&amp;host=telnet.akcovufun.ir&amp;type=ws&amp;sni=telnet.akcovufun.ir#<i",
-        "vless:\/\/39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;host=telnet.akawadoo.ir&amp;type=ws&amp;sni=telnet.akawadoo.ir#<i",
-        "vless:\/\/39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053\/?path=%2F&amp;security=tls&amp;encryption=none&amp;host=telnet.akawadoo.ir&amp;type=ws&amp;sni=telnet.akawadoo.ir#<i",
-        "vless:\/\/7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2Fvpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=showmo.wfft.ir&amp;type=ws#<i"
+        "vless:\/\/39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ir.akcovufun.ir&amp;type=ws&amp;sni=ir.akcovufun.ir#<i",
+        "vless:\/\/39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?security=tls&amp;sni=telnet.akawadoo.ir&amp;type=ws&amp;host=telnet.akawadoo.ir&amp;path=%2F#<i",
+        "vless:\/\/bf4631cc-27eb-4b8e-ab85-5db1ddab6125@162.55.36.107:577?security=reality&amp;encryption=none&amp;pbk=AU2O1no3apJnMhDrfHwDACAwFDo8-DZkCL66AXSRbh8&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=stackoverflow.com&amp;sid=9b28132c703433#<i",
+        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.194:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&amp;security=none&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;type=ws#<i"
     ],
     "trojan": [
-        "trojan:\/\/74260698218909400@109.107.159.122:443?allowInsecure=1&amp;sni=electric-mallard.shiner427.skin#<i",
-        "trojan:\/\/74260698218909400@happy-bluebird.shiner427.skin:443?allowInsecure=1&amp;sni=happy-bluebird.shiner427.skin#<i"
+        "trojan:\/\/AzFNJQt8t3@15.204.9.249:2083?sni=usA-Vp-249.MeTIkAppS.coM&amp;type=ws&amp;host=usA-Vp-249.MeTIkAppS.coM&amp;path=\/linkws#<i"
     ],
-    "ss": [
-        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.80:443#<i",
-        "ss:\/\/YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@156.146.40.194:989#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3MkhkWm5HYjVpYmg@89.221.225.88:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.146:8080#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
