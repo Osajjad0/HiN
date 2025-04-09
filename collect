@@ -1,15 +1,27 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ir.akcovufun.ir&amp;type=ws&amp;sni=ir.akcovufun.ir#<i",
-        "vless:\/\/39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053?security=tls&amp;sni=telnet.akawadoo.ir&amp;type=ws&amp;host=telnet.akawadoo.ir&amp;path=%2F#<i",
-        "vless:\/\/bf4631cc-27eb-4b8e-ab85-5db1ddab6125@162.55.36.107:577?security=reality&amp;encryption=none&amp;pbk=AU2O1no3apJnMhDrfHwDACAwFDo8-DZkCL66AXSRbh8&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=stackoverflow.com&amp;sid=9b28132c703433#<i",
-        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.194:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&amp;security=none&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;type=ws#<i"
+        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.151:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&amp;security=none&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;type=ws#<i",
+        "vless:\/\/85808aed-e4a3-4e7f-ae75-f68cb45d5608@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&amp;fp=randomized&amp;type=ws#<i",
+        "vless:\/\/85808aed-e4a3-4e7f-ae75-f68cb45d5608@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=\/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=Telegram-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&amp;fp=randomized&amp;type=ws#<i",
+        "vless:\/\/21d889b6-78c3-4ad0-be32-145bc41f68d6@cdn.mouseflow.com:2095?path=\/Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY%3Fed%3D2560&amp;host=%76%50n%63%75%73%74om%69z%65.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&amp;type=ws#<i",
+        "vless:\/\/731fa01d-f8f6-4a58-8ab9-88da4cae76bd@151.101.130.219:80?type=ws&amp;path=%2Ftelegeam-%40v2_city-----telegeam-%40v2_city-----telegeam-%40v2_city-----telegeam-%40v2_city-----telegeam-%40v2_city-----telegeam-%40v2_city-----telegeam-%40v2_city-----telegeam-%40v2_city-----telegeam-%40v2_city%3Fed%3D2048&amp;host=retete3.ir&amp;security=none#<i",
+        "vless:\/\/21d889b6-78c3-4ad0-be32-145bc41f68d6@cdn.mouseflow.com:8880?path=\/Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY%3Fed%3D2560&amp;host=%76%50n%63%75%73%74om%69z%65.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&amp;type=ws#<i",
+        "vless:\/\/3b8d3bcd-aadd-4f3f-ae6d-b41f3d51697b@188.245.32.66:26745\/?encryption=none&amp;host=speedtest.net&amp;type=tcp&amp;headerType=http#<i",
+        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049a3e5b1555049@104.17.148.22:80\/?type=ws&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;host=redfree8.pooriashop.ir&amp;path=%2Fjoin---MTMVPN---join%3Fed#<i",
+        "vless:\/\/cbb4251b-9b20-4c42-b09d-df77666bda12@116.203.32.109:2087\/?type=grpc&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;sni=www.target.com&amp;fp=chrome&amp;security=reality&amp;pbk=gUIqr0-OS4pZYeLZ3nfpH775LAV7ruMUmDNO04vL11g&amp;sid=2b2e#<i",
+        "vless:\/\/8b04ca95-4b92-4622-96bb-4372d1f22913@91.107.176.168:443\/?type=ws&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;host=mw7.transitkala.com&amp;path=%2F&amp;security=tls&amp;sni=mw7.transitkala.com&amp;fp=chrome#<i",
+        "vless:\/\/e33c929b-acc0-46cd-b968-3b86b990933a@116.203.40.130:1717?type=grpc&amp;serviceName=1717vless#<i"
     ],
     "trojan": [
-        "trojan:\/\/AzFNJQt8t3@15.204.9.249:2083?sni=usA-Vp-249.MeTIkAppS.coM&amp;type=ws&amp;host=usA-Vp-249.MeTIkAppS.coM&amp;path=\/linkws#<i"
+        "trojan:\/\/74260698218909400@happy-bluebird.shiner427.skin:443?allowInsecure=1&amp;sni=happy-bluebird.shiner427.skin#<i",
+        "trojan:\/\/4467ae8518abf1ef321618c0bfb5549c@starlink-hkt2.2513142.xyz:28106?allowInsecure=1&amp;sni=www.cloudflare.com#<i"
     ],
-    "ss": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206TjdCSElROU9NWEVaRFVXVQ@156.231.104.15:18005#<i",
+        "ss:\/\/cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766\/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202504031266665-eSGnD05gdd.download.microsoft.com#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
