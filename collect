@@ -1,23 +1,29 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAib2JkaWkuY2ZkIiwgImFpZCI6IDAsICJob3N0IjogIm9iZGlpLmNmZCIsICJpZCI6ICIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogNDQzLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAib2JkaWkuY2ZkIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjdcdTAwYWVcdWZlMGZGcmFuY2VcdTAwYTlcdWZlMGZMZSBLcmVtbGluLUJpY1x1MDBlYXRyZVx1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6ODYuM21zIn0=<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.196.104:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
-        "vless:\/\/e3e185ff-be10-4460-af99-978133c42589@www.speedtest.net:80?path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.isvpy.ir&amp;type=httpupgrade#<i",
-        "vless:\/\/0ca7a61b-364a-4e86-bb0a-7215c30cff60@nl.smart-gym.ir:8204?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/0ca7a61b-364a-4e86-bb0a-7215c30cff60@firmware-check.device-update.poshtibani-vip021.com.smart-gym.ir:2096?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=woE_DAeAkSjFhqwiaecawAOMwZUmAvaFpTbJZHvUJQk&amp;fp=firefox&amp;spx=%2Fwww.python.org%2Fdownloads&amp;type=grpc&amp;sni=SoURcForgE.net&amp;sid=765d8c54c01a53f7#<i",
-        "vless:\/\/c29d39bd-92a4-45db-bb61-56013998617c@www.speedtest.net:443?security=tls&amp;encryption=none&amp;host=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.htr.ddns-ip.net&amp;type=ws&amp;sni=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.htr.ddns-ip.net#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.149.244:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=null&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/77795c35-0aed-4718-918d-3287158d3507@173.245.59.132:8080?type=httpupgrade&amp;host=evay-free.ysphs.top.&amp;path=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2048&amp;security=none#<i",
-        "vless:\/\/77795c35-0aed-4718-918d-3287158d3507@173.245.59.132:8080\/?type=httpupgrade&amp;host=evay-free.ysphs.top.&amp;path=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2048&amp;security=none#<i"
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/c7d543af-1023-4b96-a698-187c190d3f4c@172.67.20.136:443?path=%2F47.89.39.186-39251&amp;security=tls&amp;encryption=none&amp;host=nautica.foolvpn.me&amp;type=ws&amp;sni=nautica.foolvpn.me#<i",
+        "vless:\/\/8302c2cf-4854-4b2f-a156-6f1f98475928@compare99.com:80?mode=auto&amp;security=none&amp;encryption=none&amp;host=fl.ir&amp;type=xhttp#<i",
+        "vless:\/\/8dabe69a-0cf2-47d1-bce2-2404bb1d67d5@104.19.150.10:2095?path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560%3F%2F&amp;security=none&amp;encryption=none&amp;host=mci.mtn.ir.com.org.net.om.org.my-digimento0.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?path=%2F47.89.39.186-39251&amp;security=tls&amp;encryption=none&amp;host=nautica.foolvpn.me&amp;type=ws&amp;sni=nautica.foolvpn.me#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.188.124:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.185.209:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@35.178.79.113:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@52.56.91.161:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
+        "vless:\/\/c5661d59-c5c0-4155-bb4b-df294b246deb@141.95.103.120:54436?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
+        "vless:\/\/ca6ddb90-89a2-45f9-9705-6a8b521f0d59@80.211.203.158:25210?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
+        "vless:\/\/44aef0cc-ec1b-450e-8bc7-82d3dc2ba31c@51.77.108.99:13004?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
+        "vless:\/\/1b312879-3cdc-4782-a589-6d149d693854@51.77.108.99:13004?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
+        "vless:\/\/c7d543af-1023-4b96-a698-187c190d3f4c@www.speedtest.net:443?path=%2F47.89.39.186-39251%23tTel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D&amp;security=tls&amp;encryption=none&amp;host=nautica.foolvpn.me&amp;type=ws&amp;sni=nautica.foolvpn.me#<i",
+        "vless:\/\/c7d543af-1023-4b96-a698-187c190d3f4c@www.speedtest.net:443?path=%2F47.89.39.186-39251%23tTel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D-Tel-Id-%5B%40Vip_FragMent_V2ray%5D\u2026#<i"
     ],
     "trojan": [
-        "trojan:\/\/telegram-id-privatevpns@54.229.215.53:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/telegram-id-directvpn@35.179.191.172:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@35.181.36.60:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+        "trojan:\/\/telegram-id-directvpn@13.38.168.181:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
     ],
-    "ss": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
