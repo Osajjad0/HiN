@@ -1,24 +1,28 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiNTcuMTI5LjI0LjEyNSIsICJ2IjogIjIiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhXHUwMGFlXHVmZTBmR2VybWFueVx1MDBhOVx1ZmUwZkZyYW5rZnVydCBhbSBNYWluXHVkODNjXHVkZDdmXHVmZTBmcGluZzo0Ni4yMm1zIn0=<\/code><\/div>",
-        "vmess:\/\/eyJhZGQiOiAiMTA0LjIxLjQ0LjEwNiIsICJhaWQiOiAwLCAiaG9zdCI6ICJ4bWl2aWRlby5jZmQiLCAiaWQiOiAiOTNlYTQ4NmEtYmFkYS00MmE0LWFjMzgtZDA4OGIzMjBmYTFlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZcdTAwYWVcdWZlMGZDYW5hZGFcdTAwYTlcdWZlMGZUb3JvbnRvXHVkODNjXHVkZDdmXHVmZTBmcGluZzo1OS4wNW1zIn0=<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/01b794fb-fa59-46a4-8140-50c63dda3621@site.VIGIlantecOllecTIOn.shop:8080?path=%2FChannel----%56%50%4e%43%55%53%54%4f%4d%49%5a%45----%56%50%4e%43%55%53%54%4f%4d%49%5a%45----%56%50%4e%43%55%53%54%4f%4d%49%5a%45---%56%50%4e%43%55%53%54%4f%4d%49%5a%45---%56%50%4e%43%55%53%54%4f%4d%49%5a%45---%56%50%4e%43%55%53%54%4f%4d%49%5a%45%3Fed%3D2048&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=%56%50%4e%43%55%53%54%4f%4d%49%5a%45.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&amp;fp=randomized&amp;type=ws#<i",
-        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.99:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;type=ws#<i",
-        "vless:\/\/telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.x.arv2ry.ip-ddns.com.&amp;type=ws#<i",
-        "vless:\/\/telegram-ArV2ray@www.speedtest.net:80\/?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.x.arv2ry.ip-ddns.com.&amp;type=ws#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.194:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/63aa9c62-5da9-48e9-ab68-eecc8fce8036@bestco.bestshop10.ir:40240?security=none&amp;encryption=none&amp;host=canva.com&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/bf4631cc-27eb-4b8e-ab85-5db1ddab6125@162.55.36.107:577?security=reality&amp;encryption=none&amp;pbk=AU2O1no3apJnMhDrfHwDACAwFDo8-DZkCL66AXSRbh8&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=stackoverflow.com&amp;sid=9b28132c703433#<i"
+        "vless:\/\/b97fd820-7e6b-4dcf-85b0-7f8801531726@paidaz.darkshadoww.shop:80\/?type=ws&amp;encryption=none&amp;host=group.darkshadoww.shop&amp;path=%2F#<i",
+        "vless:\/\/c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?path=%2F47.89.39.186-39251%23%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=nautica.foolvpn.me&amp;type=ws&amp;sni=nautica.foolvpn.me#<i",
+        "vless:\/\/7c9e3c1d-a360-4429-9189-e45a98de7fde@104.17.148.22:80?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&amp;security=none&amp;encryption=none&amp;host=sareshab.wfft.ir&amp;type=ws#<i",
+        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.52:443?security=tls&amp;sni=5-55sfjslf.ifenxiang.cfd&amp;type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=%2FJoin_Bade_Channel@Nicotine_joker&amp;fp=randomized#<i",
+        "vless:\/\/9acb81a5-ccee-4596-8f0a-363b471e3187@de-karlsruhe.orgspeed.net:12000?security=none&amp;encryption=none&amp;host=ubka.ir.igap.net.soft98.ir&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/cbb4251b-9b20-4c42-b09d-df77666bda12@116.203.32.109:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=TELEGRAM-Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN&amp;pbk=gUIqr0-OS4pZYeLZ3nfpH775LAV7ruMUmDNO04vL11g&amp;fp=chrome&amp;spx=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&amp;type=grpc&amp;sni=www.target.com&amp;sid=2b2e#<i",
+        "vless:\/\/cbb4251b-9b20-4c42-b09d-df77666bda12@95.217.183.108:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=TELEGRAM-Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN&amp;pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&amp;fp=chrome&amp;spx=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&amp;type=grpc&amp;sni=www.target.com&amp;sid=bc6f0833#<i",
+        "vless:\/\/7c9e3c1d-a360-4429-9189-e45a98de7fde@104.17.148.22:80?path=%2FJOKERRVPNTELEGRAM-Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN&amp;security=none&amp;encryption=none&amp;host=sareshab.wfft.ir&amp;type=ws#<i",
+        "vless:\/\/7c9e3c1d-a360-4429-9189-e45a98de7fde@104.17.147.22:80?path=%2FJOKERRVPNTELEGRAM-Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN%3Fed&amp;security=none&amp;encryption=none&amp;host=powerpow.wfft.ir&amp;type=ws#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.46:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=JOKERRVPNTELEGRAM-Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN&amp;type=grpc#<i",
+        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2Fjoin---MTMVPN---join%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=redfree8.pooriashop.ir&amp;type=ws#<i",
+        "vless:\/\/c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?path=%2F47.89.39.186-39251&amp;security=tls&amp;encryption=none&amp;host=nautica.foolvpn.me&amp;type=ws&amp;sni=nautica.foolvpn.me#<i",
+        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.67:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;type=ws#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.188.124:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.43:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;type=ws#<i"
     ],
     "trojan": [
-        "trojan:\/\/43fc1ad0-1405-11f0-ace5-1239d0255272@51.38.65.155:443?security=tls&amp;sni=tgju.org&amp;allowInsecure=1&amp;type=tcp&amp;headerType=none#<i"
+        "trojan:\/\/74260698218909400@electric-mallard.shiner427.skin:443\/?type=tcp&amp;security=tls&amp;sni=electric-mallard.shiner427.skin#<i"
     ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsdmUzaTNhcUotenhkM2dBNkc3UE5B@176.124.218.95:1080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMmQxZUkydHNqWmFwdlZUTXJKcGNV@89.185.84.185:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
