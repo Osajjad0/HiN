@@ -1,30 +1,25 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjE0Ni41OS41NS41MCIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAic25pIjogIndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCAiaG9zdCI6ICJvLm1ldHVqaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxXHUwMGFlXHVmZTBmUG9sYW5kXHUwMGE5XHVmZTBmV2Fyc2F3IChQcmFnYS1QXHUwMGYzXHUwMTQybm9jKVx1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6NjMuNjdtcyJ9<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/c4fa89d4-fcb9-48ba-adbc-665181cc817f@15.204.192.150:443\/?type=tcp&amp;encryption=none&amp;security=tls&amp;sni=147135010072.sec21org.com&amp;fp=chrome#<i",
-        "vless:\/\/c4fa89d4-fcb9-48ba-adbc-665181cc817f@51.81.22.144:443\/?type=tcp&amp;encryption=none&amp;security=tls&amp;sni=147135010072.sec21org.com&amp;fp=chrome#<i",
-        "vless:\/\/6d91bc33-2d86-4839-9205-02024ff483c7@104.21.51.72:443\/?type=ws&amp;encryption=none&amp;host=wtestfrtt.requesttest.cloudns.org&amp;security=tls&amp;sni=wtestfrtt.requesttest.cloudns.org&amp;alpn=http%2F1.1&amp;fp=chrome#<i",
-        "vless:\/\/c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.98.5:443\/?type=tcp&amp;encryption=none&amp;security=tls&amp;sni=147135010072.sec21org.com&amp;fp=chrome#<i",
-        "vless:\/\/ee6774c0-9b19-4ff1-8b30-2da4b71977e2@65.75.194.43:10511\/?type=ws&amp;encryption=none&amp;host=edccr.aimercc.filegear-sg.me&amp;path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&amp;security=tls&amp;sni=edccr.aimercc.filegear-sg.me#<i",
-        "vless:\/\/4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.163.18:443\/?type=ws&amp;encryption=none&amp;host=crolinde.carlotta.cloudns.org&amp;path=telegramFreeV2Alpha%3D88.218.78.212&amp;security=tls&amp;sni=crolinde.carlotta.cloudns.org&amp;alpn=http%2F1.1&amp;fp=random#<i",
-        "vless:\/\/93a55bf9-7f6c-4a4c-a547-25099f0aaea5@84.234.29.161:3497\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=stackoverflow.com&amp;fp=chrome&amp;security=reality&amp;pbk=b8OPGu6BSDMri-vGoSfahMJIO0trHltObYllhUYcAT0&amp;sid=b5e0d7#<i"
+        "vless:\/\/e752cca9-18aa-4eaf-a6f6-79c375eee55d@free.server.techsonic.cloud:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=aka.ms#<i",
+        "vless:\/\/e752cca9-18aa-4eaf-a6f6-79c375eee55d@free.server.techsonic.cloud:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=t.me#<i",
+        "vless:\/\/e752cca9-18aa-4eaf-a6f6-79c375eee55d@free.server.techsonic.cloud:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=epcgame.com#<i",
+        "vless:\/\/e752cca9-18aa-4eaf-a6f6-79c375eee55d@free.server.techsonic.cloud:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=facebook.com#<i",
+        "vless:\/\/e752cca9-18aa-4eaf-a6f6-79c375eee55d@free.server.techsonic.cloud:443?type=tcp&amp;security=tls&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;allowInsecure=1&amp;sni=youtube.com#<i",
+        "vless:\/\/17713a78-859c-4c5d-9a91-a78090ae551f@hajlab.ucdavis.edu:80?type=ws&amp;path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;host=joinxvproxybedee.ir&amp;security=none#<i",
+        "vless:\/\/44f22a1b-4ab1-42b7-8f1a-0e581eeb52e3@panel2.svgspeedtest.net:443?type=grpc&amp;serviceName=@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy&amp;authority=&amp;security=reality&amp;pbk=Aa3FogZ9ohTiRHsdnoyiMg7TFARWEeZs_m290juxEzs&amp;fp=chrome&amp;sni=fauxid.com&amp;spx=%2F#<i",
+        "vless:\/\/e91b64d0-4967-45ac-9cf8-f68a14879260@104.19.54.50:8080?type=ws&amp;path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;host=www.speedtest.net.www.zula.ir.cloudflare.com.www.parsvds.ir.svgspeedtest.net.&amp;security=none#<i",
+        "vless:\/\/17713a78-859c-4c5d-9a91-a78090ae551f@hajlab.ucdavis.edu:80?type=ws&amp;path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;host=joinxvproxybedee.ir&amp;security=none#<i",
+        "vless:\/\/6c5d8c35-ae8a-4d67-aa55-3eeebba06aa3@151.101.4.20:443\/?type=ws&amp;host=aklisvpn.com&amp;path=\/@aklisvpn@aklisvpn@aklisvpn@aklisvpn@aklisvpn@aklisvpn&amp;security=tls&amp;fp=chrome&amp;sni=map.google.com&amp;allowInsecure=true#<i",
+        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?path=%2FjokerrvpnJoin_Bade_Channel@JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=redfree8.pooriashop.ir&amp;fp=randomized&amp;type=ws&amp;sni=redfree8.pooriashop.ir#<i",
+        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FjokerrvpnJoin_Bade_Channel@JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&amp;security=none&amp;encryption=none&amp;host=redfree8.pooriashop.ir&amp;type=ws#<i",
+        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80\/?path=%2FjokerrvpnJoin_Bade_Channel@JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&amp;security=none&amp;encryption=none&amp;host=redfree8.pooriashop.ir&amp;type=ws#<i",
+        "vless:\/\/8ee40859-2227-4047-b4c2-611cd57bc747@www.speedtest.net:80?path=\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.lightning6.ip-ddns.com.&amp;type=ws#<i"
     ],
-    "trojan": [
-        "trojan:\/\/hZ7JkYVAfB@141.227.138.29:1935\/?type=tcp&amp;security=tls&amp;sni=x1ch-ovh.devefun.net&amp;alpn=h3%2Ch2%2Chttp%2F1.1#<i",
-        "trojan:\/\/FiSo7J6vfS@51.68.13.106:1935\/?type=tcp&amp;security=tls&amp;sni=x1fr-ovh.devefun.net&amp;alpn=h3%2Ch2%2Chttp%2F1.1#<i",
-        "trojan:\/\/ypDt8RkT7J@89.187.181.179:43118\/?type=tcp&amp;security=tls&amp;sni=89.187.181.179&amp;allowInsecure=1#<i"
-    ],
-    "ss": [
-        "ss:\/\/YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.100:989#<i",
-        "ss:\/\/MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Wm1Rd00yRmlZalJoTmpKbFl6RmtNV1F4TmpKa09Ea3lOMk00WkRVNE9XTT06TnpkalpEZzNNbUl0WTJWbU1pMDBOV1l4TFRsbVpUZ3ROelUxWm1Kak1qQT0@zz.mogufan.com:20496#<i",
-        "ss:\/\/MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Wm1Rd00yRmlZalJoTmpKbFl6RmtNV1F4TmpKa09Ea3lOMk00WkRVNE9XTT06TnpkalpEZzNNbUl0WTJWbU1pMDBOV1l4TFRsbVpUZ3ROelUxWm1Kak1qQT0@zz.mogufan.com:20569#<i",
-        "ss:\/\/MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Wm1Rd00yRmlZalJoTmpKbFl6RmtNV1F4TmpKa09Ea3lOMk00WkRVNE9XTT06TnpkalpEZzNNbUl0WTJWbU1pMDBOV1l4TFRsbVpUZ3ROelUxWm1Kak1qQT0@zz.mogufan.com:20610#<i",
-        "ss:\/\/MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Wm1Rd00yRmlZalJoTmpKbFl6RmtNV1F4TmpKa09Ea3lOMk00WkRVNE9XTT06TnpkalpEZzNNbUl0WTJWbU1pMDBOV1l4TFRsbVpUZ3ROelUxWm1Kak1qQT0@zz.mogufan.com:20619#<i",
-        "ss:\/\/MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Wm1Rd00yRmlZalJoTmpKbFl6RmtNV1F4TmpKa09Ea3lOMk00WkRVNE9XTT06TnpkalpEZzNNbUl0WTJWbU1pMDBOV1l4TFRsbVpUZ3ROelUxWm1Kak1qQT0@zz.mogufan.com:20751#<i",
-        "ss:\/\/MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Wm1Rd00yRmlZalJoTmpKbFl6RmtNV1F4TmpKa09Ea3lOMk00WkRVNE9XTT06TnpkalpEZzNNbUl0WTJWbU1pMDBOV1l4TFRsbVpUZ3ROelUxWm1Kak1qQT0@zz.mogufan.com:20727#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q2JySWsxMlFsZzlZY0VSZG56am9o@sto2.a.edgeservers.org:39649#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#<i"
-    ],
+    "trojan": [],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
