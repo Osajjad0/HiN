@@ -1,24 +1,25 @@
 {
     "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiMTcyLjY3LjIyMC4xMCIsICJhaWQiOiAwLCAiaG9zdCI6ICJsaW5qYTA1Lmh3Y2FyLnNicyIsICJpZCI6ICIzOWNlYzE4Zi1hNDM5LTQyN2MtOWE0ZS1hZWI2ZmNkZjZmNTMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogNDQzLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAibGluamEwNS5od2Nhci5zYnMiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNlx1MDBhZVx1ZmUwZkNhbmFkYVx1MDBhOVx1ZmUwZlRvcm9udG9cdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjIzLjIybXMifQ==<\/code><\/div>",
-        "vmess:\/\/eyJhZGQiOiAiMTcyLjY3LjcxLjE2MCIsICJhaWQiOiAwLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogIm9iZGlpLmNmZCIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2XHUwMGFlXHVmZTBmQ2FuYWRhXHUwMGE5XHVmZTBmVG9yb250b1x1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6NTcuODRtcyJ9<\/code><\/div>",
-        "vmess:\/\/eyJhZGQiOiAiNjcuMjIwLjY2LjE5NCIsICJhaWQiOiAwLCAiaG9zdCI6ICI2Ny4yMjAuNjYuMTk0IiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJsaW5rdndzIiwgInBvcnQiOiA0NDMsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4XHUwMGFlXHVmZTBmU3BhaW5cdTAwYTlcdWZlMGZNYWRyaWRcdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjYyLjQ2bXMifQ==<\/code><\/div>"
+        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjE1NC44My4yLjkwIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjk1MGRiNmFhLTQ5MjYtNDYxNi04MTZlLWVjMDMxMmRjYjg3YiIsICJzbmkiOiAiamFoZmtqaGEuY2ZkIiwgImhvc3QiOiAiamFoZmtqaGEuY2ZkIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGY1XHVkODNjXHVkZGVkXHUwMGFlXHVmZTBmUGhpbGlwcGluZXNcdTAwYTlcdWZlMGZNYW5pbGFcdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjE4LjQ4bXMifQ==<\/code><\/div>"
     ],
     "vless": [
-        "vless:\/\/823d4cd1-b204-4ba1-8f2f-92781bbf094c@CRT.SIGMA-HOSTER.COM:443?security=reality&amp;encryption=none&amp;pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=app.hubspot.com&amp;sid=fd1dff03520d8f56#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.55:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?path=%2FSIGrNRCU4ongDlz4%3Fed&amp;security=none&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;type=ws#<i",
-        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.99:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=gozargah.validbv7996.ir&amp;type=ws#<i",
-        "vless:\/\/c0084647-dd13-4572-ae58-e1078efc4710@Www.speedtest.net:2095?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=h1.N.iranshopering.ir.&amp;type=httpupgrade#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.150.214:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
-        "vless:\/\/3b8d3bcd-aadd-4f3f-ae6d-b41f3d51697b@188.245.32.66:26745?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#<i"
+        "vless:\/\/c92856da-9532-49ec-bb71-d981a623f5c9@172.67.165.22:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=freedom6.mamav81785.workers.dev&amp;type=ws&amp;sni=freedom6.mamav81785.workers.dev#<i",
+        "vless:\/\/f9f52055-ff98-4f3c-baa4-869864503e1e@104.25.140.153:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=BPB-pANEL-En-1O0.pAges.DEV&amp;type=ws&amp;sni=BPB-pANEL-En-1O0.pAges.DEV#<i",
+        "vless:\/\/72d7ab94-4849-4a27-a840-ece6c8b53355@188.114.97.3:443?path=%2FLpzVdXD0ymOpZWeV%3Fed%3D2560flow%3D-udp443&amp;security=tls&amp;encryption=none&amp;host=bestvpn-7qp.pages.dev&amp;fp=chrome&amp;type=ws&amp;sni=bEstvpn-7Qp.pagES.dEV#<i",
+        "vless:\/\/4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.207.55:443?path=sinavm-sinavm%2Fproxyip%3D5.83.140.140&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=crolinde.carlotta.cloudns.org&amp;fp=random&amp;type=ws&amp;sni=crolinde.carlotta.cloudns.org#<i",
+        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.134:8880?security=&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.194:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
+        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.194:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
+        "vless:\/\/6131ecda-eedd-42e3-b84c-2be4a31fdfa8@173.245.59.132:8080?type=httpupgrade&amp;host=evay-free.ysphs.top.&amp;path=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2048&amp;security=none#<i",
+        "vless:\/\/6131ecda-eedd-42e3-b84c-2be4a31fdfa8@173.245.59.132:8080?type=httpupgrade&amp;host=evay-free.ysphs.top.&amp;path=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2048&amp;security=none#<i",
+        "vless:\/\/6d91bc33-2d86-4839-9205-02024ff483c7@104.21.51.72:443?security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=wtestfrtt.requesttest.cloudns.org&amp;fp=chrome&amp;type=ws&amp;sni=wtestfrtt.requesttest.cloudns.org#<i",
+        "vless:\/\/93a55bf9-7f6c-4a4c-a547-25099f0aaea5@84.234.29.203:3497?security=reality&amp;encryption=none&amp;pbk=b8OPGu6BSDMri-vGoSfahMJIO0trHltObYllhUYcAT0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=stackoverflow.com&amp;sid=b5e0d7#<i",
+        "vless:\/\/eb50d091-51ed-4f89-bc4e-8b04320585d7@141.193.213.20:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;host=premium.vkehi.shop&amp;type=ws&amp;sni=premium.vkehi.shop#<i"
     ],
-    "trojan": [
-        "trojan:\/\/telegram-id-directvpn@16.170.99.129:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@16.170.126.89:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
-    ],
+    "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q2JySWsxMlFsZzlZY0VSZG56am9o@sto2.a.edgeservers.org:39649#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.151:8080#<i"
     ],
     "tuic": [],
     "hysteria": [],
