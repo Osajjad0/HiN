@@ -1,25 +1,22 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjg0LjI0Ny4xNDYuMTYxIiwgInBvcnQiOiAiMzk1MzAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjdhYTU2ZTM5LTI5YjgtNDVjMy04YjUzLTZkMmEyM2IyNDYxYyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wifQ==<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/c29d39bd-92a4-45db-bb61-56013998617c@www.speedtest.net:443?path=%2FTelegram-XV2ry2%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com&amp;type=ws&amp;sni=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com#<i",
-        "vless:\/\/2f28ff4e-218d-42de-ed49-960083a48228@tify-binex-join.espikernajafi.ir:2053?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;type=ws#<i",
-        "vless:\/\/53d6122d-99a1-44f1-b81d-8c97e0c4ec95@104.19.150.10:2095?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=mtn.mci.ir.com.org.net.om.net.shop.digimento0.ir.&amp;path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#<i",
-        "vless:\/\/e2bc7e9d-32e8-4711-babb-b043a2ce98b9@me16.zemestanil.ir:2087\/?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=YKw5x4_zsP6u81Gqwvr2rWrojNM1C_X-9H-3Ib3v0Qg&amp;fp=chrome&amp;type=grpc&amp;serviceName=MTM-MTM-MTM-MTM-MTM&amp;sni=www.cdn77.com&amp;sid=e8ab#<i",
-        "vless:\/\/34e46858-e347-4e0b-a720-61ec2100a316@80.211.223.43:53786\/?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
-        "vless:\/\/78a22edc-18a3-4f5c-8cc6-c8b0a730eac3@80.211.208.208:33711\/?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
-        "vless:\/\/4c12cf11-2091-434f-b323-5ac31100dc5b@www.speedtest.net:8880\/?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&amp;type=ws#<i",
-        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@128.140.124.194:59483\/?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/9acb81a5-ccee-4596-8f0a-363b471e3187@85.133.206.197:12000\/?security=none&amp;encryption=none&amp;host=ubka.ir.igap.net.soft98.ir&amp;headerType=http&amp;type=tcp#<i"
+        "vless:\/\/0d2e89bb-1d29-4dce-bbbb-aed468b803b0@65.109.185.196:57612?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
+        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
+        "vless:\/\/3e817af0-44c2-4cd8-bc09-b27b413256f8@nl.smart-gym.ir:8204?security=none&amp;type=tcp&amp;headerType=&amp;path=&amp;host=#<i",
+        "vless:\/\/d8b42cd5-a149-4356-9e61-30ad83662600@98.80.212.248:443?type=tcp&amp;security=none#<i",
+        "vless:\/\/d8b42cd5-a149-4356-9e61-30ad83662600@54.201.38.211:443?type=tcp&amp;security=none#<i",
+        "vless:\/\/3e817af0-44c2-4cd8-bc09-b27b413256f8@gb.carefreemob2.com:3662?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;sni=icloud.com&amp;fp=chrome&amp;pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&amp;sid=67a1a8bb9ff0ed21#<i",
+        "vless:\/\/d8b42cd5-a149-4356-9e61-30ad83662600@35.90.150.251:443?type=tcp&amp;security=none#<i",
+        "vless:\/\/3e817af0-44c2-4cd8-bc09-b27b413256f8@de.carefreemob2.com:3661?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;sni=icloud.com&amp;fp=chrome&amp;pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&amp;sid=67a1a8bb9ff0ed21#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.188.85:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i"
     ],
     "trojan": [
-        "trojan:\/\/psycho@104.21.80.1:443?path=%2FtrrhCXjStFOnZYLzgh%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;host=psycho.suex12.ir&amp;fp=randomized&amp;type=ws&amp;sni=PSYchO.SueX12.Ir#<i"
+        "trojan:\/\/telegram-id-privatevpns@13.36.157.61:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
     ],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuT2ZrS2JvREF4aFR4MmsxY0FsdEl6@194.87.45.189:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtcG9seTEzMDU6dWc0RnU3OVNFUkVkRkdsdDJzVXlUNA%3D%3D@95.164.9.144:2927#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.36.61.59:990#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
