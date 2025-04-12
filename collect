@@ -1,25 +1,30 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAid3d3LnNwZWVkdGVzdC5uZXQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZXUtMi5oaWh1Lm5ldCIsICJpZCI6ICIwYWI2ZjhmMC0xNzExLTExZjAtYjkzNC0yMDVjNmQ1ZjVkNzgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2prbGhzZ2IwI1sgQFZpUF9GcmFnbWVudF9WMnJheSBdLVsgWyBAVmlQX0ZyYWdtZW50X1YycmF5IF0tWyBbIEBWaVBfRnJhZ21lbnRfVjJyYXkgXS1bIFsgQFZpUF9GcmFnbWVudF9WMnJheSBdLVsgWyBAVmlQX0ZyYWdtZW50X1YycmF5IF0tWyBbIEBWaVBfRnJhZ21lbnRfVjJyYXkgXS1bIFsgQFZpUF9GcmFnbWVudF9WMnJheSBdLVsgWyBAVmlQX0ZyYWdtZW50X1YycmF5IF0tWyBbIEBWaVBfRnJhZ21lbnRfVjJyYXkgXS1bIFsgQFZpUF9GcmFnbWVudF9WMnJheSBdLVsgWyBAVmlQX0ZyYWdtZW50X1YycmF5IF0tWyBbIEBWaVBfRnJhZ21lbnRfVjJyYXkgXS1bIFsgQFZpUF9GcmFnbWVudF9WMnJheSBdLVsgWyBAVmlQX0ZyYWdtZW50X1YycmF5IF0iLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogImV1LTIuaGlodS5uZXQiLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wifQ==<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/mltivpn@138.128.225.100:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=ns.design-mobo.ir#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?path=%2F47.89.39.186-39251&amp;security=tls&amp;encryption=none&amp;host=nautica.foolvpn.me&amp;type=ws&amp;sni=nautica.foolvpn.me#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/d7930357-a535-43e7-9343-d69946d06163@tgju.org:2087?path=%2FV2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban----V2RayMizban&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=crm.gamingbazirani.ir&amp;fp=chrome&amp;type=ws&amp;sni=crm.gamingbazirani.ir#<i",
-        "vless:\/\/6515f712-b719-451d-b2c0-ef6f5f48d9b7@crm.gamingbazirani.ir:53256?mode=gun&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban--------V2RayMizban&amp;sni=crm.gamingbazirani.ir#<i",
-        "vless:\/\/536a7592-a22a-4d6f-862c-82ebe56690ce@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=Telegram-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&amp;fp=randomized&amp;type=ws#<i",
-        "vless:\/\/536a7592-a22a-4d6f-862c-82ebe56690ce@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&amp;fp=randomized&amp;type=ws#<i",
-        "vless:\/\/53d6122d-99a1-44f1-b81d-8c97e0c4ec95@104.19.150.10:2095?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=mtn.mci.ir.com.org.net.om.net.shop.digimento0.ir.&amp;path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#<i",
-        "vless:\/\/53d6122d-99a1-44f1-b81d-8c97e0c4ec95@104.19.150.10:2095?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=mtn.mci.ir.com.org.net.om.net.shop.digimento0.ir.&amp;path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#<i",
-        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.146.66:2095?security=none&amp;type=ws&amp;host=xijinpingnmsl.s4ar.workers.dev&amp;path=%2F%3Fed%3D2560#<i"
+        "vless:\/\/915f1fbd-5937-4b81-b191-6884341ae604@104.21.23.63:8880?type=ws&amp;host=vIhYpErClOuD.aCaDeMiGrOuP.iR.&amp;path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#<i",
+        "vless:\/\/dce4535b-5833-4d62-97e7-3d9d4ba6bd4c@172.67.73.163:8080?security=none&amp;type=ws&amp;host=0j.Gr02P5L88B.zUlaIR.oRG.#<i",
+        "vless:\/\/29fee411-0e62-46cd-9698-e4599512ae12@151.101.1.194:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.bmaustriabm.com&amp;type=ws#<i",
+        "vless:\/\/0d177f17-1e22-4016-b95d-3952dfc84ada@maznet-join-bede.mahdijamkaran.online:6669?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=%2F%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048#<i",
+        "vless:\/\/e3b74b3a-38f3-489b-bdf0-2d4019e801ec@151.101.1.194:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.bmaustriabm.com&amp;type=ws#<i",
+        "vless:\/\/e3b74b3a-38f3-489b-bdf0-2d4019e801ec@151.101.1.194:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=www.bmaustriabm.com&amp;type=ws#<i",
+        "vless:\/\/15298f41-e80b-463a-b85b-0c903258a1c8@162.159.1.33:443?path=%2FJOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&amp;security=tls&amp;encryption=none&amp;host=cr7.medicaltreatment.ir&amp;fp=chrome&amp;type=ws&amp;sni=cr7.medicaltreatment.ir#<i",
+        "vless:\/\/15298f41-e80b-463a-b85b-0c903258a1c8@162.159.8.55:443?path=%2FJOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&amp;security=tls&amp;encryption=none&amp;host=cr7.medicaltreatment.ir&amp;fp=chrome&amp;type=ws&amp;sni=cr7.medicaltreatment.ir#<i",
+        "vless:\/\/eacc24ed-a1c1-4037-9af4-4f6bcd657119@91.107.219.8:443?security=reality&amp;encryption=none&amp;pbk=Rcapy_5gvuL9LOr1Bqz-Y84P69L3wUQjG48xpB4fLTA&amp;host=JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&amp;headerType=none&amp;fp=chrome&amp;spx=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=direct.pdownloaddigikala.ir&amp;sid=1d13151ce1#<i",
+        "vless:\/\/63987b7c-99c9-4826-904d-3206b65a02d7@104.19.54.50:8080?path=%2F%40Moft_Vpn----%40Moft_Vpn----%40Moft_Vpn----%40Moft_Vpn----%40Moft_Vpn----%40Moft_Vpn----%40Moft_Vpn----%40Moft_Vpn----%40Moft_Vpn----%40Moft_Vpn----%40Moft_Vpn----%40Moft_Vpn%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=moftvpn.elmahstyle.xyz.&amp;type=ws#<i",
+        "vless:\/\/fe4dca53-b4bb-4c57-c52a-e1cfd910ab5c@soft98.ir.p31download.com:80\/?type=httpupgrade&amp;path=%2FJoin--HAJIMAMADVPN%3Fed%3D80&amp;host=sNaPp.TiMeClAsSiC.iR.&amp;security=none#<i"
     ],
-    "trojan": [],
-    "ss": [],
+    "trojan": [
+        "trojan:\/\/AXpQXM4vNh@141.227.160.167:1935?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=x2swe-ovh.devefun.net#<i",
+        "trojan:\/\/telegram-id-directvpn@3.78.24.174:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+    ],
+    "ss": [
+        "ss:\/\/MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Wm1Rd00yRmlZalJoTmpKbFl6RmtNV1F4TmpKa09Ea3lOMk00WkRVNE9XTT06T0Roa01qVmhaalF0WlRBNE5TMDBNV0kzTFdKbVkyUXRNelEzTmpreVlXTT0@zz.pumcloud.net:25002#<i",
+        "ss:\/\/MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Wm1Rd00yRmlZalJoTmpKbFl6RmtNV1F4TmpKa09Ea3lOMk00WkRVNE9XTT06T0Roa01qVmhaalF0WlRBNE5TMDBNV0kzTFdKbVkyUXRNelEzTmpreVlXTT0@zz.pumcloud.net:26962#<i",
+        "ss:\/\/MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Wm1Rd00yRmlZalJoTmpKbFl6RmtNV1F4TmpKa09Ea3lOMk00WkRVNE9XTT06T0Roa01qVmhaalF0WlRBNE5TMDBNV0kzTFdKbVkyUXRNelEzTmpreVlXTT0@zz.pumcloud.net:26779#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNDJZdjBVQlhqUXdRR0Rs@admin.c4.havij.co:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUzBaUTNsVFVDTXVpTEk2@admin.c4.havij.co:443#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
