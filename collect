@@ -1,24 +1,28 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/cbb4251b-9b20-4c42-b09d-df77666bda12@95.216.146.31:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;pbk=MMVeX3GX6nZmdf6tmwDiNAXJUZk3s4iY7ztA6KA2MSY&amp;fp=chrome&amp;type=grpc&amp;sni=www.target.com&amp;sid=bc6f0833#<i",
-        "vless:\/\/1e5599e3-325c-49fa-a6c7-675e314a0d99@104.27.125.158:443?path=%2Fpq%2Fin4&amp;security=tls&amp;encryption=none&amp;host=in4s.pqvip.top&amp;fp=chrome&amp;type=ws&amp;sni=in4s.pqvip.top#<i",
-        "vless:\/\/4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.207.55:443?path=telegram%40V2ray_Alpha%3D5.83.140.140&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=crolinde.carlotta.cloudns.org&amp;fp=random&amp;type=ws&amp;sni=crolinde.carlotta.cloudns.org#<i",
-        "vless:\/\/7c951907-d4a8-49f3-86c8-0a6fc00e3f81@www.speedtest.net:8880?path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=vihypercloud.academigroup.ir.&amp;type=ws#<i",
-        "vless:\/\/cbb4251b-9b20-4c42-b09d-df77666bda12@116.203.32.109:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;pbk=gUIqr0-OS4pZYeLZ3nfpH775LAV7ruMUmDNO04vL11g&amp;fp=chrome&amp;type=grpc&amp;sni=www.target.com&amp;sid=2b2e#<i",
-        "vless:\/\/7b4e09a9-22ed-4c60-96bf-8c3e59baf463@95.164.3.121:443?security=reality&amp;encryption=none&amp;pbk=XY8doX6twfJ6qzioiuOzQCxHyiLWiv8YpKA-lD01AjI&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=edge&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=9c#<i",
-        "vless:\/\/4d249d85-837c-4fbd-9b21-0bd11178c854@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=\/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=Telegram-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&amp;fp=randomized&amp;type=ws#<i",
-        "vless:\/\/e11d11cc-e6bb-4a00-b9f9-279ef71360d4@85.133.206.197:19000?security=none&amp;encryption=none&amp;host=rubika.ir.igap.net.soft98.ir&amp;headerType=http&amp;type=tcp#<i"
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@54.220.60.89:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
+        "vless:\/\/e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.163.90:443\/?type=tcp&amp;encryption=none&amp;security=tls&amp;sni=147135001178.sec22org.com&amp;fp=chrome#<i",
+        "vless:\/\/b72ba5d5-2d5e-45b7-93b5-236d343baa7c@164.152.19.229:30158\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=www.yahoo.com&amp;fp=chrome&amp;security=reality&amp;pbk=n7Ptb-3f4pw0D-hG-UP8Dp5Gf8J8Uxn029JMwdTyEFc&amp;sid=ee9e2505#<i",
+        "vless:\/\/b1c801ec-1c5e-4d12-8b53-8da11c64a21b@91.84.101.13:443\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=video.intfreed.ru&amp;fp=chrome&amp;security=reality&amp;pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&amp;sid=7755e972daf8eec8#<i",
+        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@128.140.124.194:59483\/?type=grpc&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none#<i",
+        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087\/?type=ws&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=5-55sfjslf.ifenxiang.cfd&amp;fp=random#<i",
+        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086\/?type=ws&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=%2FTelegram%40WedbazTelsecurity#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.109:8880\/?type=grpc&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;packetEncoding=xudp#<i",
+        "vless:\/\/ea286109-d20f-415e-849e-4af20ab04b65@135.148.182.1:443\/?type=tcp&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;security=tls&amp;sni=147135001195.sec22org.com&amp;fp=chrome#<i",
+        "vless:\/\/c20edc65-9a39-4045-8f96-65a7ae5ab035@elena.netmxspeedtest.net:8080?path=\/Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY%3Fed%3D2560&amp;host=%76%50n%63%75%73%74om%69z%65.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&amp;type=ws#<i",
+        "vless:\/\/24de3f3c-372b-4e2e-9e52-e8766a737871@cloudgetservice.mcloudservice.site:443?type=ws&amp;encryption=none&amp;security=tls&amp;host=maxNEtviPAp-uk1.mAxnEtServicEs.ONLine&amp;path=\/linkws?ed=2560&amp;sni=maxNEtviPAp-uk1.mAxnEtServicEs.ONLine#<i",
+        "vless:\/\/9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@chance.ns.cloudflare.com:80?path=%2Fwss&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=fari24.clodmolt3.com&amp;fp=chrome&amp;type=ws&amp;sni=fari24.clodmolt3.com#<i",
+        "vless:\/\/cbb4251b-9b20-4c42-b09d-df77666bda12@mci.mtn.ir.com.org.net.om.be.soft.my-digimento0.ir:2087?encryption=none&amp;security=reality&amp;sni=www.target.com&amp;fp=chrome&amp;pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&amp;sid=bc6f0833&amp;spx=%2F&amp;type=grpc#<i",
+        "vless:\/\/15298f41-e80b-463a-b85b-0c903258a1c8@ns4.cloudflare.com:443?path=%2Fvpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=cr7.medicaltreatment.ir&amp;fp=chrome&amp;type=ws&amp;sni=cr7.medicaltreatment.ir#<i",
+        "vless:\/\/536a7592-a22a-4d6f-862c-82ebe56690ce@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&amp;fp=randomized&amp;type=ws#<i",
+        "vless:\/\/536a7592-a22a-4d6f-862c-82ebe56690ce@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=\/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=Telegram-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&amp;fp=randomized&amp;type=ws#<i",
+        "vless:\/\/536a7592-a22a-4d6f-862c-82ebe56690ce@elena.netmxspeedtest.net:8080?path=\/Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY----Channel-@ELiV2RAY%3Fed%3D2560&amp;host=%76%50n%63%75%73%74om%69z%65.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&amp;type=ws#<i",
+        "vless:\/\/15298f41-e80b-463a-b85b-0c903258a1c8@ns4.cloudflare.com:443\/?path=%2Fvpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=cr7.medicaltreatment.ir&amp;fp=chrome&amp;type=ws&amp;sni=cr7.medicaltreatment.ir#<i",
+        "vless:\/\/53d6122d-99a1-44f1-b81d-8c97e0c4ec95@104.19.150.10:2095?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=mtn.mci.ir.com.org.net.om.net.shop.digimento0.ir.&amp;path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#<i"
     ],
-    "trojan": [
-        "trojan:\/\/I46LpSIM1f@194.164.57.9:1935?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=x4ger-ionos.devefun.net#<i",
-        "trojan:\/\/telegram-id-v2rayvpnchannel@13.48.114.62:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
-    ],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@54.248.54.190:1234#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#<i"
-    ],
+    "trojan": [],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
