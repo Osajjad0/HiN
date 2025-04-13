@@ -1,15 +1,25 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/f9f52055-ff98-4f3c-baa4-869864503e1e@104.25.140.153:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=BPB-pANEL-En-1O0.pAges.DEV&amp;type=ws&amp;sni=BPB-pANEL-En-1O0.pAges.DEV#<i",
-        "vless:\/\/472e2ab2-a7a5-44cf-84b2-158882a108a5@sea.hopebook75zulawu.online:80?encryption=none&amp;security=none&amp;type=httpupgrade&amp;headertype=none&amp;host=Speedtest.net&amp;path=%2F#<i",
-        "vless:\/\/fb55df78-d8cd-fb15-0ceb-4e50d02908f9@185.143.233.5:80?path=%2F&amp;security=&amp;encryption=none&amp;host=scscff-1851f99151-server.apps.ir-central1.arvancaas.ir&amp;type=ws#<i"
+        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@142.93.22.16:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#<i",
+        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.230.136.25:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#<i",
+        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.245.226.46:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#<i",
+        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.245.229.231:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#<i",
+        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.172.213.235:59483?encryption=none&amp;security=none&amp;sni=&amp;type=grpc&amp;host=&amp;path=#<i",
+        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.71.118.192:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#<i",
+        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@206.189.172.24:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#<i",
+        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@64.227.85.181:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#<i",
+        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@64.227.94.72:59483?encryption=none&amp;security=none&amp;sni=&amp;type=grpc&amp;host=&amp;path=#<i",
+        "vless:\/\/900f7654-4d76-4a98-b85b-62526f8dbbaa@zula.ir:80?security=&amp;encryption=none&amp;pbk=&amp;headerType=none&amp;fp=&amp;type=ws&amp;sni=&amp;sid=#<i",
+        "vless:\/\/9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@chance.ns.cloudflare.com:80?path=%2Fwss&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=fari24.clodmolt3.com&amp;fp=chrome&amp;type=ws&amp;sni=fari24.clodmolt3.com#<i",
+        "vless:\/\/c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.206.76:443?security=tls&amp;sni=147135010072.sec21org.com&amp;type=tcp&amp;fp=chrome#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@638800815737100501.paris-panther-aaa.info:8880?encryption=none&amp;security=&amp;sni=&amp;type=grpc&amp;alpn=&amp;host=&amp;path=#<i",
+        "vless:\/\/81bd91b5-b0fd-4f16-a471-d11d04ec715b@cloudgetservice.mcloudservice.site:443\/?type=ws&amp;encryption=none&amp;host=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM&amp;path=%2Flinkws%3Fed%3D2560flow%3D-udp443&amp;security=tls&amp;sni=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM&amp;fp=chrome#<i",
+        "vless:\/\/53d6122d-99a1-44f1-b81d-8c97e0c4ec95@104.19.150.10:2095?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=mtn.mci.ir.com.org.net.om.net.shop.digimento0.ir.&amp;path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#<i",
+        "vless:\/\/78f6c94b-9d54-40dd-867b-ae1bfc39fb59@172.67.24.121:2096?type=ws&amp;host=bEAt.MIRaclETaxbiTS.Top.&amp;path=\/2096\/@VRayyNGvpn&amp;security=tls&amp;fp=random&amp;sni=bEAt.MIRaclETaxbiTS.Top.&amp;alpn=h2,http\/1.1#<i"
     ],
     "trojan": [],
-    "ss": [
-        "ss:\/\/YWVzLTI1Ni1nY206OWFjZmM1NzQtYWNjMy00YzJiLWFiM2ItNDkxZDQzYTZlYjgz@okanc.node-is.green:21114#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206OWFjZmM1NzQtYWNjMy00YzJiLWFiM2ItNDkxZDQzYTZlYjgz@okanc.node-is.green:21115#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
