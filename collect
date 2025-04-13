@@ -1,18 +1,14 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiNDBmZDU0MzYtc3V2ZHMwLXRiNnlyci0xdGZjdy5zZS5wbGViYWkubmV0IiwgInYiOiAiMiIsICJwb3J0IjogODA4MywgImlkIjogIjEyODJjYzFhLWY0MjYtMTFlZi05NDk1LWYyM2M5MWNmYmJjOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFx1MDBhZVx1ZmUwZlVuaXRlZCBTdGF0ZXNcdTAwYTlcdWZlMGZQb3J0bGFuZFx1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6MTU1LjEzbXMifQ==<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/cbb4251b-9b20-4c42-b09d-df77666bda12@mci.mtn.ir.com.org.net.om.be.soft.my-digimento0.ir:2087?security=reality&amp;encryption=none&amp;pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&amp;fp=chrome&amp;type=grpc&amp;sni=www.target.com&amp;sid=bc6f0833#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.31.111:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=%2FTelegram%40WedbazTelsecurity&amp;security=none&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;type=ws#<i"
+        "vless:\/\/f9f52055-ff98-4f3c-baa4-869864503e1e@104.25.140.153:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=BPB-pANEL-En-1O0.pAges.DEV&amp;type=ws&amp;sni=BPB-pANEL-En-1O0.pAges.DEV#<i",
+        "vless:\/\/472e2ab2-a7a5-44cf-84b2-158882a108a5@sea.hopebook75zulawu.online:80?encryption=none&amp;security=none&amp;type=httpupgrade&amp;headertype=none&amp;host=Speedtest.net&amp;path=%2F#<i",
+        "vless:\/\/fb55df78-d8cd-fb15-0ceb-4e50d02908f9@185.143.233.5:80?path=%2F&amp;security=&amp;encryption=none&amp;host=scscff-1851f99151-server.apps.ir-central1.arvancaas.ir&amp;type=ws#<i"
     ],
-    "trojan": [
-        "trojan:\/\/telegram-id-privatevpns@3.65.137.53:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
-    ],
+    "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUUdDOG52TTZJQ1ZKbEVGMzNEMXJj@80.71.157.175:38211#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM3NVcndSY1RCRUF2eExTNlZNNkFheTU3S1Fid3MxdXBEQXhyN0J0ZjRoWHU0Z2FVUVc0QlBiQ29takpqU3RNMkpxSkxEd1ZrdGVYTDhWMzNrOGVXa1pSNFVCOGludHo@107.181.151.147:43669#<i"
+        "ss:\/\/YWVzLTI1Ni1nY206OWFjZmM1NzQtYWNjMy00YzJiLWFiM2ItNDkxZDQzYTZlYjgz@okanc.node-is.green:21114#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206OWFjZmM1NzQtYWNjMy00YzJiLWFiM2ItNDkxZDQzYTZlYjgz@okanc.node-is.green:21115#<i"
     ],
     "tuic": [],
     "hysteria": [],
