@@ -1,27 +1,17 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjE1Mi42Ny4yNTEuMjMyIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsICJzbmkiOiAiaXJ2aWRlby5jZmQiLCAiaG9zdCI6ICJpcnZpZGVvLmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFx1MDBhZVx1ZmUwZlVuaXRlZCBTdGF0ZXNcdTAwYTlcdWZlMGZTYW4gSm9zZSAoRWRlbnZhbGUpXHVkODNjXHVkZDdmXHVmZTBmcGluZzoxNTMuNjJtcyJ9<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2087?path=%2Fnet.net%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2087\/?path=%2Fnet.net%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/6c62d8c6-194f-44dc-b1bc-e40416902d35@173.245.59.132:8080?type=httpupgrade&amp;host=evay-free.ysphs.top.&amp;path=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2048&amp;security=none#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.95.114:443?security=tls&amp;sni=pPaL03.AvEER-JameiSoN.WOrkerS.deV&amp;type=ws&amp;host=pPal03.aVEER-JameISON.WorkERs.dEV&amp;path=%2F&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "vless:\/\/c8c91d3c-7140-43ed-aa2f-4add1fe1d566@ip.sitwe.ir:8080?path=%2Ftelegram-ipv2ry-telegram-ipv2ry-telegram-ipv2ry%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=ip.sitwe.ir&amp;type=httpupgrade#<i",
-        "vless:\/\/6fc7d4e1-981b-4289-827d-00b45122d4e3@www.speedtest.net:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Www.speedtest.net.speedtest2.cfd.&amp;type=ws#<i",
-        "vless:\/\/6630ba67-6291-49a3-bce6-b4e6f91bdee6@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=joinshhproxybedeeeeeee.ir&amp;type=ws#<i",
-        "vless:\/\/6630ba67-6291-49a3-bce6-b4e6f91bdee6@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=joinshhproxybedeeeeeee.ir&amp;type=ws#<i",
-        "vless:\/\/9778e39d-26ad-47f9-9f1e-e2b7426f6977@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=xhttp&amp;mode=auto&amp;host=joinbede_unlimiteddev.ir&amp;path=\/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&amp;security=none#<i",
-        "vless:\/\/cbb4251b-9b20-4c42-b09d-df77666bda12@95.216.146.31:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;pbk=MMVeX3GX6nZmdf6tmwDiNAXJUZk3s4iY7ztA6KA2MSY&amp;fp=chrome&amp;type=grpc&amp;sni=www.target.com&amp;sid=bc6f0833#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@638800815737100501.paris-panther-aaa.info:8880?encryption=none&amp;security=&amp;sni=&amp;type=grpc&amp;alpn=&amp;host=&amp;path=#<i",
-        "vless:\/\/f767acde-115a-41e0-b3b3-d158c15d7d60@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE\u2026#<i",
-        "vless:\/\/b55e1b64-5d20-4399-b7dd-11f31bbacbbc@hajlab.ucdavis.edu:80?security=&amp;type=ws&amp;path=\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&amp;host=joinshhproxybedeeeeeee.ir&amp;encryption=none#<i"
+        "vless:\/\/15298f41-e80b-463a-b85b-0c903258a1c8@162.159.1.33:443?path=%2FJOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&amp;security=tls&amp;encryption=none&amp;host=cr7.medicaltreatment.ir&amp;fp=chrome&amp;type=ws&amp;sni=cr7.medicaltreatment.ir#<i",
+        "vless:\/\/15298f41-e80b-463a-b85b-0c903258a1c8@162.159.8.55:443?path=%2FJOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&amp;security=tls&amp;encryption=none&amp;host=cr7.medicaltreatment.ir&amp;fp=chrome&amp;type=ws&amp;sni=cr7.medicaltreatment.ir#<i",
+        "vless:\/\/eacc24ed-a1c1-4037-9af4-4f6bcd657119@91.107.219.8:443?security=reality&amp;encryption=none&amp;pbk=Rcapy_5gvuL9LOr1Bqz-Y84P69L3wUQjG48xpB4fLTA&amp;host=JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&amp;headerType=none&amp;fp=chrome&amp;spx=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=direct.pdownloaddigikala.ir&amp;sid=1d13151ce1#<i",
+        "vless:\/\/c95740bb-b3be-44f9-9fa4-260c3fbec6de@37.27.15.167:2089?security=reality&amp;encryption=none&amp;pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&amp;host=%2FJOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&amp;headerType=none&amp;fp=chrome&amp;spx=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&amp;type=tcp&amp;sni=refersion.com&amp;sid=e3c5c005cae07eb8#<i"
     ],
     "trojan": [
-        "trojan:\/\/psycho@104.21.96.1:443?security=tls&amp;sni=pSYcho.sUeX12.IR&amp;alpn=http%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=psycho.suex12.ir&amp;path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560#<i"
+        "trojan:\/\/2ggAcGC8hJ@15.204.237.31:2083\/?type=ws&amp;host=USa-vp-31.MeTiKapps.Com&amp;path=%2Flinkws&amp;security=tls&amp;sni=USa-vp-31.MeTiKapps.Com#<i"
     ],
-    "ss": [
-        "ss:\/\/MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q1Z6Q3FjTzFOUjA2dzdaTHdvTmJ3NGpDbHNPZmZNT293b2ZEdGNPTXdvYkRvVG9zdzRzSEJjT0R3cllwdzRIRGlVST06U01Ld3dwb05CaUZUR2pOTEtNSzd3cS9Db01Pd05XckNsOEtUd29kMUIwckRoMnBzd3FURGpFMVhhOEtj@156.253.5.107:38139?type=tcp#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q2JySWsxMlFsZzlZY0VSZG56am9o@151.236.206.42:39649#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
