@@ -1,28 +1,8 @@
 {
     "vmess": [],
-    "vless": [
-        "vless:\/\/0f46d85e-a6b4-4307-bb70-cfdbf2106eed@173.245.59.132:8080?type=httpupgrade&amp;host=evay-free.ysphs.top.&amp;path=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2048&amp;security=none#<i",
-        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.80.190:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=node.vauth.workers.dev&amp;type=ws&amp;sni=node.vauth.workers.dev#<i",
-        "vless:\/\/dc95c590-cebb-40c7-9357-4bf7852c4401@104.19.54.50:8080?path=%2F%40Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=moftvpn.elmahstyle.xyz.&amp;type=ws#<i",
-        "vless:\/\/0f46d85e-a6b4-4307-bb70-cfdbf2106eed@173.245.59.132:8080\/?type=httpupgrade&amp;host=evay-free.ysphs.top.&amp;path=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2048&amp;security=none#<i"
-    ],
-    "trojan": [
-        "trojan:\/\/telegram-id-directvpn@51.21.123.163:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/telegram-id-v2rayvpnchannel@51.21.123.163:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/1680cbc0-193c-11f0-a98e-1239d0255272@103.253.24.212:443\/?type=tcp&amp;security=tls&amp;sni=tgju.org&amp;allowInsecure=1#<i"
-    ],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowa011QWVJbFNxbG1FcEY3eVBkTVZj@62.60.233.240:55548#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@13.231.105.239:2377#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5600#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206OWFjZmM1NzQtYWNjMy00YzJiLWFiM2ItNDkxZDQzYTZlYjgz@154.83.90.11:21115#<i",
-        "ss:\/\/MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206T2pNYkFNS1d3NVJBd3JIQ3FzT3hEVHB1VmtKRXdydkRyQ0VuT2xNWUE4TytEMnZDcnNPK0ljS1J3b0k9Onc2VENuVUREZ3NLdUpjS3lBVHpDaGNLUE9zT0dad1VndzZQRGlUN0RoY09KTnNPVXc0TENqOE9SdzVMQ2wwUk9SVzg9@82.115.19.145:42581?type=tcp#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#<i"
-    ],
+    "vless": [],
+    "trojan": [],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
