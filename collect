@@ -1,24 +1,26 @@
 {
     "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiMTUyLjcwLjU3LjE4MiIsICJhaWQiOiAwLCAiaG9zdCI6ICJpcnZpZGVvLmNmZCIsICJpZCI6ICJlNTM3ZjJmNS0yYTBjLTRmNTktOTJjOS04MzJjYTY0MzNiZjMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogNDQzLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAiaXJ2aWRlby5jZmQiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMVx1MDBhZVx1ZmUwZlRoZSBOZXRoZXJsYW5kc1x1MDBhOVx1ZmUwZkFtc3RlcmRhbVx1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6MjYuNzNtcyJ9<\/code><\/div>"
+        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjU3LjEyOC4xODQuMTI3IiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJzbmkiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJob3N0IjogImJhcmFkaWhhLmNvbSIsICJwYXRoIjogIi9saW5rdndzIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTdcdTAwYWVcdWZlMGZVbml0ZWQgS2luZ2RvbVx1MDBhOVx1ZmUwZkVyaXRoXHVkODNjXHVkZDdmXHVmZTBmcGluZzo2Ni41MW1zIn0=<\/code><\/div>"
     ],
     "vless": [
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.254:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/174e9fee-b945-4be6-9c58-ab2a477d5f7c@51.89.119.99:11045?security=reality&amp;sni=yahoo.com&amp;type=grpc&amp;serviceName=Tel%20:%20@NT_Safe&amp;fp=chrome&amp;pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&amp;sid=20db1be5e1ab118a#<i",
-        "vless:\/\/526e9f2d-fc0e-412a-baeb-740f0dc5ec73@141.227.140.216:1210?security=tls&amp;sni=ubuntu.com&amp;type=grpc&amp;fp=chrome#<i",
-        "vless:\/\/5421ad38-6952-437f-a8ce-d6d3e9afd05f@18.163.49.25:443?security=tls&amp;flow=xtls-rprx-vision-udp443&amp;sni=osxapps.itunes.apple.com&amp;fp=chrome#<i",
-        "vless:\/\/06e4425e-a8cb-4b63-929f-2105604ab0a9@63.141.128.96:443?sni=vb.ylks0033.dpdns.org&amp;type=ws&amp;allowInsecure=1#<i",
         "vless:\/\/9b219132-8757-4b0c-a572-50455e452d84@104.17.148.22:2082?security=none&amp;type=ws&amp;host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&amp;path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082#<i",
         "vless:\/\/bbab59f2-99b5-43ff-a795-8705c579d482@104.17.147.22:80?security=none&amp;type=ws&amp;host=Www.speedtest.net.speedtest2.cfd.&amp;path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.55:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/6026ce50-dad6-4be5-87a7-40008ab646bb@104.19.54.50:8080?path=%2F%40Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=moftvpn.elmahstyle.xyz.&amp;type=ws#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i"
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.44:8880\/?type=grpc&amp;encryption=none#<i",
+        "vless:\/\/25af9eb2-3310-4f2b-bc82-ebea62ba7906@104.18.41.138:8880?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=config-proxy-vl.telegram-config-proxy.workers.dev&amp;type=ws#<i",
+        "vless:\/\/946b3994-cbcc-402c-bd93-c7f9df4d1c3b@104.16.179.157:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=nameless-silence-3ddd-ppal03.gecob30535.workers.dev&amp;type=ws#<i",
+        "vless:\/\/65b3cbba-e6ac-485a-9481-976a0415eab9@104.21.24.112:80?path=%2FFvy0Y7NJ7uucUDha%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=bLue-sNoW-a243.GeleNE5962.wOrKeRS.dEV&amp;type=ws#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.7:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/465fc43c-9872-40f9-bb94-ebee934e40b4@23.227.38.135:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=eupmaq-fyvoq0da0mdvvzehshnqqcd6inl5ihzvry3fo5veeghhfkkhertre6uy.t03w4b.workers.Dev&amp;type=ws&amp;sni=eupmaq-fyvoq0da0mdvvzehshnqqcd6inl5ihzvry3fo5veeghhfkkhertre6uy.t03w4b.workers.Dev#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.240:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.74.255:22222?path=\/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/telegram-id-directvpn@3.212.243.129:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-privatevpns@15.188.108.68:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+    ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#<i"
+        "ss:\/\/YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.60:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig12.felafel.org:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
