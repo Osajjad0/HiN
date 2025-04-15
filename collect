@@ -1,18 +1,23 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@138.68.4.237:59483?encryption=none&amp;security=none&amp;sni=&amp;type=grpc&amp;host=&amp;path=#<i",
-        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.172.207.101:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#<i",
-        "vless:\/\/5ee22d62-5c0b-4490-ab6b-bbc3f5523180@ip.sitwe.ir:8080?path=%2Ftelegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=ip.sitwe.ir&amp;type=ws#<i",
-        "vless:\/\/a850d045-3c17-4430-b9fe-e6411b27b038@151.234.162.87:443?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/345ec562-4a21-488b-88e7-3009e7157687@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=irancell.net.&amp;type=ws#<i",
-        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.71.114.10:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#<i",
-        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.99.100.238:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#<i",
-        "vless:\/\/59586366-d678-4890-81d9-35189d21fe2b@tgju.org:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=OdD-cOunTrY.OnEeAt.CO.&amp;type=ws#<i"
+        "vless:\/\/d118038f-0d72-4b45-8cce-bcf237487f41@104.18.3.157:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev#<i",
+        "vless:\/\/e716c78a-c031-4ee4-b32a-25d6475ed1f1@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&amp;fp=randomized&amp;type=ws#<i",
+        "vless:\/\/e716c78a-c031-4ee4-b32a-25d6475ed1f1@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=Telegram-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&amp;fp=randomized&amp;type=ws#<i",
+        "vless:\/\/telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.ab.3.mehpow.ir.&amp;type=ws#<i",
+        "vless:\/\/27a778d4-543e-43f5-85a2-6acf18821ccb@whatismyipaddress.com:2096?security=tls&amp;encryption=none&amp;host=wwwspeedtestnetwhiteberinsistomd6625996s28.elitemizban.ir&amp;type=ws&amp;sni=wwwspeedtestnetwhiteberinsistomd6625996s28.elitemizban.ir#<i",
+        "vless:\/\/53d6122d-99a1-44f1-b81d-8c97e0c4ec95@104.19.150.10:2095?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=mtn.mci.ir.com.org.net.om.net.shop.digimento0.ir.&amp;path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#<i",
+        "vless:\/\/27a778d4-543e-43f5-85a2-6acf18821ccb@whatismyipaddress.com:2096?security=tls&amp;encryption=none&amp;host=wwwspeedtestnetwhiteberinsistomd6625996s28.elitemizban.ir&amp;type=ws&amp;sni=wwwspeedtestnetwhiteberinsistomd6625996s28.elitemizban.ir#<i",
+        "vless:\/\/27a778d4-543e-43f5-85a2-6acf18821ccb@whatismyipaddress.com:2096?security=tls&amp;encryption=none&amp;host=wwwspeedtestnetwhiteberinsistomd6625996s28.elitemizban.ir&amp;type=ws&amp;sni=wwwspeedtestnetwhiteberinsistomd6625996s28.elitemizban.ir#<i",
+        "vless:\/\/27a778d4-543e-43f5-85a2-6acf18821ccb@whatismyipaddress.com:2096\/?security=tls&amp;encryption=none&amp;host=wwwspeedtestnetwhiteberinsistomd6625996s28.elitemizban.ir&amp;type=ws&amp;sni=wwwspeedtestnetwhiteberinsistomd6625996s28.elitemizban.ir#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/Aimer@103.116.7.103:2083?sni=epccy.ambercc.filegear-sg.me&amp;allowInsecure=0#<i"
+    ],
     "ss": [
-        "ss:\/\/YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.15.82:989#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@85.210.124.47:443#<i",
+        "ss:\/\/MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206dzVEQ29NS013cjdDbWlQRG1nVU13cUYrd3EwVEtzTzR3N25Eb1FyQ3BzT1daY09JRThPWXc2OXJ3cXBqdzR2RGpjSyt3NlU9OkdNT213NkRDa1gxY0lzS3FWeTdDckJ4a3c3ZHJ3NHhkdzYzQ2s4T1RBQW5DbFhmRGpNS3dIY09kdzRiRGd5SENwQT09@82.115.18.191:21399?type=tcp#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@85.208.108.60:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
