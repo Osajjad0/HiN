@@ -1,22 +1,27 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJhZGQiOiAiMTM5LjE2Mi4xNzguOTUiLCAiYWlkIjogMCwgImhvc3QiOiAiZml4ZWRmbG9hdGkuY2ZkIiwgImlkIjogIjkwNzJkMzM5LTM4ODUtNGZlMS1iMGJjLTI5ZmE3NTA1NDEwZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzZCIsICJwb3J0IjogNDQzLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYVx1MDBhZVx1ZmUwZkdlcm1hbnlcdTAwYTlcdWZlMGZGcmFua2Z1cnQgYW0gTWFpblx1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6MzcuMDltcyJ9<\/code><\/div>"
+    ],
     "vless": [
+        "vless:\/\/53d6122d-99a1-44f1-b81d-8c97e0c4ec95@104.19.150.10:2095?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=mtn.mci.ir.com.org.net.om.net.shop.digimento0.ir.&amp;path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#<i",
         "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.131:80\/?type=ws&amp;encryption=none&amp;host=redfree8.pooriashop.ir&amp;path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#<i",
         "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80\/?type=ws&amp;encryption=none&amp;host=redfree8.pooriashop.ir&amp;path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443\/?type=ws&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=5-55sfjslf.ifenxiang.cfd&amp;fp=random#<i",
-        "vless:\/\/5ee22d62-5c0b-4490-ab6b-bbc3f5523180@ip.sitwe.ir:8080?path=%2F%74e%6ce%67ra%6d-%69p%562%52y-%74e%6ce%67ra%6d-%69p%562%52y-%74e%6ce%67ra%6d-%69p%562%52y%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=ip.sitwe.ir&amp;type=httpupgrade#<i",
-        "vless:\/\/10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?security=tls&amp;encryption=none&amp;host=masaleini.mahsaamini.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=masaleini.mahsaamini.dpdns.org#<i",
-        "vless:\/\/10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443\/?security=tls&amp;encryption=none&amp;host=masaleini.mahsaamini.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=masaleini.mahsaamini.dpdns.org#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=\/?ed%3D2560&amp;security=tls&amp;fp=random&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.207.55:443?path=telegram%40azadiiivpn%3D5.83.140.140&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=crolinde.carlotta.cloudns.org&amp;fp=random&amp;type=ws&amp;sni=crolinde.carlotta.cloudns.org#<i"
+        "vless:\/\/1133fb71-5fd0-4cb1-8a2e-28708dd82f31@45.136.117.8:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=vless-grpc#<i",
+        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?path=%2Fjoin---MTMVPN---join%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=redfree8.pooriashop.ir&amp;fp=chrome&amp;type=ws&amp;sni=redfree8.pooriashop.ir#<i",
+        "vless:\/\/10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?security=tls&amp;encryption=none&amp;host=masaleini.mahsaamini.dpdns.org&amp;fp=chrome&amp;type=ws&amp;sni=masaleini.mahsaamini.dpdns.org#<i",
+        "vless:\/\/51517902-e7ad-4299-8ddc-c7c6f93a9b9b@173.245.59.132:8080?type=httpupgrade&amp;host=evay-free.ysphs.top.&amp;path=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2048&amp;security=none#<i",
+        "vless:\/\/b62d579f-91b6-43e4-b471-de41fd5fa196@81.2.233.123:16777?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;type=grpc&amp;serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&amp;type=grpc&amp;serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&amp;serviceName=%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e%3Fed%3D2048#<i",
+        "vless:\/\/31c42652-a059-46e1-b7a7-76e9a8682bb4@217.61.20.57:38849?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;type=grpc&amp;serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&amp;type=grpc&amp;serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&amp;serviceName=%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e-%5aED%4d%4fDE%4f%4e%3Fed%3D2048#<i",
+        "vless:\/\/93489dc6-47a3-4532-b050-6fb193b855e9@germany.khoreshtsabzi.ir:1773?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=17783vless#<i",
+        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.0:80?path=%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=redfree8.pooriashop.ir&amp;type=ws#<i",
+        "vless:\/\/eacc24ed-a1c1-4037-9af4-4f6bcd657119@91.107.219.8:443?security=reality&amp;encryption=none&amp;pbk=Rcapy_5gvuL9LOr1Bqz-Y84P69L3wUQjG48xpB4fLTA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=direct.pdownloaddigikala.ir&amp;sid=1d13151ce1#<i"
     ],
-    "trojan": [
-        "trojan:\/\/2ggAcGC8hJ@15.204.237.31:2083\/?type=ws&amp;host=USa-vp-31.MeTiKapps.Com&amp;path=%2Flinkws&amp;security=tls&amp;sni=USa-vp-31.MeTiKapps.Com#<i",
-        "trojan:\/\/Aimer@103.116.7.103:2083?sni=epccy.ambercc.filegear-sg.me&amp;allowInsecure=0#<i"
-    ],
+    "trojan": [],
     "ss": [
-        "ss:\/\/YWVzLTEyOC1nY206U19rRzVJVm9ib3pWeTc3RlRhWFl6Zw==@172.236.19.190:1080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5NmZneUMyOGhzY21kd3FYajJ2MEZt@62.60.152.158:37618#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowa011QWVJbFNxbG1FcEY3eVBkTVZj@62.60.233.240:55548#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@43.203.237.206:1234#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig12.felafel.org:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
