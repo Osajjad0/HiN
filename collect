@@ -1,7 +1,13 @@
 {
     "vmess": [],
-    "vless": [],
-    "trojan": [],
+    "vless": [
+        "vless:\/\/379a7f53-fddf-460f-8a62-52330c0d9cf5@151.101.130.133:80?path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=98.irCFZ.www.invoest.net&amp;type=ws#<i",
+        "vless:\/\/e97a6ecc-8222-45b9-8b69-258d13858a57@151.101.2.228:80?path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=joinxvproxybedee.ir&amp;type=ws#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.111:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i"
+    ],
+    "trojan": [
+        "trojan:\/\/auto@104.21.48.61:443?security=tls&amp;host=nameless-term-9c25.vpnconnect202020.workers.dev&amp;type=ws&amp;sni=nameless-term-9c25.vpnconnect202020.workers.dev#<i"
+    ],
     "ss": [],
     "tuic": [],
     "hysteria": [],
