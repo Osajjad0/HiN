@@ -1,21 +1,19 @@
 {
     "vmess": [],
-    "vless": [],
-    "trojan": [
-        "trojan:\/\/blue2024@162.159.22.138:443?sni=hb.lii2010.us.kg#<i"
+    "vless": [
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.80.190:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=node.vauth.workers.dev&amp;type=ws&amp;sni=node.vauth.workers.dev#<i",
+        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.64.1:443\/?type=ws&amp;encryption=none&amp;host=psycho.suex12.ir&amp;path=%2FEujcp9ekQlNJr3cu%3Fed%3D2560flow%3D-udp443flow%3D-udp443&amp;security=tls&amp;sni=pSycho.SueX12.Ir&amp;fp=chrome#<i",
+        "vless:\/\/d6b8011a-c725-435a-9fec-bf6d3530392c@visa.cn:443\/?type=ws&amp;encryption=none&amp;host=vlee.amclubs.nyc.mn&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=vlee.amclubs.nyc.mn&amp;fp=randomized#<i",
+        "vless:\/\/e716c78a-c031-4ee4-b32a-25d6475ed1f1@www.speedtest.net:8880\/?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&amp;fp=randomized&amp;type=ws#<i",
+        "vless:\/\/e716c78a-c031-4ee4-b32a-25d6475ed1f1@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80\/?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=Telegram-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&amp;fp=randomized&amp;type=ws#<i",
+        "vless:\/\/d6b8011a-c725-435a-9fec-bf6d3530392c@104.21.90.210:443?path=%2FTelegram%40WedBaZ------Tel-------%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vlee.amclubs.nyc.mn&amp;fp=randomized&amp;type=ws&amp;sni=vlee.amclubs.nyc.mn#<i",
+        "vless:\/\/e716c78a-c031-4ee4-b32a-25d6475ed1f1@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&amp;fp=randomized&amp;type=ws#<i",
+        "vless:\/\/e716c78a-c031-4ee4-b32a-25d6475ed1f1@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&amp;fp=randomized&amp;type=ws#<i"
     ],
+    "trojan": [],
     "ss": [
-        "ss:\/\/cmM0LW1kNTpEMG9FR0Y@jp38.ctg.wtf:28192#<i",
-        "ss:\/\/cmM0LW1kNTpEMG9FR0Y@jp44.ctg.wtf:28192#<i",
-        "ss:\/\/cmM0LW1kNTpEMG9FR0Y@jp47.ctg.wtf:28192#<i",
-        "ss:\/\/cmM0LW1kNTpEMG9FR0Y@jp48.ctg.wtf:28192#<i",
-        "ss:\/\/cmM0LW1kNTpEMG9FR0Y@jp30.ctg.wtf:28192#<i",
-        "ss:\/\/cmM0LW1kNTpEMG9FR0Y@103.152.227.147:28192#<i",
-        "ss:\/\/cmM0LW1kNTpEMG9FR0Y@118.184.136.53:28192#<i",
-        "ss:\/\/cmM0LW1kNTpEMG9FR0Y@118.184.136.62:28192#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#<i",
-        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNkRGQ0V6UmFDUEtQUjV6QzJ3VHlaY0xCOGphU2tnQ3lPam50YkdEcHJvelRkb08=@185.246.153.12:31348#<i"
+        "ss:\/\/cmM0LW1kNTpEMG9FR0Y@hk26.ctg.wtf:28192#<i",
+        "ss:\/\/cmM0LW1kNTpEMG9FR0Y@hk14.ctg.wtf:28192#<i"
     ],
     "tuic": [],
     "hysteria": [],
