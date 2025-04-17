@@ -1,27 +1,25 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@142.93.20.5:59483?encryption=none&amp;security=none&amp;sni=&amp;type=grpc&amp;host=&amp;path=#<i",
-        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.245.188.179:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#<i",
-        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.172.113.251:59483?encryption=none&amp;security=none&amp;sni=&amp;type=grpc&amp;host=&amp;path=#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086\/?path=%2FTelegram%40mtmvpn&amp;security=none&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=%2FTelegram%40mtmvpn&amp;security=none&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/V2RAXX@188.245.183.122:1234\/?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX#<i",
-        "vless:\/\/V2RAXX@188.245.183.122:1234?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX#<i",
-        "vless:\/\/V2RAXX@V2RAXX-channel.cataba.ir:1234\/?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX#<i",
-        "vless:\/\/V2RAXX@V2RAXX-channel.cataba.ir:1234?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX%2F%40V2RAXX#<i",
-        "vless:\/\/e716c78a-c031-4ee4-b32a-25d6475ed1f1@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&amp;fp=randomized&amp;type=ws#<i",
-        "vless:\/\/e716c78a-c031-4ee4-b32a-25d6475ed1f1@www.speedtest.net:8880\/?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&amp;security=none&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&amp;fp=randomized&amp;type=ws#<i",
-        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.71.112.40:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#<i",
-        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@178.128.67.30:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#<i",
-        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@178.128.68.136:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#<i",
-        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@64.225.114.132:59483?encryption=none&amp;security=auto&amp;type=grpc&amp;serviceName=&amp;flow=&amp;sni=&amp;fp=chrome#<i",
-        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@64.227.60.153:59483?encryption=none&amp;security=none&amp;sni=&amp;type=grpc&amp;host=&amp;path=#<i",
-        "vless:\/\/4ea841c1-0dc1-4563-9f47-deba8407cb4e@tgju.org:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=J9.oDOtZrHUoO.ZuLAIR.ORg.&amp;type=ws#<i",
-        "vless:\/\/9322430d-84fd-4fdf-808d-5c146fcde700@tgju.org:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=06.GDyA7g7K11.ZuLair.ORG.&amp;type=ws#<i"
+        "vless:\/\/040efcf5-0aac-4d9e-8fd6-f495c229ab7a@g.soskom.ir:11045?type=grpc&amp;serviceName=Tel+%3A+%40NT_Safe&amp;authority=&amp;security=reality&amp;pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&amp;fp=chrome&amp;sni=yahoo.com&amp;sid=20db1be5e1ab118a&amp;spx=%2F#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.106:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/c95740bb-b3be-44f9-9fa4-260c3fbec6de@23.88.62.209:2089?security=reality&amp;encryption=none&amp;pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&amp;headerType=none&amp;fp=chrome&amp;spx=%2FJOKERRVPNJoin_Bade_Channel%40JOKERRVPN&amp;type=tcp&amp;sni=refersion.com&amp;sid=e3c5c005cae07eb8#<i",
+        "vless:\/\/fe1de076-c9a8-4e62-b9d1-e834cdc7f25f@v7.vixsm.ir:5785?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
+        "vless:\/\/c95740bb-b3be-44f9-9fa4-260c3fbec6de@23.88.62.209:2089\/?security=reality&amp;encryption=none&amp;pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&amp;headerType=none&amp;fp=chrome&amp;spx=%2FJOKERRVPNJoin_Bade_Channel%40JOKERRVPN&amp;type=tcp&amp;sni=refersion.com&amp;sid=e3c5c005cae07eb8#<i",
+        "vless:\/\/5e1306ff-3ffa-4166-89ab-1a06ff42eca6@www.speedtest.net:443?path=%2FTelegram-XV2ry2%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net&amp;type=ws&amp;sni=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net#<i",
+        "vless:\/\/5e1306ff-3ffa-4166-89ab-1a06ff42eca6@www.speedtest.net:443?path=%2FTelegram-XV2ry2%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net&amp;type=ws&amp;sni=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net#<i",
+        "vless:\/\/6e0bc96a-da6d-4cd3-8ad2-dc0da7f6ef16@188.166.8.106:20899?security=reality&amp;encryption=none&amp;pbk=tkJem2102KJ0lvZBkjT8xm1tZYu4zgd8e1HJdrMU_WI&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=griizzzlyy.viraticket.ir&amp;sid=6f98c675d7#<i",
+        "vless:\/\/6e0bc96a-da6d-4cd3-8ad2-dc0da7f6ef16@188.166.8.106:20899?security=reality&amp;encryption=none&amp;pbk=tkJem2102KJ0lvZBkjT8xm1tZYu4zgd8e1HJdrMU_WI&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=griizzzlyy.viraticket.ir&amp;sid=6f98c675d7#<i",
+        "vless:\/\/telegram-ArV2ray@151.101.64.155:80?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry&amp;security=none&amp;encryption=none&amp;host=mard.ankaboti.com.&amp;type=ws#<i",
+        "vless:\/\/03ae39fd-ec71-4db5-b234-94de99a6e514@104.26.14.49:443?security=tls&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&amp;type=ws&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&amp;path=%2F%3Fed%3D2048&amp;fp=chrome&amp;alpn=h3%2Ch2#<i"
     ],
-    "trojan": [],
-    "ss": [],
+    "trojan": [
+        "trojan:\/\/61d4840a5f23ac24873dd72e54a607e7@notice.2513142.xyz:443\/?type=ws&amp;path=%2F&amp;security=tls&amp;sni=notice.2513142.xyz&amp;allowInsecure=1#<i"
+    ],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SUFnZTA2UG1QdW81T0pHRDE3c2Rn@203.25.108.78:44591#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206OWFjZmM1NzQtYWNjMy00YzJiLWFiM2ItNDkxZDQzYTZlYjgz@154.83.90.11:21114#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
