@@ -1,29 +1,26 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiMi41OC44Ny4yMjEiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogImRiODVmZjBlLWMzM2YtNDAxZC1jNDE1LTRjN2NjZTEzNTcwNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAxMjI2OSwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhcdTAwYWVcdWZlMGZVbml0ZWQgU3RhdGVzXHUwMGE5XHVmZTBmTG9zIEFuZ2VsZXNcdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjE1NC44OW1zIn0=<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/f65fbb82-aae9-453a-a04f-ba09f36d1656@194.182.79.49:15450?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
-        "vless:\/\/f65fbb82-aae9-453a-a04f-ba09f36d1656@194.182.79.49:15450?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
-        "vless:\/\/5efbe592-3027-417d-8807-47fcddb40549@198.244.193.109:13039?mode=gun&amp;security=none&amp;encryption=none&amp;authority=JOKERRVPNJoin_Bade_Channel@JOKERRVPNTELEGRAM-Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN&amp;type=grpc&amp;serviceName=%44%61%72%6b%54%65%61%6d%5f%56%50%4e#<i",
-        "vless:\/\/90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/425c7f9a-cd38-4cfe-8adc-fc568ac3e7e6@194.182.79.5:39596?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
-        "vless:\/\/425c7f9a-cd38-4cfe-8adc-fc568ac3e7e6@194.182.79.5:39596?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
-        "vless:\/\/90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
         "vless:\/\/e3fd9d24-7bac-4ffe-ba96-bfb4c42493e6@173.245.59.132:8080?type=httpupgrade&amp;host=evay-free.ysphs.top.&amp;path=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2048&amp;security=none#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?path=%2F47.89.39.186-39251&amp;security=tls&amp;encryption=none&amp;host=nautica.foolvpn.me&amp;type=ws&amp;sni=nautica.foolvpn.me#<i",
-        "vless:\/\/d6b8011a-c725-435a-9fec-bf6d3530392c@103.160.204.36:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vlee.amclubs.nyc.mn&amp;type=ws&amp;sni=vlee.amclubs.nyc.mn#<i",
-        "vless:\/\/5a08da9e-ce5f-4b6c-ac1b-527fef88aaa6@www.speedtest.net:8880?path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=vihypercloud.academigroup.ir.&amp;type=ws#<i",
-        "vless:\/\/e464526a-e3de-4db9-8821-4e146507976f@5.180.46.9:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=vless-grpc#<i",
-        "vless:\/\/e464526a-e3de-4db9-8821-4e146507976f@5.180.46.9:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=vless-grpc#<i"
+        "vless:\/\/d13d85cd-a9aa-45e3-aee2-5f2979447f72@www.speedtest.net:80\/?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Www.speedtest.net.developsp.ir.&amp;type=ws#<i",
+        "vless:\/\/d13d85cd-a9aa-45e3-aee2-5f2979447f72@www.speedtest.net:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Www.speedtest.net.developsp.ir.&amp;type=ws#<i",
+        "vless:\/\/d13d85cd-a9aa-45e3-aee2-5f2979447f72@www.speedtest.net:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Www.speedtest.net.developsp.ir.&amp;type=ws#<i",
+        "vless:\/\/e1d98310-db5a-4279-bbf7-760902b4af0b@172.67.30.148:443\/?type=ws&amp;encryption=none&amp;host=2576.papala.filegear-sg.me&amp;path=%2F&amp;security=tls&amp;sni=2576.papala.filegear-sg.me#<i",
+        "vless:\/\/0a44145f-59dc-4e5b-a233-677b97f5114c@15.204.158.90:443\/?type=tcp&amp;encryption=none&amp;security=tls&amp;sni=147135011033.sec21org.com#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.43:8880\/?type=grpc&amp;encryption=none#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.55:8880\/?type=grpc&amp;encryption=none#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.106:8880\/?type=grpc&amp;encryption=none#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.245:8880\/?type=grpc&amp;encryption=none#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.198:8880\/?type=grpc&amp;encryption=none#<i",
+        "vless:\/\/e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.14.15:443\/?type=tcp&amp;encryption=none&amp;security=tls&amp;sni=147135001178.sec22org.com&amp;fp=chrome#<i",
+        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087\/?type=ws&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=5-55sfjslf.ifenxiang.cfd&amp;fp=random#<i",
+        "vless:\/\/e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.163.90:443\/?type=tcp&amp;encryption=none&amp;security=tls&amp;sni=147135001178.sec22org.com&amp;fp=chrome#<i",
+        "vless:\/\/f971fca9-8982-46a2-b55e-836590af3288@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=joinshhproxybedeeeeeee.ir&amp;type=ws#<i",
+        "vless:\/\/f971fca9-8982-46a2-b55e-836590af3288@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=joinshhproxybedeeeeeee.ir&amp;type=ws#<i"
     ],
-    "trojan": [
-        "trojan:\/\/FiSo7J6vfS@51.68.13.106:1935\/?type=tcp&amp;security=tls&amp;sni=x1fr-ovh.devefun.net#<i"
-    ],
+    "trojan": [],
     "ss": [
-        "ss:\/\/YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.20:8119#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
