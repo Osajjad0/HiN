@@ -1,25 +1,21 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?security=&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/0f38c3a9-e0c0-47ba-c619-0f16933f1d18@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=foffmelo.com&amp;type=ws#<i",
-        "vless:\/\/c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?path=%2F47.89.39.186-39251&amp;security=tls&amp;encryption=none&amp;host=nautica.foolvpn.me&amp;type=ws&amp;sni=nautica.foolvpn.me#<i",
-        "vless:\/\/e464526a-e3de-4db9-8821-4e146507976f@5.180.46.9:8880?encryption=none&amp;security=none&amp;type=grpc&amp;authority=&amp;serviceName=vless-grpc&amp;mode=gun#<i",
-        "vless:\/\/b3ad551d-db89-404e-a901-cab58305495c@104.21.16.88:8080?type=httpupgrade&amp;host=ipv.sitwe.ir#<i",
-        "vless:\/\/1ac72b71-2d33-4c34-cda0-3428474c4467@172.67.133.166:2083?security=tls&amp;flow=xtls-rprx-vision&amp;sni=mas4jd2.shang2025.ggff.net&amp;type=ws&amp;host=mas4jd2.shang2025.ggff.net&amp;path=%2F#<i",
-        "vless:\/\/102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.187.41:443?sni=cr7.traneh.dpdns.org&amp;type=ws&amp;host=cr7.traneh.dpdns.org&amp;allowInsecure=0#<i"
+        "vless:\/\/a89981b0-8096-4bbc-8d24-da2330650c4b@140.245.44.250:443\/?type=ws&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;host=sgp.cayuo.me&amp;path=%2Fbing&amp;security=tls&amp;sni=sgp.cayuo.me&amp;packetEncoding=xudp#<i",
+        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443\/?type=ws&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=5-55sfjslf.ifenxiang.cfd&amp;fp=random#<i",
+        "vless:\/\/b41f3d0c-3e2f-4f57-9995-c6bdf2b3204d@156.59.125.66:443\/?type=ws&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;host=hk.mehun.me&amp;path=%2Fbing&amp;security=tls&amp;sni=hk.mehun.me&amp;packetEncoding=xudp#<i",
+        "vless:\/\/818c4e46-3460-44eb-8e76-57d724313551@www.speedtest.net:2052?security=&amp;type=ws&amp;path=\/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed%3D2048&amp;host=Www.speedtest.net.mahdijamkaran.online.&amp;encryption=none#<i",
+        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.64.1:443?path=%2FEujcp9ekQlNJr3cu%3Fed%3D2560flow%3D-udp443flow%3D-udp443&amp;security=tls&amp;encryption=none&amp;host=psycho.suex12.ir&amp;fp=chrome&amp;type=ws&amp;sni=pSycho.SueX12.Ir#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=#<i",
+        "vless:\/\/c95740bb-b3be-44f9-9fa4-260c3fbec6de@23.88.62.209:2089?security=reality&amp;encryption=none&amp;pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com&amp;sid=e3c5c005cae07eb8#<i",
+        "vless:\/\/51fa0f53-73fb-4fc2-8ad0-463c4f5c09d8@PROXY-MTM.fastly80-3.hosting-ip.com:80?type=ws&amp;path=%2FChannel----MTMVPN----MTMVPN---MTMVPN---MTMVPN---MTMVPN----PROXY_MTM---MTMVPN---MTMVPN---MTMVPN---MTMVPN%3Fed%3D2048&amp;host=mt.acvs.ir&amp;security=none#<i",
+        "vless:\/\/51fa0f53-73fb-4fc2-8ad0-463c4f5c09d8@PROXY-MTM.fastly80-3.hosting-ip.com:80?type=ws&amp;path=%2FChannel----MTMVPN----MTMVPN---MTMVPN---MTMVPN---MTMVPN----PROXY_MTM---MTMVPN---MTMVPN---MTMVPN---MTMVPN%3Fed%3D2048&amp;host=mt.acvs.ir&amp;security=none#<i",
+        "vless:\/\/fdb09a76-8f20-4b35-b0e5-7c24441fde76@173.245.59.132:8080?type=httpupgrade&amp;host=evay-free.ysphs.top.&amp;path=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2048&amp;security=none#<i"
     ],
-    "trojan": [
-        "trojan:\/\/63dbc6d0-4890-320c-8874-56f9f002d425@158.180.82.98:15446?security=tls&amp;sni=freehr01.jd0001.top&amp;type=grpc&amp;serviceName=freehr01#<i"
-    ],
+    "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYkRXfX5abTJ0YGA%3D@89.22.239.2:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@221.215.48.117:2377#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvSjd4blVrbkV1TVNjTTIxY2xDeUVpdDY2SlJobVpyQXJSU0UweGVhcEdSMjRIcUg%3D@89.44.197.181:31348#<i",
-        "ss:\/\/c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443?path=%2F47.89.39.186-39251&amp;security=tls&amp;encryption=none&amp;host=nautica.foolvpn.me&amp;type=ws&amp;sni=nautica.foolvpn.me#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SUFnZTA2UG1QdW81T0pHRDE3c2Rn@203.25.108.78:44591#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#<i"
     ],
     "tuic": [],
     "hysteria": [],
