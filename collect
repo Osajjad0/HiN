@@ -1,30 +1,29 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiMTA0LjE4LjExOS4yMjIiLCAiYWlkIjogMCwgImhvc3QiOiAiMTc0MzI1Njk3OC5zcGVlZC5hZGwuY2NjcC5mcmVlZmx5LnBwLnVhIiwgImlkIjogIjNiYjNjNzMwLWUxMDctNDljNS1hMGIyLWI1NzZkMWIyNmE1ZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAyMDk2LCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNlx1MDBhZVx1ZmUwZkNhbmFkYVx1MDBhOVx1ZmUwZlRvcm9udG9cdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjguMjZtcyJ9<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/c95740bb-b3be-44f9-9fa4-260c3fbec6de@23.88.62.209:2089?security=reality&amp;encryption=none&amp;pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com&amp;sid=e3c5c005cae07eb8#<i",
-        "vless:\/\/102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.189.41:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=cr7.traneh.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=cr7.traneh.dpdns.org#<i",
-        "vless:\/\/102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.189.41:443\/?path=%2F&amp;security=tls&amp;encryption=none&amp;host=cr7.traneh.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=cr7.traneh.dpdns.org#<i",
-        "vless:\/\/0521634e-28f3-4a95-8b0f-aaee20b06d47@tgju.org:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=pG.XU1c4F9UXY.ZUlair.ORg.&amp;type=ws#<i",
-        "vless:\/\/eaaa9c5e-0af4-403e-9bf3-a0890b793bb8@farsidutch.nl:55583?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/1ff875a2-2876-47be-cbc7-6cc45b1d89c4@104.17.147.22:2082?path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082&amp;security=none&amp;encryption=none&amp;host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&amp;type=ws#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.248.216:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.9.38:443?path=%2FYnqGMcAt%2F&amp;security=tls&amp;encryption=none&amp;host=abc.vpneee.top&amp;fp=chrome&amp;type=ws&amp;sni=abc.vpneee.top#<i",
-        "vless:\/\/4088e698-69fd-4d15-98bc-f1fe4c071642@104.21.73.239:443\/?path=%2F4McLR3NKFOydbxDs%2FMTguMTk5LjIxMy4yMDE&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=photosair.ir&amp;fp=randomized&amp;type=ws&amp;sni=PhOTOsAIR.ir#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/2d2586d4-7ccf-4604-9dbe-ec3daf1c9ab0@194.182.79.144:49200?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
+        "vless:\/\/1834c324-e0a5-5406-906e-d83e4b8afb2e@104.17.147.22:2052?path=%2Fvless&amp;security=none&amp;encryption=none&amp;host=sPeedtest2.sbs.kz.v2vless.sitespeedtest.net&amp;type=ws#<i",
+        "vless:\/\/0110d1d5-12c2-4a80-bad9-8c33722e8699@support.zoom.us:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=lk.sahanwickramasinghe.shop&amp;type=ws#<i",
+        "vless:\/\/1f003a74-64b6-47e8-8e31-6ac4433ac39d@lk.sahanwickramasinghe.shop:443?security=tls&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.facebook.com#<i",
+        "vless:\/\/440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=local.rogsoftwaregroup.com#<i",
         "vless:\/\/f65fbb82-aae9-453a-a04f-ba09f36d1656@194.182.79.49:15450?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
-        "vless:\/\/425c7f9a-cd38-4cfe-8adc-fc568ac3e7e6@194.182.79.5:39596?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
-        "vless:\/\/ef9ff6ce-eda5-4982-b609-fb41ed1062fa@91.92.40.78:2070\/?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/ef9ff6ce-eda5-4982-b609-fb41ed1062fa@91.92.40.78:2070?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i"
+        "vless:\/\/e312cb7d-2452-489c-9733-cdf910f3edd1@free.server.techsonicpremium.shop:443?encryption=none&amp;flow=none&amp;type=tcp&amp;headerType=none&amp;security=tls&amp;fp=chrome&amp;sni=android.googleapis.com#<i",
+        "vless:\/\/1cf1e1b6-fc44-4000-8aa9-ffeee3b1aae8@support.zoom.us:80?encryption=none&amp;flow=none&amp;type=ws&amp;host=free.server.techsonicpremium.shop&amp;headerType=none&amp;path=%252Ffree.server.techsonicpremium.shop&amp;security=none#<i",
+        "vless:\/\/e312cb7d-2452-489c-9733-cdf910f3edd1@free.server.techsonicpremium.shop:443?encryption=none&amp;flow=none&amp;type=tcp&amp;headerType=none&amp;security=tls&amp;fp=chrome&amp;sni=zoom.us#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@65.109.171.80:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/63dbc6d0-4890-320c-8874-56f9f002d425@158.180.82.98:15446?security=tls&amp;sni=freehr01.jd0001.top&amp;type=grpc&amp;serviceName=freehr01#<i",
+        "trojan:\/\/eG92F3gh09@51.15.86.181:1935?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=x1ams-scaleway.devefun.net#<i",
+        "trojan:\/\/I46LpSIM1f@194.164.57.9:1935?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;headerType=none&amp;type=tcp&amp;sni=x4ger-ionos.devefun.net#<i",
+        "trojan:\/\/amclubs@103.160.204.1:443?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&amp;security=tls&amp;host=tran.amclubstest.nyc.mn&amp;type=ws&amp;sni=tran.amclubstest.nyc.mn#<i",
+        "trojan:\/\/a8fce442-ae9a-4cc1-a0cc-20308ff0a0db@104.21.80.1:443?allowInsecure=0&amp;sni=1g.890699.xyZ&amp;ws=1&amp;wspath=%2FlXENb74xF4ylXngZ#<i"
+    ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@43.203.237.206:1234#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.20:8119#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYkRXfX5abTJ0YGA%3D@89.22.239.2:443#<i"
+        "ss:\/\/YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.93.10:8091#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@23.247.137.67:2377#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMFZ0TXpaQ054RDJ1bUIxNTBGbFJz@h110vpnde.outlinekeys.net:21712?prefix=%16%03%01%00%C2%A8%01%01#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206OWFjZmM1NzQtYWNjMy00YzJiLWFiM2ItNDkxZDQzYTZlYjgz@154.83.90.11:21114#<i"
     ],
     "tuic": [],
     "hysteria": [],
