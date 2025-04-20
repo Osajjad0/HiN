@@ -1,27 +1,23 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=cr7.traneh.dpdns.org&amp;fp=chrome&amp;type=ws&amp;sni=cr7.traneh.dpdns.org#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.106:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/d6b8011a-c725-435a-9fec-bf6d3530392c@104.17.128.1:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vlee.amclubs.nyc.mn&amp;type=ws&amp;sni=vlee.amclubs.nyc.mn#<i",
-        "vless:\/\/d6b8011a-c725-435a-9fec-bf6d3530392c@198.62.62.4:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vlee.amclubs.nyc.mn&amp;type=ws&amp;sni=vlee.amclubs.nyc.mn#<i",
-        "vless:\/\/d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vlee.amclubs.nyc.mn&amp;type=ws&amp;sni=vlee.amclubs.nyc.mn#<i",
-        "vless:\/\/7634c38f-73ba-4dd5-8065-c3179158e1ff@95.164.10.184:4434?security=reality&amp;encryption=none&amp;pbk=I4ckWGs37sBXSBq3lGP79HqOhZ1eOjqaikCsDJXTaw0&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=DEDUso.su&amp;sid=a4eed13ebbf2f9d2#<i",
-        "vless:\/\/7bda027c-cbc8-488f-864f-cfb415cd8d77@157.173.127.227:443?security=reality&amp;encryption=none&amp;pbk=q70yFMTo4Dz6IWwVcL9icqgJPgyIuv3j3n5fZxym6kg&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=analytics.google.com&amp;sid=40e3350da285#<i",
-        "vless:\/\/9a3492db-9ff4-4a3c-b48f-0993230a96e0@51.89.119.99:26528?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&amp;fp=chrome&amp;type=grpc&amp;sni=yahoo.com&amp;sid=8f9d4d9a#<i",
-        "vless:\/\/9a3492db-9ff4-4a3c-b48f-0993230a96e0@51.89.119.99:26528\/?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&amp;fp=chrome&amp;type=grpc&amp;sni=yahoo.com&amp;sid=8f9d4d9a#<i",
-        "vless:\/\/7bda027c-cbc8-488f-864f-cfb415cd8d77@157.173.127.227:443\/?security=reality&amp;encryption=none&amp;pbk=q70yFMTo4Dz6IWwVcL9icqgJPgyIuv3j3n5fZxym6kg&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=analytics.google.com&amp;sid=40e3350da285#<i",
-        "vless:\/\/439f8e20-3149-4e64-d933-59adb8f597ef@95.217.234.75:80?security=reality&amp;encryption=none&amp;pbk=Ryc4zGRNSueSejuL6U4mndma6qrp0aV96LrnGV5JVQY&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com#<i",
-        "vless:\/\/dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.17.148.22:2052?type=ws&amp;host=Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt&amp;path=\/#<i"
+        "vless:\/\/660e76d4-3f43-4691-8356-338c0dc964e6@194.87.131.164:443?security=reality&amp;sni=google.com&amp;fp=chrome&amp;pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#<i",
+        "vless:\/\/c9915df4-48e4-4084-810b-438b8548c615@91.107.254.145:3033\/?security=reality&amp;sni=refersion.com&amp;fp=chrome&amp;pbk=9GYwmAKTskGpQ7sKrds-aa14vW-6yYzs-yE8Y7HBcTQ&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#<i",
+        "vless:\/\/c9915df4-48e4-4084-810b-438b8548c615@91.107.254.145:3033?security=reality&amp;sni=refersion.com&amp;fp=chrome&amp;pbk=9GYwmAKTskGpQ7sKrds-aa14vW-6yYzs-yE8Y7HBcTQ&amp;type=tcp&amp;packetEncoding=xudp&amp;encryption=none#<i",
+        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880\/?security=none&amp;type=grpc&amp;packetEncoding=xudp&amp;encryption=none#<i",
+        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880?security=none&amp;type=grpc&amp;packetEncoding=xudp&amp;encryption=none#<i",
+        "vless:\/\/5efbe592-3027-417d-8807-47fcddb40549@198.244.193.109:13039\/?security=none&amp;type=grpc&amp;serviceName=DarkTeam_VPN&amp;packetEncoding=xudp&amp;encryption=none#<i",
+        "vless:\/\/5efbe592-3027-417d-8807-47fcddb40549@198.244.193.109:13039?security=none&amp;type=grpc&amp;serviceName=DarkTeam_VPN&amp;packetEncoding=xudp&amp;encryption=none#<i",
+        "vless:\/\/ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.21.69.44:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=cr777.medicaldream.ir&amp;fp=chrome&amp;type=ws&amp;sni=cr777.medicaldream.ir#<i",
+        "vless:\/\/e20645f3-deb8-479e-abe0-f74c25754085@135.181.155.147:40240?security=none&amp;encryption=none&amp;host=canva.com%3F%2F%40JOKERRVPNJoin_Bade_Channel%40JOKERRVPN&amp;headerType=http&amp;type=tcp#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/telegram-id-vlessconfig@54.195.240.94:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-v2rayvpnchannel@54.195.240.94:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+    ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.82:990#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.93.10:8091#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpITEpIeXdKUVRTZk81THFnNTdIZmln@62.60.233.240:55548#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY%3D@38.114.121.249:5498#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@88.210.36.106:2377#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppV01YYkk1OHc4Q3lHOE5XZHZ5ZTY2@103.57.251.223:39142#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#<i"
     ],
     "tuic": [],
     "hysteria": [],
