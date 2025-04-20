@@ -1,30 +1,25 @@
 {
     "vmess": [
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4yMS42LjIwMSIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAic25pIjogImhrbmJ5aXZmZmZqLnNpdGUiLCAiaG9zdCI6ICJoa25ieWl2ZmZmai5zaXRlIiwgInBhdGgiOiAiL3JicXF2d3MiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNlx1MDBhZVx1ZmUwZkNhbmFkYVx1MDBhOVx1ZmUwZlRvcm9udG9cdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjE0LjU0bXMifQ==<\/code><\/div>"
+        "vmess:\/\/eyJhZGQiOiAiMTA0LjE4LjExOS4yMjIiLCAiYWlkIjogMCwgImhvc3QiOiAiMTc0MzI1Njk3OC5zcGVlZC5hZGwuY2NjcC5mcmVlZmx5LnBwLnVhIiwgImlkIjogIjNiYjNjNzMwLWUxMDctNDljNS1hMGIyLWI1NzZkMWIyNmE1ZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAyMDk2LCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNlx1MDBhZVx1ZmUwZkNhbmFkYVx1MDBhOVx1ZmUwZlRvcm9udG9cdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjEwLjczbXMifQ==<\/code><\/div>",
+        "vmess:\/\/eyJhZGQiOiAiMTcyLjY3LjE4My4yMjAiLCAiYWlkIjogMCwgImhvc3QiOiAiamFoZmtqaGEuY2ZkIiwgImlkIjogIjk1MGRiNmFhLTQ5MjYtNDYxNi04MTZlLWVjMDMxMmRjYjg3YiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiA0NDMsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJqYWhma2poYS5jZmQiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNlx1MDBhZVx1ZmUwZkNhbmFkYVx1MDBhOVx1ZmUwZlRvcm9udG9cdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjExLjgzbXMifQ==<\/code><\/div>"
     ],
     "vless": [
-        "vless:\/\/c120b4fe-9aae-4973-a296-81bda70d21da@83.217.9.122:443?security=reality&amp;encryption=none&amp;pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=google.com#<i",
-        "vless:\/\/4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.25:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=digitalscientificresearchgroup.ir&amp;type=ws#<i",
-        "vless:\/\/4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.233:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&amp;security=none&amp;encryption=none&amp;host=digitalscientificresearchgroup.ir&amp;type=ws#<i",
-        "vless:\/\/1f003a74-64b6-47e8-8e31-6ac4433ac39d@lk.sahanwickramasinghe.shop:443?security=tls&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=aka.ms#<i",
-        "vless:\/\/1f003a74-64b6-47e8-8e31-6ac4433ac39d@lk.sahanwickramasinghe.shop:443?security=tls&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=api.zoom.us#<i",
-        "vless:\/\/1f003a74-64b6-47e8-8e31-6ac4433ac39d@lk.sahanwickramasinghe.shop:443?security=tls&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.netflix.com#<i",
-        "vless:\/\/0110d1d5-12c2-4a80-bad9-8c33722e8699@partner.zoom.us:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=lk.sahanwickramasinghe.shop&amp;type=ws#<i",
-        "vless:\/\/475d628a-3845-4a46-9fb8-e02e8de504f2@pit.it:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=arunodmanohara.com&amp;type=ws#<i",
-        "vless:\/\/475d628a-3845-4a46-9fb8-e02e8de504f2@pit.it:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=arunodmanohara.com&amp;type=ws#<i",
-        "vless:\/\/77f680d1-1881-4b16-9eac-b8882c05fe62@141.227.128.196:1210?security=reality&amp;sni=ubuntu.com&amp;type=grpc&amp;serviceName=t.me\/entryNET&amp;fp=chrome&amp;pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&amp;sid=7fe29733#<i",
-        "vless:\/\/dc4244fe-767d-4f58-8d58-7a7957e0702a@178.63.228.220:443?security=reality&amp;sni=fauxid.com&amp;type=grpc&amp;serviceName=%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy&amp;fp=chrome&amp;pbk=Aa3FogZ9ohTiRHsdnoyiMg7TFARWEeZs_m290juxEzs#<i",
-        "vless:\/\/dc4244fe-767d-4f58-8d58-7a7957e0702a@178.63.228.220:443?security=reality&amp;sni=fauxid.com&amp;type=grpc&amp;serviceName=%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy&amp;fp=chrome&amp;pbk=Aa3FogZ9ohTiRHsdnoyiMg7TFARWEeZs_m290juxEzs#<i",
-        "vless:\/\/944d8b74-7a64-4b07-a278-9f968e9ef99c@mw5.asalemaraghe.ir:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=mw5.asalemaraghe.ir&amp;fp=chrome&amp;type=ws&amp;sni=mw5.asalemaraghe.ir#<i"
+        "vless:\/\/102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.189.41:443\/?path=%2F&amp;security=tls&amp;encryption=none&amp;host=cr7.traneh.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=cr7.traneh.dpdns.org#<i",
+        "vless:\/\/0521634e-28f3-4a95-8b0f-aaee20b06d47@tgju.org:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=pG.XU1c4F9UXY.ZUlair.ORg.&amp;type=ws#<i",
+        "vless:\/\/e3fd9d24-7bac-4ffe-ba96-bfb4c42493e6@173.245.59.132:8080?type=httpupgrade&amp;host=evay-free.ysphs.top.&amp;path=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2048&amp;security=none#<i",
+        "vless:\/\/e3fd9d24-7bac-4ffe-ba96-bfb4c42493e6@173.245.59.132:8080?type=httpupgrade&amp;host=evay-free.ysphs.top.&amp;path=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2048&amp;security=none#<i",
+        "vless:\/\/030e448c-7535-4ea5-8c55-1b00403c0f6b@www.speedtest.net:2096?type=grpc&amp;serviceName=&amp;authority=&amp;security=tls&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;sni=app6.appdatanewk.lat#<i",
+        "vless:\/\/53525369-63e2-4cff-8c85-09cd64f4cd25@194.182.79.108:50513?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
+        "vless:\/\/52c9faa5-9396-484e-8c8d-66576c1ef772@194.182.79.65:40359?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
+        "vless:\/\/52c9faa5-9396-484e-8c8d-66576c1ef772@194.182.79.65:40359?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i"
     ],
     "trojan": [
-        "trojan:\/\/0509203e-af57-479a-b7b0-27c4c0a3d502@sla.cn.964e995b760.gogodns.xin:43590?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=q08m.vgraxiw73s.hasyaf.cn#<i"
+        "trojan:\/\/6f4221ca-e019-4652-a3cc-0995dba60dc5@sla.cn.964e995b760.gogodns.xin:27408?allowInsecure=1&amp;sni=q08m.vgraxiw73s.hasyaf.cn#<i",
+        "trojan:\/\/502ce857-5d5d-4acd-9c5c-f62a9acfa54e@45.146.232.173:42883?allowInsecure=1&amp;sni=q08m.vgraxiw73s.hasyaf.cn#<i"
     ],
     "ss": [
-        "ss:\/\/cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774\/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202504182189466-8od2bG05Pm.download.microsoft.com#<i",
         "ss:\/\/YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.217.76.113:443#<i",
-        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#<i"
+        "ss:\/\/YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.124.153.152:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
