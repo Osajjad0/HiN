@@ -1,28 +1,18 @@
 {
     "vmess": [
-        "vmess:\/\/eyJhZGQiOiAic2dmcWtxbWx0Y3kuc2l0ZSIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZ2Zxa3FtbHRjeS5zaXRlIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcmJxcXZ3cyIsICJwb3J0IjogNDQzLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAic2dmcWtxbWx0Y3kuc2l0ZSIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2XHUwMGFlXHVmZTBmQ2FuYWRhXHUwMGE5XHVmZTBmVG9yb250b1x1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6MjUuNTNtcyJ9<\/code><\/div>"
+        "vmess:\/\/eyJhZGQiOiAiNTcuMTI5LjI0LjE0MiIsICJhaWQiOiAwLCAiaG9zdCI6ICJoYXJyaXNjaXR5LmNvbSIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWFcdTAwYWVcdWZlMGZHZXJtYW55XHUwMGE5XHVmZTBmRnJhbmtmdXJ0IGFtIE1haW5cdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjM3LjAzbXMifQ==<\/code><\/div>"
     ],
     "vless": [
-        "vless:\/\/d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087\/?type=ws&amp;encryption=none&amp;host=vlee.amclubs.nyc.mn&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=vlee.amclubs.nyc.mn#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2087\/?type=ws&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=%2Fnet.net%3Fed%3D2560&amp;security=tls&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.169:80\/?type=ws&amp;encryption=none&amp;host=digitalscientificresearchgroup.ir&amp;path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#<i",
-        "vless:\/\/4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.233:80\/?type=ws&amp;encryption=none&amp;host=digitalscientificresearchgroup.ir&amp;path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#<i",
-        "vless:\/\/15298f41-e80b-463a-b85b-0c903258a1c8@162.159.8.55:443\/?type=ws&amp;encryption=none&amp;host=cr7.medicaltreatment.ir&amp;security=tls&amp;sni=cr7.medicaltreatment.ir&amp;fp=chrome#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443\/?type=ws&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=5-55sfjslf.ifenxiang.cfd&amp;fp=random#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087\/?type=ws&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=5-55sfjslf.ifenxiang.cfd&amp;fp=random#<i",
-        "vless:\/\/102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443\/?type=ws&amp;encryption=none&amp;host=cr7.traneh.dpdns.org&amp;path=%2Fsinavm-sinavm%2F%3Fed%3D2560&amp;security=tls&amp;sni=cr7.traneh.dpdns.org#<i",
-        "vless:\/\/1688039e-a45f-499e-b9f4-c098c87d3b32@108.162.196.159:443\/?type=ws&amp;encryption=none&amp;host=cr7777.rayan.dpdns.org&amp;path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;sni=cr7777.rayan.dpdns.org&amp;fp=chrome#<i",
-        "vless:\/\/ee552463-e982-407b-bc7a-08e2e335099d@188.245.32.66:26745\/?encryption=none&amp;host=speedtest.net%3F%2F%40JOKERRVPNJoin_Bade_Channel%40JOKERRVPN&amp;type=tcp&amp;headerType=http#<i",
-        "vless:\/\/4088e698-69fd-4d15-98bc-f1fe4c071642@154.92.9.2:443\/?type=ws&amp;encryption=none&amp;host=digitalscientificresearchgroup.ir&amp;path=%2FTelegram%40V2ray_Alpha&amp;security=tls&amp;sni=digitalscientificresearchgroup.ir#<i",
-        "vless:\/\/9f287123-2b97-4b43-8ddd-d3354a0ed6bc@188.227.107.152:8443\/?type=grpc&amp;encryption=none&amp;serviceName=JoinBadeChannel%40antimeli&amp;sni=www.speedtest.net&amp;fp=chrome&amp;security=reality&amp;pbk=pYkSwLdGRkBtw2tczaVqPukucwFAn90U3iOcx6jVvyI&amp;sid=54980f#<i",
-        "vless:\/\/d6b8011a-c725-435a-9fec-bf6d3530392c@162.159.153.2:443\/?type=ws&amp;encryption=none&amp;host=vlee.amclubs.nyc.mn&amp;path=%2FTelegram%40vpnAndroid2%2F%3Fed%3D2560&amp;security=tls&amp;sni=vlee.amclubs.nyc.mn&amp;fp=randomized#<i",
-        "vless:\/\/c7d543af-1023-4b96-a698-187c190d3f4c@104.22.56.77:443\/?type=ws&amp;encryption=none&amp;host=nautica.foolvpn.me&amp;path=%2F47.89.39.186-39251&amp;security=tls&amp;sni=nautica.foolvpn.me#<i",
-        "vless:\/\/4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.253:80\/?type=ws&amp;encryption=none&amp;host=digitalscientificresearchgroup.ir&amp;path=Telegram%40vpnAndroid2%2F%3Fed%3D2560#<i",
-        "vless:\/\/4088e698-69fd-4d15-98bc-f1fe4c071642@154.92.9.1:443\/?type=ws&amp;encryption=none&amp;host=digitalscientificresearchgroup.ir&amp;path=%2FTelegram%40vpnAndroid2&amp;security=tls&amp;sni=digitalscientificresearchgroup.ir#<i",
-        "vless:\/\/1688039e-a45f-499e-b9f4-c098c87d3b32@104.24.222.73:443\/?type=ws&amp;encryption=none&amp;host=cr7.rayan.dpdns.org&amp;path=sinavm-sinavm%2F%3Fed%3D2560&amp;security=tls&amp;sni=cr7.rayan.dpdns.org&amp;fp=chrome#<i"
+        "vless:\/\/32bfe0bf-1a95-4e4d-97b8-eff82032cbea@104.17.147.22:2086?security=none&amp;type=httpupgrade&amp;host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&amp;path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2086#<i",
+        "vless:\/\/103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.252.217:443?security=tls&amp;sni=ZYzzZoAO.putata.eU.Org&amp;type=ws&amp;host=zyzzzoao.putata.eu.org&amp;fp=randomized#<i",
+        "vless:\/\/5d2e4955-9ac0-42a1-945d-695f40470ad7@104.21.96.1:8443?security=tls&amp;sni=crm.iranigamebaz.ir&amp;type=grpc&amp;serviceName=Vpnmizban---Vpnmizban----Vpnmizban----Vpnmizban&amp;fp=chrome&amp;alpn=h3,h2,http\/1.1#<i",
+        "vless:\/\/102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443?encryption=none&amp;security=tls&amp;sni=cr7.traneh.dpdns.org&amp;type=ws&amp;host=cr7.traneh.dpdns.org&amp;path=%2Fsinavm-sinavm%2F%3Fed%3D2560#<i",
+        "vless:\/\/709c5fb0-aa81-417a-a503-d3139bc4d801@www.parsvds.com:2096?path=%2F2096%2F%40V2RayyNGVpn&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=rEDzOnE.MirAcLehEaRTbIt.ICu&amp;fp=randomized&amp;type=ws&amp;sni=rEDzOnE.MirAcLehEaRTbIt.ICu#<i"
     ],
     "trojan": [
-        "trojan:\/\/amclubs@154.83.2.61:8443?security=tls&amp;type=ws&amp;sni=tran.amclubstest.nyc.mn#<i"
+        "trojan:\/\/telegram-id-directvpn@18.184.148.1:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-vlessconfig@18.184.148.1:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-privatevpns@18.184.148.1:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
     ],
     "ss": [],
     "tuic": [],
