@@ -1,24 +1,16 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjU3LjEyOC4xODQuMTI3IiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJzbmkiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJob3N0IjogImJhcmFkaWhhLmNvbSIsICJwYXRoIjogIi9saW5rdndzIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTdcdTAwYWVcdWZlMGZVbml0ZWQgS2luZ2RvbVx1MDBhOVx1ZmUwZkVyaXRoXHVkODNjXHVkZDdmXHVmZTBmcGluZzo3OS42OW1zIn0=<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/a6f6b1ac-395f-4c0a-b157-bdfe2dc56354@free.pranithsandaruwan.cfd:443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=aka.ms#<i",
-        "vless:\/\/a6f6b1ac-395f-4c0a-b157-bdfe2dc56354@free.pranithsandaruwan.cfd:443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=android.googleapis.com#<i",
-        "vless:\/\/a6f6b1ac-395f-4c0a-b157-bdfe2dc56354@free.pranithsandaruwan.cfd:443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=docs.calshofclans.us#<i",
-        "vless:\/\/b2e2a1f6-8b9e-4598-af60-d3ec2b7d40a2@104.22.32.78:8880?type=ws&amp;host=join.vPncustomize.iran.ir.arvancloud.ir.nett.ddns-ip.net.&amp;fp=chrome#<i",
-        "vless:\/\/a6f6b1ac-395f-4c0a-b157-bdfe2dc56354@free.pranithsandaruwan.cfd:443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=docs.calshofclans.us#<i",
-        "vless:\/\/a6f6b1ac-395f-4c0a-b157-bdfe2dc56354@free.pranithsandaruwan.cfd:443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=static-web.likeevideo.com#<i",
-        "vless:\/\/a6f6b1ac-395f-4c0a-b157-bdfe2dc56354@free.pranithsandaruwan.cfd:443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=static-web.likeevideo.com#<i",
-        "vless:\/\/a6f6b1ac-395f-4c0a-b157-bdfe2dc56354@free.pranithsandaruwan.cfd:443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=viber.net#<i",
-        "vless:\/\/a6f6b1ac-395f-4c0a-b157-bdfe2dc56354@free.pranithsandaruwan.cfd:443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=netflix.com#<i",
-        "vless:\/\/a6f6b1ac-395f-4c0a-b157-bdfe2dc56354@free.pranithsandaruwan.cfd:443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=netflix.com#<i",
-        "vless:\/\/b5540249-9ac4-4037-aacd-79c71052864f@support.zoom.us:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=free.pranithsandaruwan.cfd&amp;type=ws#<i",
-        "vless:\/\/a6f6b1ac-395f-4c0a-b157-bdfe2dc56354@free.pranithsandaruwan.cfd:443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=zoom.us#<i",
-        "vless:\/\/422899ac-7bfb-441a-89c2-5b9eee312790@64.227.126.15:21337?security=reality&amp;flow=xtls-rprx-vision&amp;sni=refersion.com&amp;type=tcp&amp;fp=chrome&amp;pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&amp;sid=866c9d6a17a0ae44#<i",
-        "vless:\/\/e88187f8-62a3-4de1-a8f6-3b704ebd1865@whatismyipaddress.com:2096?security=tls&amp;type=ws&amp;headerType=&amp;path=&amp;host=wwwspeedtestnetwhiteberinsistomd6625996s32.sabzmaghz.ir&amp;sni=wwwspeedtestnetwhiteberinsistomd6625996s32.sabzmaghz.ir&amp;fp=#<i"
+        "vless:\/\/99f86342-3f95-4b46-83e8-d00330b65a94@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=irancell.net.&amp;type=ws#<i",
+        "vless:\/\/99f86342-3f95-4b46-83e8-d00330b65a94@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6\u2026#<i",
+        "vless:\/\/e29e0ba4-e95c-439a-89b8-c7e90f1efe47@91.92.40.78:2070?type=tcp&amp;security=none#<i",
+        "vless:\/\/e29e0ba4-e95c-439a-89b8-c7e90f1efe47@91.92.40.78:2070?type=tcp&amp;security=none#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/telegram-id-privatevpns@35.180.108.13:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@35.180.108.13:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-v2rayvpnchannel@35.180.108.13:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+    ],
     "ss": [],
     "tuic": [],
     "hysteria": [],
