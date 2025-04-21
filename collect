@@ -1,14 +1,22 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2087?path=%2Fnet.net%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443\/?path=%2FTelegram%40proxy_mtm%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i"
+        "vless:\/\/03f7c539-4f5a-4d9c-84bf-815dda38bdcc@194.182.79.65:40359?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
+        "vless:\/\/6690363e-be5e-45dc-baf5-54076597377f@hajlab.ucdavis.edu:80?path=%2Ftelegram-%40V2RIRAN%2Ctelegram-%40V2RIRAN%2Ctelegram-%40V2RIRAN%2Ctelegram-%40V2RIRAN%2Ctelegram-%40V2RIRAN%2Ctelegram-%40V2RIRAN%2Ctelegram-%40V2RIRAN%2Ctelegram-%40V2RIRAN%2Ctelegram-%40V2RIRAN%2Ctelegram-%40V2RIRAN%2Ctelegram-%40V2RIRAN%2Ctelegram-%40V2RIRAN%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=v2riran.com&amp;type=ws#<i",
+        "vless:\/\/6690363e-be5e-45dc-baf5-54076597377f@www.speedtest.net:80?path=%2F-ViV2ry%40V2RIRAN-TEL--%40V2RIRAN-TEL--%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL-%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL--%40V2RIRAN%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Www.speedtest.net.sIgmasigmaboy.site.&amp;type=ws#<i",
+        "vless:\/\/telegram-id-ArV2ray@151.101.64.155:80?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=mard.ankaboti.com.&amp;type=ws#<i",
+        "vless:\/\/c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.80:443?security=reality&amp;flow=xtls-rprx-vision&amp;sni=maviks.eu&amp;type=tcp&amp;fp=chrome&amp;pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&amp;sid=f203719d3ff9a5f5#<i",
+        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=Telegram-%40&amp;security=none&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;type=ws#<i",
+        "vless:\/\/f82fb954-06a1-4f0b-9180-17e07585b61f@172.67.212.82:443?security=tls&amp;sni=6ercvbnm.131.pp.ua&amp;type=ws&amp;host=6ercvbnm.131.pp.ua&amp;path=\/0HKVAwzpuQtCNTI3SlZor0&amp;fp=chrome&amp;alpn=http\/1.1#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/Aimer@118.45.241.209:50000?sni=agepq.ambercc.filegear-sg.me#<i"
+    ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLSjltcWVQaFhDYU5wVzh1MW15YUh0@178.208.78.170:23822#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLSjltcWVQaFhDYU5wVzh1MW15YUh0@178.208.78.170:23822#<i",
+        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.102:7306#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0UWJ6WmNwNnE3a2cwTENyWmZ5UTl3@195.85.250.173:5555#<i"
     ],
     "tuic": [],
     "hysteria": [],
