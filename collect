@@ -1,16 +1,29 @@
 {
     "vmess": [
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjg5LjE4LjU4LjIwNiIsICJwb3J0IjogMTgwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgInNuaSI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmN1x1MDBhZVx1ZmUwZkNyb2F0aWFcdTAwYTlcdWZlMGZaYWdyZWJcdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjU0LjE4bXMifQ==<\/code><\/div>"
+        "vmess:\/\/eyJhZGQiOiAiMTA0LjE4LjExOS4yMjIiLCAiYWlkIjogMCwgImhvc3QiOiAiMTc0MzI1Njk3OC5zcGVlZC5hZGwuY2NjcC5mcmVlZmx5LnBwLnVhIiwgImlkIjogIjNiYjNjNzMwLWUxMDctNDljNS1hMGIyLWI1NzZkMWIyNmE1ZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAyMDk2LCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNlx1MDBhZVx1ZmUwZkNhbmFkYVx1MDBhOVx1ZmUwZlRvcm9udG9cdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjI0Ljc5bXMifQ==<\/code><\/div>"
     ],
     "vless": [
-        "vless:\/\/102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443\/?type=ws&amp;encryption=none&amp;host=cr7.traneh.dpdns.org&amp;path=%2F&amp;security=tls&amp;sni=cr7.traneh.dpdns.org&amp;fp=chrome#<i",
-        "vless:\/\/99f86342-3f95-4b46-83e8-d00330b65a94@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=irancell.net.&amp;type=ws#<i",
-        "vless:\/\/1688039e-a45f-499e-b9f4-c098c87d3b32@104.24.222.73:443?path=sinavm-sinavm%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=cr7.rayan.dpdns.org&amp;fp=chrome&amp;type=ws&amp;sni=cr7.rayan.dpdns.org#<i",
-        "vless:\/\/02a2ec9f-13d5-44f3-9d31-e4a3c7d20d84@173.245.59.132:8080?type=httpupgrade&amp;host=evay-free.ysphs.top.&amp;path=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2048&amp;security=none#<i"
+        "vless:\/\/d6a1143b-cdf0-41f8-a646-bd8f11663786@104.16.186.41:443?path=%2FTelegram%40V2ray_Alpha&amp;security=tls&amp;encryption=none&amp;host=cr7.medicalhistory.ir&amp;type=ws&amp;sni=cr7.medicalhistory.ir#<i",
+        "vless:\/\/1688039e-a45f-499e-b9f4-c098c87d3b32@104.19.77.118:443?path=%2FTelegram%40V2ray_Alpha&amp;security=tls&amp;encryption=none&amp;host=cr777.rayan.dpdns.org&amp;fp=chrome&amp;type=ws&amp;sni=cr777.rayan.dpdns.org#<i",
+        "vless:\/\/4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.209.184:80?path=%2FTelegram%40V2ray_Alpha&amp;security=none&amp;encryption=none&amp;host=digitalscientificresearchgroup.ir&amp;type=ws&amp;sni=digitalscientificresearchgroup.ir#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.29:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.147.22:8443?security=tls&amp;encryption=none&amp;host=MdLoXlYg.rIcKtMoUsE.InFo&amp;fp=chrome&amp;type=ws&amp;sni=MdLoXlYg.rIcKtMoUsE.InFo#<i",
+        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?path=%2F&amp;security=none&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;type=ws#<i",
+        "vless:\/\/102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=cr7.traneh.dpdns.org&amp;fp=chrome&amp;type=ws&amp;sni=cr7.traneh.dpdns.org#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@65.109.171.80:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/d6b8011a-c725-435a-9fec-bf6d3530392c@104.17.128.1:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vlee.amclubs.nyc.mn&amp;type=ws&amp;sni=vlee.amclubs.nyc.mn#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/1688039e-a45f-499e-b9f4-c098c87d3b32@104.19.77.118:443?path=%2F%3Fed%3D512&amp;security=tls&amp;encryption=none&amp;host=cr777.rayan.dpdns.org&amp;fp=chrome&amp;type=ws&amp;sni=cr777.rayan.dpdns.org#<i",
+        "vless:\/\/3058e698-61fd-4d12-95bc-f1fe4c071642@104.21.46.81:443?path=%2FWR5A7Ug0BgqU4kju%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=hozori.ir&amp;fp=randomized&amp;type=ws&amp;sni=hoZori.Ir#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/amclubs@154.83.2.61:8443?security=tls&amp;type=ws&amp;sni=tran.amclubstest.nyc.mn#<i",
+        "trojan:\/\/28bdfb42-f7ae-4a1f-9c85-dbc7f6b6cc95@45.146.232.170:43394\/?type=tcp&amp;security=tls&amp;sni=q08m.vgraxiw73s.hasyaf.cn#<i"
+    ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmWWJ5dUVCVXBvTkRKWkltV2plSkQy@81.19.141.45:443#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmWWJ5dUVCVXBvTkRKWkltV2plSkQy@81.19.141.45:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
