@@ -1,26 +1,24 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.146.66:443?sni=vv.ylka.dpdns.org&amp;type=ws&amp;host=vv.ylka.dpdns.org&amp;allowInsecure=1#<i",
-        "vless:\/\/e1f091af-3751-4271-a326-f0b9040ed3e8@151.101.194.228:80?security=none&amp;type=ws&amp;host=foffmelo.com&amp;path=%2Folem%2Fws%3Fed%3D1024#<i",
-        "vless:\/\/d6b8011a-c725-435a-9fec-bf6d3530392c@162.159.153.2:443?security=tls&amp;sni=vlee.amclubs.nyc.mn&amp;type=ws&amp;host=vlee.amclubs.nyc.mn&amp;path=%2FTelegram%40FreeIranWeb%2F%3Fed%3D2560&amp;fp=randomized#<i",
-        "vless:\/\/123dcf44-5cea-4076-896c-137ae3fc214b@172.67.187.18:2087?security=tls&amp;sni=panel.proxystore11.news&amp;type=ws&amp;host=panel.proxystore11.news&amp;path=%2Fprx11&amp;fp=chrome&amp;alpn=h2#<i",
-        "vless:\/\/4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.4:80?security=none&amp;type=ws&amp;host=digitalscientificresearchgroup.ir&amp;path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#<i",
-        "vless:\/\/84630ddd-b04a-4494-aa3a-b831a9873b81@172.66.168.209:443?path=%2Flinkws%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=maxnetvipaP-us4.NetKh3.sItE&amp;type=ws&amp;sni=maxnetvipaP-us4.NetKh3.sItE#<i"
+        "vless:\/\/102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.187.41:443?path=%2Fsinavm-sinavm%2F%3Fed%3D2560flow%3D-udp443&amp;security=tls&amp;encryption=none&amp;host=cr7.traneh.dpdns.org&amp;type=ws&amp;sni=cr7.traneh.dpdns.org#<i",
+        "vless:\/\/4088e698-69fd-4d15-98bc-f1fe4c071642@104.21.112.1:8880\/?type=ws&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;host=digitalscientificresearchgroup.ir&amp;path=%2F#<i",
+        "vless:\/\/15298f41-e80b-463a-b85b-0c903258a1c8@162.159.1.33:443\/?type=ws&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;host=cr7.medicaltreatment.ir&amp;path=%2F&amp;security=tls&amp;sni=cr7.medicaltreatment.ir&amp;fp=chrome#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@65.109.171.80:8880\/?type=grpc&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none#<i",
+        "vless:\/\/d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087\/?type=ws&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;host=vlee.amclubs.nyc.mn&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=vlee.amclubs.nyc.mn#<i",
+        "vless:\/\/55a3df5c-143c-43e5-ed36-4624fc39cafd@188.245.67.48:2086\/?type=grpc&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;sni=www.cdn77.com&amp;fp=chrome&amp;security=reality&amp;pbk=rgZ1XMscV95wDl3uauQ6FgwNvpgz1_Icr_SL1KpaVHs&amp;sid=#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880\/?type=grpc&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none#<i",
+        "vless:\/\/45ebbe2f-57b7-41cf-83ef-9ece48635119@84.47.235.218:33585\/?encryption=none&amp;host=chess.com&amp;type=tcp&amp;headerType=http#<i",
+        "vless:\/\/c7fb7cc9-be80-44dc-bfe3-a7d1429ca8b2@78.47.195.49:20878?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
+        "vless:\/\/1764737b-5a0b-4d1b-b7b4-2b71c0aa0aa5@krg2jyul092d.librekit.com:49591?security=none&amp;encryption=none&amp;host=divarcdn.com&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/telegram-id-ArV2ray@www.speedtest.net:2052?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry&amp;security=none&amp;encryption=none&amp;host=Www.speedtest.net.a.3.mashti.link.&amp;type=ws#<i",
+        "vless:\/\/telegram-ArV2ray@www.speedtest.net:2052?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry&amp;security=none&amp;encryption=none&amp;host=Www.speedtest.net.c.3.mashti.link.&amp;type=ws#<i"
     ],
-    "trojan": [
-        "trojan:\/\/psycho@104.21.112.1:443?security=tls&amp;sni=pSYcho.sUeX12.IR&amp;alpn=http%2F1.1&amp;fp=randomized&amp;type=ws&amp;host=psycho.suex12.ir&amp;path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560#<i",
-        "trojan:\/\/kA433G81eOSp@aryanews.onetwothree123.ir:2053?security=tls&amp;sni=aryanews.onetwothree123.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=aryanews.onetwothree123.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
-        "trojan:\/\/9Qtb5266ijqU@aryanews.onetwothree123.ir:2053?security=tls&amp;sni=aryanews.onetwothree123.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=aryanews.onetwothree123.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
-        "trojan:\/\/3EMO1gHehJqy@aryanews.onetwothree123.ir:2053?security=tls&amp;sni=aryanews.onetwothree123.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=aryanews.onetwothree123.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
-        "trojan:\/\/Bz5gpKGi17ac@aryanews.onetwothree123.ir:2053?security=tls&amp;sni=aryanews.onetwothree123.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=aryanews.onetwothree123.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
-        "trojan:\/\/Bbc4PsY1WLhF@aryanews.onetwothree123.ir:2053?security=tls&amp;sni=aryanews.onetwothree123.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=aryanews.onetwothree123.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
-        "trojan:\/\/lxUJLdVu2OQj@aryanews.onetwothree123.ir:2053?security=tls&amp;sni=aryanews.onetwothree123.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=aryanews.onetwothree123.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
-        "trojan:\/\/bIma0umP5Uww@aryanews.onetwothree123.ir:2053?security=tls&amp;sni=aryanews.onetwothree123.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=aryanews.onetwothree123.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
-        "trojan:\/\/8Xp9lXCvvR0z@aryanews.onetwothree123.ir:2053?security=tls&amp;sni=aryanews.onetwothree123.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=aryanews.onetwothree123.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i",
-        "trojan:\/\/afpaxz616xJk@aryanews.onetwothree123.ir:2053?security=tls&amp;sni=aryanews.onetwothree123.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=aryanews.onetwothree123.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#<i"
+    "trojan": [],
+    "ss": [
+        "ss:\/\/YWVzLTI1Ni1nY206TDRKT1lVWlhGV0ZYOUUwTg==@154.196.244.15:16005#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#<i"
     ],
-    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
