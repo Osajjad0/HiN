@@ -1,29 +1,22 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiMTcyLjY3LjE1Ni4yMTAiLCAiYWlkIjogMCwgImhvc3QiOiAiZ2x3ZWlkZi5zYnMiLCAiaWQiOiAiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZcdTAwYWVcdWZlMGZDYW5hZGFcdTAwYTlcdWZlMGZUb3JvbnRvXHVkODNjXHVkZDdmXHVmZTBmcGluZzo0OC4wNm1zIn0=<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/4088e698-69fd-4d15-98bc-f1fe4c071642@168.100.6.173:2095?path=%2FTM%40Azarbayjab1%3Fed&amp;security=&amp;encryption=none&amp;host=digitalscientificresearchgroup.ir&amp;type=ws&amp;sni=digitalscientificresearchgroup.ir#<i",
-        "vless:\/\/102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=cr7.traneh.dpdns.org&amp;fp=chrome&amp;type=ws&amp;sni=cr7.traneh.dpdns.org#<i",
-        "vless:\/\/feea4b50-0588-4160-9327-85a61b7f8903@85.9.104.89:36916?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/feea4b50-0588-4160-9327-85a61b7f8903@85.9.104.89:36916?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/feea4b50-0588-4160-9327-85a61b7f8903@85.9.104.89:36916?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/99578e88-bc64-479f-e498-050bbb70c4d1@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=foffmelo.com&amp;type=ws#<i",
-        "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&amp;security=tls&amp;sni=GyKlAgNi.rOcKsToNeY.InFo&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=GyKlAgNi.rOcKsToNeY.InFo&amp;path=%2F#<i",
-        "vless:\/\/753fa8e8-a3e8-442e-abf7-875ed776eacb@198.41.209.70:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=is.oldcloud.online&amp;type=ws&amp;sni=is.oldcloud.online#<i",
-        "vless:\/\/46cb3ca5-1626-11f0-b2ee-52540017d97b@t2.vixsm.ir:4814\/?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/telegram-ArV2ray@www.speedtest.net:2052?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry&amp;security=none&amp;encryption=none&amp;host=Www.speedtest.net.a.2.mashti.link.&amp;type=ws#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.245:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/6abbaf96-4b16-48d3-b996-a6067fc6eb2c@tgju.org:8080?path=%2F%3Fed&amp;security=none&amp;encryption=none&amp;host=M4.nF9JZ2st7N.zULAiR.ORG.&amp;type=ws#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.52:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.34:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/1834c324-e0a5-5406-906e-d83e4b8afb2e@104.17.147.22:2052?path=%2Fvless&amp;security=none&amp;encryption=none&amp;host=sPeedtest2.sbs.kz.v2vless.sitespeedtest.net&amp;type=ws#<i",
-        "vless:\/\/440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=local.rogsoftwaregroup.com#<i"
+        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=Telegram-%40&amp;security=&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
+        "vless:\/\/4dc4bf3b-f78c-401c-d7b6-4dcf28e8079a@Www.speedtest.net:8880?path=%2FWedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=www.speedtest.net.Tajrish-Rayaneh.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=%2FTelegram%40WedbazTelsecurity=&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
+        "vless:\/\/2c72029d-7cc5-4d88-93b0-6483a2f4f771@huffingtonpost.es:80?mode=auto&amp;path=%2FWedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=Wedbaz.COM&amp;type=xhttp#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?path=%2FTelegram%40WedBaZ&amp;security=&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;type=ws#<i",
+        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?path=%2FTelegram%40WedBaZ&amp;security=&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;type=ws#<i",
+        "vless:\/\/4088e698-69fd-4d15-98bc-f1fe4c071642@190.93.247.155:8080?security=none&amp;type=ws&amp;host=digitalscientificresearchgroup.ir&amp;path=%2FTM%40Azarbayjab1%3Fed%3D2560flow%3D-udp443#<i",
+        "vless:\/\/2c72029d-7cc5-4d88-93b0-6483a2f4f771@146.75.106.133:80?type=xhttp&amp;host=Wedbaz.COM&amp;path=%2FWedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel%3Fed%3D2048#<i",
+        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@157.230.164.109:59483?security=auto&amp;type=grpc&amp;fp=chrome#<i",
+        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@142.93.17.60:59483?security=auto&amp;type=grpc&amp;fp=chrome#<i",
+        "vless:\/\/4088e698-69fd-4d15-98bc-f1fe4c071642@182.213.59.227:27000?security=tls&amp;sni=photosair.ir&amp;type=ws&amp;host=photosair.ir&amp;path=\/bing#<i",
+        "vless:\/\/0b563b65-bd9d-4039-aff4-6e32c172322b@141.227.140.214:2030?security=reality&amp;sni=refersion.com&amp;type=grpc&amp;serviceName=CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&amp;fp=chrome&amp;pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&amp;sid=7fe29733#<i",
+        "vless:\/\/443188ee-a1ae-415b-aeb5-ab5e3077db9b@172.67.73.163:80?security=none&amp;type=ws&amp;host=rarE-mateRiAL.ONEEaT.cO.&amp;path=%2F%3Fed%3D2048#<i"
     ],
-    "trojan": [
-        "trojan:\/\/Aimer@173.245.59.144:443?sni=epcci.ambercc.filegear-sg.me&amp;allowInsecure=0#<i"
-    ],
+    "trojan": [],
     "ss": [],
     "tuic": [],
     "hysteria": [],
