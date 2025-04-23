@@ -1,18 +1,13 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjc5LjEyNy4yMjkuNTQiLCAicG9ydCI6IDE4MDAwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjJcdWQ4M2NcdWRkZmRcdTAwYWVcdWZlMGZNZXhpY29cdTAwYTlcdWZlMGZRdWVyXHUwMGU5dGFybyBDaXR5XHVkODNjXHVkZDdmXHVmZTBmcGluZzoxNzYuMDFtcyJ9<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/014f817e-b200-4e6f-bfda-2c1cbf05aa6a@mp4.aivideoprocessor.com:80?type=ws&amp;path=%2F#<i",
         "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880\/?type=grpc&amp;encryption=none#<i"
     ],
     "trojan": [
         "trojan:\/\/Ng35283528@104.16.83.176:443\/?type=ws&amp;host=c2.validbv3528.eu.org&amp;path=%2F&amp;security=tls&amp;sni=c2.validbv3528.eu.org#<i",
         "trojan:\/\/psycho@104.21.112.1:443?path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;host=psycho.suex12.ir&amp;fp=randomized&amp;type=ws&amp;sni=pSYcho.sUeX12.IR#<i"
     ],
-    "ss": [
-        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
