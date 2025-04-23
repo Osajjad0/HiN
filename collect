@@ -1,10 +1,7 @@
 {
     "vmess": [],
-    "vless": [
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880\/?type=grpc&amp;encryption=none#<i"
-    ],
+    "vless": [],
     "trojan": [
-        "trojan:\/\/Ng35283528@104.16.83.176:443\/?type=ws&amp;host=c2.validbv3528.eu.org&amp;path=%2F&amp;security=tls&amp;sni=c2.validbv3528.eu.org#<i",
         "trojan:\/\/psycho@104.21.112.1:443?path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;host=psycho.suex12.ir&amp;fp=randomized&amp;type=ws&amp;sni=pSYcho.sUeX12.IR#<i"
     ],
     "ss": [],
