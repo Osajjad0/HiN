@@ -1,11 +1,7 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJ2IjogIjIiLCAicHMiOiAi8J+FvPCfhbTwn4W38J+Fs\/CfhbgiLCAiYWRkIjogImZhcnMudHduMjQuaXIiLCAicG9ydCI6ICIyMDk2IiwgImlkIjogIjcwNTI5YzA5LTY4ZmItNDI2NS1hOWMyLTJmNDVhMzU0MzRjMCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAiaHR0cHVwZ3JhZGUiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiZmFycy50d24yNC5pciIsICJwYXRoIjogIi\/wn4aUQE0zSERJTzEiLCAidGxzIjogInRscyIsICJzbmkiOiAiZmFycy50d24yNC5pciIsICJhbHBuIjogImgzLGgyLGh0dHAvMS4xIiwgImZwIjogImNocm9tZSJ9"
-    ],
+    "vmess": [],
     "vless": [],
-    "trojan": [
-        "trojan:\/\/7oeBUkoJlJAS@tasnim.twn24.ir:2053?security=tls&amp;sni=tasnim.twn24.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=tasnim.twn24.ir&amp;path=%2F%F0%9F%86%94%40M3HDIO1#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8<\/pre><\/div>"
-    ],
+    "trojan": [],
     "ss": [],
     "tuic": [],
     "hysteria": [],
