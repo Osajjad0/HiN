@@ -1,24 +1,29 @@
 {
     "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiNTcuMTI5LjI0LjEyNSIsICJ2IjogIjIiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhXHUwMGFlXHVmZTBmR2VybWFueVx1MDBhOVx1ZmUwZkZyYW5rZnVydCBhbSBNYWluXHVkODNjXHVkZDdmXHVmZTBmcGluZzozNS4yOW1zIn0=<\/code><\/div>"
+        "vmess:\/\/eyJhZGQiOiAibnkxLmJ1bGtjYXNoLnRvcCIsICJhaWQiOiA1LCAiaG9zdCI6ICJueTEuYnVsa2Nhc2gudG9wIiwgImlkIjogIjY5NWFjMGEzLTQwNmEtNDFkNy04M2M1LTVhZjhjMzlkM2JlYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0MTUwNywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhcdTAwYWVcdWZlMGZVbml0ZWQgU3RhdGVzXHUwMGE5XHVmZTBmQnVmZmFsb1x1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6MTExLjE4bXMifQ==<\/code><\/div>"
     ],
     "vless": [
-        "vless:\/\/6e3309a0-19ca-46f9-9267-6f8ae35193a4@vrp2.vidasuniversity.ir:8443?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=google.com#<i",
-        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@38.180.79.9:80?security=none&amp;type=ws&amp;host=reedfree8mahsang2.redorg.ir&amp;path=Telegram<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?security=none&amp;type=grpc#<i",
-        "vless:\/\/f12977e6-d296-4d94-9aaf-d31770b70f84@zula.ir:443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;host=cr77.hedieh.dpdns.org&amp;type=ws&amp;sni=cr77.hedieh.dpdns.org#<i",
-        "vless:\/\/e607e472-cee3-4ea7-c731-4a041a961a05@91.107.253.168:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.204:8880?security=none&amp;type=grpc#<i",
+        "vless:\/\/90bf198f-9810-40c8-cb6f-8d7908b576d3@156.238.18.210:8880?security=none&amp;type=httpupgrade&amp;host=nufillter.jtip.sbs.&amp;path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#<i",
+        "vless:\/\/2404f667-5969-4883-a71a-ea2e0db2d25b@151.101.2.228:80?security=none&amp;type=ws&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v24.networkpro.net#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.215:8880?security=none&amp;type=grpc#<i",
+        "vless:\/\/02aa01e3-7f27-4e47-82e2-27c0b41bda9a@194.182.79.113:26468?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
         "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.86:8880?type=grpc&amp;mode=gun&amp;authority=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#<i",
-        "vless:\/\/5a76615b-10e1-46f7-d521-17662f3c7287@157.180.80.139:8880?type=grpc&amp;mode=gun&amp;authority=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#<i",
         "vless:\/\/e607e472-cee3-4ea7-c731-4a041a961a05@91.107.253.168:8880?type=grpc&amp;mode=gun&amp;authority=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#<i",
         "vless:\/\/2404f667-5969-4883-a71a-ea2e0db2d25b@151.101.130.228:80?type=ws&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v18.networkpro.net&amp;path=\/?ed%3D2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#<i",
         "vless:\/\/b99590df-eda0-4e34-e1a9-3d1118faed83@104.129.164.253:8880?type=httpupgrade&amp;host=nufillter.jtip.sbs.&amp;path=\/?ed%3D2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#<i",
-        "vless:\/\/b99590df-eda0-4e34-e1a9-3d1118faed83@104.129.164.253:8880?type=httpupgrade&amp;host=nufillter.jtip.sbs.&amp;path=\/?ed%3D2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#<i"
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?security=none&amp;type=grpc#<i",
+        "vless:\/\/16e97003-110a-423b-fe25-0dc26485939e@19150425995513.nw1dwieextr6.krasqaqani.com:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/588f094b-431b-422c-b80b-007945037072@89.23.103.150:443?path=%2Fwebsocket&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=nl08.abvpn.ru#<i",
+        "vless:\/\/588f094b-431b-422c-b80b-007945037072@46.226.162.42:443?path=%2Fwebsocket&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=gbr01.abvpn.ru#<i",
+        "vless:\/\/f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=%2Ffp%3Dchrome&amp;security=tls&amp;encryption=none&amp;host=cr77.hedieh.dpdns.org&amp;type=ws&amp;sni=cr77.hedieh.dpdns.org#<i"
     ],
     "trojan": [
-        "trojan:\/\/Aimer@lynn.ns.cloudflare.com:443\/?type=ws&amp;host=epccj.ambercc.filegear-sg.me&amp;path=%2F&amp;security=tls&amp;sni=epccj.ambercc.filegear-sg.me#<i"
+        "trojan:\/\/12345678@198.62.62.4:443?path=%2F7bdfb97a.ikl.pages.dev&amp;security=tls&amp;host=7bdfb97a.ikl.pages.dev&amp;type=ws&amp;sni=7bdfb97a.ikl.pages.dev#<i"
     ],
-    "ss": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVEJrWW1Gaw%3D%3D@95.164.68.37:8388#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
