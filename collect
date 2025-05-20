@@ -1,29 +1,16 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjE4Ni4xOTAuMjE1LjE5MyIsICJwb3J0IjogMjIzMjQsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlZFx1MDBhZVx1ZmUwZlN3aXR6ZXJsYW5kXHUwMGE5XHVmZTBmWnVyaWNoXHVkODNjXHVkZDdmXHVmZTBmcGluZzozOS4xOW1zIn0=<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/291c2abe-716a-4691-acd0-3b13dc2f7b12@104.26.12.19:443?path=%2Fvk_l-IzYy3q_-NOq%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=WORKEr-frOSTY-BuTTeRFly-b0E9.4158fb3524.wORKeRs.deV&amp;fp=randomized&amp;type=ws&amp;sni=wORKER-fRosTY-buTtErfLy-B0e9.4158fb3524.wORKeRs.DeV#<i",
-        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.95:80?path=Telegram%3A&amp;security=none&amp;encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;type=ws#<i",
-        "vless:\/\/V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=n1.boutiqueman.shop#<i",
-        "vless:\/\/721a6c8e-809f-404d-91d6-582860af9cc3@172.253.63.139:443?security=tls&amp;sni=google.com&amp;type=ws&amp;host=gtest-638114869974.europe-west4.run.app&amp;path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&amp;fp=chrome&amp;alpn=http\/1.1#<i",
-        "vless:\/\/d40fb0c8-3967-4094-8cfe-854d4b18f0ce@104.26.1.117:2052?security=none&amp;type=ws&amp;host=wWw.SpeedtesT.net.mAzMaznet.store.&amp;path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048#<i",
-        "vless:\/\/896ace0d-5a43-45c6-9d1c-ed1d3437cbae@speedtest.net:80?type=xhttp&amp;mode=auto&amp;host=jointo_unlimiteddev.ir&amp;path=\/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&amp;security=none#<i"
+        "vless:\/\/148cfb6d-e6c1-46a1-bf83-15f5d4052eca@188.245.94.86:55700?security=reality&amp;encryption=none&amp;pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=refersion.com&amp;sid=190d32b118caf07f#<i",
+        "vless:\/\/a04bf405-6f67-4b00-af4b-4649b2ec646f@178.23.190.216:4434?security=reality&amp;encryption=none&amp;pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=teamdocs.su&amp;sid=1ae2fd1e1ace9935#<i",
+        "vless:\/\/4a3dc64b-17e1-4ae7-a9a4-851f9794d4c6@216.230.233.49:25536?security=reality&amp;encryption=none&amp;pbk=ydfJ-qHuqDCqmGnFbRwzqYT7gA9mWoh0gtYvMzt8OmI&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=apps.apple.com&amp;sid=fc3d#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.206:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&amp;type=grpc#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=#<i"
     ],
-    "trojan": [
-        "trojan:\/\/6884d714-d3c4-4b49-aa20-767ea92837d6@time.is:443\/?type=ws&amp;host=icecream.955850.xyz&amp;path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&amp;security=tls&amp;sni=icecream.955850.xyz&amp;alpn=h3&amp;fp=randomized#<i",
-        "trojan:\/\/6884d714-d3c4-4b49-aa20-767ea92837d6@wto.org:443\/?type=ws&amp;host=icecream.955850.xyz&amp;path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&amp;security=tls&amp;sni=icecream.955850.xyz&amp;alpn=h3&amp;fp=randomized#<i",
-        "trojan:\/\/15153c1d-fc81-4b2a-9689-7b4e4a72dce5@104.21.32.242:443?path=%2Fl6lvY4hFZriQDBimbKYmPIggy&amp;security=tls&amp;alpn=http%2F1.1&amp;host=b9uujhyt.890604.dpdns.org&amp;fp=chrome&amp;type=ws&amp;sni=b9uujhyt.890604.dpdns.org#<i",
-        "trojan:\/\/Aimer@108.165.152.55:2096?allowInsecure=0&amp;sni=epccn.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@45.67.214.41:2083?allowInsecure=0&amp;sni=epccv.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@thaddeus.ns.cloudflare.com:443?allowInsecure=0&amp;sni=epccv.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@188.164.159.98:2083?allowInsecure=0&amp;sni=epccv.ambercc.filegear-sg.me#<i"
-    ],
-    "ss": [
-        "ss:\/\/YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY%3D@23.154.136.132:5498#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmUwYzk1NC00MjkxLTQ1ZWEtYjQ3ZC1jYTcxMzE4MDU1MGI@103.135.102.151:52611#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#<i",
-        "ss:\/\/cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@193.108.119.230:8080#<i",
-        "ss:\/\/YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652#<i"
-    ],
+    "trojan": [],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
