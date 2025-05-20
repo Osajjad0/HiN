@@ -1,15 +1,24 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjE4Ni4xOTAuMjE1LjE5MyIsICJwb3J0IjogMjIzMjQsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlZFx1MDBhZVx1ZmUwZlN3aXR6ZXJsYW5kXHUwMGE5XHVmZTBmWnVyaWNoXHVkODNjXHVkZDdmXHVmZTBmcGluZzozOS4xOW1zIn0=<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/148cfb6d-e6c1-46a1-bf83-15f5d4052eca@188.245.94.86:55700?security=reality&amp;encryption=none&amp;pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=refersion.com&amp;sid=190d32b118caf07f#<i",
-        "vless:\/\/a04bf405-6f67-4b00-af4b-4649b2ec646f@178.23.190.216:4434?security=reality&amp;encryption=none&amp;pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=teamdocs.su&amp;sid=1ae2fd1e1ace9935#<i",
+        "vless:\/\/a5053089-8d6e-0ef9-8d09-aebb94f33aff@51.195.35.2:5234?security=reality&amp;encryption=none&amp;pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yandex.com&amp;sid=b7e284c9b786f709#<i",
         "vless:\/\/4a3dc64b-17e1-4ae7-a9a4-851f9794d4c6@216.230.233.49:25536?security=reality&amp;encryption=none&amp;pbk=ydfJ-qHuqDCqmGnFbRwzqYT7gA9mWoh0gtYvMzt8OmI&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=apps.apple.com&amp;sid=fc3d#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.206:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&amp;type=grpc#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=#<i"
+        "vless:\/\/a5053089-8d6e-0ef9-8d09-aebb94f33aff@51.195.35.2:5234?security=reality&amp;encryption=none&amp;pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yandex.com&amp;sid=b7e284c9b786f709#<i",
+        "vless:\/\/082c8176-3e8e-4226-9045-79cee15b5111@194.182.79.202:39049?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@638817026935097685.amsterdam-shledrc-accc.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=#<i",
+        "vless:\/\/4e41764d-ac31-43f5-8e9b-231ddf252d1f@172.67.144.126:443?path=%2FwAlPWPCQWnsVcNgLsMVz&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=899.288288.shop&amp;fp=chrome&amp;type=ws&amp;sni=899.288288.shoP#<i",
+        "vless:\/\/b99590df-eda0-4e34-e1a9-3d1118faed83@31.43.179.153:8880?security=none&amp;type=httpupgrade&amp;host=nufillter.jtip.sbs.&amp;path=\/#<i",
+        "vless:\/\/4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.131.208.55:443?security=tls&amp;sni=mypHOtoGRAPICpIctUre.iR&amp;type=ws&amp;host=myphotograpicpicture.ir&amp;path=%2FfJBvsL0uR2MtzRig&amp;alpn=http\/1.1#<i",
+        "vless:\/\/d877a8e6-2c10-4d70-a061-82c80f50e732@151.101.194.228:80?type=ws&amp;host=joinshhproxybedeedeeeeee.ir&amp;path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#<i",
+        "vless:\/\/4d91916f-a7fd-419b-8b90-640bb8d4b3f2@45.131.208.55:443?security=tls&amp;sni=mypHOtoGRAPICpIctUre.iR&amp;type=ws&amp;host=myphotograpicpicture.ir&amp;path=%2FfJBvsL0uR2MtzRig&amp;alpn=http\/1.1#<i",
+        "vless:\/\/e607e472-cee3-4ea7-c731-4a041a961a05@91.107.253.168:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/e607e472-cee3-4ea7-c731-4a041a961a05@91.107.150.160:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/e607e472-cee3-4ea7-c731-4a041a961a05@91.107.150.160:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/Aimer@27.50.48.239:8443?allowInsecure=0&amp;sni=epccn.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/Aimer@154.197.64.206:443?allowInsecure=0&amp;sni=epccv.ambercc.filegear-sg.me#<i"
+    ],
     "ss": [],
     "tuic": [],
     "hysteria": [],
