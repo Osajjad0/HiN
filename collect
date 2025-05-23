@@ -1,27 +1,10 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiMTA0LjIxLjE1LjIxMiIsICJhaWQiOiAwLCAiaG9zdCI6ICJnbHdlaWRmLnNicyIsICJpZCI6ICI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogNDQzLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAiZ2x3ZWlkZi5zYnMiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNlx1MDBhZVx1ZmUwZkNhbmFkYVx1MDBhOVx1ZmUwZlRvcm9udG9cdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjQ5LjIzbXMifQ==<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/a2ac3fd1-bb9c-4672-8e4a-2a0859d98175@151.101.66.228:80?security=none&amp;type=ws&amp;host=joinxvproxybedee.ir#<i",
-        "vless:\/\/b99590df-eda0-4e34-e1a9-3d1118faed83@154.92.9.118:8880?security=none&amp;type=httpupgrade&amp;host=nufillter.jtip.sbs.&amp;path=\/#<i",
-        "vless:\/\/da54557e-67bd-4df9-b0c3-ded1f0c38879@104.26.0.117:2052?security=none&amp;type=ws&amp;host=wWw.SpeedtesT.net.mAzMaznet.store.&amp;path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048#<i",
-        "vless:\/\/082c8176-3e8e-4226-9045-79cee15b5111@194.182.79.202:39049?type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
-        "vless:\/\/3857ea57-a459-45c5-a309-ad2bfa04d676@57.130.17.224:600?security=tls&amp;sni=marzban.negintel.xyz&amp;type=tcp&amp;host=%2F#<i",
-        "vless:\/\/faa5c704-9d46-5753-905e-b56c7af4ed03@194.226.121.190:2052?type=grpc&amp;serviceName=vless-grpc#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.202:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/telegram-id-ArV2ray7@151.101.64.155:80?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=mard.ankaboti.com.&amp;type=ws#<i"
+        "vless:\/\/385dbaf9-d452-49cb-bcee-7c702b14c83f@194.182.79.113:26468?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i"
     ],
-    "trojan": [
-        "trojan:\/\/OLq0FfOlp7@141.227.160.88:1935?security=tls&amp;sni=x1-sweden-ovh-v2.devefun.net&amp;type=tcp&amp;headerType=none#<i"
-    ],
-    "ss": [
-        "ss:\/\/YWVzLTI1Ni1nY206MzMzNDQ0@218.188.154.60:12001#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@162.251.61.219:6679#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.59:2377#<i",
-        "ss:\/\/YWVzLTEyOC1nY206N2VjN2I3NzgtMjIxYy00YzU1LWIwM2EtNzg3MWJhZDI4NGJm@sg04.dns-node.top:45609#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#<i"
-    ],
+    "trojan": [],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
