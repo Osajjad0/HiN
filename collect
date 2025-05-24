@@ -1,29 +1,24 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4xOS4zMi4wIiwgInBvcnQiOiA0NDMsICJpZCI6ICI5M2VhNDg2YS1iYWRhLTQyYTQtYWMzOC1kMDg4YjMyMGZhMWUiLCAidHlwZSI6ICIiLCAiYWlkIjogMCwgIm5ldCI6ICJ3cyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJ4bWl2aWRlby5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgImhvc3QiOiAieG1pdmlkZW8uY2ZkIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZcdTAwYWVcdWZlMGZDYW5hZGFcdTAwYTlcdWZlMGZUb3JvbnRvXHVkODNjXHVkZDdmXHVmZTBmcGluZzo3Ljk5bXMifQ==<\/code><\/div>",
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogImlydmlkZW8uY2ZkIiwgInBvcnQiOiA0NDMsICJpZCI6ICJlNTM3ZjJmNS0yYTBjLTRmNTktOTJjOS04MzJjYTY0MzNiZjMiLCAidHlwZSI6ICIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInRscyI6ICJ0bHMiLCAic25pIjogImlydmlkZW8uY2ZkIiwgInBhdGgiOiAiL2xpbmt3cyIsICJob3N0IjogImlydmlkZW8uY2ZkIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjdcdTAwYWVcdWZlMGZGcmFuY2VcdTAwYTlcdWZlMGZQYXJpc1x1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6NTYuOTFtcyJ9<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/16d8513d-7644-4b20-9ed9-08edee0afe93@104.19.54.50:8080?path=%2F%40Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn----@Moft_Vpn%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=moftvpn.elmahstyle.xyz.&amp;type=ws#<i",
-        "vless:\/\/dfc1a9ab-6241-4b73-92f7-b299fc6b7751@104.26.12.101:2052?encryption=none&amp;security=none&amp;sni=Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt&amp;type=ws&amp;host=Yak-Khanda-kUn-eY-gUL.biNG.com.xn--cR8HaaaAaAAAaAaaAaAaAAaAAaaaAAAAAaAaaAaaaAaaaaAAaaAAAaaaaAa.xN--Cr8hAaAaaAaaAAAAAAaaaAAAaAAaaAaAaAAAAAA.TREPAspeEdTEsT.NEtrag.cOm.PX.Com.sh017.IR.XN--Cr8hAaaAaaAaaAaaaAAAaaaAaaAaaaAaAAAaaaA.yek.dDnS-ip.nEt&amp;path=%2F%3Fed%3D1080%2Ftelegram%40v2ray_alpha#<i",
-        "vless:\/\/2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?encryption=none&amp;security=tls&amp;sni=wwwspeedtestnetwhiteberinsistomd6625996s26.afaghnegwork.ir&amp;type=ws&amp;host=wwwspeedtestnetwhiteberinsistomd6625996s26.afaghnegwork.ir#<i",
-        "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:443?encryption=none&amp;security=tls&amp;sni=ZjJuNdIy.rIpLeToOrY.InFo&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=ZjJuNdIy.rIpLeToOrY.InFo&amp;path=%2F#<i",
-        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@www.visa.com:2095?encryption=none&amp;security=none&amp;type=ws&amp;host=fuckingxijinping.20241225.workers.dev&amp;path=%2F%3Fed%3D2560#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.167:8880?encryption=none&amp;security=none&amp;sni=pqh35v5.gym35fit.shop&amp;type=grpc#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.24:8880?encryption=none&amp;security=none&amp;type=grpc#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.215.29:8880?sni=hk.laoyoutiao.link&amp;type=ws&amp;host=hk.laoyoutiao.link&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i",
+        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.240:80\/?type=ws&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;path=%2FTelegram%3A#<i",
+        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.26.20:8880\/?type=ws&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;host=reedfree8mahsang2.redorg.ir#<i",
+        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.20:8880\/?type=ws&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;path=%2F%3Fed%3D2560#<i",
+        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.6.13:80\/?type=ws&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;path=%2FTelegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560#<i",
+        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@102.177.176.20:8880\/?type=ws&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;path=%2F%3Fed%3D2560#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.176.26.29:8880\/?type=ws&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;host=hk.laoyoutiao.link&amp;path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#<i",
+        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.248.20:8880\/?type=ws&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;path=%2F%3Fed%3D2560#<i",
+        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@14.102.229.20:8880\/?type=ws&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;path=%2F#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.150.115.29:8880\/?type=ws&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;host=hk.laoyoutiao.link&amp;path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#<i",
+        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.200.160.20:8880\/?type=ws&amp;channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&amp;host=reedfree8mahsang2.redorg.ir&amp;path=%2F%3Fed%3D2560#<i",
         "vless:\/\/telegram-id-ArV2ray@193.46.81.83:3567?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=_5Hw5RRcDyCnW7H3Ubmp9UnqNiQUaKfB5rPTDqI_kAA&amp;fp=chrome&amp;type=grpc&amp;serviceName=telegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray&amp;sni=maps.google.com&amp;sid=c14b9292de5a8d6f#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i"
+        "vless:\/\/95c434e5-c044-4633-a0d9-31548c8d43c8@104.18.15.19:8880?encryption=none&amp;security=none&amp;type=ws&amp;headertype=none&amp;host=1222.vx84g0b3.workers.dev&amp;path=%2F%3Fed%3D2560#<i",
+        "vless:\/\/5985a6e3-1ed7-48bb-871d-6a432870642a@140.248.128.69:443\/?type=ws&amp;encryption=none&amp;flow=&amp;host=Channel-VPNCUSTOMIZE.ir&amp;path=\/VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE?ed=2048&amp;security=tls&amp;sni=Channel-VPNCUSTOMIZE.ir&amp;allowInsecure=1#<i",
+        "vless:\/\/5985a6e3-1ed7-48bb-871d-6a432870642a@151.101.64.155:80?type=ws&amp;host=Channel-VPNCUSTOMIZE.ir&amp;path=\/VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE?ed=2048#<i"
     ],
-    "trojan": [
-        "trojan:\/\/4cDgyx33xaypDCIFaOj84Snjy3g9XpulOI3FF0CaaTSyY3ElCOeYKx8eCeN7zRRZnCu2A@61.221.48.98:28331?allowInsecure=1#<i"
-    ],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZmZjMTQxNDk3NGU@103.140.136.76:443\/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bmux%3D4%3Bhost%3Djp1v9.8vote.cn%3Bpath%3D%2Fkafgphgtf%3Bmux%3Dmux%3D4%3B%3B#<i",
-        "ss:\/\/YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652#<i",
-        "ss:\/\/YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p231.panda004.net:11389#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080#<i"
-    ],
+    "trojan": [],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
