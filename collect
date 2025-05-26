@@ -1,25 +1,19 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/588f094b-431b-422c-b80b-007945037072@46.226.162.42:443?type=ws&amp;path=\/websocket?ed%3D2048-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=tls&amp;fp=chrome&amp;sni=gbr01.abvpn.ru#<i",
-        "vless:\/\/670d931b-9d26-5c5b-9ee2-780be46e1cf0@5.180.52.15:2052?type=ws&amp;host=mihanwebhost.iri&amp;path=\/vless?ed%3D2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#<i",
-        "vless:\/\/96a1b724-68d2-4f4d-ab25-38ecd83577bc@208.86.168.210:443?type=ws&amp;host=Wv2NhB0hVh.SoLiJoNiTo.CoM&amp;path=\/?ed%3D2048-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=tls&amp;fp=chrome&amp;sni=Wv2NhB0hVh.SoLiJoNiTo.CoM#<i",
-        "vless:\/\/588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?type=ws&amp;host=de02.abvpn.ru&amp;path=\/websocket?ed%3D2048-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=tls&amp;fp=chrome&amp;sni=de02.abvpn.ru#<i",
-        "vless:\/\/401374e6-df77-41fb-f638-dad8184f175b@185.135.9.223:443?type=grpc&amp;mode=gun&amp;security=tls&amp;sni=pqh24v3.hiddendom.shop&amp;alpn=h2#<i",
-        "vless:\/\/721a6c8e-809f-404d-91d6-582860af9cc3@142.250.114.138:443?security=tls&amp;sni=google.com&amp;type=ws&amp;host=gtest-638114869974.europe-west4.run.app&amp;path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&amp;fp=chrome&amp;alpn=http\/1.1#<i",
-        "vless:\/\/f3cee0a1-f523-4d86-d5ec-585ca975827a@104.17.148.22:2082?security=none&amp;type=ws&amp;host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.#<i",
-        "vless:\/\/6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?security=none&amp;type=ws&amp;host=www.speedtest.net.zula.ir.cfw1.afhudvbhgfnet.ddns-ip.nEt.#<i",
-        "vless:\/\/TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=\/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&amp;security=none&amp;encryption=none&amp;host=nufilterasli.org&amp;type=ws#<i"
+        "vless:\/\/945923e1-062f-4fd3-9b75-1dadfb58e331@104.17.21.157:8080?path=%2F%40MaSTeRSeRVeR1-%40-MaSTeRSeRVeR1%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=selllv2rayng.nanvrfood.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/eacc24ed-a1c1-4037-9af4-4f6bcd657119@91.107.219.8:443?security=reality&amp;encryption=none&amp;pbk=Rcapy_5gvuL9LOr1Bqz-Y84P69L3wUQjG48xpB4fLTA&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=direct.pdownloaddigikala.ir&amp;sid=1d13151ce1#<i",
+        "vless:\/\/af50bdbf-1715-a461-cbb4-ebbea9ed338c@51.195.35.2:4768?security=reality&amp;encryption=none&amp;pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yandex.com&amp;sid=b7e284c9b786f709#<i",
+        "vless:\/\/49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&amp;encryption=none&amp;pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=speed.cloudflare.com#<i",
+        "vless:\/\/885a03bb-4797-3fd8-5446-c770066cb87e@216.9.225.51:4111?security=reality&amp;encryption=none&amp;pbk=SLaKJrXI_5q7tPsYGffScpC1MEl75kMp-Z6M5KnvZwc&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=serverdlt1.goodshoes.ir&amp;sid=cc30318af8ce0970#<i",
+        "vless:\/\/ba1d7673-6f87-44be-8d1b-bbd2b20c2dea@104.17.148.22:80?mode=auto&amp;path=%2F%3FJoin_Bade_Channel%40JOKERRVPN&amp;security=none&amp;encryption=none&amp;host=mother521.dgclix.ir&amp;type=xhttp#<i",
+        "vless:\/\/ba1d7673-6f87-44be-8d1b-bbd2b20c2dea@104.17.147.22:80?mode=auto&amp;path=%2F%3FJoin_Bade_Channel%40JOKERRVPN&amp;security=none&amp;encryption=none&amp;host=mother521.dgclix.ir&amp;type=xhttp#<i",
+        "vless:\/\/7c9e3c1d-a360-4429-9189-e45a98de7fde@91.206.71.202:443?path=%2FV2ray_Gl--V2ray_Gl--V2ray_Gl--V2ray_Gl--V2ray_Gl%3Fed&amp;security=tls&amp;encryption=none&amp;host=ir-ddos.com&amp;type=ws&amp;sni=ir-ddos.com#<i"
     ],
-    "trojan": [
-        "trojan:\/\/blue2024@104.18.153.27:443?security=tls&amp;type=tcp&amp;sni=td.promote.icu#<i",
-        "trojan:\/\/Aimer@38.60.109.124:52782?sni=epccc.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/895552fa-6284-4c1d-ba00-3944e0c7c626@172.67.144.126:443?security=tls&amp;sni=CFR56ty7890.288288.sHOP&amp;type=ws&amp;host=cfr56ty7890.288288.shop&amp;path=\/By7cEmOrNRS58yeduy9AOG#<i",
-        "trojan:\/\/6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.42.98:443?security=tls&amp;sni=icecream.955850.xyz&amp;type=ws&amp;host=icecream.955850.xyz&amp;path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&amp;fp=randomized&amp;alpn=h3#<i",
-        "trojan:\/\/3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=nacho-rerun-crepe.stark-industries.solutions#<i"
-    ],
+    "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkM1RwaFBQZk1rSXhGbVBKcEEwajdSa1BKSGplSHFhSmsyRDdDbzdWc0Z1VVUydjE%3D@45.128.151.67:31348#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206NTYwYjdkNjVjMWY0YjEyYQ%3D%3D@195.58.49.92:2015#<i"
     ],
     "tuic": [],
     "hysteria": [],
