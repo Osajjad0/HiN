@@ -1,30 +1,14 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/f055d270-0e76-4a41-a53f-871bbb51b003@190.93.247.172:443?security=tls&amp;sni=what.zhonghuoxing.top&amp;type=ws&amp;host=what.zhonghuoxing.top&amp;path=%2F&amp;fp=chrome#<i",
-        "vless:\/\/767dfba2-ac34-4507-913d-a70703f81a36@104.21.95.172:443?security=tls&amp;sni=mehdiama.mehdiama840.workers.dev&amp;type=ws&amp;host=mehdiama.mehdiama840.workers.dev&amp;path=%2FTelegram%40MTMVPN---MTMVPN%2F%3Fed%3D2048&amp;fp=randomized#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.33.87.29:8880?sni=hk.laoyoutiao.link&amp;type=ws&amp;host=hk.laoyoutiao.link&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i",
-        "vless:\/\/54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.166.83:443?security=tls&amp;sni=147135004002.sec20org.com&amp;type=tcp&amp;allowInsecure=1#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.243:8880?sni=sk.laoyoutiao.link&amp;type=ws&amp;host=sk.laoyoutiao.link&amp;path=\/Telegram<i",
-        "vless:\/\/401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?security=tls&amp;sni=pqh23v5.hiddendom.shop&amp;type=grpc&amp;alpn=h2#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.41:8880?security=none&amp;type=grpc#<i",
-        "vless:\/\/03e4d6fe-f461-499f-b9c6-35c60f192e1a@104.24.147.64:80?sni=ppal03-ppal03.letiwe3303.workers.dev&amp;type=ws&amp;host=ppal03-ppal03.letiwe3303.workers.dev&amp;path=\/&amp;allowInsecure=1#<i",
-        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.143:8880?sni=reedfree8mahsang2.redorg.ir&amp;type=ws&amp;host=reedfree8mahsang2.redorg.ir&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.86.113:443?security=tls&amp;sni=lITTle-fog-5666.NETmoUsAvI.wOrKErS.DeV&amp;type=ws&amp;host=lITTle-fog-5666.NETmoUsAvI.wOrKErS.DeV&amp;path=%2F#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.236:8880?sni=us.laoyoutiao.link&amp;type=ws&amp;host=us.laoyoutiao.link&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i",
-        "vless:\/\/401374e6-df77-41fb-f638-dad8184f175b@141.193.213.89:443?security=tls&amp;sni=pqh36v4.hiddendom.shop&amp;type=grpc&amp;host=pqh36v4.hiddendom.shop&amp;alpn=h2#<i"
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.67.29:8880?sni=hk.laoyoutiao.link&amp;type=ws&amp;host=hk.laoyoutiao.link&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i",
+        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.143:8880?sni=reedfree8mahsang2.redorg.ir&amp;type=ws&amp;host=reedfree8mahsang2.redorg.ir&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.121:8880?security=none&amp;type=grpc#<i",
+        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.246.244:8880?sni=reedfree8mahsang2.redorg.ir&amp;type=ws&amp;host=reedfree8mahsang2.redorg.ir&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i",
+        "vless:\/\/590dfbde-f8c8-429b-b947-39bb767ddd9c@104.24.87.230:80?security=none&amp;type=ws&amp;host=square-moon-bc81-ppal03.tivere6418.workers.dev&amp;path=%2F%3Fed%3D2560#<i"
     ],
-    "trojan": [
-        "trojan:\/\/6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.12.140:443?security=tls&amp;sni=icecream.955850.xyz&amp;type=ws&amp;host=icecream.955850.xyz&amp;path=%2Fproxyip%3D45.67.215.153%3A443&amp;alpn=h3#<i",
-        "trojan:\/\/cad5a49f-14e5-4a05-aae9-c5df8fad394f@172.67.143.250:443?security=tls&amp;sni=C1wSdm.777162.Xyz&amp;type=ws&amp;host=C1wSdm.777162.Xyz&amp;path=%2F5txgrUN3oqXENw4Z4&amp;fp=chrome&amp;alpn=http%2F1.1#<i",
-        "trojan:\/\/a5fd0c47-f3f6-48c8-becb-cc766edf3e1a@104.21.60.213:443?security=tls&amp;sni=m5rtyu.999658.xyz&amp;type=ws&amp;host=m5rtyu.999658.xyz&amp;path=%2FGawgMugyRDAQXp6e0CScyGqcQZW&amp;fp=chrome&amp;alpn=http%2F1.1#<i"
-    ],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NmU2N2Y1YS02M2U0LTQ1NjYtODcwYy03NmVhYTljZjc2ZmU=@149.28.106.134:31444#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTc2NzIxYS1lMzkwLTRkYmYtYjRmOS03MmMzZmViOTU5NGM=@45.76.180.205:31298#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@67.220.95.102:5498#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.202:2375#<i"
-    ],
+    "trojan": [],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
