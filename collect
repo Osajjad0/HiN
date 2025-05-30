@@ -1,9 +1,6 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/25af9eb2-3310-4f2b-bc82-ebea62ba7906@104.18.41.138:8880?security=none&amp;type=ws&amp;host=config-proxy-vl.telegram-config-proxy.workers.dev&amp;path=%2F%3Fed%3D2560#<i",
-        "vless:\/\/54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.156:443?security=tls&amp;sni=147135004002.sec20org.com&amp;type=tcp&amp;fp=chrome#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.155:80?sni=cs.laoyoutiao.link&amp;type=ws&amp;host=cs.laoyoutiao.link&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i",
         "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.63:8880?sni=us.laoyoutiao.link&amp;type=ws&amp;host=us.laoyoutiao.link&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i",
         "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.160:80?sni=cs.laoyoutiao.link&amp;type=ws&amp;host=cs.laoyoutiao.link&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i",
         "vless:\/\/46dbac8b-eaba-4275-940c-819f95d16916@104.17.248.203:443?security=tls&amp;sni=falcunargo.9cfaf68585.workers.Dev&amp;type=ws&amp;host=falcunargo.9cfaf68585.workers.Dev&amp;path=%2F%3Fed%3D2048#<i",
@@ -16,10 +13,6 @@
     ],
     "trojan": [],
     "ss": [
-        "ss:\/\/YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.108:8091#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.164:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.93.47:7002#<i",
         "ss:\/\/YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.154.136.51:5499#<i",
         "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#<i"
