@@ -1,23 +1,13 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4xNy4xMzcuMTI3IiwgInBvcnQiOiA0NDMsICJpZCI6ICI0N2VhYjBkZS05N2Y5LTQ5YmUtZjJmMy0yZTRlYjE3MjY4ZTYiLCAidHlwZSI6ICIiLCAiYWlkIjogMCwgIm5ldCI6ICJ3cyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJoay5uaXNrYWtvd3NraS5nZ2ZmLm5ldCIsICJwYXRoIjogIi9hYSIsICJob3N0IjogImhrLm5pc2tha293c2tpLmdnZmYubmV0IiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZcdTAwYWVcdWZlMGZDYW5hZGFcdTAwYTlcdWZlMGZUb3JvbnRvXHVkODNjXHVkZDdmXHVmZTBmcGluZzo4LjQzbXMifQ==<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;type=grpc&amp;serviceName=&amp;sni=pqh24v3.hiddendom.shop#<i",
-        "vless:\/\/1e547e90-9c6c-4695-9537-15aab4e14aa0@157.230.17.102:19000?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/51d3d249-9095-4cbd-8fd2-3e6c1039cab4@172.67.180.238:8880?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=falcunargo.c2259d7c10.workers.dev&amp;type=ws#<i",
-        "vless:\/\/2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&amp;security=none&amp;encryption=none&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v02.pronetwork02.com&amp;type=ws#<i",
-        "vless:\/\/3536e1fa-0850-44d1-b123-925ce12476cf@89.144.25.236:443?mode=stream-one&amp;path=%2Fkavir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=kavir.lnmarketplace.net&amp;fp=firefox&amp;type=xhttp&amp;sni=kavir.lnmarketplace.net#<i",
-        "vless:\/\/3536e1fa-0850-44d1-b123-925ce12476cf@89.144.35.100:443?mode=stream-one&amp;path=%2Fkavir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=kavir.lnmarketplace.net&amp;fp=firefox&amp;type=xhttp&amp;sni=kavir.lnmarketplace.net#<i",
-        "vless:\/\/fb7d5fa9-3f09-4c60-8b21-ea9fc8efba5d@151.101.130.133:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Lightning.ir&amp;type=ws#<i",
-        "vless:\/\/2e26d29a-ae9e-4a4d-9b59-a97a2678ac7b@162.159.20.126:2052?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=v2ngfast.nanvrfood.ir.&amp;type=httpupgrade#<i"
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.253:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/f14d0d37-9c0e-4376-9d33-94aba1859e47@a.nl.maviks.eu:8443?security=reality&amp;encryption=none&amp;pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&amp;host=telegram-join-v2xaytelegram-join-v2xay-telegram-join&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=maviks.eu&amp;sid=21181028b56c8702#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.248:8880?type=ws&amp;host=sk.laoyoutiao.link&amp;path=\/TelegramU0001F1E8U0001F1F3?ed%3D2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#<i",
+        "vless:\/\/TELEGRAM-NUFiLTER@195.201.223.212:3070?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=&amp;pbk=K-AgP2OLm7ClQGPg0wQFsrFDDVmXMrJvHZnOxv55_mI&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER&amp;sni=maps.google.com&amp;sid=80#<i"
     ],
-    "trojan": [
-        "trojan:\/\/3482c71a-d01c-4ae5-b454-fa8cb3785f66@guy-trace-lyric.stark-industries.solutions:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=guy-trace-lyric.stark-industries.solutions#<i"
-    ],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#<i"
-    ],
+    "trojan": [],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
