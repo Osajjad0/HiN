@@ -1,28 +1,25 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiMTkzLjEyMi41OC4xNTgiLCAiYWlkIjogMCwgImhvc3QiOiAiaXJ2aWRlby5jZmQiLCAiaWQiOiAiZTUzN2YyZjUtMmEwYy00ZjU5LTkyYzktODMyY2E2NDMzYmYzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWFcdTAwYWVcdWZlMGZHZXJtYW55XHUwMGE5XHVmZTBmRnJhbmtmdXJ0IGFtIE1haW4gKElubmVuc3RhZHQgSSlcdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjI3LjI4bXMifQ==<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/CHIK_781793@77.91.85.161:443?security=reality&amp;encryption=none&amp;pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
-        "vless:\/\/7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&amp;encryption=none&amp;pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=dl.google.com&amp;sid=0ecc2c1392#<i",
-        "vless:\/\/CHIK_781376@77.91.85.161:443?security=reality&amp;encryption=none&amp;pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
-        "vless:\/\/CHIK_781333@77.91.76.14:443?security=reality&amp;encryption=none&amp;pbk=7YEakrIiKu1CHDSOOrglxndNDLdh8ub7DzVoecOOtws&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
-        "vless:\/\/CHIK_981062@77.91.85.161:443?security=reality&amp;encryption=none&amp;pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
-        "vless:\/\/CHIK_281047@77.91.85.161:443?security=reality&amp;encryption=none&amp;pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
-        "vless:\/\/CHIK_981036@77.91.76.14:443?security=reality&amp;encryption=none&amp;pbk=7YEakrIiKu1CHDSOOrglxndNDLdh8ub7DzVoecOOtws&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
-        "vless:\/\/CHIK_481529@77.91.85.161:443?security=reality&amp;encryption=none&amp;pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
-        "vless:\/\/CHIK_881548@us1.chik-chirik.xyz:443?security=reality&amp;encryption=none&amp;pbk=wsuNVssCC7Wh0VH_CpY3Th8z1brS70MpoqkgWmSdAk4&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
-        "vless:\/\/CHIK_181509@77.91.76.14:443?security=reality&amp;encryption=none&amp;pbk=7YEakrIiKu1CHDSOOrglxndNDLdh8ub7DzVoecOOtws&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
-        "vless:\/\/CHIK_481495@83.147.252.114:443?security=reality&amp;encryption=none&amp;pbk=jP5khyw0xKq1-GuOB4RApEzC48qE4yyExXqPaPFvezo&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
-        "vless:\/\/2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?type=ws&amp;host=wwwspeedtestnetwhiteberinsistomd6625996s05.drlimit2.com&amp;security=tls&amp;sni=wwwspeedtestnetwhiteberinsistomd6625996s05.drlimit2.com#<i",
-        "vless:\/\/4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?type=tcp&amp;headerType=none&amp;security=none#<i"
+        "vless:\/\/CHIK_382484@77.91.85.161:443?security=reality&amp;encryption=none&amp;pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
+        "vless:\/\/5b8270cd-6226-42d3-b681-da2ff0d88bdf@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=joinshhproxybedeedeeeeee.ir&amp;type=ws#<i",
+        "vless:\/\/18750858-755a-4148-99e5-e61de55ce2d0@iranserver.com:2052?path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=wWw.SpeedtesT.net.mAzMaznet.store.&amp;type=ws#<i",
+        "vless:\/\/7835e3ae-dc32-4a96-b748-00b04655745a@www.speedtest.net:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=Www.speedtest.net.developsp.ir.vegaskala.com.&amp;type=ws#<i",
+        "vless:\/\/18750858-755a-4148-99e5-e61de55ce2d0@iranserver.com:2052?type=ws&amp;path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048&amp;host=wWw.SpeedtesT.net.mAzMaznet.store.&amp;security=none#<i",
+        "vless:\/\/18750858-755a-4148-99e5-e61de55ce2d0@iranserver.com:2052?type=ws&amp;path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048&amp;host=wWw.SpeedtesT.net.mAzMaznet.store.&amp;security=none#<i",
+        "vless:\/\/482ceadb-a482-4656-b660-3b54c3947dfe@138.201.159.111:45216?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=0oR6xhpY1KcusXmPNBMhoiDt8gKOxGOh3morRFzM2HQ&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=microsoft.com&amp;sid=493518a7b6505758#<i",
+        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;sni=pqh33v1.cinema33.shop#<i",
+        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;sni=pqh33v1.cinema33.shop#<i",
+        "vless:\/\/dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&amp;security=none&amp;type=ws&amp;host=google.com&amp;path=%2Fhttp%23Telegram@proxy_mtm%2F%3Fed%3D2560#<i",
+        "vless:\/\/dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&amp;security=none&amp;type=ws&amp;host=google.com&amp;path=%2Fhttp%23Telegram@proxy_mtm%2F%3Fed%3D2560#<i",
+        "vless:\/\/18750858-755a-4148-99e5-e61de55ce2d0@iranserver.com:2052?type=ws&amp;path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048&amp;host=wWw.SpeedtesT.net.mAzMaznet.store.&amp;security=none#<i",
+        "vless:\/\/CHIK_382484@77.91.85.161:443?security=reality&amp;encryption=none&amp;pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i"
     ],
     "trojan": [
-        "trojan:\/\/0fc9c5ff-9531-4178-966f-7d958e1df64b@45.159.251.33:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=eats-rigor-judge.stark-industries.solutions#<i"
+        "trojan:\/\/f0f6e76e-e5fe-4e2c-9faf-34832e021eae@172.67.133.248:443?path=%2FmZr1mA5hub7QHHkQBzYO&amp;security=tls&amp;alpn=http%2F1.1&amp;host=ddd.890604.filegear-sg.me&amp;fp=chrome&amp;type=ws&amp;sni=DDd.890604.FIlEGear-sG.Me#<i",
+        "trojan:\/\/3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=nacho-rerun-crepe.stark-industries.solutions#<i"
     ],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
