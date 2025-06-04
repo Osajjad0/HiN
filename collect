@@ -1,6 +1,6 @@
 {
     "vmess": [
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjU3LjEyOS4yNS4yNSIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAic25pIjogIndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCAiaG9zdCI6ICJmLmtoaWxlaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhXHUwMGFlXHVmZTBmR2VybWFueVx1MDBhOVx1ZmUwZkxpbWJ1cmcgYW4gZGVyIExhaG5cdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjMzLjk5bXMifQ==<\/code><\/div>"
+        "vmess:\/\/eyJhZGQiOiAiaGsyLmxyemR4LnVrIiwgImFpZCI6IDAsICJob3N0IjogImhrMi5scnpkeC51ayIsICJpZCI6ICJkYjY5ZDViYy1kMzZjLTQ5MDMtZjQ3MS03NGI5OGM1Y2VmZTUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3JlZ2lzdGVyIiwgInBvcnQiOiA0NDMsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2XHUwMGFlXHVmZTBmQ2FuYWRhXHUwMGE5XHVmZTBmVG9yb250b1x1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6OC42N21zIn0=<\/code><\/div>"
     ],
     "vless": [
         "vless:\/\/CHIK_182318@77.91.85.161:443?security=reality&amp;encryption=none&amp;pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
@@ -19,12 +19,12 @@
         "vless:\/\/CHIK_181509@77.91.76.14:443?security=reality&amp;encryption=none&amp;pbk=7YEakrIiKu1CHDSOOrglxndNDLdh8ub7DzVoecOOtws&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i"
     ],
     "trojan": [
-        "trojan:\/\/e6a2e741-0fce-440b-910c-b81325e2263a@bats-paper-chump.stark-industries.solutions:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=bats-paper-chump.stark-industries.solutions#<i"
+        "trojan:\/\/e6a2e741-0fce-440b-910c-b81325e2263a@bats-paper-chump.stark-industries.solutions:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=bats-paper-chump.stark-industries.solutions#<i",
+        "trojan:\/\/0fc9c5ff-9531-4178-966f-7d958e1df64b@95.164.38.151:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=copy-wifi-twins.stark-industries.solutions#<i"
     ],
     "ss": [
-        "ss:\/\/YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.72:15098#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@154.197.26.237:8388#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#<i"
     ],
     "tuic": [],
     "hysteria": [],
