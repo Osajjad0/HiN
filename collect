@@ -1,25 +1,23 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4xOS4zMi4wIiwgInBvcnQiOiA0NDMsICJpZCI6ICI5M2VhNDg2YS1iYWRhLTQyYTQtYWMzOC1kMDg4YjMyMGZhMWUiLCAidHlwZSI6ICIiLCAiYWlkIjogMCwgIm5ldCI6ICJ3cyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJ4bWl2aWRlby5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgImhvc3QiOiAieG1pdmlkZW8uY2ZkIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZcdTAwYWVcdWZlMGZDYW5hZGFcdTAwYTlcdWZlMGZUb3JvbnRvXHVkODNjXHVkZDdmXHVmZTBmcGluZzoyMy45N21zIn0=<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/4c46c990-86c4-5489-b560-923943d009d6@213.21.245.59:80?security=reality&amp;encryption=none&amp;pbk=midwlERxVPTIICiHDIPQn6mynPOHhpIRahRdvZ6VezY&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=refersion.com&amp;sid=d5c38fd320#<i",
+        "vless:\/\/CHIK_781793@77.91.85.161:443?security=reality&amp;encryption=none&amp;pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
+        "vless:\/\/CHIK_781376@77.91.85.161:443?security=reality&amp;encryption=none&amp;pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
         "vless:\/\/CHIK_781333@77.91.76.14:443?security=reality&amp;encryption=none&amp;pbk=7YEakrIiKu1CHDSOOrglxndNDLdh8ub7DzVoecOOtws&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
-        "vless:\/\/c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?type=tcp&amp;security=tls&amp;sni=147135010072.sec21org.com#<i",
         "vless:\/\/CHIK_981062@77.91.85.161:443?security=reality&amp;encryption=none&amp;pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
-        "vless:\/\/00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@51.89.224.169:1370?security=reality&amp;encryption=none&amp;pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com&amp;sid=e1afb93bfe75a34b#<i",
         "vless:\/\/CHIK_281047@77.91.85.161:443?security=reality&amp;encryption=none&amp;pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
         "vless:\/\/CHIK_981036@77.91.76.14:443?security=reality&amp;encryption=none&amp;pbk=7YEakrIiKu1CHDSOOrglxndNDLdh8ub7DzVoecOOtws&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
-        "vless:\/\/00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@51.89.224.169:1370?security=reality&amp;encryption=none&amp;pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com&amp;sid=e1afb93bfe75a34b#<i",
         "vless:\/\/CHIK_881548@us1.chik-chirik.xyz:443?security=reality&amp;encryption=none&amp;pbk=wsuNVssCC7Wh0VH_CpY3Th8z1brS70MpoqkgWmSdAk4&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
         "vless:\/\/CHIK_481529@77.91.85.161:443?security=reality&amp;encryption=none&amp;pbk=3oWpho0EjulohjRTwmTeFPDwIg01t8XRpyXmgpw_2T4&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
         "vless:\/\/CHIK_181509@77.91.76.14:443?security=reality&amp;encryption=none&amp;pbk=7YEakrIiKu1CHDSOOrglxndNDLdh8ub7DzVoecOOtws&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
         "vless:\/\/CHIK_481495@83.147.252.114:443?security=reality&amp;encryption=none&amp;pbk=jP5khyw0xKq1-GuOB4RApEzC48qE4yyExXqPaPFvezo&amp;headerType=&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=whatsapp.com&amp;sid=ffffffffff#<i",
-        "vless:\/\/64b48f35-d81e-4227-8075-6337e6ef0b85@185.143.233.120:443?path=%2Ftelegram-mitivpn-telegram-mitivpn-telegram-mitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s1.api.ir-sub.fun&amp;type=ws&amp;sni=jmu.ac.ir#<i",
-        "vless:\/\/cf069ba9-3d6d-482f-9982-20fc55d04c9b@arvancloud.de.ir.systemgamingirani.ir:443?security=reality&amp;encryption=none&amp;pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tgju.org&amp;sid=e54b5ad736ae4c38#<i"
+        "vless:\/\/33428626-237f-44ce-93c3-efe007db8a7f@172.64.32.181:443?path=%2Fwss&amp;security=tls&amp;encryption=none&amp;host=qsc0wrja.yandixpartners.com&amp;type=ws&amp;sni=qsc0wrja.yandixpartners.com#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.187:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i"
     ],
     "trojan": [],
-    "ss": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjU3MjdkZi0xNWVhLTQ1M2MtYTAwNi0xM2ZlOThmZWUxZDI%3D@141.164.63.32:30936#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
