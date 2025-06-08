@@ -1,22 +1,20 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJhZGQiOiAiMTMyLjE0NS4yMzIuMTcxIiwgImFpZCI6IDAsICJob3N0IjogImJleW9uZGRzei5jZmQiLCAiaWQiOiAiOWI0NTZjMmEtZjJjMS00NWUxLTg3YTktYjc2MjhiMDRiYjI0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogImJleW9uZGRzei5jZmQiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYVx1MDBhZVx1ZmUwZkdlcm1hbnlcdTAwYTlcdWZlMGZGcmFua2Z1cnQgYW0gTWFpbiAoSW5uZW5zdGFkdCBJKVx1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6MjguMTVtcyJ9<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2053?path=%2FhKdEAWMK3AL72CFl%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=domain2025.dpdns.org&amp;fp=randomized&amp;type=ws&amp;sni=DOmain2025.DpDnS.OrG#<i",
-        "vless:\/\/JOKERRVPN__jokerrVPN@www.zula.ir:8880?path=%2F%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=joker.ahang-alpha.IR&amp;type=ws#<i",
-        "vless:\/\/8016e3e2-85a9-4e9c-86cc-379a888aa59d@tgju.org.tr.systemgamingirani.ir:443?security=reality&amp;encryption=none&amp;pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tgju.org&amp;sid=e54b5ad736ae4c38#<i",
-        "vless:\/\/3536e1fa-0850-44d1-b123-925ce12476cf@89.144.35.100:443?mode=stream-one&amp;path=%2Fkavir%2F%3FTELEGRAM---MTMVPN---MTMVPN---MTMVPN&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=kavir.lnmarketplace.net&amp;fp=firefox&amp;type=xhttp&amp;sni=kavir.lnmarketplace.net#<i",
-        "vless:\/\/4537fdda-a781-4955-82a2-9cfbfe63c63d@iranvpnplus.set7.site:12394?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
+        "vless:\/\/3f4dd350-8f88-4232-9e57-b12cb3d83b1c@vpntv2020220220.fastbest.ir:47465\/?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20V----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20&amp;host=www.speedtest.net#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:443?path=%2FTelegram%40AstroVPN_Official%2F%3D%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&amp;fp=randomized&amp;type=ws&amp;sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ#<i",
+        "vless:\/\/bbcf346d-b058-4a72-b471-a606e25b6775@162.159.192.45:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=steep-pine-3b0b.facic63646.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=steep-pine-3b0b.facic63646.workers.dev#<i",
+        "vless:\/\/bbcf346d-b058-4a72-b471-a606e25b6775@172.66.0.98:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=steep-pine-3b0b.facic63646.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=steep-pine-3b0b.facic63646.workers.dev#<i",
+        "vless:\/\/bbcf346d-b058-4a72-b471-a606e25b6775@104.21.94.30:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=steep-pine-3b0b.facic63646.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=steep-pine-3b0b.facic63646.workers.dev#<i",
+        "vless:\/\/bbcf346d-b058-4a72-b471-a606e25b6775@104.16.201.72:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=steep-pine-3b0b.facic63646.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=steep-pine-3b0b.facic63646.workers.dev#<i",
+        "vless:\/\/TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=khorzokhan.com&amp;type=ws#<i",
         "vless:\/\/telegram-id-ArV2ray122@151.101.64.155:80?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=mard.ankaboti.com.&amp;type=ws#<i",
-        "vless:\/\/00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@v06.vxlimir.com:1370?security=reality&amp;type=tcp&amp;headerType=none&amp;path=&amp;host=&amp;sni=refersion.com&amp;fp=chrome&amp;pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&amp;sid=e1afb93bfe75a34b#<i"
+        "vless:\/\/294bc033-d5ef-4323-abf3-010c11b10338@bg1.serverplus.pw:2095?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#<i"
     ],
-    "trojan": [
-        "trojan:\/\/telegram-id-v2rayvpnchannel@63.178.47.43:22223?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/S*vVs%23PaV5p_RrjF@www.speedtest.net:443?path=%2FtrTmbKG0sTe38mhfvv%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;host=domain2025.dpdns.org&amp;fp=randomized&amp;type=ws&amp;sni=domaIn2025.dPDnS.Org#<i",
-        "trojan:\/\/telegram-id-directvpn@63.178.47.43:22223?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
-    ],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#<i"
-    ],
+    "trojan": [],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
