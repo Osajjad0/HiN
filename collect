@@ -1,19 +1,18 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJhZGQiOiAiMTMyLjE0NS4yMzIuMTcxIiwgImFpZCI6IDAsICJob3N0IjogImJleW9uZGRzei5jZmQiLCAiaWQiOiAiOWI0NTZjMmEtZjJjMS00NWUxLTg3YTktYjc2MjhiMDRiYjI0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogImJleW9uZGRzei5jZmQiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYVx1MDBhZVx1ZmUwZkdlcm1hbnlcdTAwYTlcdWZlMGZGcmFua2Z1cnQgYW0gTWFpbiAoSW5uZW5zdGFkdCBJKVx1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6MjguMTVtcyJ9<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/3f4dd350-8f88-4232-9e57-b12cb3d83b1c@vpntv2020220220.fastbest.ir:47465\/?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20V----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20&amp;host=www.speedtest.net#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:443?path=%2FTelegram%40AstroVPN_Official%2F%3D%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&amp;fp=randomized&amp;type=ws&amp;sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ#<i",
-        "vless:\/\/bbcf346d-b058-4a72-b471-a606e25b6775@162.159.192.45:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=steep-pine-3b0b.facic63646.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=steep-pine-3b0b.facic63646.workers.dev#<i",
-        "vless:\/\/bbcf346d-b058-4a72-b471-a606e25b6775@172.66.0.98:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=steep-pine-3b0b.facic63646.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=steep-pine-3b0b.facic63646.workers.dev#<i",
-        "vless:\/\/bbcf346d-b058-4a72-b471-a606e25b6775@104.21.94.30:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=steep-pine-3b0b.facic63646.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=steep-pine-3b0b.facic63646.workers.dev#<i",
-        "vless:\/\/bbcf346d-b058-4a72-b471-a606e25b6775@104.16.201.72:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=steep-pine-3b0b.facic63646.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=steep-pine-3b0b.facic63646.workers.dev#<i",
-        "vless:\/\/TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&amp;security=none&amp;encryption=none&amp;host=khorzokhan.com&amp;type=ws#<i",
-        "vless:\/\/telegram-id-ArV2ray122@151.101.64.155:80?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=mard.ankaboti.com.&amp;type=ws#<i",
-        "vless:\/\/294bc033-d5ef-4323-abf3-010c11b10338@bg1.serverplus.pw:2095?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#<i"
+        "vless:\/\/5d53e23d-3624-43d2-a97c-82e733b08988@hajlab.ucdavis.edu:80?security=&amp;type=ws&amp;path=\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&amp;host=joinshhproxybedeedeeeeee.ir&amp;encryption=none#<i",
+        "vless:\/\/19f9c69b-2597-4a18-aece-8859286058fe@www.speedtest.net:80?security=&amp;type=ws&amp;path=\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&amp;host=Www.speedtest.net.developsp.ir.vegaskala.com.&amp;encryption=none#<i",
+        "vless:\/\/Parsashonam-251@Zmaoz.Faculty.Ucdavis.Edu:80?path=%2F%40Parsashonam%3Fed%3D2048&amp;security=none&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=Parsashonam-DE.ir&amp;fp=firefox&amp;type=ws&amp;sni=Zmaoz.Faculty.Ucdavis.Edu.#<i",
+        "vless:\/\/5f64020c-87d6-4784-bc48-63a55499d173@84.234.31.224:55?security=none&amp;encryption=none&amp;host=%2F%3FTelegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN&amp;headerType=none&amp;type=tcp#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:443?path=%2FTelegram%40V2ray_Alpha%2F%3D%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&amp;fp=randomized&amp;type=ws&amp;sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ#<i",
+        "vless:\/\/SAVTEAM3@grtsgsj.subscripshn.sbs:55555?security=reality&amp;encryption=none&amp;pbk=smklD4EyRKJ7tf3rlqBDxQNSA1jT_9WlKCfZzPzFZw4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=stackoverflow.com&amp;sid=839f6e#<i",
+        "vless:\/\/5d53e23d-3624-43d2-a97c-82e733b08988@hajlab.ucdavis.edu:80\/?security=&amp;type=ws&amp;path=\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&amp;host=joinshhproxybedeedeeeeee.ir&amp;encryption=none#<i",
+        "vless:\/\/19f9c69b-2597-4a18-aece-8859286058fe@www.speedtest.net:80\/?security=&amp;type=ws&amp;path=\/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&amp;host=Www.speedtest.net.developsp.ir.vegaskala.com.&amp;encryption=none#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=chop-wrist-bud.stark-industries.solutions#<i"
+    ],
     "ss": [],
     "tuic": [],
     "hysteria": [],
