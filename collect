@@ -1,23 +1,25 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJhZGQiOiAiaGsyLmxyemR4LnVrIiwgImFpZCI6IDAsICJob3N0IjogImhrMi5scnpkeC51ayIsICJpZCI6ICJkYjY5ZDViYy1kMzZjLTQ5MDMtZjQ3MS03NGI5OGM1Y2VmZTUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3JlZ2lzdGVyIiwgInBvcnQiOiA0NDMsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2XHUwMGFlXHVmZTBmQ2FuYWRhXHUwMGE5XHVmZTBmVG9yb250b1x1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6OS43OW1zIn0=<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?security=none&amp;type=grpc#<i",
-        "vless:\/\/54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.145:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=147135004002.sec20org.com#<i",
-        "vless:\/\/c2ecd018-3559-48ab-a879-44cf71098130@157.230.17.102:30206?security=none&amp;type=grpc#<i",
-        "vless:\/\/00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@v23.vxlimir.com:1370?security=reality&amp;type=tcp&amp;headerType=none&amp;path=&amp;host=&amp;sni=refersion.com&amp;fp=chrome&amp;pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&amp;sid=e1afb93bfe75a34b#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?security=none&amp;type=grpc#<i",
-        "vless:\/\/9835fbea-cfb1-402a-bdc6-16ca140c6788@78.159.131.160:443\/?type=tcp&amp;encryption=none&amp;flow=&amp;sni=www.samsung.com&amp;fp=firefox&amp;security=reality&amp;pbk=gWjVFJOoNc92yFN9zAKErrtFuA1UmS4PI6sLSYBI7VM&amp;sid=e1f576c5#<i",
-        "vless:\/\/376734bc-4db8-4317-b451-af0262cb01c7@172.67.171.131:2096\/?type=ws&amp;encryption=none&amp;flow=&amp;host=InVINciBLE.FaFa20.ShOP&amp;path=%2Fmckhnxk6ubbqe5om%2Fmzquodgunjmumtyw&amp;security=tls&amp;sni=InVINciBLE.FaFa20.ShOP#<i",
+        "vless:\/\/0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.174.211:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=147135011033.sec21org.com#<i",
+        "vless:\/\/51fda508-20aa-419e-b4c3-3a6202411412@172.67.73.163:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=18.6na7PY43IT.zuLaiR.Org.&amp;type=ws#<i",
+        "vless:\/\/b357d11e-48ff-483f-969e-e72c380341f5@128.199.45.153:8440?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=firefox&amp;sni=refersion.com&amp;pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&amp;spx=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#<i",
+        "vless:\/\/9c8b155b-d7c5-4207-9c86-348e8cdaed19@104.19.54.50:80?path=%2F%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=MdVpnSec.elmahstyle.xyz.&amp;type=ws#<i",
+        "vless:\/\/7fed5bf9-a1de-41a0-ab89-694265c4895f@199.232.13.32:80?path=%2Fnetherlands%2Famsterdam%2Fvl%2Fws%2Ftls&amp;security=&amp;encryption=none&amp;host=Channel-VPNCUSTOMIZE.ir&amp;type=ws#<i",
+        "vless:\/\/15face3d-979a-40e5-fcbe-62b82a46aed4@151.101.64.155:80?path=%2Ftel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Aparatay.com&amp;type=ws#<i",
+        "vless:\/\/67d1e140-d8c8-4e4c-be1f-9800a1bcad38@51.15.228.68:25481?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=www.7-zip.org&amp;pbk=uF7Fv79MbpkF2x_bDeXezdkMrI-vGS3UDNAwLzIKZTo&amp;sid=d72dc8a0&amp;spx=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#<i",
         "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.93:8880?security=none&amp;type=grpc#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i"
+        "vless:\/\/c2ecd018-3559-48ab-a879-44cf71098130@157.230.17.102:30206?security=none&amp;type=grpc#<i",
+        "vless:\/\/5380824d-2c49-4d0d-8b2b-03c63dcf4ca7@104.17.21.157:8080?path=%2F%40MaSTeRSeRVeR1-%40-MaSTeRSeRVeR1%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=selllv2rayng.nanvrfood.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/86de549b-17ca-44ee-a157-6e73a356d30e@162.159.20.126:2052?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=v2ngfast.nanvrfood.ir.&amp;type=httpupgrade#<i",
+        "vless:\/\/78f71fb4-3425-4eb8-a734-8b5401634fa8@195.133.11.229:443?security=tls&amp;sni=lessless.duckdns.org&amp;type=ws&amp;host=lessless.duckdns.org&amp;path=%2Fgetupdates&amp;allowInsecure=1#<i",
+        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.170:8880?security=none&amp;sni=pqh35v8.gym35fit.shop&amp;type=grpc&amp;host=pqh35v8.gym35fit.shop#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i"
     ],
-    "trojan": [
-        "trojan:\/\/6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.196:443?path=%2FTelegram%40V2ray_Alpha&amp;security=tls&amp;host=icecream.955850.xyz&amp;type=ws&amp;sni=icecream.955850.xyz#<i"
-    ],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#<i"
-    ],
+    "trojan": [],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
