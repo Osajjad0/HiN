@@ -1,24 +1,19 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/b357d11e-48ff-483f-969e-e72c380341f5@165.232.33.67:8440?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=firefox&amp;sni=refersion.com&amp;pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&amp;spx=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#<i",
-        "vless:\/\/b357d11e-48ff-483f-969e-e72c380341f5@128.199.45.153:8440?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=firefox&amp;sni=refersion.com&amp;pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&amp;spx=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#<i",
-        "vless:\/\/b357d11e-48ff-483f-969e-e72c380341f5@128.199.45.153:8440?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=firefox&amp;sni=refersion.com&amp;pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&amp;spx=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#<i",
-        "vless:\/\/67d1e140-d8c8-4e4c-be1f-9800a1bcad38@51.15.228.68:25481?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=www.7-zip.org&amp;pbk=uF7Fv79MbpkF2x_bDeXezdkMrI-vGS3UDNAwLzIKZTo&amp;sid=d72dc8a0&amp;spx=\/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.133:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.144:8880?security=none&amp;sni=pqh27v6.nature27.shop&amp;type=grpc#<i",
-        "vless:\/\/00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@v03.vxlimir.com:1370?security=reality&amp;type=tcp&amp;headerType=none&amp;path=&amp;host=&amp;sni=refersion.com&amp;fp=chrome&amp;pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&amp;sid=e1afb93bfe75a34b#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.170:8880?security=none&amp;type=grpc#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?security=none&amp;sni=TABRIZ.NET&amp;type=grpc&amp;fp=chrome&amp;alpn=h2,http\/1.1#<i"
+        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.143:8880?security=none&amp;type=grpc#<i",
+        "vless:\/\/7fed5bf9-a1de-41a0-ab89-694265c4895f@domain2025.dpdns.org:2053?path=%2F6jl7N0e8MwvgqHI4%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=domain2025.dpdns.org&amp;fp=randomized&amp;type=ws&amp;sni=domAIN2025.dpdNS.oRG#<i",
+        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.179:8880?security=none&amp;type=grpc#<i",
+        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.133:8880?security=none&amp;type=grpc#<i",
+        "vless:\/\/3f4dd350-8f88-4232-9e57-b12cb3d83b1c@91.99.24.244:47465?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@3.64.245.111:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?security=none&amp;type=grpc#<i",
+        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.166:8880?security=none&amp;sni=pqh35v4.gym35fit.shop&amp;type=grpc&amp;host=pqh35v4.gym35fit.shop#<i"
     ],
-    "trojan": [],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MGE5MzBjMTdmZjA@43.226.17.11:50058\/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bmux%3D4%3Bhost%3Dkr6v1.xpmc.cc%3Bpath%3D%2Fmatwnpkhug%3Bmux%3Dmux%3D4%3B%3B#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzdmNmI2MTY4YjY@103.137.62.194:443\/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bmux%3D4%3Bhost%3Dwt8v1.kvote.cn%3Bpath%3D%2Foqhygtklyhwi%3Bmux%3Dmux%3D4%3B%3B#<i",
-        "ss:\/\/YWVzLTI1Ni1jZmI6cWF3c3p4YzEyMw@13.229.50.252:443#<i"
+    "trojan": [
+        "trojan:\/\/telegram-id-directvpn@3.64.245.111:22223?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
     ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
