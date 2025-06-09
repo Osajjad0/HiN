@@ -1,29 +1,23 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/cccb4f83-3c1b-5749-984f-59d8691f5e13@151.101.64.155:80\/?type=ws&amp;encryption=none&amp;flow=&amp;host=mard.asabani.com&amp;path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER#<i",
-        "vless:\/\/9835fbea-cfb1-402a-bdc6-16ca140c6788@151.243.101.176:443\/?type=tcp&amp;encryption=none&amp;flow=&amp;sni=mirror.yandex.ru&amp;fp=firefox&amp;security=reality&amp;pbk=chH1NLDKKYvMZFZrxlDcOA9CwguHR1JSLbrB7xOjTXI&amp;sid=e12cc034#<i",
-        "vless:\/\/90f12f7c-6c24-42d3-98bb-9f598dca0589@v17.vxlimir.com:1370\/?type=tcp&amp;encryption=none&amp;flow=&amp;sni=refersion.com&amp;fp=chrome&amp;security=reality&amp;pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&amp;sid=e1afb93bfe75a34b#<i",
-        "vless:\/\/00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@v09.vxlimir.com:1370?security=reality&amp;type=tcp&amp;headerType=none&amp;path=&amp;host=&amp;sni=refersion.com&amp;fp=chrome&amp;pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&amp;sid=e1afb93bfe75a34b#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/bb232a6b-b70b-42fb-b13f-291ccb8ac667@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6\u2026#<i",
-        "vless:\/\/bb232a6b-b70b-42fb-b13f-291ccb8ac667@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Lightning.ir&amp;type=ws#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.133:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.229.29:8880\/?type=ws&amp;encryption=none&amp;flow=&amp;host=hk.laoyoutiao.link&amp;path=%2F#<i",
-        "vless:\/\/1a79d43f-b41c-496b-a241-dcbeefa81f0e@191.96.153.197:2053\/?type=ws&amp;encryption=none&amp;flow=&amp;host=0926.qiang2000.link&amp;path=%2FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&amp;security=tls&amp;sni=0926.qiang2000.link#<i",
-        "vless:\/\/2ccd496f-b14b-4a9c-8abd-a774c100cdd6@104.16.157.108:8080?path=%2F%40MaSTeRSeRVeR1-%40-MaSTeRSeRVeR1%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=masterserver1.nanvrfood.ir.&amp;type=httpupgrade#<i",
-        "vless:\/\/b2d42bdc-7bb5-43d8-845b-cdb3271653cc@api-staging.4b3a.com:8080?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;sni=rEfErSion.Com.&amp;fp=ios&amp;pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&amp;sid=8e36c7e79b74a6fa#<i",
-        "vless:\/\/7dd3ec51-246d-40c9-8508-90c5ee534659@104.17.21.157:8080?path=%2F%40MaSTeRSeRVeR1-%40-MaSTeRSeRVeR1%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1-%40MaSTeRSeRVeR1%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=selllv2rayng.nanvrfood.ir.&amp;type=httpupgrade#<i",
-        "vless:\/\/73d70321-cb%65c-4f0d-847c-24520%61b%61823%65@146.75.122.133:80?mode=auto&amp;path=%2F%40%76m%65sso%72g----%40%76m%65sso%72g-----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g%3Fed%3D2480&amp;security=none&amp;encryption=none&amp;host=jo%69nto_%76m%65sso%72g.%69%72&amp;type=xhttp#<i",
-        "vless:\/\/7f%65d5bf9-%611d%65-41%610-%61b89-694265c4895f@140.248.129.58:443?path=%2FCh%61nn%65l-MOSI%562--MOSI%562--Ch%61nn%65l-MOSI%562--MOSI%562%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=Ch%61nn%65l--MOSI%562--MOSI%562.IR&amp;allowInsecure=1&amp;fp=qq&amp;type=ws&amp;sni=Channel--MOSIV2--MOSIV2.IR#<i",
-        "vless:\/\/7fed5bf9-a1de-41a0-ab89-694265c4895f@199.232.13.32:80?path=%2Fnetherlands%2Famsterdam%2Fvl%2Fws%2Ftls&amp;security=none&amp;encryption=none&amp;host=Channel-VPNCUSTOMIZE.ir&amp;type=ws#<i",
-        "vless:\/\/3a17f5ac-413e-404b-9dee-fae975e0efe9@78.46.209.177:7005?security=reality&amp;encryption=none&amp;pbk=uvD80HhI4bd7zO_C-f8gtm7AzRhGdjiWDU2TI-S-hEk&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com#<i",
-        "vless:\/\/34acc61e-d63a-4f0f-abb4-73d57ae63611@162.159.20.126:2052?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=v2ngfast.nanvrfood.ir.&amp;type=httpupgrade#<i"
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?security=none&amp;type=grpc#<i",
+        "vless:\/\/54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.145:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=147135004002.sec20org.com#<i",
+        "vless:\/\/c2ecd018-3559-48ab-a879-44cf71098130@157.230.17.102:30206?security=none&amp;type=grpc#<i",
+        "vless:\/\/00f8d77b-ba64-4807-8fc0-bb3cbe89b6e6@v23.vxlimir.com:1370?security=reality&amp;type=tcp&amp;headerType=none&amp;path=&amp;host=&amp;sni=refersion.com&amp;fp=chrome&amp;pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&amp;sid=e1afb93bfe75a34b#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?security=none&amp;type=grpc#<i",
+        "vless:\/\/9835fbea-cfb1-402a-bdc6-16ca140c6788@78.159.131.160:443\/?type=tcp&amp;encryption=none&amp;flow=&amp;sni=www.samsung.com&amp;fp=firefox&amp;security=reality&amp;pbk=gWjVFJOoNc92yFN9zAKErrtFuA1UmS4PI6sLSYBI7VM&amp;sid=e1f576c5#<i",
+        "vless:\/\/376734bc-4db8-4317-b451-af0262cb01c7@172.67.171.131:2096\/?type=ws&amp;encryption=none&amp;flow=&amp;host=InVINciBLE.FaFa20.ShOP&amp;path=%2Fmckhnxk6ubbqe5om%2Fmzquodgunjmumtyw&amp;security=tls&amp;sni=InVINciBLE.FaFa20.ShOP#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.93:8880?security=none&amp;type=grpc#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i"
     ],
-    "trojan": [],
-    "ss": [],
+    "trojan": [
+        "trojan:\/\/6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.196:443?path=%2FTelegram%40V2ray_Alpha&amp;security=tls&amp;host=icecream.955850.xyz&amp;type=ws&amp;sni=icecream.955850.xyz#<i"
+    ],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
