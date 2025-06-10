@@ -1,22 +1,20 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.109:8880?security=none&amp;sni=pqf1v5.fomula1race.shop&amp;type=grpc#<i",
-        "vless:\/\/<i",
-        "vless:\/\/<i",
-        "vless:\/\/<i",
-        "vless:\/\/<i",
-        "vless:\/\/<i",
-        "vless:\/\/<i",
-        "vless:\/\/<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.187:8880?security=none&amp;type=grpc#<i",
-        "vless:\/\/telegram-id-ArV2ray12@151.101.64.155:80?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=mard.ankaboti.com.&amp;type=ws#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?security=none&amp;sni=pqh27v1.nature27.shop&amp;type=grpc#<i",
-        "vless:\/\/690ab90e-3f21-422b-8cb1-bc9845c7af1e@104.26.15.85:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=IO.IhJtq0hklC.ZULAiR.OrG.&amp;type=ws#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.128:8880?security=none&amp;type=grpc#<i"
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.193:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.185:8880?security=none&amp;type=grpc#<i",
+        "vless:\/\/7e5d4761-e0d5-47f8-b74b-443ccd4799cb@199.232.13.32:80?path=%2Fnetherlands%2Famsterdam%2Fvl%2Fws%2Ftls&amp;security=none&amp;encryption=none&amp;host=Channel---VPNCUSTOMIZE.net&amp;type=ws#<i",
+        "vless:\/\/269c963f-6021-4547-8303-cc764085603b@199.232.13.32:80?path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Apple-SIB.ir&amp;type=ws#<i",
+        "vless:\/\/391c477b-545d-405f-bb78-371e0d1fb63f@194.182.79.41:48615\/?type=grpc&amp;encryption=none&amp;flow=&amp;serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#<i",
+        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.144:8880?security=none&amp;type=grpc#<i"
     ],
     "trojan": [],
-    "ss": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvSE9QMWJXRk1rUVZ4M1BkYmhSbE9r@77.239.116.76:8315#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
