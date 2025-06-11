@@ -1,19 +1,21 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4xOS4zMi4wIiwgInBvcnQiOiA0NDMsICJpZCI6ICI5M2VhNDg2YS1iYWRhLTQyYTQtYWMzOC1kMDg4YjMyMGZhMWUiLCAidHlwZSI6ICIiLCAiYWlkIjogMCwgIm5ldCI6ICJ3cyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJ4bWl2aWRlby5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgImhvc3QiOiAieG1pdmlkZW8uY2ZkIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZcdTAwYWVcdWZlMGZDYW5hZGFcdTAwYTlcdWZlMGZUb3JvbnRvXHVkODNjXHVkZDdmXHVmZTBmcGluZzo4LjRtcyJ9<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:443?type=ws&amp;host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&amp;path=\/Telegram@V2ray_Alpha\/%3D?ed%3D2560\/&amp;security=tls&amp;fp=randomized&amp;sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ&amp;alpn=h2,http\/1.1#<i",
-        "vless:\/\/66f1504e-26ab-4219-c8d6-eab468906e46@167.82.72.20:443\/?type=ws&amp;host=aklisusa.com&amp;path=\/@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn@AKLISvpn@Aklisvpn&amp;security=tls&amp;fp=firefox&amp;sni=map.google.com&amp;allowInsecure=true#<i",
-        "vless:\/\/eb541742-1b1a-42fc-9b4a-cf8ef1991cc2@www.speedtest.net:8880?path=%2Ftelegram---Academi_vpn--telegram--Academi_vpn--telegram--Academi_vpn--telegram--Academi_vpn--telegram----Academi_vpn--Mystic_vpn%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=de-snapp23.academigroup.ir.&amp;type=ws#<i",
-        "vless:\/\/eb541742-1b1a-42fc-9b4a-cf8ef1991cc2@www.zula.ir:8880?path=%2Ftelegram---Academi_vpn--telegram--Academi_vpn--telegram--Academi_vpn--telegram--Academi_vpn--telegram----Academi_vpn--Mystic_vpn%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=de-snapp23.academigroup.ir.&amp;type=ws#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?security=none&amp;type=grpc#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?security=none&amp;type=grpc#<i",
-        "vless:\/\/telegram-id-ArV2ray2@www.speedtest.net:80?path=%2F-ArV2ry@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL-@ArV2ry-TEL--@ArV2ry-JOIN-@ArV2ry-TEL--@ArV2ry&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.b.1.speedtest2029.com.&amp;type=ws#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.185:8880?security=none&amp;type=grpc#<i",
-        "vless:\/\/7fed5bf9-a1de-41a0-ab89-694265c4895f@199.232.13.32:80?path=%2FChannel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=Channel-ELiV2RAY---ELiV2RAY.nET&amp;type=ws#<i"
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=none&amp;type=grpc#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.193:8880?security=none&amp;type=grpc#<i",
+        "vless:\/\/1bec8b80-429c-4711-b143-740ae2a7f0f9@81.28.12.12:80?path=%2FAzV2ry%3Fed%3D2056%2F%3FBIA_CHANEL%40JOKERRVPN&amp;security=none&amp;encryption=none&amp;host=speedtimemsa.com&amp;type=httpupgrade#<i",
+        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.170:8880?security=none&amp;sni=pqh35v8.gym35fit.shop&amp;type=grpc&amp;host=pqh35v8.gym35fit.shop#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?security=none&amp;sni=TABRIZ.NET&amp;type=grpc&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1#<i",
+        "vless:\/\/280c19e6-e36d-4d30-af41-f1fd3274218c@hazardgambil.techforgesec.ir:443?type=xhttp&amp;path=ws%2F%3Fed%3D443&amp;host=&amp;mode=auto&amp;security=reality&amp;pbk=M5SrZwg5W406_83KgJwydPvsLiquKpvmMsoqP9jnjk8&amp;fp=randomized&amp;sni=docker.com&amp;sid=998f7e770f66b5c6&amp;spx=%2F#<i",
+        "vless:\/\/73063b0e-d730-470d-82de-f7653e0922b7@hazardgambil.techforgesec.ir:80?type=xhttp&amp;path=%2Fcdn-path-xyz&amp;host=&amp;mode=auto&amp;security=reality&amp;pbk=DBYKG2tmNkxdjBlRHk8i0Uerw8Im9YLNF2z-mErSxxg&amp;fp=randomized&amp;sni=docker.com&amp;sid=29&amp;spx=%2F#<i",
+        "vless:\/\/6885ec0a-a89b-4a62-9847-b84cb1ad4995@hazardgambil.techforgesec.ir:8080?type=grpc&amp;serviceName=&amp;authority=&amp;security=reality&amp;pbk=3AXP2FF21FUPDBzWiDJeRDPR9EuqBjkMoTRJCWpsMTs&amp;fp=randomized&amp;sni=docker.com&amp;sid=055f74cd05c3&amp;spx=%2F#<i",
+        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.144:8880?security=none&amp;sni=pqh27v6.nature27.shop&amp;type=grpc&amp;host=pqh27v6.nature27.shop#<i",
+        "vless:\/\/telegram-id-ArV2ray12@151.101.64.155:80?path=%2F-ArV2ry%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL-%40ArV2ry-TEL--%40ArV2ry-JOIN-%40ArV2ry-TEL--%40ArV2ry%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=mard.ankaboti.com.&amp;type=ws#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?security=none&amp;type=grpc#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&amp;security=tls&amp;host=vle.amclubsvip.dpdns.org&amp;type=ws&amp;sni=vle.amclubsvip.dpdns.org#<i"
+    ],
     "ss": [],
     "tuic": [],
     "hysteria": [],
