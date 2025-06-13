@@ -1,23 +1,22 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/a90e3756-d330-4597-bcc3-ab7905741e52@86.104.72.211:32401?security=reality&amp;encryption=none&amp;pbk=8RJPuc5C7fcVe5LSQ0olGnhiqFL8LX-0pnLMrEHD1Bs&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=dl.google.com&amp;sid=7fb7a1507826c540#<i",
-        "vless:\/\/faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.18.176:444\/?security=reality&amp;encryption=none&amp;pbk=FOSoac3DIrSrCUcBtQA-BdHMxCtqe2CYCpdvGxKMiUw&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=opensuse.org&amp;sid=82b9ca5d8d39ba72#<i",
-        "vless:\/\/704fd681-71bc-4aae-b85f-5f43fd7c08b8@node1.rtxconfigz.com:443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;host=node1.rtxconfigz.com&amp;fp=random&amp;type=ws&amp;sni=api.zoom.us#<i",
-        "vless:\/\/eb899be2-f306-468e-bb4d-1c43f7d49c00@104.19.150.10:2086?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=mci.mtn.ir.com.org.net.om.org.net.hy.gameapkmode.info.&amp;path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#<i",
-        "vless:\/\/Parsashonam-254@185.146.173.39:8880?path=%2F&amp;security=&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
-        "vless:\/\/7fed5bf9-a1de-41a0-ab89-694265c4895f@www.speedtest.net:80?path=%2FJaxavRV98PXaUKdZ%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=domain2025.dpdns.org&amp;type=ws#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.32.1:80?path=%2F%3Fed%3D%23%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&amp;security=none&amp;encryption=none&amp;host=redfree8.redorg1.ir&amp;type=ws#<i",
-        "vless:\/\/eb899be2-f306-468e-bb4d-1c43f7d49c00@zula.ir:2086?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=mci.mtn.ir.com.org.net.om.org.www.lighttolife.net.&amp;path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#<i",
-        "vless:\/\/0b8dc82b-fb0f-45b5-f753-d736e36af6b8@www.speedtest.net:2082\/?type=ws&amp;encryption=none&amp;flow=&amp;host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&amp;path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082#<i",
-        "vless:\/\/dc8a7de0-e311-4675-bce9-656dada9751a@164.90.190.249:2053?mode=gun&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=qauuf.iran.ailreza.org.tr&amp;sni=qauuf.iran.ailreza.org.tr#<i"
+        "vless:\/\/7fed5bf9-a1de-41a0-ab89-694265c4895f@www.speedtest.net:8080?path=%2F2jG0SuCBYoyUpHws%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=domain2025.dpdns.org&amp;type=ws#<i",
+        "vless:\/\/58e596b3-e7e6-43c5-9c03-b1e90db428a9@www.speedtest.net:80?path=\/Channel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY?ed=2048&amp;security=none&amp;encryption=none&amp;host=PaMCHALL.cOM.&amp;type=ws#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/715b3f21-8774-484a-9230-f0a2c187e168@46.243.3.15:443\/?type=tcp&amp;encryption=none&amp;flow=&amp;sni=www.cdn77.com&amp;fp=chrome&amp;security=reality&amp;pbk=SWA-po18cETv3noGE9OearcQaA6ERQRg31ejuSMpbkI&amp;sid=e54b5ad736ae4c38#<i",
+        "vless:\/\/telegram-id-ArV2ray@193.46.81.91:2041\/?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&amp;fp=chrome&amp;type=grpc&amp;serviceName=telegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray&amp;sni=ftp.debian.org&amp;sid=688c#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/abc13300-efa7-48d5-a3a3-0609999a2056@www.speedtest.net:2052?security=&amp;encryption=none&amp;host=mostaghim-chap.ok-exor.ir&amp;type=httpupgrade#<i",
+        "vless:\/\/c39d56fe-8c97-4aa1-a2f8-c0e40ef40219@speedtest.net:80?mode=auto&amp;path=%2F%40vistav2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=vistapcitttt.com&amp;type=xhttp#<i",
+        "vless:\/\/1f897827-de63-4b11-9991-5f4785a3ddaa@5.75.205.247:65123?security=reality&amp;encryption=none&amp;pbk=TB3m0CBMDxvFdG6PpzLR0pGp5SYgsyE1nGFlkYbspRU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.fra-shop.ir&amp;sid=edae4083bf85d314#<i",
+        "vless:\/\/20ca9e80-1618-4bb7-8225-d33cf047dc1a@151.101.64.155:80?path=%2F-LiV2ry%40%4C%49%47%48%54%4E%49%4E%47%36-%54%45%4C--%40%4C%49%47%48%54%4E%49%4E%47%36-%54%45%4C--%40%4C%49%47%48%54%4E%49%4E%47%36-%54%45%4C--%40%4C%49%47%48%54%4E%49%4E%47%36-JOIN-%40%4C%49%47%48%54%4E%49%4E%47%36-%54%45%4C--%40%4C%49%47%48%54%4E%49%4E%47%36-JOIN-%40%4C%49%47%48%54%4E%49%4E%47%36-%54%45%4C-%40%4C%49%47%48%54%4E%49%4E%47%36-%54%45%4C--%40%4C%49%47%48%54%4E%49%4E%47%36-JOIN-%40%4C%49%47%48%54%4E%49%4E%47%36-%54%45%4C--%40%4C%49%47%48%54%4E%49%4E%47%36%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=Lightning.ir&amp;type=ws#<i"
     ],
-    "trojan": [],
-    "ss": [
-        "ss:\/\/YWVzLTI1Ni1nY206T0pSMEpRUDdCVzkyOFFWMg@185.186.77.137:20025#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206VFRUQ05BNldUNTlPTVkyOA@147.78.3.137:20032#<i"
+    "trojan": [
+        "trojan:\/\/6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.122:443?path=%2Fproxyip%3D194.76.18.122%3A443&amp;security=tls&amp;host=icecream.955850.xyz&amp;type=ws&amp;sni=icecream.955850.xyz#<i",
+        "trojan:\/\/13253e6e-a1f7-4090-801f-a8dc2b083bef@172.67.175.148:443?path=%2Ftr7PXHQRn4VPwGA2zY%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;host=invincible.fafa20.shop&amp;fp=randomized&amp;type=ws&amp;sni=inviNcIble.fafa20.ShOp#<i"
     ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
