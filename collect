@@ -1,22 +1,27 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/dcac3361-700d-48f0-ed80-21071ee7ffa7@rahman2.rahmancloud.ir:14258?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#<i",
-        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.32.1:80?path=%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=redfree8.redorg1.ir&amp;type=ws#<i",
-        "vless:\/\/eaff2a70-d992-448a-adf4-524cb8f13137@104.16.68.226:80\/?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=restless-dust-d9c3.nazijoon1378s.workers.dev&amp;type=ws#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@638844805955076644.vienna-shledrc-acbo.info:8880?security=&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.26.13.54:443\/?type=ws&amp;encryption=none&amp;flow=&amp;host=kg.ilikeu.dpdns.org&amp;path=%2F&amp;security=tls&amp;sni=kg.ilikeu.dpdns.org&amp;fp=chrome#<i",
-        "vless:\/\/730f02b4-a187-4498-b3fa-9e9f1dccf47c@cdn.mcinet.xyz:8880?path=%2F&amp;security=&amp;encryption=none&amp;host=dl1.mcinet.xyz.&amp;type=httpupgrade#<i",
-        "vless:\/\/cd2129eb-f6e4-415a-a2f4-0499625c9058@ns4.esfahansiman.com:443\/?path=TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=WWW.pegAh-Esfahan.De.&amp;fp=chrome&amp;type=ws&amp;sni=WWW.pegAh-Esfahan.De.#<i",
-        "vless:\/\/ee6774c0-9b19-4ff1-8b30-2da4b71977e2@theo.ns.cloudflare.com:443\/?type=ws&amp;encryption=none&amp;flow=&amp;host=edmz.aimercc.filegear-sg.me&amp;path=%2F%3Fproxyip%3Dts.hpc.tw&amp;security=tls&amp;sni=edmz.aimercc.filegear-sg.me#<i",
-        "vless:\/\/6a0de64e-39e3-46a7-a8bc-89f4888560e2@rahman2.rahmancloud.ir:14258?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#<i",
-        "vless:\/\/d8dd94fd-540e-461d-b5d4-acebef02c22a@160.250.64.58:34045?security=reality&amp;encryption=none&amp;pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&amp;headerType=&amp;fp=firefox&amp;type=tcp&amp;sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&amp;sid=e8ab71d0#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/a08290de-d5f4-4f11-92ef-f9e77e5a450e@rahman2.rahmancloud.ir:14258?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#<i"
+        "vless:\/\/7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2052?path=%2FahiWVFUV6Bj3gGKk%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=domain2025.dpdns.org&amp;type=ws#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/dc8a7de0-e311-4675-bce9-656dada9751a@164.90.190.249:2053?mode=gun&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=qauuf.iran.ailreza.org.tr&amp;sni=qauuf.iran.ailreza.org.tr#<i",
+        "vless:\/\/96a1b724-68d2-4f4d-ab25-38ecd83577bc@208.86.168.210:443\/?type=ws&amp;encryption=none&amp;flow=&amp;host=Wv2NhB0hVh.SoLiJoNiTo.CoM&amp;security=tls&amp;sni=Wv2NhB0hVh.SoLiJoNiTo.CoM&amp;fp=chrome#<i",
+        "vless:\/\/7fed5bf9-a1de-41a0-ab89-694265c4895f@104.21.75.66:2086?path=%2FtvBEHCmw4qDK5mxR%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=domain2025.dpdns.org&amp;type=ws#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.88:8880\/?type=ws&amp;encryption=none&amp;flow=&amp;host=sg.laoyoutiao.link&amp;path=Telegram%40WangCai2%2F%3Fed%3D2048#<i",
+        "vless:\/\/06b094d7-7ca3-4297-b0d0-771d935231f1@farsidutch.nl:22681?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
+        "vless:\/\/1d521904-5ffa-4afa-b639-96ea4e5fce4a@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=Lightning.ir&amp;type=ws#<i",
+        "vless:\/\/e1cd8b8b-927b-43e6-8d8b-b7776847aee2@104.21.69.44:8880?security=none&amp;type=ws&amp;host=join.VPNCUSTOMIZE.iran.ir.arvancloud.ir.nett.ddns-ip.net.&amp;fp=chrome&amp;alpn=h3,h2,http\/1.1#<i",
+        "vless:\/\/7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495\/?type=tcp&amp;encryption=none&amp;flow=&amp;sni=dl.google.com&amp;fp=chrome&amp;security=reality&amp;pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&amp;sid=0ecc2c1392#<i",
+        "vless:\/\/cd2129eb-f6e4-415a-a2f4-0499625c9058@ns4.esfahansiman.com:443\/?path=TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=WWW.EsfahAnsimaN.infO.&amp;fp=chrome&amp;type=ws&amp;sni=WWW.EsfahAnsimaN.infO.#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?encryption=none&amp;security=none&amp;type=grpc&amp;authority=%2FBIA_TELEGRAM@ShadowProxy66&amp;mode=gun#<i",
+        "vless:\/\/715b3f21-8774-484a-9230-f0a2c187e168@46.243.3.15:443\/?type=tcp&amp;encryption=none&amp;flow=&amp;sni=www.cdn77.com&amp;fp=chrome&amp;security=reality&amp;pbk=SWA-po18cETv3noGE9OearcQaA6ERQRg31ejuSMpbkI&amp;sid=e54b5ad736ae4c38#<i",
+        "vless:\/\/06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.129.11:2053\/?type=ws&amp;encryption=none&amp;flow=&amp;host=hz.ylks0033.dpdns.org&amp;path=%2F&amp;security=tls&amp;sni=hz.ylks0033.dpdns.org#<i",
+        "vless:\/\/e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.14.6:443?security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=none&amp;type=tcp&amp;sni=147135001178.sec22org.com#<i"
     ],
     "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#<i"
+        "ss:\/\/MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WDB4SnM3Qm40eVh4ZVBiUWhmc0txYzBDaUFpNWE3dGNWNkdGUEN5WVduND06TGlXTStIK1NXTXJObllaaU9qcG1PeldNVzBCTVlDQnJMQzU3TzVVYitOcz0%3D@212.118.42.181:9260#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQkhRcDJaRExlZXU3eFdCTVFEdDY1ZzM3Smk0N25jdXptVDNFcEJrZ25FMXFTWGVIa1NHaFByaWVRZHRQNTdxcW5aVHo3MzhaTHBSQUxtZngxejlrWUxXcFQyQXV2N1o@www2.broadalx.cfd:40934#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206VFRUQ05BNldUNTlPTVkyOA@147.78.3.137:20032#<i"
     ],
     "tuic": [],
     "hysteria": [],
