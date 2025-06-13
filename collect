@@ -1,22 +1,16 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogIjE0Mi4xMzIuMTg1LjE1NiIsICJwb3J0IjogMzg3OTksICJpZCI6ICI2Y2U2OGEzNi0wMTk5LTQzNTktYjQ0Mi0wNTY4NjU1ZjNlNWQiLCAiYWlkIjogMCwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICJub25lIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWFcdTAwYWVcdWZlMGZHZXJtYW55XHUwMGE5XHVmZTBmRmFsa2Vuc3RlaW5cdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjM2Ljk3bXMifQ==<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/4aefa474-aa2c-46d4-aff1-82fa29dd5c25@v07.vxlimir.com:1370?security=reality&amp;encryption=none&amp;pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com&amp;sid=e1afb93bfe75a34b#<i",
-        "vless:\/\/a0de1607-5b63-fab8-a759-9f98706b6125@178.20.215.10:443?security=reality&amp;encryption=none&amp;pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&amp;headerType=none&amp;fp=chrome&amp;spx=%2FChannel%3A---%40MTMVPN---%40MTMVPN---%40MTMVPN&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=speed.cloudflare.com#<i",
-        "vless:\/\/7d910091-9504-4fe4-9d04-1e38de91ea90@zarin7i.alireza031.pw:43702?path=%2FZARIN7&amp;security=&amp;encryption=none&amp;host=x8ti3.divarcdn.com%2CVu4Jf.snappfood.ir%2CG1SQh.yjc.ir%2CTNv0A.digikala.com%2C3yZoN.tic.ir&amp;type=ws#<i",
-        "vless:\/\/b1b8eefe-c8eb-4387-9838-7832b5c5f8ce@45.11.92.249:8443?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#<i",
-        "vless:\/\/acd867f1-a71b-4a17-a473-2b57930d8678@api.cloudfront.aws.4b3a.com:8080?security=reality&amp;encryption=none&amp;pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=rEfErSion.Com.&amp;sid=8e36c7e79b74a6fa#<i",
+        "vless:\/\/1a79d43f-b41c-496b-a241-dcbeefa81f0e@86.38.156.247:2053?path=%2FTelegram%40mtmvpn%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=0926.qiang2000.link&amp;fp=chrome&amp;type=ws&amp;sni=0926.qiang2000.link#<i",
         "vless:\/\/acd867f1-a71b-4a17-a473-2b57930d8678@webhook-receiver.4b3a.com:8443?security=reality&amp;encryption=none&amp;pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=cDn.cloUdfLare.com.&amp;sid=6ba85179e30d4fc2#<i",
         "vless:\/\/f6532006-dcfc-4f42-ab58-b72a3f4e1fb1@www.speedtest.net:80?path=%2FMosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=pamchall.com.&amp;type=ws#<i",
-        "vless:\/\/7d910091-9504-4fe4-9d04-1e38de91ea90@zarin7i.alireza031.pw:43702\/?path=%2FZARIN7&amp;security=&amp;encryption=none&amp;host=x8ti3.divarcdn.com%2CVu4Jf.snappfood.ir%2CG1SQh.yjc.ir%2CTNv0A.digikala.com%2C3yZoN.tic.ir&amp;type=ws#<i",
-        "vless:\/\/acd867f1-a71b-4a17-a473-2b57930d8678@webhook-receiver.4b3a.com:8443\/?security=reality&amp;encryption=none&amp;pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=cDn.cloUdfLare.com.&amp;sid=6ba85179e30d4fc2#<i",
-        "vless:\/\/f6532006-dcfc-4f42-ab58-b72a3f4e1fb1@www.speedtest.net:80\/?path=%2FMosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=pamchall.com.&amp;type=ws#<i"
+        "vless:\/\/1a79d43f-b41c-496b-a241-dcbeefa81f0e@31.24.253.96:8443?path=Telegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=0926.qiang2000.link&amp;type=ws&amp;sni=0926.qiang2000.link#<i"
     ],
-    "trojan": [
-        "trojan:\/\/0fc9c5ff-9531-4178-966f-7d958e1df64b@95.164.85.39:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=wispy-crib-net.stark-industries.solutions#<i"
-    ],
+    "trojan": [],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaUhRWDljRGJkb29CSGxJZzBlaXFR@45.144.54.33:34803#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VFdlS051aHZhc1lFYkpHdnpHbmVwNVk2dldGd3BTdmpCTVJDUU42WXV5RHl5Z1VoU0Q4ZjRwWEV6Q3A1SjhzODRFZzh2b1ZxYTU1N1JTWE5zV2Z3VExKTXVnUnd6Mzc=@94.156.79.244:40934#<i"
     ],
     "tuic": [],
     "hysteria": [],
