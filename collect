@@ -1,10 +1,17 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/3232953e-5959-495c-b969-d6d86a635089@104.18.21.98:443?security=tls&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&amp;type=ws&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&amp;path=%2F%3Fed%3D2048&amp;fp=chrome&amp;alpn=h3%2Ch2#<i"
+        "vless:\/\/d2901eeb-586c-45d5-9347-86a093ff3713@it3zq4.smrfy.online:32348?security=none&amp;encryption=none&amp;host=trexplus.org%2Crubika.ir%2Csoft98.ir%2Csnapp.ir&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/d2901eeb-586c-45d5-9347-86a093ff3713@it3zq4.smrfy.online:32348?security=none&amp;encryption=none&amp;host=trexplus.org%2Crubika.ir%2Csoft98.ir%2Csnapp.ir&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/fac834ec-7ad6-48cb-9a52-0dbb9ab7498e@abtun.f-sub.com:5969?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=speedtest.net#<i",
+        "vless:\/\/fac834ec-7ad6-48cb-9a52-0dbb9ab7498e@vip-82.f-sub.cfd:5969?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=speedtest.net#<i",
+        "vless:\/\/5e236508-63e4-45b3-a7d7-f9cd81af89df@57.130.19.124:2055?encryption=none&amp;security=reality&amp;sni=kifpool.me&amp;fp=chrome&amp;pbk=HdhATsM5cYDWfhAt0LyrttGBoscuoT4M3fOSvYN8sEQ&amp;sid=54994c92a0&amp;spx=%2F&amp;type=xhttp&amp;path=%2F&amp;mode=auto#<i",
+        "vless:\/\/96a1b724-68d2-4f4d-ab25-38ecd83577bc@199.34.228.178:2096?security=tls&amp;sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&amp;type=ws&amp;host=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&amp;path=%2F%23Telegram%40V2ray_Alpha%2F%3Fed%3D2560#<i"
     ],
     "trojan": [],
-    "ss": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnU1I2bmlqamk3YzFORkJGZGQ4SG9j@h110vpnch.outlinekeys.net:4248#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
