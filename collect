@@ -1,27 +1,24 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.165.152.18:2087\/?type=ws&amp;encryption=none&amp;flow=&amp;host=edmz.ambercc.filegear-sg.me&amp;path=%2F%3Fed%3D2560&amp;security=tls&amp;sni=edmz.ambercc.filegear-sg.me#<i",
-        "vless:\/\/401374e6-df77-41fb-f638-dad8184f175b@45.159.216.129:443?security=tls&amp;sni=pqh36v4.hiddendom.shop&amp;type=grpc&amp;host=pqh36v4.hiddendom.shop&amp;alpn=h2#<i",
-        "vless:\/\/bd3b011a-403f-4006-9c2c-2d49d6f25acd@104.22.19.174:443?security=tls&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&amp;type=ws&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&amp;path=%2F%3Fed%3D2048&amp;fp=chrome&amp;alpn=h3%2Ch2#<i",
-        "vless:\/\/a73cf704-008c-439b-8a22-8b693a9e3104@162.159.153.245:2087?sni=lyxahh316.dpdns.org&amp;type=ws&amp;host=lyxahh316.dpdns.org&amp;allowInsecure=0#<i",
-        "vless:\/\/eb965440-671d-4903-8909-fa8d0cbdba4e@104.17.147.22:443?security=tls&amp;sni=www.speedtest.net&amp;type=xhttp&amp;host=actions.dgclix.ir&amp;path=%2F%3FJOKERRVPNJoin_Bade_Channel%40JOKERRVPN&amp;allowInsecure=1#<i",
-        "vless:\/\/9d22dd97-583f-49c1-9c09-c8cab019f176@151.101.6.200:80?mode=auto&amp;path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Zedmodeonjoininyour-name.global.ssl.fastly.net&amp;type=xhttp#<i",
-        "vless:\/\/3058e698-61fd-4d12-95bc-f1fe4c071713@104.17.147.22:443?path=%2FRklUHeautH5uvnSB%2FNTQuMTY5LjIyOS4xODg&amp;security=tls&amp;encryption=none&amp;host=hOZori.iR&amp;type=ws&amp;sni=hOZori.iR#<i",
-        "vless:\/\/570f00ba-af38-44b9-955c-86f8272e0d3a@173.245.59.132:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=lO-sNaPp.ZeMpA-lOvE.ir&amp;type=httpupgrade#<i",
-        "vless:\/\/bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPN&amp;security=none&amp;encryption=none&amp;host=barayeiran.nastaranh.dpdns.org&amp;type=ws#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@185.148.104.245:80?path=Telegram%3A%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&amp;type=ws#<i",
-        "vless:\/\/b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.11.138:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=kssepa.sabzipolobamahi.dpdns.org&amp;type=ws#<i",
-        "vless:\/\/f3f06aab-0a2c-43bf-80da-2bcbc7b332f2@cdn80asdasldkjaskldjsfffffasdasd.asiatech-server.com:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/f3f06aab-0a2c-43bf-80da-2bcbc7b332f2@cdn8088asdjaksdhasbvgddsaaaaaa.asiatech-server.com:8088?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/e1d98310-db5a-4279-bbf7-760902b4af0b@172.67.30.148:443?sni=2576.papala.filegear-sg.me&amp;type=ws&amp;host=2576.papala.filegear-sg.me&amp;allowInsecure=0#<i",
-        "vless:\/\/7fed5bf9-a1de-41a0-ab89-694265c4895f@www.speedtest.net:8080?path=%2F2jG0SuCBYoyUpHws%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=domain2025.dpdns.org&amp;type=ws#<i",
-        "vless:\/\/401374e6-df77-41fb-f638-dad8184f175b@185.148.104.116:443?security=tls&amp;sni=pqh36v4.hiddendom.shop&amp;type=grpc&amp;host=pqh36v4.hiddendom.shop&amp;alpn=h2#<i",
-        "vless:\/\/f3f06aab-0a2c-43bf-80da-2bcbc7b332f2@cdn8088asdjaksdhasbvgddsaaaaaa.asiatech-server.com:8088?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#<i"
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@638855440313811037.rasht-drc-tusaba.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#<i",
+        "vless:\/\/5d71b518-9f52-414a-abf2-b806684233be@pic2.zarashop0.ir:2087?mode=gun&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;sni=pic2.zarashop0.ir#<i",
+        "vless:\/\/730f02b4-a187-4498-b3fa-9e9f1dccf47c@86.38.214.53:8880?path=%2F%3Fed%3D8880-%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&amp;security=none&amp;encryption=none&amp;host=dl1.mcinet.xyz.&amp;type=httpupgrade#<i",
+        "vless:\/\/ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.176:443?path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=rostam.29394900.xyz&amp;fp=firefox&amp;type=ws&amp;sni=rostam.29394900.xyz#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.100:8880\/?type=ws&amp;encryption=none&amp;flow=&amp;host=jp.laoyoutiao.link&amp;path=Telegram%40WangCai2%2F%3Fed%3D2560#<i",
+        "vless:\/\/6a0de64e-39e3-46a7-a8bc-89f4888560e2@37.202.224.194:14258?security=none&amp;type=tcp#<i",
+        "vless:\/\/0fa53d34-5f21-4d66-bb5f-6f37c2a8c4e1@62.192.174.205:443\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=lv.wikipedia.org&amp;fp=chrome&amp;security=reality&amp;pbk=Lb1Gi0VcVuytLf_gb846u7iKkHVywpG8IC9wdZslwUA&amp;sid=102707ab31571a93#<i",
+        "vless:\/\/9dca0400-cb85-4328-88f3-6e765c9a2e82@172.64.68.152:8443?sni=iiiiiii-d4h.pages.dev&amp;type=ws&amp;host=iiiiiii-d4h.pages.dev&amp;allowInsecure=0#<i",
+        "vless:\/\/1410bbe8-59dd-47d1-a76e-cb26baff43d0@46.101.24.167:2443\/?type=tcp&amp;encryption=none&amp;flow=&amp;sni=api.snapkit.com&amp;fp=chrome&amp;security=reality&amp;pbk=QgyNvrlHczufNmykfEZlNojkJNtz_BSc8JCVGZlpdT0&amp;sid=c104a7dd#<i",
+        "vless:\/\/76ad8213-4617-47eb-92cc-5392b39b45ce@104.26.14.85:80?security=none&amp;type=ws&amp;sni=eLOQuENt-caSE.ZUlaIR.orG.&amp;path=\/?ed=2048&amp;encryption=none&amp;headerType=none#<i",
+        "vless:\/\/dbb3c682-8564-4c02-aec9-23ecf7981820@104.19.219.139:443\/?type=ws&amp;encryption=none&amp;flow=&amp;host=arc-448.pages.dev&amp;path=%2Fapi%2Fv1&amp;security=tls&amp;sni=ARC-448.Pages.DEV&amp;alpn=h3&amp;fp=firefox#<i",
+        "vless:\/\/f3f06aab-0a2c-43bf-80da-2bcbc7b332f2@cdn8088asdjaksdhasbvgddsaaaaaa.asiatech-server.com:8088?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/Aimer@154.197.64.233:443?allowInsecure=0&amp;sni=epccf.ambercc.filegear-sg.me#<i"
+    ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPWDc2bmRnVGN5RVNlVW5aZTByNWRP@150.241.69.126:3452?prefix=%16%03%01%00%C2%A8%01%01#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzdmNmI2MTY4YjY@103.137.62.194:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
