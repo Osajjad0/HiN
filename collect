@@ -1,28 +1,20 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.159.217.213:8880\/?type=ws&amp;encryption=none&amp;flow=&amp;host=jp.laoyoutiao.link#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.74.228.213:8880\/?type=ws&amp;encryption=none&amp;flow=&amp;host=jp.laoyoutiao.link#<i",
-        "vless:\/\/401374e6-df77-41fb-f638-dad8184f175b@31.43.179.38:443\/?type=grpc&amp;encryption=none&amp;flow=&amp;security=tls&amp;sni=pqh23v4.hiddendom.shop&amp;alpn=h2#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.153.7.213:8880\/?type=ws&amp;encryption=none&amp;flow=&amp;host=jp.laoyoutiao.link#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.212:8880\/?type=ws&amp;encryption=none&amp;flow=&amp;host=jp.laoyoutiao.link&amp;path=Telegram%40WangCai2%2F%3Fed%3D2560#<i",
-        "vless:\/\/d0b598fc-ec42-46fd-adec-846cd692a1dd@95.38.153.18:999?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.142.120.213:8880\/?type=ws&amp;encryption=none&amp;flow=&amp;host=jp.laoyoutiao.link#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.16.110.213:8880\/?type=ws&amp;encryption=none&amp;flow=&amp;host=jp.laoyoutiao.link#<i",
-        "vless:\/\/32071258-f841-42bc-90c2-a54d816d6a5b@151.101.64.155:80?path=\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Lightning6.ir&amp;type=ws#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.60.74.213:8880\/?type=ws&amp;encryption=none&amp;flow=&amp;host=jp.laoyoutiao.link#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.124.127.213:8880\/?type=ws&amp;encryption=none&amp;flow=&amp;host=jp.laoyoutiao.link#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.131.208.213:8880\/?type=ws&amp;encryption=none&amp;flow=&amp;host=jp.laoyoutiao.link#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.83.213:8880\/?type=ws&amp;encryption=none&amp;flow=&amp;host=jp.laoyoutiao.link#<i",
-        "vless:\/\/60ed8172-3acc-4276-94a9-fe977108a9cf@104.17.147.22:2086?type=httpupgrade&amp;host=www.isvpy.ir#<i",
-        "vless:\/\/01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&amp;security=tls&amp;sni=api.chandplus.com&amp;type=raw&amp;headertype=none#<i"
+        "vless:\/\/8f82acbe-f328-471a-8000-fbea349e6ce0@dedic.app-browser.org:443?encryption=none&amp;security=tls&amp;sni=dedic.app-browser.org&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;type=raw&amp;headertype=none#<i",
+        "vless:\/\/cd2e9541-3fce-4d95-9bec-919d884f911e@129.146.170.172:443?security=tls&amp;sni=piqie.justin-lifeistooshort.info&amp;type=ws&amp;host=piqie.justin-lifeistooshort.info&amp;path=%2Ftiger#<i",
+        "vless:\/\/1dbe95b0-a4c2-4c80-9e86-dfcf8e00128f@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Lightning6.ir&amp;type=ws#<i",
+        "vless:\/\/19d3e3cc-be48-4200-a27f-e107376385e7@speedtest.net:80?path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=german.net&amp;type=ws#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&amp;type=ws#<i",
+        "vless:\/\/8d85c0f1-0f93-40bc-88c8-1d98735bd159@dash.vfast.news:4040\/?type=tcp&amp;security=none#<i",
+        "vless:\/\/TELEGRAM-NUFiLTER@151.242.2.35:44690?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/7930c633-8aa1-4d6e-80a0-14f59b27c5c5@104.22.75.105:443?security=tls&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&amp;type=ws&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&amp;path=%2F%3Fed%3D2048&amp;fp=chrome&amp;alpn=h3%2Ch2#<i",
+        "vless:\/\/06e4425e-a8cb-4b63-929f-2105604ab0a9@104.16.142.237:443?sni=hj.ylka.dpdns.org&amp;type=ws&amp;allowInsecure=1#<i",
+        "vless:\/\/098f4eac-39fd-4c91-9bf3-dfe55e47e1ee@germany1.fiogoir-germany1.site:8080?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/8d85c0f1-0f93-40bc-88c8-1d98735bd159@dash.vfast.news:4040\/?type=tcp&amp;security=none#<i"
     ],
-    "trojan": [
-        "trojan:\/\/ttfang@47.245.91.197:9000\/?type=ws&amp;host=ttfang.fange.me&amp;path=%2F&amp;security=tls&amp;sni=ttfang.fange.me&amp;allowInsecure=1#<i"
-    ],
-    "ss": [
-        "ss:\/\/96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;host=ScKzAhYz14.qUiCkOrA.OrG&amp;fp=chrome&amp;type=ws&amp;sni=ScKzAhYz14.qUiCkOrA.OrG#<i"
-    ],
+    "trojan": [],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
