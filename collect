@@ -1,7 +1,18 @@
 {
     "vmess": [],
-    "vless": [],
-    "trojan": [],
+    "vless": [
+        "vless:\/\/cee8deec-a0a3-4256-8a85-996e78fbebff@217.60.236.199:8012?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=HormozvpnhormozvpnhormozvpnHormozvpnhormozvpnhormozvpnHormozvpnhormozvpnhormozvpnHormozvpnhormozvpnhormozvpn#<i",
+        "vless:\/\/a7b27c87-28cb-4eee-8d1b-a4001e70f652@172.67.204.120:2053?security=tls&amp;sni=mass3f.890601.xyz&amp;type=ws&amp;host=mass3f.890601.xyz#<i",
+        "vless:\/\/728fc5ea-a265-4539-a286-0c664509a23b@172.67.209.117:2082?security=none&amp;type=httpupgrade&amp;host=vIhYpErClOuD.aCaDeMiGrOuP.iR.&amp;path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#<i",
+        "vless:\/\/59413760-f498-47f8-8a6a-c7d329ad26de@151.101.64.155:80?path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=KEISJWJ.COM&amp;type=ws#<i",
+        "vless:\/\/c59695d1-b0d3-440e-a502-76e408805a1e@5.160.144.80:57209?security=none&amp;type=tcp&amp;host=parsabr.com&amp;path=%2F&amp;headerType=http#<i",
+        "vless:\/\/acd867f1-a71b-4a17-a473-2b57930d8678@mail-service.com.check.device-update.4b3a.com:8880?type=tcp&amp;headerType=none&amp;security=reality&amp;fp=safari&amp;sni=refersion.com&amp;pbk=cJydPsZ25g4KQeuu8tGZE-9l6uB6uvdHZxyAfa3NrAQ&amp;sid=e3bbc3601946f0e4#<i",
+        "vless:\/\/cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.70.163:26113?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.yahoo.com&amp;fp=chrome&amp;pbk=GUcD8LK1DFNuVun5yhsqeEego_p3PF2yIdvE2KY2Nng&amp;sid=1fbd20fd&amp;type=raw&amp;headertype=none#<i"
+    ],
+    "trojan": [
+        "trojan:\/\/Aimer@192.200.160.19:8443?allowInsecure=0&amp;sni=epcch.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/Aimer@46.254.92.142:2087?allowInsecure=0&amp;sni=epccf.ambercc.filegear-sg.me#<i"
+    ],
     "ss": [],
     "tuic": [],
     "hysteria": [],
