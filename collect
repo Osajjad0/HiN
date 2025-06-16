@@ -1,12 +1,20 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.98:80?sni=cs.laoyoutiao.link&amp;type=ws&amp;host=cs.laoyoutiao.link&amp;path=\/Telegram<i",
-        "vless:\/\/889878fd-0121-48f2-80a0-dfde05c0a7fa@109.120.132.204:2083?type=grpc&amp;serviceName=Tel%3A%40VPN_KING_V2RAY&amp;authority=&amp;security=reality&amp;pbk=BUzfBVmWNSPk69ZlNgIlMvjB_KctXOhYaLx_bBlf70U&amp;fp=firefox&amp;sni=speedtest.net&amp;sid=3b35fd9cd4d47fe6&amp;spx=%2F#<i",
-        "vless:\/\/a146b0ac-d0df-48fa-ae75-01597be67dec@hon5.vpntype.dev:443?security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision#<i",
-        "vless:\/\/telegram-id-ArV2ray3@84.32.101.93:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&amp;fp=chrome&amp;type=grpc&amp;serviceName=telegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray&amp;sni=ftp.debian.org&amp;sid=688c#<i",
-        "vless:\/\/ab9e2bad-bcf0-43e0-9671-3ec504f0d1a3@151.101.69.48:80?mode=auto&amp;path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Zedmodeonjoinyour-name.global.ssl.fastly.net&amp;type=xhttp#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.83:8880?security=none&amp;type=ws&amp;host=yd.laoyoutiao.link&amp;path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+@MxlShare+@WangCai2+%2F%3Fed%3D2560#<i"
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@176.124.223.29:8880?type=ws&amp;host=hk.laoyoutiao.link&amp;path=%2F#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.145:80?security=none&amp;type=ws&amp;host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&amp;path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560#<i",
+        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.211.125:80?security=none&amp;type=ws&amp;host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&amp;path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560#<i",
+        "vless:\/\/401374e6-df77-41fb-f638-dad8184f175b@45.81.58.168:443?security=tls&amp;sni=pqh24v3.hiddendom.shop&amp;type=grpc&amp;host=pqh24v3.hiddendom.shop&amp;alpn=h2#<i",
+        "vless:\/\/ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.165.152.131:443?security=tls&amp;sni=edmx.ambercc.filegear-sg.me&amp;type=ws&amp;host=edmx.ambercc.filegear-sg.me&amp;path=%2F%3Fproxyip%3Dts.hpc.tw#<i",
+        "vless:\/\/68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.66.138.99:80?security=none&amp;sni=varzesh3.varzesh.dpdns.org&amp;type=ws&amp;host=varzesh3.varzesh.dpdns.org&amp;path=%2F%3Fed%3D2560&amp;fp=random#<i",
+        "vless:\/\/c698a4d6-19b4-d47b-50b1-dbc3e0f7a4eb@fi-plus.crocodilserver.top:9003?encryption=none&amp;security=none&amp;fp=chrome&amp;type=tcp&amp;headerType=http&amp;host=speedtest.net#<i",
+        "vless:\/\/4b8fa6eb-2834-4bc3-acf9-971819ae42a0@2.189.85.180:3060?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=speedtest.net#<i",
+        "vless:\/\/c698a4d6-19b4-d47b-50b1-dbc3e0f7a4eb@85.9.122.123:9003?encryption=none&amp;security=none&amp;fp=chrome&amp;type=tcp&amp;headerType=http&amp;host=speedtest.net#<i",
+        "vless:\/\/c698a4d6-19b4-d47b-50b1-dbc3e0f7a4eb@us.crocodilserver.top:9009?encryption=none&amp;security=reality&amp;sni=stackoverflow.com&amp;fp=chrome&amp;pbk=dRyPSezpkUiY4BofG3zONvLNP2FSxDNplnxU92kdjUg&amp;type=tcp&amp;headerType=none#<i",
+        "vless:\/\/2161cd46-8ee1-4d79-b75a-7214a8e8961c@109.94.165.106:10000?encryption=none&amp;security=none&amp;type=ws&amp;path=%2F#<i",
+        "vless:\/\/2161cd46-8ee1-4d79-b75a-7214a8e8961c@109.94.165.106:10000?encryption=none&amp;security=none&amp;fp=chrome&amp;type=ws&amp;path=%2F#<i",
+        "vless:\/\/c698a4d6-19b4-d47b-50b1-dbc3e0f7a4eb@nl.crocodilserver.top:9006?encryption=none&amp;security=none&amp;fp=chrome&amp;type=tcp&amp;headerType=http&amp;host=speedtest.net#<i",
+        "vless:\/\/c698a4d6-19b4-d47b-50b1-dbc3e0f7a4eb@85.9.122.123:9006?encryption=none&amp;security=none&amp;fp=chrome&amp;type=tcp&amp;headerType=http&amp;host=speedtest.net#<i"
     ],
     "trojan": [],
     "ss": [],
