@@ -1,23 +1,10 @@
 {
     "vmess": [],
-    "vless": [
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@176.124.223.29:8880?type=ws&amp;host=hk.laoyoutiao.link&amp;path=%2F#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.145:80?security=none&amp;type=ws&amp;host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&amp;path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560#<i",
-        "vless:\/\/89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.211.125:80?security=none&amp;type=ws&amp;host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&amp;path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560#<i",
-        "vless:\/\/401374e6-df77-41fb-f638-dad8184f175b@45.81.58.168:443?security=tls&amp;sni=pqh24v3.hiddendom.shop&amp;type=grpc&amp;host=pqh24v3.hiddendom.shop&amp;alpn=h2#<i",
-        "vless:\/\/ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.165.152.131:443?security=tls&amp;sni=edmx.ambercc.filegear-sg.me&amp;type=ws&amp;host=edmx.ambercc.filegear-sg.me&amp;path=%2F%3Fproxyip%3Dts.hpc.tw#<i",
-        "vless:\/\/68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.66.138.99:80?security=none&amp;sni=varzesh3.varzesh.dpdns.org&amp;type=ws&amp;host=varzesh3.varzesh.dpdns.org&amp;path=%2F%3Fed%3D2560&amp;fp=random#<i",
-        "vless:\/\/c698a4d6-19b4-d47b-50b1-dbc3e0f7a4eb@fi-plus.crocodilserver.top:9003?encryption=none&amp;security=none&amp;fp=chrome&amp;type=tcp&amp;headerType=http&amp;host=speedtest.net#<i",
-        "vless:\/\/4b8fa6eb-2834-4bc3-acf9-971819ae42a0@2.189.85.180:3060?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=speedtest.net#<i",
-        "vless:\/\/c698a4d6-19b4-d47b-50b1-dbc3e0f7a4eb@85.9.122.123:9003?encryption=none&amp;security=none&amp;fp=chrome&amp;type=tcp&amp;headerType=http&amp;host=speedtest.net#<i",
-        "vless:\/\/c698a4d6-19b4-d47b-50b1-dbc3e0f7a4eb@us.crocodilserver.top:9009?encryption=none&amp;security=reality&amp;sni=stackoverflow.com&amp;fp=chrome&amp;pbk=dRyPSezpkUiY4BofG3zONvLNP2FSxDNplnxU92kdjUg&amp;type=tcp&amp;headerType=none#<i",
-        "vless:\/\/2161cd46-8ee1-4d79-b75a-7214a8e8961c@109.94.165.106:10000?encryption=none&amp;security=none&amp;type=ws&amp;path=%2F#<i",
-        "vless:\/\/2161cd46-8ee1-4d79-b75a-7214a8e8961c@109.94.165.106:10000?encryption=none&amp;security=none&amp;fp=chrome&amp;type=ws&amp;path=%2F#<i",
-        "vless:\/\/c698a4d6-19b4-d47b-50b1-dbc3e0f7a4eb@nl.crocodilserver.top:9006?encryption=none&amp;security=none&amp;fp=chrome&amp;type=tcp&amp;headerType=http&amp;host=speedtest.net#<i",
-        "vless:\/\/c698a4d6-19b4-d47b-50b1-dbc3e0f7a4eb@85.9.122.123:9006?encryption=none&amp;security=none&amp;fp=chrome&amp;type=tcp&amp;headerType=http&amp;host=speedtest.net#<i"
-    ],
+    "vless": [],
     "trojan": [],
-    "ss": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
