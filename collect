@@ -1,27 +1,29 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJhZGQiOiAiY29uZWN0ZWRncmVlbnNhYnpiYXNob25saW5lLmdyZWVuYnJpZGdlLWNvbmVjdGVkLnNob3AiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJwYXJzYWJyLmNvbSIsICJpZCI6ICI1YTY1ZTY1NC03MmNmLTQ1ZGEtOWIzMS03ZTVkNzhjZjRiMDMiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwgInBvcnQiOiAyMDU4LCAic2N5IjogImF1dG8iLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3XHUwMGFlXHVmZTBmSXJhblx1MDBhOVx1ZmUwZlRlaHJcdTAxMDFuXHVkODNjXHVkZDdmXHVmZTBmcGluZzoxMTcuNjdtcyJ9<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/690ab90e-3f21-422b-8cb1-bc9845c7af1e@104.26.15.85:8080?security=none&amp;type=ws&amp;host=IO.IhJtq0hklC.ZULAiR.OrG.&amp;path=\/#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.32:8880?sni=sk.laoyoutiao.link&amp;type=ws&amp;host=sk.laoyoutiao.link&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i",
-        "vless:\/\/f5a45265-3620-49ff-98b9-a862d5f3a09d@162.128.76.63:36729?security=none&amp;encryption=none&amp;host=canva.com&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/71f0b464-a73e-4552-8758-c5c204bdfb45@79.127.69.118:2344?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?security=tls&amp;sni=ipsychO.SUEx12.Ir&amp;type=ws&amp;host=ipsycho.suex12.ir&amp;path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560flow%3D-udp443&amp;fp=randomized#<i",
-        "vless:\/\/15298f41-e80b-463a-b85b-0c903258a1c8@104.16.40.28:443?security=tls&amp;sni=d5.medicaltreatment.ir&amp;type=ws&amp;host=d5.medicaltreatment.ir#<i",
-        "vless:\/\/6abbaf96-4b16-48d3-b996-a6067fc6eb2c@172.67.73.163:8080?encryption=none&amp;security=none&amp;type=ws&amp;host=M4.nF9JZ2st7N.zULAiR.ORG.&amp;path=%2F#<i",
-        "vless:\/\/3b50f120-aaa9-4659-8e45-454aba569815@Speedtest.net:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.147:80?sni=cs.laoyoutiao.link&amp;type=ws&amp;host=cs.laoyoutiao.link&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i",
-        "vless:\/\/5e84d364-94b5-49fa-94fc-a9481131854a@104.21.58.117:443?type=ws&amp;host=joincxrolvpn.iran1-909.workers.dev&amp;path=\/f0rabLjtoYDE9SmU?ed%3D2560&amp;security=tls&amp;fp=randomized&amp;sni=JoinCxRolVPN.iRaN1-909.worKerS.deV&amp;alpn=http\/1.1#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.141:8880?sni=sk.laoyoutiao.link&amp;type=ws&amp;host=sk.laoyoutiao.link&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.155:80?sni=cs.laoyoutiao.link&amp;type=ws&amp;host=cs.laoyoutiao.link&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i",
-        "vless:\/\/cd2e9541-3fce-4d95-9bec-919d884f911e@144.24.90.107:443?security=tls&amp;sni=piqie.justin-lifeistooshort.info&amp;type=ws&amp;host=piqie.justin-lifeistooshort.info&amp;path=%2Ftiger#<i"
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@114.129.43.29:8880?sni=hk.laoyoutiao.link&amp;type=ws&amp;host=hk.laoyoutiao.link&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@162.120.94.20:8880?security=none&amp;sni=us.laoyoutiao.link&amp;type=ws&amp;host=us.laoyoutiao.link&amp;path=%2FTelegramU0001F1E8U0001F1F3#<i",
+        "vless:\/\/47d7d5eb-55e6-4085-a155-bdf3fcc428f6@178.128.69.179:59483?security=none&amp;type=grpc#<i",
+        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.15:2053?security=tls&amp;sni=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua&amp;type=ws&amp;host=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua&amp;path=%2F%3Fed%3D2048&amp;fp=randomized#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@213.182.199.29:8880?sni=hk.laoyoutiao.link&amp;type=ws&amp;host=hk.laoyoutiao.link&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@162.159.50.19:8880?sni=hk.laoyoutiao.link&amp;type=ws&amp;host=hk.laoyoutiao.link&amp;path=\/Telegram<i",
+        "vless:\/\/7d05d766-4f45-455e-b789-70253ec34b8f@104.21.69.44:2053?security=tls&amp;sni=ah12.ai351.com&amp;type=ws&amp;host=ah12.ai351.com&amp;path=%2Fcontainers%2Fde&amp;fp=chrome#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.37:8880?sni=sk.laoyoutiao.link&amp;type=ws&amp;host=sk.laoyoutiao.link&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i",
+        "vless:\/\/cbaabac-aacb-abca-bdac-abcbbcbacaac@127.0.0.1:8080?security=tls&amp;type=tcp#<i",
+        "vless:\/\/1ce1af4b-ae81-498f-9e83-66ee70a242e1@104.17.148.22:443?security=tls&amp;sni=379E948c.mORi-56r.PaGeS.Dev&amp;type=ws&amp;host=379e948c.mori-56r.pages.dev&amp;path=%2FJoin_Bade_Channel@JOKERRVPN%3Fed%3D2560&amp;fp=randomized&amp;alpn=http%2F1.1#<i",
+        "vless:\/\/ccff34b1-44fd-478d-bc0e-5111cb11f5be@104.18.12.149:443?security=tls&amp;sni=d1.medicaldream.ir&amp;type=ws&amp;host=d1.medicaldream.ir&amp;path=sinavm-sinavm\/?ed%3D2560&amp;fp=chrome#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.76:8880?type=ws&amp;host=yd.laoyoutiao.link&amp;path=\/Telegram<i",
+        "vless:\/\/7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:80?type=ws&amp;host=xxcvfgt678.191268.xyz&amp;path=%2FW02wBrOOqlSUywV3ibrzzKXJGy3S1#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@155.46.213.20:8880?sni=us.laoyoutiao.link&amp;type=ws&amp;host=us.laoyoutiao.link&amp;path=%2F#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.222:8880?security=none&amp;type=ws&amp;host=us.laoyoutiao.link&amp;path=Telegram%F0%9F%87%A8%F0%9F%87%B3#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.2:8880?type=ws&amp;host=sk.laoyoutiao.link&amp;path=%2F#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.92:80?type=ws&amp;host=us.laoyoutiao.link&amp;path=Telegram\u0440\u042f\u0417<i",
+        "vless:\/\/f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@172.67.67.92:80?security=none&amp;sni=delam.ahaysiahzangi.dpdns.org&amp;type=ws&amp;host=delam.ahaysiahzangi.dpdns.org&amp;path=%2F%3Fed%3D2560&amp;fp=random#<i"
     ],
-    "trojan": [
-        "trojan:\/\/d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&amp;security=tls&amp;host=vle.amclubsvip.dpdns.org&amp;type=ws&amp;sni=vle.amclubsvip.dpdns.org#<i",
-        "trojan:\/\/13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.95.229:2083?path=%2FtrYStgfIRQtOjkkxCQ%2FMTI5LjE1OS44NC43MQ%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;host=invincible.fafa20.shop&amp;fp=randomized&amp;type=ws&amp;sni=INvincIBLE.fafA20.Shop#<i"
-    ],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#<i"
-    ],
+    "trojan": [],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
