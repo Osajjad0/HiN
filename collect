@@ -1,22 +1,26 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=redfree8mahsang6.redfree8.ir&amp;type=ws#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.12:8880?sni=sk.laoyoutiao.link&amp;type=ws&amp;host=sk.laoyoutiao.link&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i",
-        "vless:\/\/6699901d-20d8-4d2f-ade3-35641f40093f@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=Lightning6.ir&amp;type=ws#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.56:80?type=ws&amp;host=cs.laoyoutiao.link&amp;path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%2B%40WangCai2%2B%2F%3Fed%3D2560#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.224:8880?type=ws&amp;host=sg.laoyoutiao.link&amp;path=Telegram%40WangCai2%2F%3Fed%3D2048#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.229.29:8880?security=none&amp;type=ws&amp;host=hk.laoyoutiao.link&amp;path=%2F#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.73.29:8880?sni=hk.laoyoutiao.link&amp;type=ws&amp;host=hk.laoyoutiao.link&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.159:80?sni=cs.laoyoutiao.link&amp;type=ws&amp;host=cs.laoyoutiao.link&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i"
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.190:8880?type=ws&amp;host=sg.laoyoutiao.link&amp;path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2048#<i",
+        "vless:\/\/d143c8a9-3e41-4e4b-832b-1eddd02c249b@151.101.66.133:80?type=ws&amp;host=Telegram-VPNCUSTOMIZE-VPNCUSTOMIZE.ir#<i",
+        "vless:\/\/bcabaca-baac-baac-bcad-aaabccccbbab@127.0.0.1:8080?security=tls&amp;type=tcp#<i",
+        "vless:\/\/401374e6-df77-41fb-f638-dad8184f175b@104.26.3.186:443?security=tls&amp;sni=pqh23v2.hiddendom.shop&amp;type=grpc&amp;host=pqh23v2.hiddendom.shop&amp;alpn=h2#<i",
+        "vless:\/\/d60fc3c5-9f07-4cdb-b81f-70af27936bdc@104.21.1.12:2083?security=tls&amp;sni=ex.sue.x10.mx&amp;type=ws&amp;host=ex.sue.x10.mx&amp;path=%2F%3Fed%3D2560&amp;fp=chrome#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.143:8880?sni=sk.laoyoutiao.link&amp;type=ws&amp;host=sk.laoyoutiao.link&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i",
+        "vless:\/\/38b41ed4-5fe2-4868-8016-8df32dcaed78@157.180.95.180:2087?security=tls&amp;sni=pic.zarashop0.ir&amp;type=grpc&amp;fp=chrome&amp;alpn=h2#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.175:8880?type=ws&amp;host=sg.laoyoutiao.link&amp;path=Telegram%40WangCai2%2F%3Fed%3D2048#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@103.116.7.29:8880?type=ws&amp;host=hk.laoyoutiao.link&amp;path=%2F#<i",
+        "vless:\/\/cba0b35b-8943-4c70-a864-9f78145b7897@104.22.22.78:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=agolna.mahsaamini.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=agolna.mahsaamini.dpdns.org#<i",
+        "vless:\/\/376734bc-4db8-4317-b451-af0262cb01c7@104.21.95.229:2087?security=tls&amp;sni=invINCIBLE.FAfa20.SHOp&amp;type=ws&amp;host=invincible.fafa20.shop&amp;path=%2FFnxOCItzWpgMrgmD%2FNzguNDYuNTYuNDI%3D%3Fed%3D2560&amp;fp=randomized&amp;alpn=http%2F1.1#<i",
+        "vless:\/\/f5a45265-3620-49ff-98b9-a862d5f3a09d@162.128.76.63:36729?security=none&amp;encryption=none&amp;host=canva.com&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/a76fa3db-8d89-4161-b63b-79c417e475c2@185.206.92.209:1779?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#<i",
+        "vless:\/\/a7f5d152-0287-af42-bfbc-f8ce1e31d97e@fr.emergency.sibrayane.store:2051?security=none&amp;encryption=none&amp;host=snapp.taxi&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/42fca25b-adcf-4b7f-a7e3-522ba1d16c87@151.101.69.69:80?mode=auto&amp;path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=joinbedeZEDMODEONyour-name.global.ssl.fastly.net&amp;type=xhttp#<i"
     ],
     "trojan": [
-        "trojan:\/\/Aimer@103.116.7.248:443?allowInsecure=0&amp;sni=epcca.ambercc.filegear-sg.me#<i"
+        "trojan:\/\/Aimer@154.197.64.67:443?allowInsecure=1&amp;sni=epccd.ambercc.filegear-sg.me&amp;ws=1&amp;wspath=%2F%3Fed%3D2560#<i"
     ],
-    "ss": [
-        "ss:\/\/cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774\/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202504241555326-E76HVtFSaq.download.microsoft.com#<i",
-        "ss:\/\/YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.25:38388#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
