@@ -1,25 +1,22 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/5d19d8d8-d0c8-4ea0-b86e-082030397ebc@81.12.33.197:6012?security=reality&amp;encryption=none&amp;pbk=OCW4VToUh_2gtej7iO30chCKwUWDmmmpW01kHE4BDwU&amp;headerType=none&amp;fp=safari&amp;type=tcp&amp;sni=traffic-tile.maps.snapp.ir&amp;sid=7fcf499c88f80777#<i",
-        "vless:\/\/827b7a26-79a3-4484-a3f4-319882b2b22f@zone.a2.f2hub.ir:10464?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/827b7a26-79a3-4484-a3f4-319882b2b22f@zone.a2.f2hub.ir:20275?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/827b7a26-79a3-4484-a3f4-319882b2b22f@zone.a1.f2hub.ir:17432?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/827b7a26-79a3-4484-a3f4-319882b2b22f@zone.a3.f2hub.ir:17759?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/827b7a26-79a3-4484-a3f4-319882b2b22f@zone.a2.f2hub.ir:31801?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/827b7a26-79a3-4484-a3f4-319882b2b22f@zone.a3.f2hub.ir:47616?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/827b7a26-79a3-4484-a3f4-319882b2b22f@zone.a3.f2hub.ir:59095?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/1c1da91c-d07d-431e-9c6d-bcde096d342b@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Lightning6.ir&amp;type=ws#<i",
-        "vless:\/\/0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080\/?type=ws&amp;encryption=none&amp;host=QW.VU6d72nt9y.zULaiR.orG.&amp;path=%2F%3Fed%3D2048#<i",
-        "vless:\/\/51fda508-20aa-419e-b4c3-3a6202411412@tgju.org:8080\/?type=ws&amp;encryption=none&amp;host=18.6na7PY43IT.zuLaiR.Org.&amp;path=%2F%3Fed%3D2048#<i",
-        "vless:\/\/Parsashonam-260@185.146.173.39:8880?path=%2F&amp;security=none&amp;encryption=none&amp;host=Search.DigiKala.CYoU.&amp;type=httpupgrade#<i",
-        "vless:\/\/Parsashonam-260@104.23.126.162:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=FinlandLOC.DigiKalA.CyOU.&amp;type=httpupgrade#<i",
-        "vless:\/\/51a29401-f065-4a8e-8cba-b4804ad27008@104.21.96.1:2083?security=tls&amp;sni=vibe.orgspeed.net&amp;type=ws&amp;path=%2F&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "vless:\/\/b2a8f8f2-e052-43e1-acb7-78c2060dfd47@172.67.209.117:8880?security=none&amp;type=ws&amp;host=vIhYpErClOuD.aCaDeMiGrOuP.iR.&amp;path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#<i"
+        "vless:\/\/ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.151:443?path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=simorgh.hpcode.ir&amp;fp=firefox&amp;type=ws&amp;sni=simorgh.hpcode.ir#<i",
+        "vless:\/\/186faf82-3b93-4cda-9f53-ef67fa22445f@marzbantunell.zinto2884.ir:1331?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/b74e1b96-d8fd-4aac-b621-91990a6c3251@151.101.64.155:80?path=%2F%40AKLISvpn%40Aklisvpn%40AKLISvpn%40Aklisvpn%40AKLISvpn%40Aklisvpn&amp;security=none&amp;encryption=none&amp;host=aklisvip.com&amp;type=ws#<i",
+        "vless:\/\/a9f8ad50-d4a6-44f1-9ff2-aae753eb0017@server2.emralstore.com:12084?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/19b01a7e-ca21-4644-a0bc-fd956a38d857@irt.cloud.speedtest.net.6cd78fe2.bitrait.art:8445?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/06121b89-607b-44c9-9c01-cc2fc6a7321d@192.9.129.48:8443\/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=www.yahoo.com&amp;fp=chrome&amp;security=reality&amp;pbk=4Qekb9y1dqO8hvRzVSGeSRNyhko_gqpeWD94zrLCvjs&amp;sid=5488b0e7#<i",
+        "vless:\/\/b2a8f8f2-e052-43e1-acb7-78c2060dfd47@104.17.147.22:8880?security=none&amp;type=ws&amp;host=vihypercloud.academigroup.ir.&amp;path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/ttfang@47.245.91.197:9000?security=tls&amp;sni=ttfang.fange.me&amp;type=ws&amp;host=ttfang.fange.me&amp;path=%2F&amp;allowInsecure=1#<i",
+        "trojan:\/\/19a78eeb-d83a-4364-b095-b7dd93436320@104.21.29.205:443?security=tls&amp;sni=CVFgTrE4.222560.XyZ&amp;type=ws&amp;host=cvfgtre4.222560.xyz&amp;path=%2FHq0I4JMuzO0WLijID&amp;fp=chrome&amp;alpn=http%2F1.1#<i",
+        "trojan:\/\/zsu4Mq3A9J@51.195.254.75:8443?security=tls&amp;sni=uk-02.allhubb.info&amp;type=tcp#<i",
+        "trojan:\/\/288124da-0d68-42f4-9f48-70dc4dcc55a6@172.67.200.11:443?security=tls&amp;sni=rRfGty6.890606.XYz&amp;type=ws&amp;host=rrfgty6.890606.xyz&amp;path=%2FraChT39pjLFYRA5HdHEIupMZeK&amp;fp=chrome&amp;alpn=http%2F1.1#<i",
+        "trojan:\/\/a7c9c017-db10-4d15-b01b-0634db498b57@172.67.197.165:443?security=tls&amp;sni=ERt5.0890604.XyZ&amp;type=ws&amp;host=ert5.0890604.xyz&amp;path=%2FOBmXcXufeTh7sLJtI1&amp;fp=chrome&amp;alpn=http%2F1.1#<i"
+    ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowT1lQOGlVK3dRWDFaVU1XcExQWTF3WFk3N09uMjJaSmt5Wmk1YkZSNEx3PQ%3D%3D@157.180.127.73:23819#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQYXJzYXNob25hbS0yNTk%3D@157.180.127.73:23819#<i"
     ],
     "tuic": [],
