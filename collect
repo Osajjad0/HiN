@@ -1,11 +1,22 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/30817656-b6c2-46f2-9975-c907aef56e0e@sfr54.ucpubg.org:8080?security=&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#<i"
+        "vless:\/\/0fdc2aac-e3bd-48c2-b2d5-32c52faea9e0@85.133.215.24:2226?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=2226vless#<i",
+        "vless:\/\/61a291cc-259a-4ca1-b788-503b21fa0bf0@hajibazari.deakhemashtiiirann.online:2020?security=none&amp;encryption=none&amp;host=Cafebazaar.ir&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/0fdc2aac-e3bd-48c2-b2d5-32c52faea9e0@85.133.215.24:2226?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=2226vless#<i",
+        "vless:\/\/%F0%9F%91%89chanel_JOKERRVPN%F0%9F%91%88@SpEedTest.Net:80?path=%2F%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Loopingshop.com&amp;type=ws#<i",
+        "vless:\/\/1c1da91c-d07d-431e-9c6d-bcde096d342b@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=Lightning6.ir&amp;type=ws#<i",
+        "vless:\/\/9d6315f7-f272-4806-97c8-5fdaafad391e@104.17.104.45:80?security=none&amp;sni=lot.sosant.dpdns.org&amp;type=ws&amp;host=lot.sosant.dpdns.org&amp;path=%2F%3Fed%3D2560&amp;fp=random#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.42:8880?sni=sk.laoyoutiao.link&amp;type=ws&amp;host=sk.laoyoutiao.link&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i",
+        "vless:\/\/6699901d-20d8-4d2f-ade3-35641f40093f@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Lightning6.ir&amp;type=ws#<i",
+        "vless:\/\/d6b8011a-c725-435a-9fec-bf6d3530392c@103.160.204.40:8443?security=tls&amp;sni=vlee.amclubs.nyc.mn&amp;type=ws&amp;host=vlee.amclubs.nyc.mn#<i",
+        "vless:\/\/1c1da91c-d07d-431e-9c6d-bcde096d342b@151.101.64.155:80?path=\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6\u2026#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.197:8880?sni=sk.laoyoutiao.link&amp;type=ws&amp;host=sk.laoyoutiao.link&amp;path=\/TelegramU0001F1E8U0001F1F3&amp;allowInsecure=0#<i"
     ],
     "trojan": [
-        "trojan:\/\/telegram-id-directvpn@15.188.148.184:22223?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@15.188.148.184:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+        "trojan:\/\/13e26f64-2e0c-4461-92cd-d83294cc18f0@172.67.185.107:443?security=tls&amp;sni=WwwDe.00890604.XyZ&amp;type=ws&amp;host=wwwde.00890604.xyz&amp;path=%2FTDUxZUop9k44oPiit2OdWk0KwirdY&amp;fp=chrome&amp;alpn=http%2F1.1#<i",
+        "trojan:\/\/3d4ad187-b554-4300-bf71-d26c71962504@104.21.78.243:443?security=tls&amp;sni=FFfgtyy.7282728.XYZ&amp;type=ws&amp;host=FFfgtyy.7282728.XYZ&amp;path=%2FWaHA3RC540rQ8PWqRcOEICAwmfH7#<i",
+        "trojan:\/\/ttfang@13.229.159.215:443?security=tls&amp;sni=ttfang.fange.me&amp;type=ws&amp;host=ttfang.fange.me&amp;path=%2F&amp;allowInsecure=1#<i"
     ],
     "ss": [],
     "tuic": [],
