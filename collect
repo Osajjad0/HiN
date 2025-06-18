@@ -3,20 +3,19 @@
         "vmess:\/\/eyJhZGQiOiAiMTcyLjY3LjE3OS4xOTkiLCAidiI6ICIyIiwgInBvcnQiOiA0NDMsICJpZCI6ICJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2XHUwMGFlXHVmZTBmQ2FuYWRhXHUwMGE5XHVmZTBmVG9yb250b1x1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6OC4yNm1zIn0=<\/code><\/div>"
     ],
     "vless": [
-        "vless:\/\/06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.242:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vb.ylks0033.dpdns.org&amp;type=ws&amp;sni=vb.ylks0033.dpdns.org#<i",
-        "vless:\/\/54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.151.8:443?security=tls&amp;sni=147135004002.sec20org.com&amp;type=raw&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "vless:\/\/f2ab13f2-4681-4a74-9947-3f6a386f65dc@45.159.148.163:7000?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=fast.com#<i",
-        "vless:\/\/99480324-c2a2-4909-9178-210428276912@89.33.129.244:443?encryption=none&amp;security=tls&amp;sni=fn1.faradarsi.com&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=randomized&amp;type=tcp&amp;headerType=http&amp;host=fn1.faradarsi.com#<i",
-        "vless:\/\/dd155336-2b3b-13c6-8557-ad6b2c2a54fe@185.143.233.1:80?encryption=none&amp;security=none&amp;type=ws&amp;host=cscscsc-414cdd80f5-scc.apps.ir-central1.arvancaas.ir&amp;path=%2F#<i",
-        "vless:\/\/f638c87c-d064-42ac-a710-f5755ee45a81@85.9.101.195:38323?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=alibaba.com#<i",
-        "vless:\/\/f8765e8a-8e83-41da-8379-451ddd2cf56a@185.83.182.217:1007?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=telewebion.com#<i",
-        "vless:\/\/09aaaf34-4be3-a68d-6ac4-b7e0bcc6789c@81.29.255.187:623?encryption=none&amp;security=none&amp;type=ws&amp;host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&amp;path=%2Fws%3Fed%3D2048#<i",
-        "vless:\/\/4c183cd1-0079-45ce-9204-4360a643601c@5.159.49.232:2052?encryption=none&amp;security=none&amp;type=ws&amp;path=%2F#<i",
-        "vless:\/\/650cfa66-60d2-4f10-804a-9df41182030b@2.188.233.135:36380?encryption=none&amp;security=none&amp;type=ws&amp;path=%2F#<i",
         "vless:\/\/aa39887e-2572-4665-b9a9-491d21e492e4@94.182.137.178:1610?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=cloudflare.com%2Cwww.zula.ir%2Cwww.speedtest.net#<i",
-        "vless:\/\/e9fd6a4b-f856-4d01-8f78-63c579730af7@94.182.129.87:15633?encryption=none&amp;security=tls&amp;sni=try3.try134.com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=tcp&amp;headerType=none#<i"
+        "vless:\/\/e9fd6a4b-f856-4d01-8f78-63c579730af7@94.182.129.87:15633?encryption=none&amp;security=tls&amp;sni=try3.try134.com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=tcp&amp;headerType=none#<i",
+        "vless:\/\/512b8741-0eb1-4bf5-abb8-25369c0aa33b@moli.fastly80.hosting-ip.com:80?type=ws&amp;host=MOTFKRM.Co.Dev&amp;path=\/Freedom-Azadi\/?ed%3D2048&amp;security=none#<i",
+        "vless:\/\/2e655095-7f4e-428d-9c7e-eb2278e153a8@91.99.144.165:3184?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;allowinsecure=0&amp;type=grpc&amp;serviceName=chessgame&amp;sni=www.chess.com#<i",
+        "vless:\/\/e4aaba3f-3ca1-4789-8411-9e87f0512ab3@ramezanilink.fastserverr.top:2082?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/5aa79f02-48ec-4b52-9591-9c21f62a04ce@swd.ashiyanehsazan.com:443?type=ws&amp;security=none&amp;host=&amp;path=%2F#<i",
+        "vless:\/\/0f38c3a9-e0c0-47ba-c619-0f16933f1d18@151.101.194.219:80?security=none&amp;type=ws&amp;host=foffmelo.com&amp;path=%2Folem%2Fws%3Fed%3D1024#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@3.122.126.53:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/telegram-id-privatevpns@3.122.126.53:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@3.122.126.53:22223?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+    ],
     "ss": [],
     "tuic": [],
     "hysteria": [],
