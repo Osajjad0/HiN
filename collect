@@ -1,27 +1,18 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.143:8880\/?type=grpc&amp;encryption=none&amp;flow=#<i",
-        "vless:\/\/cca45b57-0f24-43c8-8911-f8dab5af1e10@172.67.162.36:8880\/?type=ws&amp;encryption=none&amp;flow=&amp;host=0522.yeyefeng.dpdns.org&amp;path=%2F#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.170:8880\/?type=grpc&amp;encryption=none&amp;flow=#<i",
-        "vless:\/\/7e296434-2d17-48d3-928d-19eaa34aecb1@77.91.74.189:28495\/?type=tcp&amp;encryption=none&amp;flow=&amp;sni=dl.google.com&amp;fp=chrome&amp;security=reality&amp;pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&amp;sid=0ecc2c1392#<i",
-        "vless:\/\/ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.102:443\/?type=tcp&amp;encryption=none&amp;flow=&amp;security=tls&amp;sni=147135001195.sec22org.com&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.112:8880\/?type=grpc&amp;encryption=none&amp;flow=#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.181:8880\/?type=grpc&amp;encryption=none&amp;flow=#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.152:8880\/?type=grpc&amp;encryption=none&amp;flow=#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880\/?type=grpc&amp;encryption=none&amp;flow=#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.171:8880\/?type=grpc&amp;encryption=none&amp;flow=#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.163:8880\/?type=grpc&amp;encryption=none&amp;flow=#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.179:8880\/?type=grpc&amp;encryption=none&amp;flow=#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880\/?type=grpc&amp;encryption=none&amp;flow=#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.144:8880\/?type=grpc&amp;encryption=none&amp;flow=#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.183:8880\/?type=grpc&amp;encryption=none&amp;flow=#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.185:8880\/?type=grpc&amp;encryption=none&amp;flow=#<i",
-        "vless:\/\/54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.162.133:443\/?type=tcp&amp;encryption=none&amp;flow=&amp;security=tls&amp;sni=147135004002.sec20org.com#<i",
-        "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.68.157:443\/?type=ws&amp;encryption=none&amp;flow=&amp;host=kg.ilikeu.dpdns.org&amp;path=%2F&amp;security=tls&amp;sni=kg.ilikeu.dpdns.org&amp;fp=chrome#<i"
+        "vless:\/\/238b597a-b49e-48f6-9cb1-27865989bddd@172.67.137.175:8880?security=none&amp;type=ws&amp;host=Mystic-vpn.academivpn-mystic.site.&amp;path=%2FTelegram-Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn---Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn--Academi_vpn-Admin-Mystic_vpn%3Fed%3D2048#<i",
+        "vless:\/\/53bea386-912e-4fe3-9eff-59c2285a176c@188.114.97.3:2053?type=ws&amp;path=%2Fadmins%3Fed%3D2560&amp;host=9.neshaan.org&amp;security=tls&amp;fp=chrome&amp;alpn=http%2F1.1&amp;sni=9.neshaan.org#<i",
+        "vless:\/\/53bea386-912e-4fe3-9eff-59c2285a176c@pages.dev:2053?type=ws&amp;path=%2Fadmins%3Fed%3D2560&amp;host=9.neshaan.org&amp;security=tls&amp;fp=chrome&amp;alpn=http%2F1.1&amp;sni=9.neshaan.org#<i",
+        "vless:\/\/53bea386-912e-4fe3-9eff-59c2285a176c@172.67.67.250:2053?type=ws&amp;path=%2Fadmins%3Fed%3D2560&amp;host=9.neshaan.org&amp;security=tls&amp;fp=chrome&amp;alpn=http%2F1.1&amp;sni=9.neshaan.org#<i",
+        "vless:\/\/53bea386-912e-4fe3-9eff-59c2285a176c@photo-strock-shop.vorezgi.workers.dev:2053?type=ws&amp;path=%2Fadmins%3Fed%3D2560&amp;host=9.neshaan.org&amp;security=tls&amp;fp=chrome&amp;alpn=http%2F1.1&amp;sni=9.neshaan.org#<i",
+        "vless:\/\/76ad8213-4617-47eb-92cc-5392b39b45ce@172.67.73.163:80?security=none&amp;type=ws&amp;host=eLOQuENt-caSE.ZUlaIR.orG.&amp;path=%2F%3Fed%3D2048#<i",
+        "vless:\/\/4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.169:80?type=ws&amp;host=digitalscientificresearchgroup.ir&amp;path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#<i"
     ],
     "trojan": [],
-    "ss": [],
+    "ss": [
+        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.80:443#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
