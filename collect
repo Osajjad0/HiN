@@ -1,19 +1,28 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/53503fd1-275c-4623-d426-601a652ca3fc@zmaoz.faculty.ucdavis.edu:80?encryption=none&amp;security=none&amp;type=ws&amp;host=foffmelo.com&amp;path=%2Folem%2Fws%3Fed%3D1024#<i",
-        "vless:\/\/dd155336-2b3b-13c6-8557-ad6b2c2a54fe@185.143.233.1:80?encryption=none&amp;security=none&amp;type=ws&amp;host=cscscsc-414cdd80f5-scc.apps.ir-central1.arvancaas.ir&amp;path=%2F#<i",
-        "vless:\/\/f638c87c-d064-42ac-a710-f5755ee45a81@85.9.101.195:38323?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=alibaba.com#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?security=&amp;type=grpc&amp;encryption=none#<i",
-        "vless:\/\/efd27b02-358a-4c5f-866e-180f9b762706@gigaportal.pl.gigaportal.pl:80?mode=auto&amp;path=%2F%3Fed%3D399%2F%3Fbgbg&amp;security=&amp;encryption=none&amp;host=bgbg1your-name.global.ssl.fastly.net&amp;type=xhttp#<i",
-        "vless:\/\/3a473c3c-942c-4a1f-b230-d7b57e5fb32b@d1.amo24.top:8443?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.176:443?path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=simorgh.hpcode.ir&amp;fp=firefox&amp;type=ws&amp;sni=simorgh.hpcode.ir#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#<i",
-        "vless:\/\/dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=tannaz.juveitaly.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=tannaz.juveitaly.dpdns.org#<i"
+        "vless:\/\/2fc23c7e-e143-49b3-87ad-5aa6a5641a48@140.248.125.14:80?mode=auto&amp;path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=biantoZedmodeonyour-name.global.ssl.fastly.net&amp;type=xhttp#<i",
+        "vless:\/\/24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.17.148.22:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;host=Q03l9EiQiA.9pEsC.cOm&amp;type=ws&amp;sni=Q03l9EiQiA.9pEsC.cOm#<i",
+        "vless:\/\/dafcf51a-c0eb-4b83-8acb-a5b6032d140e@tunel2.digikala2.com:14051?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/f04bc46e-015c-4604-8dcb-b499e5bc7e85@like4.forredeye.com:2051?security=&amp;encryption=none&amp;host=myket.ir&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/f7d61d6e-b101-4385-bf5a-aa108ec1465d@speedtest.org:8080?encryption=none&amp;security=none&amp;type=ws&amp;host=shad.ir.bot.digicyber.click&amp;path=%2Fmelo#<i",
+        "vless:\/\/f7d61d6e-b101-4385-bf5a-aa108ec1465d@tgju.org:8080?encryption=none&amp;security=none&amp;type=ws&amp;host=shad.ir.bot.digicyber.click&amp;path=%2Fmelo#<i",
+        "vless:\/\/f7d61d6e-b101-4385-bf5a-aa108ec1465d@mn.co:8080?encryption=none&amp;security=none&amp;type=ws&amp;host=shad.ir.bot.digicyber.click&amp;path=%2Fmelo#<i",
+        "vless:\/\/f7d61d6e-b101-4385-bf5a-aa108ec1465d@speedtest.net:80?encryption=none&amp;security=none&amp;type=ws&amp;host=melodebot.net&amp;path=%2Fmelo%2Fws%3Fed%3D2048#<i",
+        "vless:\/\/f7d61d6e-b101-4385-bf5a-aa108ec1465d@zmaoz.faculty.ucdavis.edu:80?encryption=none&amp;security=none&amp;type=ws&amp;host=melodebot.net&amp;path=%2Fmelo%2Fws%3Fed%3D2048#<i",
+        "vless:\/\/24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.17.148.22:2096?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=Q03l9EiQiA.9pEsC.cOm&amp;fp=chrome&amp;type=ws&amp;sni=Q03l9EiQiA.9pEsC.cOm#<i",
+        "vless:\/\/bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@172.67.164.239:80?path=%2FBaRAyeIran%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=barayeiran.nastaranh.dpdns.org&amp;fp=random&amp;type=ws&amp;sni=barayeiran.nastaranh.dpdns.org#<i",
+        "vless:\/\/24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.17.148.22:2096?path=%2F&amp;security=tls&amp;encryp\u2026#<i",
+        "vless:\/\/8d55882b-3e14-4c40-9a1e-06c09ecd9300@tunel2.digikala2.com:14051?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/5343d801-5f55-40b8-be39-1fe02b816bdc@151.101.194.228:80?security=none&amp;type=ws&amp;host=joinshhproxybedeeeeeee.ir&amp;path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#<i",
+        "vless:\/\/239f03ae-4a75-44f3-94c9-7725e6704f3d@104.17.147.22:2052?security=none&amp;type=ws&amp;host=Www.speedtest.net.mahdijamkaran.online.&amp;path=%2F%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048#<i",
+        "vless:\/\/26f59655-5ac1-4bc0-bb2d-a042ab8e6388@irNt.Nisvn.ir:500?security=none&amp;encryption=none&amp;host=bmi.ir&amp;headerType=http&amp;type=tcp#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/63dbc6d0-4890-320c-8874-56f9f002d425@158.180.82.98:15446?allowInsecure=0&amp;sni=freehr01.jd0001.top#<i"
+    ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGYyY2M2MDQwNGFlZTMw@135.125.219.2:10942#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVZXBFaDBrelFzcVhYeU14RDJiQ0wx@62.210.88.22:443#<i"
     ],
     "tuic": [],
     "hysteria": [],
