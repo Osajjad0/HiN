@@ -1,21 +1,27 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/000273dd-8af5-4c53-b47b-c3c49bcf9e2a@151.101.3.8:80?type=xhttp&amp;path=%2FTelegram%40viturey%3Fed%3D2048&amp;host=bpi7.global.ssl.fastly.net&amp;mode=auto&amp;security=none#<i",
-        "vless:\/\/ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.193.144:443?sni=edcci.aimercc.filegear-sg.me&amp;type=ws&amp;allowInsecure=1#<i",
-        "vless:\/\/ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.176:443?path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=simorgh.hpcode.ir&amp;fp=firefox&amp;type=ws&amp;sni=simorgh.hpcode.ir#<i",
-        "vless:\/\/a9c0b3ec-3601-4ea6-bf0c-dba336bd8976@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Lightning6.ir&amp;type=ws#<i",
-        "vless:\/\/a9c0b3ec-3601-4ea6-bf0c-dba336bd8976@151.101.64.155:80?path=\/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Lightning6.ir&amp;type=ws#<i",
-        "vless:\/\/45a4985c-536d-41a6-a7e0-28f9acdc5cc7@151.101.64.155:80?path=%2F%40aklisvpn%40aklisvpn%40aklisvpn%40aklisvpn%40aklisvpn%40aklisvpn&amp;security=none&amp;encryption=none&amp;host=aklisvpntelegram.com&amp;type=ws#<i",
-        "vless:\/\/d118038f-0d72-4b45-8cce-bcf237487f41@104.18.3.157:443?security=tls&amp;sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&amp;type=ws&amp;host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&amp;path=%2F%3Fed%3D2048&amp;fp=chrome&amp;alpn=h3%2Ch2#<i",
-        "vless:\/\/06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.192:443?sni=vb.ylks0033.dpdns.org&amp;type=ws&amp;allowInsecure=1#<i",
-        "vless:\/\/48108ffd-b20c-4d94-bf99-d3e3187a10c7@151.101.192.155:80?security=none&amp;type=ws&amp;host=arzinja.info#<i",
-        "vless:\/\/33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.157:3184\/?type=grpc&amp;encryption=none&amp;flow=&amp;serviceName=chessgame&amp;sni=www.chess.com&amp;fp=chrome&amp;security=reality&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;sid=#<i"
+        "vless:\/\/ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.165.152.18:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=edmz.ambercc.filegear-sg.me&amp;type=ws&amp;sni=edmz.ambercc.filegear-sg.me#<i",
+        "vless:\/\/0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=QW.VU6d72nt9y.zULaiR.orG.&amp;type=ws#<i",
+        "vless:\/\/c3b64340-1f61-4b3a-a9de-bb34eeabc7b7@18.sahanwickramasinghe.shop:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.facebook.com#<i",
+        "vless:\/\/53503fd1-275c-4623-d426-601a652ca3fc@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=foffmelo.com&amp;type=ws#<i",
+        "vless:\/\/589b8628-44e4-474c-9f16-4be7159b9800@91.99.149.127:46650\/?type=grpc&amp;encryption=none&amp;flow=&amp;sni=www.debian.org&amp;fp=chrome&amp;security=reality&amp;pbk=4PpeKl3SfZISMkrtpJyVGKTZLIAsYcd9uGuWRi-pTE4&amp;sid=d5379dac5626e5#<i",
+        "vless:\/\/2e655095-7f4e-428d-9c7e-eb2278e153a8@91.99.144.165:3184\/?type=grpc&amp;encryption=none&amp;flow=&amp;serviceName=chessgame&amp;sni=www.chess.com&amp;fp=chrome&amp;security=reality&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;sid=#<i",
+        "vless:\/\/2e655095-7f4e-428d-9c7e-eb2278e153a8@91.99.148.251:3184\/?type=grpc&amp;encryption=none&amp;flow=&amp;serviceName=chessgame&amp;sni=www.chess.com&amp;fp=chrome&amp;security=reality&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;sid=#<i",
+        "vless:\/\/33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.157:3184\/?type=grpc&amp;encryption=none&amp;flow=&amp;serviceName=chessgame&amp;sni=www.chess.com&amp;fp=chrome&amp;security=reality&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;sid=#<i",
+        "vless:\/\/b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.148.251:2182\/?type=grpc&amp;encryption=none&amp;flow=&amp;serviceName=chessgame&amp;sni=chess.com&amp;fp=chrome&amp;security=reality&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;sid=#<i",
+        "vless:\/\/b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.157:2182\/?type=grpc&amp;encryption=none&amp;flow=&amp;serviceName=chessgame&amp;sni=chess.com&amp;fp=chrome&amp;security=reality&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;sid=#<i",
+        "vless:\/\/b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.156:2182\/?type=grpc&amp;encryption=none&amp;flow=&amp;serviceName=chessgame&amp;sni=chess.com&amp;fp=chrome&amp;security=reality&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;sid=#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/Aimer@154.197.64.248:8443?allowInsecure=0&amp;sni=epcco.ambercc.filegear-sg.me#<i"
+    ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSaVB1S0pKbDE4Wmd2THBUald4QndTZktpUGt0OWd6Rkt5eEdDWThlSHRPY0RiMlg=@5.189.201.250:31348#<i",
-        "ss:\/\/c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@54.249.151.205:443#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3306#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOTFkNmY0Y2IyZjhkYjJk@151.240.110.212:11255#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTg4NGU0ODkxNTc0OTFm@151.240.110.214:11252#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzc2ZTE0NmE3NDczZTAw@151.240.3.168:11209#<i"
     ],
     "tuic": [],
     "hysteria": [],
