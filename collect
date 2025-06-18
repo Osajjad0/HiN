@@ -1,11 +1,6 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/4088e698-69fd-4d15-98bc-f1fe4c071642@104.21.73.239:443?security=tls&amp;sni=DigITALsciENTIfiCrESeARCHGRoup.IR&amp;type=ws&amp;host=digitalscientificresearchgroup.ir&amp;path=%2F4McLR3NKFOydbxDs%2FMTguMTk5LjIxMy4yMDE&amp;fp=chrome&amp;alpn=http\/1.1#<i",
-        "vless:\/\/2e655095-7f4e-428d-9c7e-eb2278e153a8@91.99.144.165:3184?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=www.chess.com#<i",
-        "vless:\/\/2e655095-7f4e-428d-9c7e-eb2278e153a8@91.99.148.251:3184?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=www.chess.com#<i",
-        "vless:\/\/33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.157:3184?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=www.chess.com#<i",
-        "vless:\/\/b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.148.251:2182?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=chess.com#<i",
         "vless:\/\/b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.157:2182?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=chess.com#<i",
         "vless:\/\/b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.156:2182?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=chess.com#<i",
         "vless:\/\/589b8628-44e4-474c-9f16-4be7159b9800@91.99.149.127:46650?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=4PpeKl3SfZISMkrtpJyVGKTZLIAsYcd9uGuWRi-pTE4&amp;fp=chrome&amp;type=grpc&amp;sni=www.debian.org&amp;sid=d5379dac5626e5#<i",
@@ -15,7 +10,9 @@
         "vless:\/\/f3c04ab3-790e-4622-b9a2-38a5c016e8d6@81.28.12.12:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=cdn.dafiemikonetheweekendplay.space&amp;fp=chrome&amp;type=ws&amp;sni=www.gcore.com#<i",
         "vless:\/\/f503ceaa-aa74-4468-8359-2788e1b6c915@151.101.194.219:80?security=none&amp;type=ws&amp;host=foffmelo.com#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/Aimer@167.68.4.131:8443?allowInsecure=0&amp;sni=epccu.ambercc.filegear-sg.me#<i"
+    ],
     "ss": [
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzc2ZTE0NmE3NDczZTAw@151.240.3.168:11209#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzc2ZTE0NmE3NDczZTAw@151.240.3.168:11209#<i",
