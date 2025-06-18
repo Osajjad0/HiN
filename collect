@@ -1,26 +1,10 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/753fa8e8-a3e8-442e-abf7-875ed776eacb@104.19.48.236:443?security=tls&amp;sni=is.oldcloud.online&amp;type=ws&amp;host=is.oldcloud.online&amp;path=%2F&amp;fp=chrome#<i",
-        "vless:\/\/1688039e-a45f-499e-b9f4-c098c87d3b32@108.162.196.159:443?security=tls&amp;sni=cr7777.rayan.dpdns.org&amp;type=ws&amp;host=cr7777.rayan.dpdns.org&amp;path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;fp=chrome#<i",
-        "vless:\/\/589b8628-44e4-474c-9f16-4be7159b9800@91.99.149.127:46650\/?type=grpc&amp;encryption=none&amp;flow=&amp;sni=www.debian.org&amp;fp=chrome&amp;security=reality&amp;pbk=4PpeKl3SfZISMkrtpJyVGKTZLIAsYcd9uGuWRi-pTE4&amp;sid=d5379dac5626e5#<i",
-        "vless:\/\/2e655095-7f4e-428d-9c7e-eb2278e153a8@91.99.144.165:3184\/?type=grpc&amp;encryption=none&amp;flow=&amp;serviceName=chessgame&amp;sni=www.chess.com&amp;fp=chrome&amp;security=reality&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;sid=#<i",
-        "vless:\/\/2e655095-7f4e-428d-9c7e-eb2278e153a8@91.99.148.251:3184\/?type=grpc&amp;encryption=none&amp;flow=&amp;serviceName=chessgame&amp;sni=www.chess.com&amp;fp=chrome&amp;security=reality&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;sid=#<i",
-        "vless:\/\/33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.157:3184\/?type=grpc&amp;encryption=none&amp;flow=&amp;serviceName=chessgame&amp;sni=www.chess.com&amp;fp=chrome&amp;security=reality&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;sid=#<i",
-        "vless:\/\/b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.148.251:2182\/?type=grpc&amp;encryption=none&amp;flow=&amp;serviceName=chessgame&amp;sni=chess.com&amp;fp=chrome&amp;security=reality&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;sid=#<i",
-        "vless:\/\/b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.157:2182\/?type=grpc&amp;encryption=none&amp;flow=&amp;serviceName=chessgame&amp;sni=chess.com&amp;fp=chrome&amp;security=reality&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;sid=#<i",
-        "vless:\/\/b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.156:2182\/?type=grpc&amp;encryption=none&amp;flow=&amp;serviceName=chessgame&amp;sni=chess.com&amp;fp=chrome&amp;security=reality&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;sid=#<i",
-        "vless:\/\/e716c78a-c031-4ee4-b32a-25d6475ed1f1@104.17.147.22:8880?security=none&amp;type=ws&amp;host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&amp;path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&amp;fp=randomized&amp;alpn=h3%2Ch2%2Chttp%2F1.1#<i",
-        "vless:\/\/030e448c-7535-4ea5-8c55-1b00403c0f6b@104.17.147.22:2096?security=tls&amp;sni=app6.appdatanewk.lat&amp;type=grpc&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "vless:\/\/26842241-856f-45f2-b33c-b58e66f36fb8@104.18.15.19:8880?security=none&amp;type=ws&amp;host=0113.edwv8ve3.workers.dev#<i"
+        "vless:\/\/c29d39bd-92a4-45db-bb61-56013998617c@104.18.109.147:80?path=%2FTelegram-XV2ry2%3Fed%3D2048%26%3Fq%3DV2ray#<i"
     ],
     "trojan": [],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzc2ZTE0NmE3NDczZTAw@151.240.3.168:11209#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTg4NGU0ODkxNTc0OTFm@151.240.110.214:11252#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNWM0NDZiNzc1OTMxZDI4@151.240.110.215:11254#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTg4NGU0ODkxNTc0OTFm@151.240.110.214:11252#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
