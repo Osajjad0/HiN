@@ -1,7 +1,6 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/c120b4fe-9aae-4973-a296-81bda70d21da@83.217.9.122:443?security=reality&amp;sni=google.com&amp;type=tcp&amp;host=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&amp;fp=chrome&amp;pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#<i",
         "vless:\/\/4088e698-69fd-4d15-98bc-f1fe4c071642@104.21.73.239:443?security=tls&amp;sni=DigITALsciENTIfiCrESeARCHGRoup.IR&amp;type=ws&amp;host=digitalscientificresearchgroup.ir&amp;path=%2F4McLR3NKFOydbxDs%2FMTguMTk5LjIxMy4yMDE&amp;fp=chrome&amp;alpn=http\/1.1#<i",
         "vless:\/\/2e655095-7f4e-428d-9c7e-eb2278e153a8@91.99.144.165:3184?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=www.chess.com#<i",
         "vless:\/\/2e655095-7f4e-428d-9c7e-eb2278e153a8@91.99.148.251:3184?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=www.chess.com#<i",
@@ -12,7 +11,9 @@
         "vless:\/\/589b8628-44e4-474c-9f16-4be7159b9800@91.99.149.127:46650?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=4PpeKl3SfZISMkrtpJyVGKTZLIAsYcd9uGuWRi-pTE4&amp;fp=chrome&amp;type=grpc&amp;sni=www.debian.org&amp;sid=d5379dac5626e5#<i",
         "vless:\/\/401374e6-df77-41fb-f638-dad8184f175b@172.67.68.36:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;type=grpc&amp;sni=pqh23v2.hiddendom.shop#<i",
         "vless:\/\/69d6a749-1cc8-4322-da5e-b9a74ae83ba5@172.67.212.82:2053?security=tls&amp;flow=xtls-rprx-vision&amp;sni=m1s.131.pp.ua&amp;type=ws&amp;host=m1s.131.pp.ua&amp;path=%2Fm1s.131.pp.ua#<i",
-        "vless:\/\/3f5811bf-7c90-4987-8d97-4e79d6cf56f8@himyfriend2.huntexteam.site:34449?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#<i"
+        "vless:\/\/3f5811bf-7c90-4987-8d97-4e79d6cf56f8@himyfriend2.huntexteam.site:34449?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/f3c04ab3-790e-4622-b9a2-38a5c016e8d6@81.28.12.12:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=cdn.dafiemikonetheweekendplay.space&amp;fp=chrome&amp;type=ws&amp;sni=www.gcore.com#<i",
+        "vless:\/\/f503ceaa-aa74-4468-8359-2788e1b6c915@151.101.194.219:80?security=none&amp;type=ws&amp;host=foffmelo.com#<i"
     ],
     "trojan": [],
     "ss": [
