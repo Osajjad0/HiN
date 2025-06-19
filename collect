@@ -1,20 +1,14 @@
 {
-    "vmess": [],
+    "vmess": [
+        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogInN0b3JlLnRlbGUtc2hvcC10b28uc3R1ZGlvIiwgInBvcnQiOiAzMzE1NywgImlkIjogIjA3ZTA1ODIwLTFhY2EtNGEwOC04MmM3LWJlOTlkMTQxMzk0NCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjFcdTAwYWVcdWZlMGZUaGUgTmV0aGVybGFuZHNcdTAwYTlcdWZlMGZIYWFybGVtXHVkODNjXHVkZDdmXHVmZTBmcGluZzozOS41OW1zIn0=<\/code><\/div>"
+    ],
     "vless": [
-        "vless:\/\/81936cbd-6f9a-4f53-adf8-b8822e77b461@198.41.205.209:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=steep-pine-3b0b.facic63646.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=steep-pine-3b0b.facic63646.workers.dev#<i",
-        "vless:\/\/81936cbd-6f9a-4f53-adf8-b8822e77b461@104.18.2.130:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h3%2Ch2&amp;host=steep-pine-3b0b.facic63646.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=steep-pine-3b0b.facic63646.workers.dev#<i",
-        "vless:\/\/acddb53a-0031-41d1-bc9b-d2a5ba5ad67a@5.22.212.180:443?security=reality&amp;encryption=none&amp;pbk=cCsOIijb3G0Ogl9uIds1_cgjhZKGQSsOPojs4rR4JX0&amp;host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.refersion.com&amp;sid=e869#<i",
-        "vless:\/\/b1a46f38-8a88-414a-8e63-8421b3e80b1c@bulk.file2compressed.com:80?type=ws&amp;path=%2F#<i",
-        "vless:\/\/33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/27fdd2e8-ee23-4f56-b497-698d59938396@104.21.7.235:443?security=tls&amp;sni=a.kanal-tel-nufilter.store&amp;type=ws&amp;host=a.kanal-tel-nufilter.store&amp;path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&amp;fp=chrome#<i",
-        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.203:80?security=none&amp;type=ws&amp;host=gozargah.validbv7996.ir&amp;path=\/Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2#<i",
-        "vless:\/\/17b4dc50-6c4d-4b44-9080-59f952191a16@213.176.65.97:3443?encryption=none&amp;security=reality&amp;sni=speedtest1.irancell.ir.prod.hosts.ooklaserver.net&amp;fp=firefox&amp;pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&amp;type=tcp&amp;headerType=none#<i",
-        "vless:\/\/b272917b-d154-423d-cdbe-9627f6099472@213.176.65.115:8501?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#<i",
-        "vless:\/\/b272917b-d154-423d-cdbe-9627f6099472@213.176.65.97:8501?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#<i",
-        "vless:\/\/17b4dc50-6c4d-4b44-9080-59f952191a16@213.176.65.123:3443?encryption=none&amp;security=reality&amp;sni=speedtest1.irancell.ir.prod.hosts.ooklaserver.net&amp;fp=firefox&amp;pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&amp;type=tcp&amp;headerType=none#<i"
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.28.207:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#<i"
     ],
     "trojan": [
-        "trojan:\/\/Aimer@103.116.7.235:443?allowInsecure=0&amp;sni=epcct.ambercc.filegear-sg.me#<i"
+        "trojan:\/\/telegram-id-privatevpns@63.178.28.207:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@63.178.28.207:22223?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-v2rayvpnchannel@63.178.28.207:22223?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
     ],
     "ss": [],
     "tuic": [],
