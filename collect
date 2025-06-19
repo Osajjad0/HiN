@@ -1,13 +1,12 @@
 {
-    "vmess": [
-        "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogInN0b3JlLnRlbGUtc2hvcC10b28uc3R1ZGlvIiwgInBvcnQiOiAzMzE1NywgImlkIjogIjA3ZTA1ODIwLTFhY2EtNGEwOC04MmM3LWJlOTlkMTQxMzk0NCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjFcdTAwYWVcdWZlMGZUaGUgTmV0aGVybGFuZHNcdTAwYTlcdWZlMGZIYWFybGVtXHVkODNjXHVkZDdmXHVmZTBmcGluZzozOS41OW1zIn0=<\/code><\/div>"
-    ],
+    "vmess": [],
     "vless": [
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.28.207:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#<i"
+        "vless:\/\/18d8ce6f-a27c-461e-ada8-a7d0a97a023b@104.17.221.248:443?security=tls&amp;sni=ad.oldcloud.online&amp;type=ws&amp;host=ad.oldcloud.online&amp;path=%2F&amp;fp=chrome#<i",
+        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.126:80?sni=gozargah.validbv7996.ir&amp;type=ws&amp;host=gozargah.validbv7996.ir&amp;path=\/Telegram<i",
+        "vless:\/\/85323542-f2b1-44d0-8b0c-1c4196bc38f2@grlot.hamrahconf.ir:1598?encryption=none&amp;security=reality&amp;sni=tgju.org&amp;fp=chrome&amp;pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&amp;sid=0b886008af8942c3&amp;type=tcp&amp;headerType=none#<i",
+        "vless:\/\/ce185c67-a728-4622-f5e0-b7ce9fc31c11@104.17.148.22:2082?security=none&amp;type=ws&amp;host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&amp;path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082#<i"
     ],
     "trojan": [
-        "trojan:\/\/telegram-id-privatevpns@63.178.28.207:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/telegram-id-directvpn@63.178.28.207:22223?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
         "trojan:\/\/telegram-id-v2rayvpnchannel@63.178.28.207:22223?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
     ],
     "ss": [],
