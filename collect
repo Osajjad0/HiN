@@ -1,25 +1,24 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/1834c324-e0a5-5406-906e-d83e4b8afb2e@104.17.148.22:2052?type=ws&amp;host=sPeedtest2.sbs.kz.v2vless.sitespeedtest.net&amp;path=\/vless#<i",
-        "vless:\/\/61b3ec5f-65ca-a021-f814-face3815540a@nde1-tu.mobstore.store:3950?path=%3Fed%3D2084&amp;security=tls&amp;encryption=none&amp;host=nde1-d.mobstore.store&amp;fp=chrome&amp;type=ws&amp;sni=nde1-d.mobstore.store#<i",
-        "vless:\/\/33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:1535?mode=auto&amp;path=%2FAS&amp;security=reality&amp;encryption=none&amp;pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&amp;fp=chrome&amp;type=xhttp&amp;sni=stackoverflow.com#<i",
         "vless:\/\/06e2347d-62fe-4640-8c44-f16e9cf8f793@162.159.20.126:2052?path=%2F%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=v2ngfast.nanvrfood.ir.&amp;type=httpupgrade#<i",
         "vless:\/\/fcb1aa0e-6e2d-49af-91c9-cf851868f2b8@irantechsoftwares.com:443?security=reality&amp;encryption=none&amp;pbk=iGKunF680EUDy-6nhdD4uCKhOWOCblf78iUFkJcvY0c&amp;headerType=none&amp;fp=random&amp;spx=%2FMldANJJytAnedsFSg&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=irantechsoftwares.com&amp;sid=a110#<i",
         "vless:\/\/61b3ec5f-65ca-a021-f814-face3815540a@nde1-tu.mobstore.store:3950?path=%3Fed%3D2084&amp;security=tls&amp;encryption=none&amp;host=nde1-d.mobstore.store&amp;fp=chrome&amp;type=ws&amp;sni=nde1-d.mobstore.store#<i",
         "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.131.209.63:8880?path=%2F---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net%2F&amp;security=none&amp;encryption=none&amp;host=jp.laoyoutiao.link&amp;type=ws&amp;sni=jp.laoyoutiao.link#<i",
-        "vless:\/\/589b8628-44e4-474c-9f16-4be7159b9800@91.99.149.127:46650?type=grpc&amp;mode=gun&amp;security=reality&amp;fp=chrome&amp;sni=www.debian.org&amp;pbk=4Pp\u2026#<i"
+        "vless:\/\/589b8628-44e4-474c-9f16-4be7159b9800@91.99.149.127:46650?type=grpc&amp;mode=gun&amp;security=reality&amp;fp=chrome&amp;sni=www.debian.org&amp;pbk=4Pp\u2026#<i",
+        "vless:\/\/f3c04ab3-790e-4622-b9a2-38a5c016e8d6@81.28.12.12:443?security=tls&amp;encryption=none&amp;type=ws&amp;host=cdn.dafiemikonetheweekendplay.space&amp;path=\/?ed%3D2048&amp;sni=www.gcore.com&amp;fp=chrome&amp;alpn=h2,http\/1.1#<i",
+        "vless:\/\/TELEGRAM-NUFiLTER@89.34.230.225:58967?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/0fdf994e-c44f-4781-9d77-244b17904380@eir-43.f-sub.cfd:4926?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#<i"
     ],
     "trojan": [
-        "trojan:\/\/Aimer@31.43.179.27:443?allowInsecure=0&amp;sni=epcct.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@156.225.72.246:2087?allowInsecure=0&amp;sni=epccr.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@thaddeus.ns.cloudflare.com:443?allowInsecure=0&amp;sni=epccy.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@108.165.152.55:2096?allowInsecure=0&amp;sni=epccy.ambercc.filegear-sg.me#<i",
         "trojan:\/\/Aimer@138.2.226.225:32322?allowInsecure=0&amp;sni=epccy.ambercc.filegear-sg.me#<i",
         "trojan:\/\/Aimer@91.149.239.122:443?allowInsecure=0&amp;sni=epccy.ambercc.filegear-sg.me#<i",
         "trojan:\/\/Aimer@167.68.4.131:8443?allowInsecure=0&amp;sni=epccy.ambercc.filegear-sg.me#<i",
         "trojan:\/\/Aimer@154.83.2.88:2083?allowInsecure=0&amp;sni=epccy.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@154.197.64.173:2053?allowInsecure=0&amp;sni=epcct.ambercc.filegear-sg.me#<i"
+        "trojan:\/\/Aimer@154.197.64.173:2053?allowInsecure=0&amp;sni=epcct.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/Aimer@121.163.248.127:50000?allowInsecure=0&amp;sni=epcct.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/Aimer@216.198.53.212:8443?allowInsecure=0&amp;sni=epcct.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/Aimer@154.211.8.98:2087?allowInsecure=0&amp;sni=epccr.ambercc.filegear-sg.me#<i"
     ],
     "ss": [],
     "tuic": [],
