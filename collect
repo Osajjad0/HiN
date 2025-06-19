@@ -1,9 +1,6 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/bb42ec01-6bf7-4749-a3a1-907b44498bc6@premium.vkehi.shop:443?encryption=none&amp;flow=none&amp;type=tcp&amp;headerType=none&amp;security=tls&amp;fp=chrome&amp;sni=telegram.hutch.lk#<i",
-        "vless:\/\/601495d5-32cf-4d0d-ad1f-80bcedadd68b@premium.vkehi.shop:443?encryption=none&amp;flow=none&amp;type=tcp&amp;headerType=none&amp;security=tls&amp;fp=chrome&amp;sni=partner.steampowered.com#<i",
-        "vless:\/\/355d36aa-9ac0-4865-9f51-df2a0a506e64@premium.vkehi.shop:443?encryption=none&amp;flow=none&amp;type=tcp&amp;headerType=none&amp;security=tls&amp;fp=chrome&amp;sni=android.googleapis.com#<i",
         "vless:\/\/2a21d0a1-fc0f-49e7-b5cf-43a88d6d3d64@premium.vkehi.shop:443?encryption=none&amp;flow=none&amp;type=tcp&amp;headerType=none&amp;security=tls&amp;fp=chrome&amp;sni=facebook.com#<i",
         "vless:\/\/9e24c842-0d07-4d75-b7a3-81eaa85c96b0@premium.vkehi.shop:443?encryption=none&amp;flow=none&amp;type=tcp&amp;headerType=none&amp;security=tls&amp;fp=chrome&amp;sni=whatsapp.com#<i",
         "vless:\/\/52e15787-8ef4-4dfb-9dab-0d8b9450ae25@premium.vkehi.shop:443?encryption=none&amp;flow=none&amp;type=tcp&amp;headerType=none&amp;security=tls&amp;fp=chrome&amp;sni=youtube.com#<i",
@@ -17,7 +14,9 @@
         "vless:\/\/72d7ab94-4849-4a27-a840-ece6c8b53355@188.114.97.3:443?security=tls&amp;sni=bEstvpn-7Qp.pagES.dEV&amp;type=ws&amp;host=bestvpn-7qp.pages.dev&amp;path=%2FLpzVdXD0ymOpZWeV%3Fed%3D2560flow%3D-udp443&amp;fp=chrome#<i",
         "vless:\/\/15372547-4201-48e4-9d4b-8691d9915ceb@154.21.83.154:443?security=tls&amp;sni=usb.cayuo.me&amp;type=ws&amp;host=usb.cayuo.me&amp;path=%2Fbing#<i",
         "vless:\/\/a8e59566-4420-4493-91ba-029ee0ff6d74@172.67.69.236:2083?security=tls&amp;sni=bEAt.MIRaclETaxbiTS.Top.&amp;type=ws&amp;host=bEAt.MIRaclETaxbiTS.Top.&amp;path=%2F2083%2F%40VRayyNGvpn&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "vless:\/\/107718a0-3fa1-4030-8c85-d4f9cdcc5085@Speedtest.net:80?type=xhttp&amp;mode=auto&amp;host=jointo_unlimiteddev.ir&amp;path=\/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&amp;security=none#<i"
+        "vless:\/\/107718a0-3fa1-4030-8c85-d4f9cdcc5085@Speedtest.net:80?type=xhttp&amp;mode=auto&amp;host=jointo_unlimiteddev.ir&amp;path=\/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&amp;security=none#<i",
+        "vless:\/\/telegram-id-ArV2ray@www.speedtest.net:80?path=%2F-Arfilter%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.a.3.speedtest2029.com.&amp;type=ws#<i",
+        "vless:\/\/ee6774c0-9b19-4ff1-8b30-2da4b71977e2@202.181.27.218:14526?security=tls&amp;sni=edccr.ambercc.filegear-sg.me&amp;type=ws&amp;host=edccr.ambercc.filegear-sg.me&amp;path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#<i"
     ],
     "trojan": [
         "trojan:\/\/3d9741da-c0e4-47cc-a5e0-f1af3d337dae@ddd4.2030.pp.ua:443\/?type=ws&amp;host=ddd4.2030.pp.ua&amp;path=%2F51ilfH8vHwxilZqfwAwY2SNm&amp;security=tls&amp;sni=dDd4.2030.PP.UA&amp;alpn=http%2F1.1&amp;fp=chrome#<i"
