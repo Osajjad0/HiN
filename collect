@@ -1,28 +1,23 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/7b6503eb-a641-4eb4-9620-9b219a51e3ab@ssl2.komanserver.ir:443?path=%2Fdigikala.com%2Flogin%2F%3Fed%3D2560&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=httpupgrade&amp;sni=am.komanserver.ir.#<i",
-        "vless:\/\/31a168d7-3048-49c1-9a53-6585d0e2352b@nl.sarab.site:8647?security=reality&amp;encryption=none&amp;pbk=rdHifNMDd2BTPjsCrFO-XDRynOJFh9-7koEdxHRK0QU&amp;headerType=none&amp;fp=safari&amp;type=tcp&amp;sni=refersion.com&amp;sid=463e859c40a075a3#<i",
-        "vless:\/\/4c12cf11-2091-434f-b323-5ac31100dc5b@104.17.147.22:8880?type=ws&amp;host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&amp;path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048#<i",
-        "vless:\/\/5739b108-2580-43cd-ae0b-060876a60f66@104.17.148.22:2095?type=httpupgrade&amp;host=h1.N.iranshopering.ir.&amp;path=%2F%3Fed%3D2048#<i",
-        "vless:\/\/e3b74b3a-38f3-489b-bdf0-2d4019e801ec@151.101.1.194:80?security=none&amp;type=ws&amp;host=www.bmaustriabm.com#<i",
-        "vless:\/\/25af5432-ccbf-4014-8a64-831485d61073@104.19.223.79:2096?security=tls&amp;sni=wwwspeedtestnetwhiteberinsistomd6625996s31.elitemizban.ir&amp;type=ws&amp;host=wwwspeedtestnetwhiteberinsistomd6625996s31.elitemizban.ir#<i",
-        "vless:\/\/aacabbc-caba-acba-dbca-baacacabbccb@127.0.0.1:8080?security=tls&amp;type=tcp#<i",
-        "vless:\/\/3201b639-3cdf-4253-82ab-3e51ed873429@104.17.147.22:8880?security=none&amp;type=httpupgrade&amp;host=www.speedtest.net.mtm.2sedkfjeuixijd0ew9dvkcxoisiek21.blog&amp;path=%2FMTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN%3Fed%3D8880#<i",
-        "vless:\/\/25af5432-ccbf-4014-8a64-831485d61073@104.19.223.79:2096?security=tls&amp;sni=wwwspeedtestnetwhiteberinsistomd6625996s28.elitemizban.ir&amp;type=ws&amp;host=wwwspeedtestnetwhiteberinsistomd6625996s28.elitemizban.ir#<i",
-        "vless:\/\/c20edc65-9a39-4045-8f96-65a7ae5ab035@104.17.148.22:8880?security=none&amp;type=ws&amp;host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&amp;path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&amp;fp=randomized&amp;alpn=h3%2Ch2%2Chttp%2F1.1#<i",
-        "vless:\/\/50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.152.2:80?security=none&amp;type=ws&amp;host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.vpncustomize.V2ryng01.ru%3A0&amp;path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed#<i",
-        "vless:\/\/9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#<i"
+        "vless:\/\/0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=QW.VU6d72nt9y.zULaiR.orG.&amp;type=ws#<i",
+        "vless:\/\/c3b64340-1f61-4b3a-a9de-bb34eeabc7b7@18.sahanwickramasinghe.shop:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=www.facebook.com#<i",
+        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.52:443?security=tls&amp;sni=5-55sfjslf.ifenxiang.cfd&amp;type=ws&amp;host=5-55sfjslf.ifenxiang.cfd&amp;path=\/DRAGON?ed&amp;fp=randomized#<i",
+        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@35.158.9.185:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/Aimer@154.197.64.248:8443?allowInsecure=0&amp;sni=epcco.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/Aimer@167.68.4.131:8443?allowInsecure=0&amp;sni=epccu.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/Aimer@154.211.8.240:443?allowInsecure=0&amp;sni=epccr.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/telegram-id-privatevpns@35.158.9.185:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/telegram-id-directvpn@35.158.9.185:22223?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/Aimer@108.165.152.169:2087?allowInsecure=0&amp;sni=epccr.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/Aimer@kip.ns.cloudflare.com:443?allowInsecure=0&amp;sni=epcct.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/telegram-id-v2rayvpnchannel@35.158.9.185:22223?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i"
+    ],
     "ss": [
-        "ss:\/\/YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNDUwY2VjZmI5M2Y@kh36v1.pmxiaonan.xyz:26902\/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bmux%3D4%3Bhost%3Dkh36v1.pmxiaonan.xyz%3Bpath%3D%2Fsimieepvt%3Bmux%3Dmux%3D4%3B%3B#<i",
-        "ss:\/\/YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.126.31:989#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206YTg2OWJhN2UtZTQ2Yy00NmJmLTlkMGEtMmE0ZGRlY2MwNjI3@fell4.dogsvpn.top:7705#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTloT05jcDRMbVd1OENrNmhFUE0zNHR0ODlFcUFKNTBrN0ZiUkJkckJieGpYMW4=@195.123.213.12:31348?prefix=%16%03%01%00%C2%A8%01%01#<i"
+        "ss:\/\/YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3306#<i"
     ],
     "tuic": [],
     "hysteria": [],
