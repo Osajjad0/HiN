@@ -1,7 +1,6 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/c0b0cf19-a17b-465c-a701-325955a69ba1@NL.FIRELINKSERVERS.COM:19198?security=reality&amp;encryption=none&amp;pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=refersion.com&amp;sid=42c0b628ba6a42a9#<i",
         "vless:\/\/b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.144.165:4926?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp#<i",
         "vless:\/\/8f51770b-5bfe-4942-b2fd-7dfc800b2de0@62.60.148.14:25756?security=reality&amp;encryption=none&amp;pbk=QYKUzjbRc3V_-SwJ7DbChBt5nT6miAoFuNCqbflDF2o&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=61#<i",
         "vless:\/\/96376957-173b-4df1-81ed-3dd46568c570@62.60.244.89:8443?security=reality&amp;type=tcp&amp;headerType=&amp;flow=xtls-rprx-vision&amp;path=&amp;host=&amp;sni=arbeitsagentur.de&amp;fp=chrome&amp;pbk=YKxZl7HV4cByZum7_z_P390ITLIACiMhJY-AVKKAcVs&amp;sid=#<i",
@@ -10,11 +9,12 @@
         "vless:\/\/bceda5dd-d61a-41cf-94e8-59745be56625@2.144.5.102:2053?security=&amp;encryption=none&amp;host=am.komanserver.ir%2C%20soft98.ir%2C%20cdn-ngmy.irancell.ir%2C%20mefa.ir&amp;headerType=http&amp;type=tcp#<i",
         "vless:\/\/b1c801ec-1c5e-4d12-8b53-8da11c64a21b@91.84.113.7:443?security=reality&amp;flow=xtls-rprx-vision&amp;sni=video.intfreed.ru&amp;type=tcp&amp;fp=chrome&amp;pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&amp;sid=7755e972daf8eec8#<i",
         "vless:\/\/ba807bae-2d58-4833-a8c4-870e3ab46624@91.99.167.108:49834?encryption=none&amp;security=none&amp;type=ws&amp;path#<i",
-        "vless:\/\/ba807bae-2d58-4833-a8c4-870e3ab46624@91.99.167.108:49834?encryption=none&amp;security=none&amp;type=ws&amp;path#<i"
+        "vless:\/\/ba807bae-2d58-4833-a8c4-870e3ab46624@91.99.167.108:49834?encryption=none&amp;security=none&amp;type=ws&amp;path#<i",
+        "vless:\/\/aa2d785a-e348-4035-96db-75cc958adcd5@104.17.147.22:2087?security=tls&amp;sni=www.fardares.ir&amp;type=ws&amp;host=www.fardares.ir&amp;path=%2Fparis&amp;fp=chrome#<i",
+        "vless:\/\/4c018277-6b64-44a2-96c4-e7ac532ae398@104.17.148.22:2082?security=none&amp;type=ws&amp;host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&amp;path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082#<i",
+        "vless:\/\/e11e467c-415c-4545-8973-f7d4cae6bccf@213.176.65.192:443?encryption=none&amp;security=tls&amp;sni=mehrab.mojtabajeab.ir&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;fp=chrome&amp;type=httpupgrade&amp;path=%2Flogin%2Fazaronline.com%2F%3Fed%3D2560#<i"
     ],
     "trojan": [
-        "trojan:\/\/Aimer@154.17.27.166:443?allowInsecure=0&amp;sni=epccy.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@92.243.74.2:8443?allowInsecure=0&amp;sni=epccy.ambercc.filegear-sg.me#<i",
         "trojan:\/\/6040a753-e35b-4384-8713-96f3c639b621@104.21.21.226:443?allowInsecure=1&amp;sni=uK803.890689.Xyz&amp;ws=1&amp;wspath=%2FWxWOWO1YA9bs2HOmaeWimvT3#<i",
         "trojan:\/\/Aimer@59.7.203.104:10393?allowInsecure=0&amp;sni=epccr.ambercc.filegear-sg.me#<i",
         "trojan:\/\/tg-fq521free@216.24.57.30:443?allowInsecure=0&amp;sni=torjan.xn--xhq44j.eu.org&amp;ws=1&amp;wspath=%2F#<i"
