@@ -4,7 +4,6 @@
         "vmess:\/\/eyJ2IjogIjIiLCAiYWRkIjogInN0b3JlLnRlbGUtc2hvcC10b28uc3R1ZGlvIiwgInBvcnQiOiAzMzE1NywgImlkIjogImJhNjUzZjRkLWY1ZGQtNDFhZi1iZjIyLTJjNWMzMDJkZTdjZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjFcdTAwYWVcdWZlMGZUaGUgTmV0aGVybGFuZHNcdTAwYTlcdWZlMGZIYWFybGVtXHVkODNjXHVkZDdmXHVmZTBmcGluZzo0MC4wNG1zIn0=<\/code><\/div>"
     ],
     "vless": [
-        "vless:\/\/263303ef-d6ba-4301-e4a1-902bcdb9084e@151.101.64.155:80?path=%2F%40AKLISvpn%40Aklisvpn%40AKLISvpn%40Aklisvpn%40AKLISvpn%40Aklisvpn&amp;security=none&amp;encryption=none&amp;host=aklisvip.com&amp;type=ws#<i",
         "vless:\/\/9379ab38-8211-4785-9648-a7d0c13348cd@104.21.16.1:443?security=tls&amp;sni=joINMAHDIserver-lPa.pageS.dEV&amp;type=ws&amp;host=joinmahdiserver-lpa.pages.dev&amp;path=%2Fu5uEvLWC0CZfkWH3%3Fed%3D2560&amp;fp=randomized&amp;alpn=h2%2Chttp%2F1.1#<i",
         "vless:\/\/ee8e512f-0b40-466f-adbf-23208f193cca@104.26.15.16:2096?security=tls&amp;sni=bEAt.MIRaclETaxbiTS.Top.&amp;type=ws&amp;host=bEAt.MIRaclETaxbiTS.Top.&amp;path=\/2096\/@VRayyNGvpn&amp;fp=chrome&amp;alpn=h2,http\/1.1#<i",
         "vless:\/\/0fdf994e-c44f-4781-9d77-244b17904380@2393123233.torob.com.tr:1429?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.com#<i",
@@ -16,12 +15,14 @@
         "vless:\/\/9379ab38-8211-4785-9648-a7d0c13348cd@104.21.16.1:443?security=tls&amp;sni=joINMAHDIserver-lPa.pageS.dEV&amp;type=ws&amp;host=joinmahdiserver-lpa.pages.dev&amp;path=%2Fu5uEvLWC0CZfkWH3%3Fed%3D2560&amp;fp=randomized&amp;alpn=h2%2Chttp%2F1.1#<i",
         "vless:\/\/cbbaaac-acab-bcaa-bcda-bacbacabcbca@127.0.0.1:8080?security=tls&amp;type=tcp#<i",
         "vless:\/\/2970e03c-53b2-498d-b699-78895d31d968@173.245.58.100:2095?security=none&amp;type=ws&amp;host=xpntEamfree.sockSchangert.ir.#<i",
-        "vless:\/\/fcb1aa0e-6e2d-49af-91c9-cf851868f2b8@irantechsoftwares.com:443?security=reality&amp;encryption=none&amp;pbk=iGKunF680EUDy-6nhdD4uCKhOWOCblf78iUFkJcvY0c&amp;headerType=none&amp;fp=random&amp;spx=%2FMldANJJytAnedsFSg&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=irantechsoftwares.com&amp;sid=a110#<i"
+        "vless:\/\/fcb1aa0e-6e2d-49af-91c9-cf851868f2b8@irantechsoftwares.com:443?security=reality&amp;encryption=none&amp;pbk=iGKunF680EUDy-6nhdD4uCKhOWOCblf78iUFkJcvY0c&amp;headerType=none&amp;fp=random&amp;spx=%2FMldANJJytAnedsFSg&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=irantechsoftwares.com&amp;sid=a110#<i",
+        "vless:\/\/ce8626a6-18cd-4b61-91bf-da9b06e71bc0@206.189.43.44:443?security=tls&amp;sni=video-weaver.mrs02.hls.ttvnw.net&amp;type=tcp&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1#<i",
+        "vless:\/\/cbbaaac-acab-bcaa-bcda-bacbacabcbca@127.0.0.1:8080?security=tls&amp;type=tcp#<i"
     ],
-    "trojan": [],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdlRVazVMakZTV2xaZmhTcjB3dkNn@78.46.226.140:60051#<i"
+    "trojan": [
+        "trojan:\/\/Aimer@154.197.64.27:443?allowInsecure=0&amp;sni=epccy.ambercc.filegear-sg.me#<i"
     ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
