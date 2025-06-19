@@ -9,10 +9,10 @@
         "vless:\/\/7b6503eb-a641-4eb4-9620-9b219a51e3ab@213.176.65.129:443?path=%2Fdigikala.com%2Flogin%2F%3Fed%3D2560&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=httpupgrade&amp;sni=am.komanserver.ir.#<i",
         "vless:\/\/bceda5dd-d61a-41cf-94e8-59745be56625@2.144.5.102:2053?security=&amp;encryption=none&amp;host=am.komanserver.ir%2C%20soft98.ir%2C%20cdn-ngmy.irancell.ir%2C%20mefa.ir&amp;headerType=http&amp;type=tcp#<i",
         "vless:\/\/b1c801ec-1c5e-4d12-8b53-8da11c64a21b@91.84.113.7:443?security=reality&amp;flow=xtls-rprx-vision&amp;sni=video.intfreed.ru&amp;type=tcp&amp;fp=chrome&amp;pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&amp;sid=7755e972daf8eec8#<i",
+        "vless:\/\/ba807bae-2d58-4833-a8c4-870e3ab46624@91.99.167.108:49834?encryption=none&amp;security=none&amp;type=ws&amp;path#<i",
         "vless:\/\/ba807bae-2d58-4833-a8c4-870e3ab46624@91.99.167.108:49834?encryption=none&amp;security=none&amp;type=ws&amp;path#<i"
     ],
     "trojan": [
-        "trojan:\/\/Aimer@59.7.203.104:10393?allowInsecure=0&amp;sni=epccr.ambercc.filegear-sg.me#<i",
         "trojan:\/\/Aimer@154.17.27.166:443?allowInsecure=0&amp;sni=epccy.ambercc.filegear-sg.me#<i",
         "trojan:\/\/Aimer@92.243.74.2:8443?allowInsecure=0&amp;sni=epccy.ambercc.filegear-sg.me#<i",
         "trojan:\/\/6040a753-e35b-4384-8713-96f3c639b621@104.21.21.226:443?allowInsecure=1&amp;sni=uK803.890689.Xyz&amp;ws=1&amp;wspath=%2FWxWOWO1YA9bs2HOmaeWimvT3#<i",
@@ -20,9 +20,9 @@
         "trojan:\/\/tg-fq521free@216.24.57.30:443?allowInsecure=0&amp;sni=torjan.xn--xhq44j.eu.org&amp;ws=1&amp;wspath=%2F#<i"
     ],
     "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMWhqaVVtU2d1Y2d6WVlKMFd0cXdX@77.246.102.112:60117#<i",
         "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVMlpyOVQ3dnpsQzhzYURaVmJNcUMx@80.71.157.175:38211#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#<i"
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@85.90.208.34:2222#<i"
     ],
     "tuic": [],
     "hysteria": [],
