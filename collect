@@ -1,26 +1,12 @@
 {
     "vmess": [],
-    "vless": [
-        "vless:\/\/c3e86d0c-bfe5-4bb5-a051-5e143df2024d@51.89.229.8:443?security=tls&amp;sni=o2.sigmamessenger.com&amp;type=tcp&amp;alpn=h3%2Ch2%2Chttp%2F1.1#<i",
-        "vless:\/\/e96b0250-a2cf-4725-addf-803242e7c7bc@meli2.lamine.top:80?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#<i",
-        "vless:\/\/15298f41-e80b-463a-b85b-0c903258a1c8@162.159.1.33:443?security=tls&amp;sni=cr7.medicaltreatment.ir&amp;type=ws&amp;host=cr7.medicaltreatment.ir&amp;path=%2Fvpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560&amp;fp=chrome#<i",
-        "vless:\/\/89b64978-6244-4bf3-bf64-67ade4ce5c8f@104.21.80.190:2087?security=tls&amp;sni=node.vauth.workers.dev&amp;type=ws&amp;host=node.vauth.workers.dev&amp;path=%2F%3Fed%3D2048#<i",
-        "vless:\/\/fda4e7fd-897d-4d56-90af-94f7240002ab@104.17.148.22:2053?security=tls&amp;sni=netpie.ddns-ip.net&amp;type=ws&amp;host=netpie.ddns-ip.net&amp;fp=chrome#<i",
-        "vless:\/\/3b4db54d-ba53-40bc-8587-660f4b2c0ce2@62.60.244.89:8443?security=reality&amp;type=tcp&amp;headerType=&amp;flow=xtls-rprx-vision&amp;path=&amp;host=&amp;sni=arbeitsagentur.de&amp;fp=chrome&amp;pbk=YKxZl7HV4cByZum7_z_P390ITLIACiMhJY-AVKKAcVs&amp;sid=#<i"
-    ],
+    "vless": [],
     "trojan": [
-        "trojan:\/\/telegram-id-privatevpns@35.158.9.185:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/Aimer@129.226.150.167:443?allowInsecure=0&amp;sni=epccr.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@thaddeus.ns.cloudflare.com:443?allowInsecure=0&amp;sni=epcct.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@154.197.64.104:8443?allowInsecure=0&amp;sni=epcct.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@bestcf.030101.xyz:443?allowInsecure=0&amp;sni=epcct.ambercc.filegear-sg.me#<i"
+        "trojan:\/\/Aimer@176.124.223.40:2053?allowInsecure=0&amp;sni=epccr.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/Aimer@167.68.4.131:8443?allowInsecure=0&amp;sni=epcct.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/Aimer@192.200.160.35:2083?allowInsecure=0&amp;sni=epccr.ambercc.filegear-sg.me#<i"
     ],
-    "ss": [
-        "ss:\/\/YWVzLTEyOC1nY206ckdEYmlGN2d0eDVUV3Q0cjRWam5lUT09@156.225.22.213:552#<i",
-        "ss:\/\/YWVzLTEyOC1nY206ckdEYmlGN2d0eDVUV3Q0cjRWam5lUT09@156.225.22.213:552#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@62.60.233.173:2222#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@62.60.233.173:2222#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
