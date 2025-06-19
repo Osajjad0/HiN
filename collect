@@ -1,10 +1,6 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/d569b044-0dbb-496a-8d28-a3f14a003e73@sami.snapx.sbs:52914?security=&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/33d0980e-4054-474b-8f7c-05bf426963f1@91.99.148.251:1535?mode=auto&amp;path=%2FAS&amp;security=reality&amp;encryption=none&amp;pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&amp;fp=chrome&amp;type=xhttp&amp;sni=stackoverflow.com#<i",
-        "vless:\/\/33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.157:1535?mode=auto&amp;path=%2FAS&amp;security=reality&amp;encryption=none&amp;pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&amp;fp=chrome&amp;type=xhttp&amp;sni=stackoverflow.com#<i",
-        "vless:\/\/33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.156:3184?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;fp=chrome&amp;type=grpc&amp;serviceName=chessgame&amp;sni=www.chess.com#<i",
         "vless:\/\/19b55d51-0506-4ae1-9583-97e279306905@62.60.153.55:14703?security=none&amp;type=tcp&amp;host=analytics.google.com&amp;path=\/&amp;headerType=http#<i",
         "vless:\/\/fe422413-ef38-4455-8afa-0128e08e8e4e@45.40.59.248:443?security=tls&amp;sni=vn.qhahd.shop&amp;type=ws&amp;host=vn.qhahd.shop&amp;path=%2Fbing#<i",
         "vless:\/\/ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.33.144:443?security=tls&amp;sni=edccr.ambercc.filegear-sg.me&amp;type=ws&amp;host=edccr.ambercc.filegear-sg.me&amp;path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#<i",
@@ -16,12 +12,19 @@
         "vless:\/\/d26009b6-d347-403f-95ce-1816bb8b8ca4@45.131.4.100:80?security=none&amp;sni=v2raylandd.werokac991.workers.Dev&amp;type=ws&amp;host=v2raylandd.werokac991.workers.Dev&amp;path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#<i",
         "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@104.18.5.50:80?security=none&amp;type=ws&amp;host=gozargah.validbv7996.ir&amp;path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#<i",
         "vless:\/\/15f9fb4e-7b16-4ece-8217-c92eeb76808a@185.148.104.13:80?security=none&amp;type=ws&amp;host=vista.elmahstyle.kavehsanaatco.site.&amp;path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist#<i",
-        "vless:\/\/9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@162.159.38.219:443?security=tls&amp;sni=fari21.ati-app.com&amp;type=ws&amp;host=fari21.ati-app.com&amp;path=%2Fwss&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1#<i"
+        "vless:\/\/9fdc6f83-bfbd-40dd-8e4e-1678ee20351c@162.159.38.219:443?security=tls&amp;sni=fari21.ati-app.com&amp;type=ws&amp;host=fari21.ati-app.com&amp;path=%2Fwss&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1#<i",
+        "vless:\/\/ca91d13b-9088-403e-bd35-722ef558f69b@104.17.147.22:8443?security=tls&amp;sni=Pok76.filmekade.ru&amp;type=ws&amp;host=Pok76.filmekade.ru&amp;path=%2Ftelegram----------------v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---------------v2ryNG01---v2ryNG01--v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01%3Fed%3D2048&amp;fp=chrome&amp;alpn=h3%2Ch2%2Chttp%2F1.1#<i",
+        "vless:\/\/c86c1b94-6a1f-4107-aefa-8d3dd9e124f6@5.8.35.41:2211?security=none&amp;type=grpc#<i",
+        "vless:\/\/db33e70b-3769-474a-8d44-193159b64756@170.114.45.6:8080?security=none&amp;type=ws&amp;host=free.pranithsandaruwan.cfd&amp;path=%2F#<i",
+        "vless:\/\/de31282a-7bc6-4952-bb1c-d9a621668b32@151.101.2.216:80?security=none&amp;type=ws&amp;host=prheuoglrelgbmg55g.com&amp;path=%2F%3Fed%3D1028#<i",
+        "vless:\/\/b41f3d0c-3e2f-4f57-9995-c6bdf2b3204d@8.212.76.10:443?security=tls&amp;sni=hk.mehun.me&amp;type=ws&amp;host=hk.mehun.me&amp;path=%2Fbing#<i"
     ],
     "trojan": [
         "trojan:\/\/Aimer@65.75.194.66:51246?allowInsecure=0&amp;sni=epccr.ambercc.filegear-sg.me#<i"
     ],
-    "ss": [],
+    "ss": [
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#<i"
+    ],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
