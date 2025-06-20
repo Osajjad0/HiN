@@ -1,29 +1,28 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.17.147.22:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=Wv2NhB0hVh.SoLiJoNiTo.CoM&amp;type=ws&amp;sni=Wv2NhB0hVh.SoLiJoNiTo.CoM#<i",
-        "vless:\/\/7d05d766-4f45-455e-b789-70253ec34b8f@104.21.69.44:2053?path=%2Fcontainers%2Fde&amp;security=tls&amp;encryption=none&amp;host=ah12.ai351.com&amp;fp=chrome&amp;type=ws&amp;sni=ah12.ai351.com#<i",
-        "vless:\/\/49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&amp;encryption=none&amp;pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=speed.cloudflare.com#<i",
-        "vless:\/\/53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=redfree8mahsang6.redfree8.ir&amp;type=ws#<i",
-        "vless:\/\/44ec20e3-1c65-42d0-acb9-46d53f195e8a@322300233.webnama.com.tr:2182?security=reality&amp;type=grpc&amp;headerType=&amp;serviceName=chessgame&amp;authority=&amp;mode=gun&amp;sni=chess.com&amp;fp=chrome&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;sid=#<i",
-        "vless:\/\/44ec20e3-1c65-42d0-acb9-46d53f195e8a@99823232.webnama.com.tr:3184?security=reality&amp;type=grpc&amp;headerType=&amp;serviceName=chessgame&amp;authority=&amp;mode=gun&amp;sni=chess.com&amp;fp=chrome&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;sid=#<i",
-        "vless:\/\/3d8d5627-62c0-491a-ad68-0079983f95e1@185.168.194.59:41445?security=reality&amp;encryption=none&amp;pbk=eb0fWFAevT3a_BqrfJ2dLhY_Hv910o9LSmaumdZpIyQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tesla.com&amp;sid=f8a537#<i",
-        "vless:\/\/4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.108:443?security=tls&amp;sni=147135001195.sec22org.com&amp;type=tcp&amp;fp=chrome#<i",
-        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.20.94:2095?type=ws&amp;host=xijinpingnmsl.s4ar.workers.dev&amp;path=%2F%3Fed%3D2560#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#<i"
+        "vless:\/\/06e4425e-a8cb-4b63-929f-2105604ab0a9@104.16.228.229:443?security=tls&amp;sni=il.ylkszy.eu.org&amp;type=ws&amp;host=il.ylkszy.eu.org&amp;path=%2F%3Fed%3D2560#<i",
+        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880?type=grpc#<i",
+        "vless:\/\/a7b55e27-ffc5-45f7-94f6-eeb22b532ced@151.101.130.228:80?security=none&amp;type=ws&amp;host=joinshhproxybedeeeeeee.ir&amp;path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#<i",
+        "vless:\/\/06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.79.211:443?security=tls&amp;sni=il.ylkszy.eu.org&amp;type=ws&amp;host=il.ylkszy.eu.org#<i",
+        "vless:\/\/ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.165.152.18:2087?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=edmz.ambercc.filegear-sg.me&amp;type=ws&amp;sni=edmz.ambercc.filegear-sg.me#<i",
+        "vless:\/\/0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=QW.VU6d72nt9y.zULaiR.orG.&amp;type=ws#<i",
+        "vless:\/\/0fdf994e-c44f-4781-9d77-244b17904380@78234873823.webnama.com.tr:3789?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.com#<i",
+        "vless:\/\/ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.48.61:2083?security=tls&amp;sni=edccw.aimercc.filegear-sg.me&amp;type=ws&amp;host=edccw.aimercc.filegear-sg.me&amp;path=%2F%3Fed%3D2560#<i",
+        "vless:\/\/ee6774c0-9b19-4ff1-8b30-2da4b71977e2@121.183.90.210:50000?security=tls&amp;sni=agedgv.ambercc.filegear-sg.me&amp;type=ws&amp;host=agedgv.ambercc.filegear-sg.me&amp;path=%2F%3Fed%3D2560#<i",
+        "vless:\/\/ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.35.236:443?security=tls&amp;sni=edccq.aimercc.filegear-sg.me&amp;type=ws&amp;host=edccq.aimercc.filegear-sg.me&amp;path=%2F%3Fed%3D2560#<i",
+        "vless:\/\/34842069-dcb9-4595-bd60-20b0562c56e5@108.162.192.217:8443?security=tls&amp;sni=us-252.memories-00.space&amp;type=xhttp&amp;path=\/api\/v1&amp;fp=chrome&amp;alpn=h3,h2,http\/1.1#<i",
+        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.73:80?type=ws&amp;host=gozargah.validbv7996.ir&amp;path=%2FMOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2%3Fed%3D2560#<i"
     ],
-    "trojan": [],
+    "trojan": [
+        "trojan:\/\/Aimer@167.68.4.131:8443?allowInsecure=0&amp;sni=epcct.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/Aimer@154.197.64.248:8443?allowInsecure=0&amp;sni=epcco.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/Aimer@167.68.4.131:8443?allowInsecure=0&amp;sni=epccu.ambercc.filegear-sg.me#<i"
+    ],
     "ss": [
-        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.38.167:443#<i",
-        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.34.244.68:443#<i",
-        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.161:443#<i",
-        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#<i",
-        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#<i",
-        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.38.170:443#<i",
-        "ss:\/\/YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.244:443#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#<i",
-        "ss:\/\/YWVzLTEyOC1nY206ckdEYmlGN2d0eDVUV3Q0cjRWam5lUT09@156.225.22.213:552#<i"
+        "ss:\/\/YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.153.197.5:989#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNDUwY2VjZmI5M2Y@kh36v1.pmxiaonan.xyz:14150\/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bmux%3D4%3Bhost%3Dkh36v1.pmxiaonan.xyz%3Bpath%3D%2Fsimieepvt%3Bmux%3Dmux%3D4%3B%3B#<i",
+        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#<i"
     ],
     "tuic": [],
     "hysteria": [],
