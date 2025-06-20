@@ -1,21 +1,25 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?encryption=none&amp;type=ws&amp;host=hk.laoyoutiao.link&amp;headerType=none&amp;path=%252FTelegramU0001F1E8U0001F1F3&amp;security=none#<i",
-        "vless:\/\/e0c579e5-d86f-426b-bbee-f815821a34c3@104.21.32.1:80?security=none&amp;type=ws&amp;host=azadnet-2.azadnet-team.workers.dev&amp;path=%2FDoaoovdDWjHii1lH%3Fed%3D2560#<i",
-        "vless:\/\/e0c579e5-d86f-426b-bbee-f815821a34c3@104.21.48.1:80?security=none&amp;type=ws&amp;host=azadnet-2.azadnet-team.workers.dev&amp;path=%2FDoaoovdDWjHii1lH%3Fed%3D2560#<i",
         "vless:\/\/a31662df-9ef2-43f9-981f-6cb2d0341c17@107.173.37.43:56701?security=reality&amp;flow=xtls-rprx-vision&amp;sni=addons.mozilla.org&amp;type=tcp&amp;fp=firefox&amp;pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&amp;sid=792147b8#<i",
         "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?path=%2FTelegramU0001F1E8U0001F1F3&amp;security=none&amp;encryption=none&amp;host=hk.laoyoutiao.link&amp;type=ws#<i",
         "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.148.22:8443?security=tls&amp;sni=ZhLuJxUi0.RoCkStOnEy.iNfO&amp;type=ws&amp;host=ZhLuJxUi0.RoCkStOnEy.iNfO&amp;path=\/&amp;alpn=h2http\/1.1#<i",
-        "vless:\/\/e0c579e5-d86f-426b-bbee-f815821a34c3@104.21.32.1:80?security=none&amp;type=ws&amp;host=azadnet-2.azadnet-team.workers.dev&amp;path=%2FDoaoovdDWjHii1lH%3Fed%3D2560#<i"
+        "vless:\/\/e0c579e5-d86f-426b-bbee-f815821a34c3@104.21.32.1:80?security=none&amp;type=ws&amp;host=azadnet-2.azadnet-team.workers.dev&amp;path=%2FDoaoovdDWjHii1lH%3Fed%3D2560#<i",
+        "vless:\/\/c90932c0-a640-4113-a1d6-14812e4c64d1@104.21.15.33:443?security=tls&amp;sni=support.sabapardaziran.ir&amp;type=ws&amp;host=support.sabapardaziran.ir&amp;path=%2F47845%2F%40M3HDIO1&amp;fp=chrome#<i",
+        "vless:\/\/8ede70ac-e922-4c10-9df6-772347d741e0@151.101.194.165:80?type=ws&amp;host=join%73%68%68%70%72%6f%78%79%62edeeeeeee.ir&amp;path=\/%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79----%40%53%68%68%5f%50%72%6f%78%79?ed%3D2048#<i",
+        "vless:\/\/80eb30d7-8a2c-41c3-92ff-5b99c912b382@itslittlefin-01.freeiebio.com:443?security=reality&amp;type=tcp&amp;headerType=&amp;flow=xtls-rprx-vision&amp;path=&amp;host=&amp;sni=jetbrains.com&amp;fp=randomized&amp;pbk=zAldJbjPCDZfKrH8cdqLtrfbos1ZON4uco8UUaMXiX4&amp;sid=d81382c7179c13bf#<i",
+        "vless:\/\/80eb30d7-8a2c-41c3-92ff-5b99c912b382@itslittlefin-01.freeiebio.com:443?security=reality&amp;type=tcp&amp;headerType=&amp;flow=xtls-rprx-vision&amp;path=&amp;host=&amp;sni=jetbrains.com&amp;fp=randomized&amp;pbk=zAldJbjPCDZfKrH8cdqLtrfbos1ZON4uco8UUaMXiX4&amp;sid=d81382c7179c13bf#<i",
+        "vless:\/\/730f02b4-a187-4498-b3fa-9e9f1dccf47c@102.177.189.1:8880?encryption=none&amp;security=none&amp;type=httpupgrade&amp;host=dl1.mcinet.xyz.&amp;path=%2F#<i",
+        "vless:\/\/80eb30d7-8a2c-41c3-92ff-5b99c912b382@itslittlegr-02.freeiebio.com:443?security=reality&amp;type=tcp&amp;headerType=&amp;flow=xtls-rprx-vision&amp;path=&amp;host=&amp;sni=anandtech.com&amp;fp=randomized&amp;pbk=zAldJbjPCDZfKrH8cdqLtrfbos1ZON4uco8UUaMXiX4&amp;sid=d81382c7179c13bf#<i",
+        "vless:\/\/80eb30d7-8a2c-41c3-92ff-5b99c912b382@itslittlegr-02.freeiebio.com:443?security=reality&amp;type=tcp&amp;headerType=&amp;flow=xtls-rprx-vision&amp;path=&amp;host=&amp;sni=anandtech.com&amp;fp=randomized&amp;pbk=zAldJbjPCDZfKrH8cdqLtrfbos1ZON4uco8UUaMXiX4&amp;sid=d81382c7179c13bf#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?encryption=none&amp;security=none&amp;type=ws&amp;host=hk.laoyoutiao.link&amp;path=%2FTelegramU0001F1E8U0001F1F3#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?encryption=none&amp;security=none&amp;sni=hk.laoyoutiao.link&amp;type=ws&amp;host=hk.laoyoutiao.link&amp;path=%2FTelegramU0001F1E8U0001F1F3#<i",
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?path=%2FTelegramU0001F1E8U0001F1F3kir&amp;security=none&amp;encryption=none&amp;host=hk.laoyoutiao.link&amp;type=ws&amp;sni=hk.laoyoutiao.link#<i"
     ],
     "trojan": [
         "trojan:\/\/85950277-f447-48f0-9ead-aaf6d5ff3cad@172.67.163.14:443?security=tls&amp;sni=df5tym.2031.pp.ua&amp;type=ws&amp;host=df5tym.2031.pp.ua&amp;path=%2FI4L1BP2DQVYmx5NYQ76MGGq&amp;fp=chrome&amp;alpn=http%2F1.1#<i"
     ],
-    "ss": [
-        "ss:\/\/YWVzLTI1Ni1nY206RGpLV3pxUHVsOUJmelpQS1hjc3JqN3J6a0ZjblFLODVGdnhhemdQd1dZRT0@193.142.30.152:443?prefix=%16%03%01%00%C2%A8%01%01#<i",
-        "ss:\/\/YWVzLTI1Ni1nY206TEVVSzNURjNDTEtSTkpXRg@156.231.104.15:18005#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
