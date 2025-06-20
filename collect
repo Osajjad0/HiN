@@ -1,23 +1,18 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/24e12701-6def-4040-8925-2a42839f8005@195.15.215.198:443?security=reality&amp;flow=xtls-rprx-vision&amp;sni=www.samsung.com&amp;type=tcp&amp;fp=chrome&amp;pbk=FpsSPBGXGa6c1mIGmCMmrnsdnVSHQAYnQNur-QMiDTw#<i",
-        "vless:\/\/05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.109.58:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#<i",
         "vless:\/\/0fdf994e-c44f-4781-9d77-244b17904380@78234873823.webnama.com.tr:3789?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.com#<i",
-        "vless:\/\/0fdf994e-c44f-4781-9d77-244b17904380@78234873823.webnama.com.tr:3789?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.com#<i",
-        "vless:\/\/19f9f72e-1320-4c01-892b-de634b68b4a3@62.60.244.89:8443?security=reality&amp;type=tcp&amp;headerType=&amp;flow=xtls-rprx-vision&amp;path=&amp;host=&amp;sni=arbeitsagentur.de&amp;fp=chrome&amp;pbk=YKxZl7HV4cByZum7_z_P390ITLIACiMhJY-AVKKAcVs&amp;sid=aef9c41cfb8d5bf2#<i"
+        "vless:\/\/19f9f72e-1320-4c01-892b-de634b68b4a3@62.60.244.89:8443?security=reality&amp;type=tcp&amp;headerType=&amp;flow=xtls-rprx-vision&amp;path=&amp;host=&amp;sni=arbeitsagentur.de&amp;fp=chrome&amp;pbk=YKxZl7HV4cByZum7_z_P390ITLIACiMhJY-AVKKAcVs&amp;sid=aef9c41cfb8d5bf2#<i",
+        "vless:\/\/7b33f59f-aada-4b49-a4ac-1c335977f2af@104.26.4.60:2053?security=tls&amp;sni=vless1-698.pages.dev&amp;type=ws&amp;host=vless1-698.pages.dev&amp;path=%2F%3Fed%3D2560&amp;fp=random#<i",
+        "vless:\/\/06e4425e-a8cb-4b63-929f-2105604ab0a9@108.162.195.202:443?security=tls&amp;sni=in.youlingkais.filegear-sg.me&amp;type=ws&amp;host=in.youlingkais.filegear-sg.me&amp;path=%2F%3Fed%3D2560#<i"
     ],
     "trojan": [
-        "trojan:\/\/Aimer@103.116.7.103:2083?allowInsecure=0&amp;sni=epcce.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@154.197.64.27:443?allowInsecure=0&amp;sni=epcce.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@77.232.140.7:443?allowInsecure=0&amp;sni=epcce.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@92.243.74.180:8443?allowInsecure=0&amp;sni=epcce.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@154.197.64.67:443?allowInsecure=0&amp;sni=epcce.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@209.208.227.79:443?allowInsecure=0&amp;sni=epccq.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/telegram-id-directvpn@52.47.109.58:22223?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@52.47.109.58:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
         "trojan:\/\/Aimer@27.50.49.41:2096?allowInsecure=0&amp;sni=epccq.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@92.53.190.161:2087?allowInsecure=0&amp;sni=epccq.ambercc.filegear-sg.me#<i"
+        "trojan:\/\/Aimer@92.53.190.161:2087?allowInsecure=0&amp;sni=epccq.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/telegram-id-v2rayvpnchannel@52.47.109.58:22223?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
+        "trojan:\/\/Aimer@108.165.152.36:2096?allowInsecure=0&amp;sni=epcce.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/Aimer@213.241.198.189:2053?allowInsecure=0&amp;sni=epccw.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/Aimer@154.197.64.132:2053?allowInsecure=0&amp;sni=epccq.ambercc.filegear-sg.me#<i"
     ],
     "ss": [],
     "tuic": [],
