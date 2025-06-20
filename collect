@@ -1,23 +1,10 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?security=none&amp;encryption=none&amp;host=jp.laoyoutiao.link&amp;type=ws#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?path=%2FTelegramU0001F1E8U0001F1F3&amp;security=none&amp;encryption=none&amp;host=hk.laoyoutiao.link&amp;type=ws&amp;sni=hk.laoyoutiao.link#<i",
-        "vless:\/\/b02337e2-c91d-4891-931a-8713eecbe8c1@rt.tom1team.site:41661?mode=multi&amp;security=reality&amp;encryption=none&amp;pbk=0cb43R44cxfMd9vglX_9sOq4AALu5Kq-BKT_ZTWe-GQ&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;sni=www.speedtest.net&amp;sid=2519#<i",
-        "vless:\/\/Parsashonam@81.28.12.12:443?path=%2FParsashonam%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=cdn.rubika.cyou&amp;fp=chrome&amp;type=ws&amp;sni=www.gcore.com#<i",
-        "vless:\/\/Parsashonam@81.28.12.12:443?path=%2FParsashonam%3Fed%3D2048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=cdn.rubika.cyou&amp;fp=chrome&amp;type=ws&amp;sni=www.gcore.com#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?path=%2FTelegramU0001F1E8U0001F1F3&amp;security=none&amp;encryption=none&amp;host=hk.laoyoutiao.link&amp;type=ws#<i",
-        "vless:\/\/31a168d7-3048-49c1-9a53-6585d0e2352b@nl.sarab.site:8647?security=reality&amp;encryption=none&amp;pbk=rdHifNMDd2BTPjsCrFO-XDRynOJFh9-7koEdxHRK0QU&amp;headerType=none&amp;fp=safari&amp;type=tcp&amp;sni=refersion.com&amp;sid=463e859c40a075a3#<i"
+        "vless:\/\/40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@free.cfdns.online:2096?security=tls&amp;sni=fREE.CFDNs.oNLiNE&amp;alpn=http\/1.1&amp;fp=randomized&amp;type=ws&amp;path=\/LEAHKkh1VHphBTvi&amp;host=free.cfdns.online&amp;encryption=none#<i"
     ],
-    "trojan": [
-        "trojan:\/\/2fec7227-9abe-46f2-af18-78302b836c45@172.67.208.155:443?allowInsecure=0&amp;sni=3r.2030.pp.ua&amp;ws=1&amp;wspath=%2FXjTi1NYwi9A2bckpqdDoAgkondVWl#<i",
-        "trojan:\/\/Aimer@108.165.152.67:2053?allowInsecure=0&amp;sni=agepn.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@168.126.210.143:12368?allowInsecure=0&amp;sni=agepn.ambercc.filegear-sg.me#<i"
-    ],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#<i"
-    ],
+    "trojan": [],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
