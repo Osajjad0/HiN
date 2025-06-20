@@ -1,18 +1,16 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/54cf82ae-7e94-4826-f713-459072381ff6@151.101.130.228:80?security=none&amp;type=ws&amp;host=foffmelo.com#<i",
-        "vless:\/\/ed447de4-ebd3-4f1c-8339-c084e06ec588@all3.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com:443?mode=gun&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;sni=ez.ez0535.com#<i",
-        "vless:\/\/c5293efa-28f8-4a0f-8f34-541078970cee@188.114.97.3:80?security=none&amp;type=ws&amp;host=gozargah.validbv7996.ir&amp;path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#<i"
+        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?encryption=none&amp;type=ws&amp;host=hk.laoyoutiao.link&amp;headerType=none&amp;path=%252FTelegramU0001F1E8U0001F1F3&amp;security=none#<i",
+        "vless:\/\/e0c579e5-d86f-426b-bbee-f815821a34c3@104.21.32.1:80?security=none&amp;type=ws&amp;host=azadnet-2.azadnet-team.workers.dev&amp;path=%2FDoaoovdDWjHii1lH%3Fed%3D2560#<i",
+        "vless:\/\/e0c579e5-d86f-426b-bbee-f815821a34c3@104.21.48.1:80?security=none&amp;type=ws&amp;host=azadnet-2.azadnet-team.workers.dev&amp;path=%2FDoaoovdDWjHii1lH%3Fed%3D2560#<i",
+        "vless:\/\/a31662df-9ef2-43f9-981f-6cb2d0341c17@107.173.37.43:56701?security=reality&amp;flow=xtls-rprx-vision&amp;sni=addons.mozilla.org&amp;type=tcp&amp;fp=firefox&amp;pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&amp;sid=792147b8#<i"
     ],
-    "trojan": [
-        "trojan:\/\/telegram-id-v2rayvpnchannel@13.36.106.226:22223?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/telegram-id-directvpn@13.36.106.226:22223?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/telegram-id-privatevpns@13.36.106.226:22222?security=tls&amp;alpn=http\/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#<i",
-        "trojan:\/\/a8fce442-ae9a-4cc1-a0cc-20308ff0a0db@104.21.48.1:443?security=tls&amp;sni=1kM.HUaNgSHang.pP.UA&amp;type=ws&amp;host=1km.huangshang.pp.ua&amp;path=%2FlXENb74xF4ylXngZ&amp;fp=chrome&amp;alpn=http\/1.1#<i",
-        "trojan:\/\/iP7yrI79tI@172.67.175.40:2053?security=tls&amp;sni=iran.farsonline24.ir&amp;type=ws&amp;host=iran.farsonline24.ir&amp;path=%2F%40M3HDIO1&amp;allowInsecure=1#<i"
+    "trojan": [],
+    "ss": [
+        "ss:\/\/YWVzLTI1Ni1nY206RGpLV3pxUHVsOUJmelpQS1hjc3JqN3J6a0ZjblFLODVGdnhhemdQd1dZRT0@193.142.30.152:443?prefix=%16%03%01%00%C2%A8%01%01#<i",
+        "ss:\/\/YWVzLTI1Ni1nY206TEVVSzNURjNDTEtSTkpXRg@156.231.104.15:18005#<i"
     ],
-    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
