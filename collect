@@ -1,29 +1,18 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880\/?type=grpc&amp;encryption=none&amp;flow=#<i",
-        "vless:\/\/e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.183:8880\/?type=grpc&amp;encryption=none&amp;flow=#<i",
-        "vless:\/\/92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.24.247.217:80\/?type=ws&amp;encryption=none&amp;flow=&amp;host=dw.alibichareh.dpdns.org&amp;path=%2F%3Fed%3D2560#<i",
-        "vless:\/\/33d0980e-4054-474b-8f7c-05bf426963f1@91.99.144.165:3184\/?type=grpc&amp;encryption=none&amp;flow=&amp;serviceName=chessgame&amp;sni=www.chess.com&amp;fp=chrome&amp;security=reality&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;sid=#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880\/?type=grpc&amp;encryption=none&amp;flow=#<i",
-        "vless:\/\/4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283\/?type=tcp&amp;encryption=none&amp;flow=#<i",
-        "vless:\/\/2e655095-7f4e-428d-9c7e-eb2278e153a8@91.99.148.251:3184\/?type=grpc&amp;encryption=none&amp;flow=&amp;serviceName=chessgame&amp;sni=www.chess.com&amp;fp=chrome&amp;security=reality&amp;pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&amp;sid=#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880\/?type=grpc&amp;encryption=none&amp;flow=#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880\/?type=grpc&amp;encryption=none&amp;flow=#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880\/?type=grpc&amp;encryption=none&amp;flow=#<i",
-        "vless:\/\/df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880\/?type=grpc&amp;encryption=none&amp;flow=#<i",
-        "vless:\/\/eaff2a70-d992-448a-adf4-524cb8f13137@104.16.68.226:80\/?type=ws&amp;encryption=none&amp;flow=&amp;host=restless-dust-d9c3.nazijoon1378s.workers.dev&amp;path=%2F%3Fed%3D2560#<i",
-        "vless:\/\/7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?type=ws&amp;host=showmo.wfft.ir&amp;path=\/MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2#<i",
-        "vless:\/\/dd9fc142-479e-43b1-a80c-3f5ec9755392@104.18.8.74:443?security=tls&amp;sni=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&amp;type=ws&amp;host=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&amp;path=\/admin&amp;fp=chrome&amp;alpn=h2,http\/1.1#<i",
-        "vless:\/\/796d4e26-9e86-4551-a232-26ae2a25676d@172.67.69.236:2083?security=tls&amp;sni=bEAt.MIRaclETaxbiTS.Top.&amp;type=ws&amp;host=bEAt.MIRaclETaxbiTS.Top.&amp;path=%2F2083%2F%40VRayyNGvpn&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1#<i",
-        "vless:\/\/ada6d0f5-9820-41d2-b098-f0513fcd171a@104.17.147.22:8880?security=none&amp;type=ws&amp;host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&amp;path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&amp;fp=randomized&amp;alpn=h3%2Ch2%2Chttp%2F1.1#<i",
-        "vless:\/\/76daa0ba-efa7-4e66-b503-76e6d4b03134@ir.vipmehr2.site:52512?security=none&amp;encryption=none&amp;host=skyroom.online&amp;headerType=http&amp;type=tcp#<i"
+        "vless:\/\/0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=QW.VU6d72nt9y.zULaiR.orG.&amp;type=ws#<i",
+        "vless:\/\/0fdf994e-c44f-4781-9d77-244b17904380@78234873823.webnama.com.tr:3789?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.com#<i",
+        "vless:\/\/0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01@172.67.135.23:443?security=tls&amp;sni=Us6-09.890601.xyZ&amp;type=ws&amp;host=us6-09.890601.xyz&amp;path=%2FGuJUq5kZ2d6MQzxVoMQ&amp;fp=chrome&amp;alpn=http%2F1.1#<i",
+        "vless:\/\/bcad1dbf-6ab3-4516-b51c-37213737c2e4@94.247.142.1:80?security=none&amp;type=ws&amp;host=APPinfo.EiNETWORK.NEWS&amp;path=%2FTelegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram#<i",
+        "vless:\/\/06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.70.100:443?security=tls&amp;sni=il.ylkszy.eu.org&amp;type=ws&amp;host=il.ylkszy.eu.org&amp;path=%2F%3Fed%3D2560#<i"
     ],
-    "trojan": [],
-    "ss": [
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#<i"
+    "trojan": [
+        "trojan:\/\/Aimer@167.68.4.131:8443?allowInsecure=0&amp;sni=epcct.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/Aimer@154.197.64.248:8443?allowInsecure=0&amp;sni=epcco.ambercc.filegear-sg.me#<i",
+        "trojan:\/\/Aimer@167.68.4.131:8443?allowInsecure=0&amp;sni=epccu.ambercc.filegear-sg.me#<i"
     ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
