@@ -1,29 +1,11 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/cb31e3e6-3618-4b5f-905c-d64161ddeb12@Rus.iranfreedomserver.com:7005?security=reality&amp;encryption=none&amp;pbk=uvD80HhI4bd7zO_C-f8gtm7AzRhGdjiWDU2TI-S-hEk&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=refersion.com#<i",
-        "vless:\/\/2f7c37b9-6b0e-010c-20b7-b061c60181d7@lightning2025.top:621?path=%2Fws%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&amp;type=ws#<i",
-        "vless:\/\/d6660712-4d18-47fd-b095-0c36db667250@162.159.192.231:443?security=tls&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&amp;type=ws&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&amp;path=%2F%3Fed%3D2048&amp;fp=chrome&amp;alpn=h3%2Ch2#<i",
-        "vless:\/\/838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.17.147.22:8443?security=tls&amp;sni=RsMbPsLs3.RiPlEtOoRy.iNfO&amp;type=ws&amp;host=RsMbPsLs3.RiPlEtOoRy.iNfO&amp;path=\/&amp;alpn=h2http\/1.1#<i",
-        "vless:\/\/31529a86-a4e9-4b41-83d6-bd92b2af7569@ir.tunneled.site:1010?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#<i",
-        "vless:\/\/59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=5-55sfjslf.ifenxiang.cfd&amp;fp=random&amp;type=ws&amp;sni=5-55sfjslf.ifenxiang.cfd#<i",
-        "vless:\/\/d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?encryption=none&amp;security=none&amp;type=ws&amp;host=a.xn--i-sx6a60i.us.kg.&amp;path=%2F%3Fed%3D2560#<i",
-        "vless:\/\/2f7c37b9-6b0e-010c-20b7-b061c60181d7@lightning2025.top:621?path=%2Fws%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&amp;type=ws#<i",
-        "vless:\/\/2f7c37b9-6b0e-010c-20b7-b061c60181d7@lightning2025.top:621?path=%2Fws%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&amp;type=ws#<i",
-        "vless:\/\/f7508eb9-b5e8-4df2-849c-fe6d37abb68b@yldl.ir:2096?security=none&amp;encryption=none&amp;host=igap.net&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/22108356-0821-499a-96ff-7dbaac86c8b9@23920309.webnama.com.tr:2029?mode=auto&amp;path=%2FAS&amp;security=reality&amp;encryption=none&amp;extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&amp;pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&amp;fp=chrome&amp;type=xhttp&amp;sni=stackoverflow.com#<i",
-        "vless:\/\/24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=HkPk6Cd2Kj.9PeSc.CoM&amp;fp=chrome&amp;type=ws&amp;sni=HkPk6Cd2Kj.9PeSc.CoM#<i",
-        "vless:\/\/2f7c37b9-6b0e-010c-20b7-b061c60181d7@lightning2025.top:621?path=%2Fws%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&amp;type=ws#<i",
-        "vless:\/\/2f7c37b9-6b0e-010c-20b7-b061c60181d7@lightning2025.top:621?path=%2Fws%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&amp;type=ws#<i",
-        "vless:\/\/ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.16.214.14:80?type=ws&amp;host=still-butterfly-f025-pppal03.rofipo9508.workers.dev&amp;path=%2F%3Fed%3D2560#<i"
+        "vless:\/\/44f305cf-ce57-09eb-f65c-af5105eaa19c@z4.magicnetwork.info:443?security=none&amp;encryption=none&amp;host=divarcdn.com&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/f5931ddd-a7cc-4057-8e62-73c9e1f54e49@biography.com:80?path=%2Fnetworkfi%3Fed%3D1024&amp;security=none&amp;encryption=none&amp;host=aradmobile.com&amp;type=ws#<i"
     ],
     "trojan": [],
-    "ss": [
-        "ss:\/\/YWVzLTI1Ni1nY206ZHd6MUd0Rjc@111.45.33.5:30017#<i",
-        "ss:\/\/Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNDUwY2VjZmI5M2Y@kh36v1.pmxiaonan.xyz:12441\/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bmux%3D4%3Bhost%3Dkh36v1.pmxiaonan.xyz%3Bpath%3D%2Fsimieepvt%3Bmux%3Dmux%3D4%3B%3B#<i",
-        "ss:\/\/YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.213.23.226:989#<i",
-        "ss:\/\/YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.165.233.93:989#<i"
-    ],
+    "ss": [],
     "tuic": [],
     "hysteria": [],
     "hysteria2": [],
