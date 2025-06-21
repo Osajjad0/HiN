@@ -1,21 +1,11 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/7a80a8d9-92f9-4f0a-8352-9005a8215ab8@iplocation.net:443?type=ws&amp;host=rayan-07.leila.dpdns.org&amp;path=\/@Rayan_Config&amp;security=tls&amp;fp=chrome&amp;sni=rayan-07.leila.dpdns.org#<i",
-        "vless:\/\/6e12f6e8-d15a-410a-f064-e69033d857e2@ins.aminhajiloo.xyz:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#<i",
-        "vless:\/\/7af4f384-9207-41df-a3e2-ad0eb5663cbb@biography.com:80?mode=auto&amp;path=%2Fblog%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=aw026.com&amp;type=xhttp#<i",
-        "vless:\/\/fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?security=&amp;type=ws&amp;path=\/&amp;host=jp.laoyoutiao.link&amp;encryption=none#<i",
-        "vless:\/\/e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?security=&amp;type=ws&amp;path=\/?ed%3D2560&amp;host=a1.ghormehsabzi.dpdns.org&amp;encryption=none#<i",
-        "vless:\/\/7af4f384-9207-41df-a3e2-ad0eb5663cbb@biography.com:80?security=&amp;type=tcp&amp;encryption=none#<i"
+        "vless:\/\/e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=a1.ghormehsabzi.dpdns.org&amp;type=ws#<i",
+        "vless:\/\/58c27d0a-c914-40c6-2c2b-653fd69a1248@lavin2.stevejobs-net.com:39044?security=none&amp;encryption=none&amp;host=speedtest.com&amp;headerType=http&amp;type=tcp#<i",
+        "vless:\/\/48e052e8-c6cc-3a47-8b87-af86cad8d545@81.29.255.187:610?path=%2Fws&amp;security=none&amp;encryption=none&amp;host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&amp;type=ws#<i"
     ],
-    "trojan": [
-        "trojan:\/\/c443be95-725d-4da3-a60f-d35af5bfbff8@gb1.pptv-tv.store:17756?allowInsecure=0#<i",
-        "trojan:\/\/Aimer@59.9.154.15:21300?sni=agepl.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@duke.ns.cloudflare.com:443?allowInsecure=0&amp;sni=agepj.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@ignacio.ns.cloudflare.com:443?allowInsecure=0&amp;sni=agepj.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@kip.ns.cloudflare.com:443?allowInsecure=0&amp;sni=agepj.ambercc.filegear-sg.me#<i",
-        "trojan:\/\/Aimer@lynn.ns.cloudflare.com:443?allowInsecure=0&amp;sni=agepj.ambercc.filegear-sg.me#<i"
-    ],
+    "trojan": [],
     "ss": [],
     "tuic": [],
     "hysteria": [],
